@@ -1,6 +1,7 @@
 ---
 permalink: /chestdata/
 title: "Chest Data"
+classes: wide
 ---
 
 \# | level | chest | com. | rare | epic | leg. | coin | ad | gems  
