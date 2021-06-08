@@ -65,11 +65,11 @@ plugins:
 author:
   name   : "Dada HCR2"
   avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
-  bio    : <a href="http://wiki.hcr2.info">Wiki-<a href="https://fingersoft.com/news/">FSnews</a>-<a href="https://mobile.twitter.com/HCR_Official_">Twts</a>-<a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YTube</a>  
+  bio    : <a href="http://wiki.hcr2.info">Wiki•<a href="https://fingersoft.com/news/">FSnews</a>.<a href="https://mobile.twitter.com/HCR_Official_">Twts</a>l<a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YTube</a>  
 
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
  #     url: "https://ref.hcr2.info"
  # - label: "Twitter"
    #  icon: "fab fa-fw fa-twitter-square"
@@ -112,8 +112,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "_pages"
+      
         
 category_archive:
   type: liquid
