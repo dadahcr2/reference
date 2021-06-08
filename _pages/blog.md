@@ -1,6 +1,7 @@
 ---
 permalink: /blog/
 title: "Change Log"
+classes: wide
 ---
 
 {{site.linethree}}    
