@@ -1,15 +1,18 @@
 ---
 permalink: /tips/
 title: "Tips"
+toc: true
+toc_sticky: true
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/820420574286577714/image0.png)
 
+<!--
 * TOC  
 {:toc}
 
 ***
-
+-->
 ![General Advice](https://cdn.discordapp.com/attachments/620194322855493632/843947192045666314/image0.png)  
 
 ### Getting started
