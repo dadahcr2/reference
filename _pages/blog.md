@@ -15,7 +15,7 @@ classes: wide
 - Next PE thoughts
 
 4 June   
-- New TE  
+- New TE teaser 
 
 1 June  
 - hcr2.info
