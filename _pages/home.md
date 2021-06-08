@@ -182,17 +182,13 @@ Moonlander | LandingBoost
 [🔝](#top)    
 {: style="text-align: center;"}  
 
-</details>	
-		
-## Adventures
-![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)
-
-	
+</details>  			
+## Adventures  	
 <details  markdown="block">
   <summary>
     Setups
-  </summary>
-	
+  </summary>  
+![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
 ### Best distance parts by vehicle
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
@@ -275,12 +271,11 @@ Distance | Obstacle
 
 [🔝](#top)    
 {: style="text-align: center;"}  
-
+</details>  
 <details  markdown="block">
   <summary>
     Desert valley obstacles
-  </summary>
-	
+  </summary>  	
 ### Desert valley obstacles
 
 Distance | Obstacle
