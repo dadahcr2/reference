@@ -67,11 +67,14 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 		
 
 
+
+##  Wikis & general tutorials
+
 <details  markdown="block">
   <summary>
-    Wikis & Tutorials
+    Websites
   </summary>	
-##  Wikis & general tutorials
+
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
 
@@ -79,8 +82,12 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 
  [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
 
+</details>
 
-### **Video Tutorials**  
+<details  markdown="block">
+  <summary>
+    Video Tutorials
+  </summary>	  
 
 [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
 [![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
