@@ -1,3 +1,7 @@
+---
+permalink: /chestdata/
+title: "Chest Data"
+---
 
 \# | level | chest | com. | rare | epic | leg. | coin | ad | gems  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
