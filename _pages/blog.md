@@ -8,6 +8,15 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)  
 
+8 June  
+- New website theme
+
+7 June  
+- Next PE thoughts
+
+4 June   
+- New TE  
+
 1 June  
 - hcr2.info
   - Previous PE -> separate page  
