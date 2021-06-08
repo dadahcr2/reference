@@ -120,15 +120,15 @@ See the following for additional Q&A on the shop: <http://faq.hcr2.info/#shop-qu
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle.  See this [table](http://hcr2.info/#best-distance-parts-by-vehicle)
+- Use best parts for each vehicle.  See this [table](/#best-distance-parts-by-vehicle)
 
 #### Suggested vehicle and setups for different public event types
 
-- See [public event setups](http://hcr2.info/#public-event-setups)
+- See [public event setups](/#public-event-setups)
 
 #### Optimal ways to increase GP
 
-- Follow this [checklist](http://hcr2.info/#daily-checklist)
+- Follow this [checklist](/#daily-checklist)
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
