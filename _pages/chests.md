@@ -1,6 +1,5 @@
 ---
 permalink: /chests/
-title: "Chest Info"
 toc: true
 toc_sticky: true
 ---
