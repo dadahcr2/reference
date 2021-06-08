@@ -1,8 +1,8 @@
 ---
-permalink: /memes/
-title: "HCR2 Memes"
+permalink: /memes/  
 classes: wide
 ---
+![HCR2 Memes](https://cdn.discordapp.com/attachments/806343355264401478/851860837950160936/image.png)  
 
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
