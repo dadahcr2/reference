@@ -4,7 +4,7 @@ title: "hcr2.info home"
 toc: false
 toc_sticky: true
 ---
-
+![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
 <!-- <details  markdown="block">
   <summary>
     Table of contents
@@ -13,8 +13,6 @@ toc_sticky: true
 1. TOC
 {:toc}
 </details> -->
-
-***
 
 ## Events & Previews
 <details  markdown="block">
@@ -438,8 +436,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 10. **Always buy the 50k coin scrap in the shop (if available)**
 
 </details>	
-	
-***
 
 <details  markdown="block">
   <summary>
