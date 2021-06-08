@@ -2,6 +2,7 @@
 permalink: /
 toc: false
 toc_sticky: true
+classes: wide
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -36,7 +37,7 @@ toc_sticky: true
 ### Public Event: More Torque (Wheelie)
 ![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
 
-[Previous public event tracks](.\_pages\PrevPe.html)
+[Previous public event tracks](./_pages/PrevPe.html)
 
 </details>	
 	
