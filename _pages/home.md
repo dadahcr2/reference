@@ -213,9 +213,7 @@ Patchwork Plant | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires Ju
 Sky Rock Outpost | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost JumpShocks
 Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost JumpShocks
 Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
-Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
-
-</details>	
+Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost	
 	
 **Forest adventure 10k vehicle parts**
 10K setups as follows:
