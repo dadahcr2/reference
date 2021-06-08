@@ -61,7 +61,7 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Time-attack | Superbike Wings AfterBurner CoinBoost
  Tractor Wars | Tractor Afterburner OverchargeTurbo CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
-Wheelie  | Buggy Wings Wheelieboost Coinboost
+Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
 </details>	
 		
