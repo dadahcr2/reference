@@ -1,7 +1,6 @@
 ---
 permalink: /memes/
 ---
-# MEMES
 
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
