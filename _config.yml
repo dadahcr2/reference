@@ -67,9 +67,12 @@ author:
   avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
   bio    : <a href="http://wiki.hcr2.info">Wiki</a>•<a href="https://fingersoft.com/news/">FS News</a>•<a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a><BR><a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a>•<a href="/memes/">Memes</a>•<a href="/chests/">Chests</a><br><a href="./blog/">Log</a>•<a href="/tips/">Tips</a>•<a href="/gm/">GM</a>•<a href="/faq/">FAQ</a>
 
- # links:
+ links:
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "mailto:dadahcr2@gmail.com"
   #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
+  #    icon: "fas fa-fw fa-link"q
  #     url: "https://ref.hcr2.info"
  # - label: "Twitter"
    #  icon: "fab fa-fw fa-twitter-square"
@@ -83,7 +86,10 @@ author:
 
 footer:
   links:
- #   - label: "Twitter"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:dadahcr2@gmail.com"
+ #    - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
  #     url: "https://twitter.com/"
 #    - label: "GitHub"
