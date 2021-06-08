@@ -1,6 +1,5 @@
 ---
 permalink: /faq/
-title: "Frequently asked question"
 toc: true
 toc_sticky: false
 ---
