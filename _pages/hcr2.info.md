@@ -1,6 +1,7 @@
 ---
 permalink: /hcr2.info/
 title: "hcr2.info"
+toc: true
 ---
 
 <details open markdown="block">
