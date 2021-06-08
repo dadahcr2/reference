@@ -68,20 +68,17 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 
 
 
-##  Wikis & general tutorials
+##  Wikis & Tutorials
 
 <details  markdown="block">
   <summary>
     Websites
   </summary>	
 
- [Official wiki](http://wiki.hcr2.info)
- 
-[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
-
-[Getting started tips](http://tips.hcr2.info)  
-
- [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
+- [Official wiki](http://wiki.hcr2.info)
+- [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
+- [Getting started tips](/tips/)  
+- [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
 
 </details>
 
