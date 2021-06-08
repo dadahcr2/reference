@@ -479,8 +479,8 @@ We are an open team, so no password.  If there is an spot available and the belo
 </details>	
 	
 
-[🔝](#top)    
-{: style="text-align: center;"}  
+[Back to Top](#top)    
+{: style="text-align: right;"}  
 
 [Ka]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="20px" width="20px"} 
