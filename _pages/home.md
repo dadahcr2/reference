@@ -1,7 +1,7 @@
 ---
 permalink: /
-toc: false
-toc_sticky: true
+toc: true
+toc_sticky: false
 classes: wide
 ---
 
