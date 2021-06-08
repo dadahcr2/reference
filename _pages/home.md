@@ -387,8 +387,10 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-</details>	
-	
+</details>
+
+## Lists
+
 <details  markdown="block">
   <summary>
     Daily checklist
@@ -463,10 +465,10 @@ I highly recommend these:
 	
 <details  markdown="block">
   <summary>
-    Gas Brake Go 
+    Team Philosophy
   </summary>
 	
-## Team philosophy
+## Gas Brake Go
 We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
 
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
