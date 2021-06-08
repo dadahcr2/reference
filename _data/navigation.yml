@@ -9,11 +9,4 @@ main:
     url: /memes/
   - title: "Faq"
     url: /faq/
-  - title: "Wiki"
-    url: http://wiki.hcr2.info
-  - title: "YouTube"
-    url: https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2
-  - title: "FS News"
-    url: https://fingersoft.com/news/
-  - title: "FS Tweets"
-    url: https://mobile.twitter.com/HCR_Official_
+ 
