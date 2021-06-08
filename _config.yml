@@ -27,7 +27,7 @@ description: "HCR2 Reference Information"
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -70,7 +70,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ref.hcr2.info"
+ #     url: "https://ref.hcr2.info"
  # - label: "Twitter"
    #  icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
