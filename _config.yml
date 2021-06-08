@@ -67,7 +67,7 @@ author:
   avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
   bio    : <a href="http://wiki.hcr2.info">Wiki</a>•<a href="https://fingersoft.com/news/">FS News</a>•<a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a><BR><a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a>•<a href="/memes/">Memes</a>•<a href="/chests/">Chests</a><br><a href="./blog/">Log</a>•<a href="/tips/">Tips</a>•<a href="/gm/">GM</a>•<a href="/faq/">FAQ</a>
 
-  links:
+ # links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
  #     url: "https://ref.hcr2.info"
