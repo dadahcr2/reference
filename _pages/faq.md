@@ -1,4 +1,7 @@
-
+---
+permalink: /faq/
+title: "Frequently asked question"
+---
 ![](https://cdn.discordapp.com/attachments/806343355264401478/820419983984295936/image0.png)  
 
 * TOC  
