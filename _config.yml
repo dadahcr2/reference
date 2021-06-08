@@ -112,7 +112,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      sidebar:
+        nav: "_pages"
+        
 category_archive:
   type: liquid
   path: /categories/
