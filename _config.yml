@@ -20,7 +20,7 @@ footertwo:  <a href="mailto:dadahcr2@gmail.com">Email</a> ~ dada#1710 ~ <a href=
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-logo: /assets/img/521D2AD1-978F-45A6-A9D0-580A63B52990.png  
+logo: /assets/images/4C035FA1-738A-4AA3-AD37-E81B96BD5967.jpeg
 title: "HCR2 REFERENCE"
 email: dadahcr2@gmail.com
 description: "HCR2 Reference Information"
