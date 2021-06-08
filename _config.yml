@@ -23,8 +23,7 @@ footertwo:  <a href="mailto:dadahcr2@gmail.com">Email</a> ~ dada#1710 ~ <a href=
 logo: /assets/img/521D2AD1-978F-45A6-A9D0-580A63B52990.png  
 title: "HCR2 REFERENCE"
 email: dadahcr2@gmail.com
-description: <center> <a href=".\"><img src="https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png" alt="INFO"></a></center>
-google_analytics: G-SFJ80L12D6
+description: "HCR2 Reference Information"
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
@@ -66,33 +65,33 @@ plugins:
 author:
   name   : "Dada HCR2"
   avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
-  bio    : <a href="http://wiki.hcr2.info">Wiki</a> - <a href="https://fingersoft.com/news/">FS News</a> - <a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a> - <a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a> - <a href="./blog.html">Log</a> - <a href="./tips.html">Tips</a> - <a href="./chests.html">Chests</a> - <a href="./memes.html">Memes</a> - <a href="./gm.html">GM</a> - <a href="./faq.html">FAQ</a>
+  bio    : <a href="http://wiki.hcr2.info">Wiki</a> - <a href="https://fingersoft.com/news/">FS News</a> - <a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a> - <a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a> - <a href="./pages_/blog.html">Log</a> - <a href="./pages_/tips.html">Tips</a> - <a href="./pages_/chests.html">Chests</a> - <a href="./pages_/memes.html">Memes</a> - <a href="./pages_/gm.html">GM</a> - <a href="./pages_/faq.html">FAQ</a>
 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://ref.hcr2.info"
+ # - label: "Twitter"
+   #  icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
+  #  - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/"
+  #  - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 defaults:
   # _posts
