@@ -1,6 +1,7 @@
 ---
 permalink: /PrevPe/
 title: "Previous Public Events"
+classes: wide
 ---
 
 
