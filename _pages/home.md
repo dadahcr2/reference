@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "hcr2.info home"
 toc: false
 toc_sticky: true
 ---
