@@ -75,8 +75,9 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
     Websites
   </summary>	
 
-- **[Official wiki](http://wiki.hcr2.info)**
-- **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
+ [Official wiki](http://wiki.hcr2.info)
+ 
+[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
 
 [Getting started tips](http://tips.hcr2.info)  
 
@@ -89,19 +90,19 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
     Video Tutorials
   </summary>	  
 
-[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
+[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 [![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
 
-[How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)
+[How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
 [![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)
 
-[](###### [Neck flip the easy way](https://youtu.be/bgUmbi0HBCk)
+[](###### [Neck flip the easy way](https://youtu.be/bgUmbi0HBCk)  
 [![Neck Flip the Rasy Way](http://img.youtube.com/vi/bgUmbi0HBCk/0.jpg)](https://youtu.be/bgUmbi0HBCk))
 
-[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
+[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 
-[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
+[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 
 [🔝](#top)    
