@@ -4,7 +4,9 @@ title: "hcr2.info home"
 toc: false
 toc_sticky: true
 ---
+
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
+
 <!-- <details  markdown="block">
   <summary>
     Table of contents
@@ -12,7 +14,7 @@ toc_sticky: true
   {: .text-delta }
 1. TOC
 {:toc}
-</details> -->
+</details> -->  
 
 ## Events & Previews
 <details  markdown="block">
