@@ -2,11 +2,10 @@
 permalink: /blog/
 title: "Change Log"
 classes: wide
----
+---    
 
-{{site.linethree}}    
-
-![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)  
+![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
+{{site.linethree}}  
 
 8 June  
 - New website theme
