@@ -1,33 +1,50 @@
 ---
 permalink: /
 title: "hcr2.info home"
-toc: true
+toc: false
 toc_sticky: true
 ---
 
-<details open markdown="block">
+<!-- <details  markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details>
+</details> -->
 
 ***
 
 ## Events & Previews
+<details  markdown="block">
+  <summary>
+    TE: Hits Different
+  </summary>
+	
 ### Team Event: Hits Different  
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850744364497895444/A586BAFB-C80E-4E7F-B383-7EADF5003562.png)
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
 
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    PE: More Torque
+  </summary>
 ### Public Event: More Torque (Wheelie)
 ![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
 
 [Previous public event tracks](./PrevPe.html)
 
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    PE Setups
+  </summary>
 ### Public Event Setups
 
 Event | Suggested Vehicle and Parts
@@ -46,11 +63,14 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
-### Team Season Rewards  
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
-[🔝](#top)    
-{: style="text-align: center;"}  
+</details>	
+		
 
+
+<details  markdown="block">
+  <summary>
+    Wikis & Tutorials
+  </summary>	
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
@@ -79,8 +99,16 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 
 [🔝](#top)    
 {: style="text-align: center;"}  
-
+	
+</details>	
+	
 ## Vehicles
+	
+<details  markdown="block">
+  <summary>
+    Parts, Costs & Fuel
+  </summary>
+	
 ### Parts required & costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
 **HCR2 Parts Costs**  
@@ -88,6 +116,14 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
+
+</details>	
+		
+<details  markdown="block">
+  <summary>
+    Parts suggestions
+  </summary>
+	
 ### Parts suggestions
 
 Vehicle | Parts
@@ -145,8 +181,22 @@ Moonlander | LandingBoost
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+</details>	
+		
 ## Adventures
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)
+
+	
+<details  markdown="block">
+  <summary>
+    Setups
+  </summary>
+	
+### Best distance parts by vehicle
+
+![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
+	
 ### Best map setups
 Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: 
 
@@ -169,10 +219,8 @@ Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost Jum
 Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
 Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
 
-### Best distance parts by vehicle
-
-![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
-
+</details>	
+	
 **Forest adventure 10k vehicle parts**
 10K setups as follows:
 
@@ -206,6 +254,14 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    Forest adv. obstacles
+  </summary>
+	
 ### Forest adventure obstacles
 ![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
 ![](https://media.discordapp.net/attachments/617353655468687390/733422129181098055/image1.png?width=557&height=992)
@@ -220,6 +276,11 @@ Distance | Obstacle
 [🔝](#top)    
 {: style="text-align: center;"}  
 
+<details  markdown="block">
+  <summary>
+    Desert valley obstacles
+  </summary>
+	
 ### Desert valley obstacles
 
 Distance | Obstacle
@@ -253,7 +314,16 @@ Distance | Obstacle
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+	
+</details>	
+	
 ## Cups
+
+<details  markdown="block">
+  <summary>
+    2 & 4 track cups
+  </summary>
+	
 ### Two and four track cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
@@ -267,6 +337,13 @@ Dirty Rally
 Spring City  
 Sunday Champ  
 
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    Track by type & distance
+  </summary>
+			
 ### Tracks by map type and distance
 This may be helpful in identifying event tracks  
 
@@ -290,6 +367,17 @@ Note: Distances are within 1m or so
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+</details>	
+		
+<details  markdown="block">
+  <summary>
+    Season rewards
+  </summary>
+	
+### Team Season Rewards  
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
+	
 ### Season Bonus Chest
 **Requires premium pass**
 
@@ -301,7 +389,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    Daily checklist
+  </summary>
+	
 ## Daily checklist
 
 - [ ] **Every 4 hours**: Two free team tickets 
@@ -331,6 +425,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] Have a cup chest timing down
 - [ ] Scrap any excess parts
 
+</details>	
+		
+<details  markdown="block">
+  <summary>
+    10 commandments
+  </summary>
+	
 ## 10 Commandments of HCR2
 1. **Don’t cheat or go against FS rules**
 2. **Only use gems for weekly public events / cups chests**
@@ -343,18 +444,32 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 9. **Only use gems at the shop to buy a part you don’t have**
 10. **Always buy the 50k coin scrap in the shop (if available)**
 
+</details>	
+	
 ***
 
+<details  markdown="block">
+  <summary>
+    Tournaments
+  </summary>
+	
 ## Tournaments
 I highly recommend these:
 - Tractor  Wars : <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
-
+	
 [🔝](#top)    
 {: style="text-align: center;"}  
 
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    Gas Brake Go 
+  </summary>
+	
 ## Team philosophy
 We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
 
@@ -369,6 +484,9 @@ We are an open team, so no password.  If there is an spot available and the belo
 5. **Eat plenty fiber!!** 😀 
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
+
+</details>	
+	
 
 [🔝](#top)    
 {: style="text-align: center;"}  
