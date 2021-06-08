@@ -74,6 +74,7 @@ Wheelie  | Buggy Wings Wheelieboost Coinboost
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
 ## Vehicles
 ### Parts required & costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
