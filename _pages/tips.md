@@ -1,6 +1,5 @@
 ---
 permalink: /tips/
-title: "Tips"
 toc: true
 toc_sticky: true
 ---
