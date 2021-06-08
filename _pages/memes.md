@@ -1,6 +1,7 @@
 ---
 permalink: /memes/
 title: "HCR2 Memes"
+classes: wide
 ---
 
 ##  [⬇](#bottom)  
