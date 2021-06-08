@@ -147,4 +147,4 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 
 #### Data  
 <a name="bottom"></a>
-[Chest Data](./chestdata/)
+[Chest Data](/reference/chestdata/)
