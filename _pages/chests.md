@@ -1,3 +1,7 @@
+---
+permalink: /chests/
+title: "Chest Info"
+---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/823934903551918140/image0.png)
 
