@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "hcr2.info"
-    url: /hcr2.info/
+  - title: "Change Log"
+    url: /blog/
+  - title: "Tips"
+    url: /tips/
+  - title: "Chests"
+    url: /chests/
+  - title: "Memes"
+    url: /memes/
+  - title: "Faq"
+    url: /faq/
+  - title: "Wiki"
+    url: http://wiki.hcr2.info
+  - title: "YouTube"
+    url: https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2
+  - title: "FS News"
+    url: https://fingersoft.com/news/
+  - title: "FS Tweets"
+    url: https://mobile.twitter.com/HCR_Official_
