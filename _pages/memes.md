@@ -1,6 +1,5 @@
 ---
 permalink: /memes/
-title: "Best HCR2 memes"
 ---
 # MEMES
 
