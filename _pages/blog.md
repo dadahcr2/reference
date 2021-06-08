@@ -1,3 +1,8 @@
+---
+permalink: /blog/
+title: "Change Log"
+---
+
 {{site.linethree}}    
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)  
