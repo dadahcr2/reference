@@ -4,13 +4,15 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/823934903551918140/image0.png)
+![](https://cdn.discordapp.com/attachments/806343355264401478/823934903551918140/image0.png)  
+
 <!--
 * TOC  
 {:toc}
 
 ***
 -->
+
 #### Rewards earned from the various chests
 
 The numbers shown in the game are often minimums and may understate actual rewards.  Based on collected data, estimates of the **average rewards (and range)** of coins, parts, and gems from the various chests are as follows:
