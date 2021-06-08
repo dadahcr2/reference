@@ -66,8 +66,7 @@ plugins:
 author:
   name   : "Dada HCR2"
   avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
-  bio    : <a href="http://wiki.hcr2.info">Wiki</a> - <a href="https://fingersoft.com/news/">FS News</a> - <a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a> - <a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a><br>  
-<a href="./blog.html">Log</a> - <a href="./tips.html">Tips</a> - <a href="./chests.html">Chests</a> - <a href="./memes.html">Memes</a> - <a href="./gm.html">GM</a> - <a href="./faq.html">FAQ</a>
+  bio    : <a href="http://wiki.hcr2.info">Wiki</a> - <a href="https://fingersoft.com/news/">FS News</a> - <a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a> - <a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a><br><a href="./blog.html">Log</a> - <a href="./tips.html">Tips</a> - <a href="./chests.html">Chests</a> - <a href="./memes.html">Memes</a> - <a href="./gm.html">GM</a> - <a href="./faq.html">FAQ</a>
 
   links:
     - label: "Website"
