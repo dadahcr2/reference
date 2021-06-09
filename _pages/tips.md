@@ -107,7 +107,7 @@ Buying anything in the shop with real money (even the cheapest item) will stop a
 
 The best value-for-money way to spend real money on the game is a VIP subscription. You can cancel the subscription at any time to avoid automatic renewals, and you will still receive VIP benefits for the remainder of the month. 
 
-See the following for additional Q&A on the shop: <http://faq.hcr2.info/#shop-questions>
+See the following for additional Q&A on the shop: </faq/#shop-questions>
 
 #### Summary
 
@@ -120,15 +120,15 @@ See the following for additional Q&A on the shop: <http://faq.hcr2.info/#shop-qu
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle as tabulated in the [Adventures section](/#Adventures) on the main [hcr2.info page](/)  
+- Use best parts for each vehicle as tabulated in the **Adventures Setups** section] on the main [hcr2.info](/) page    
 
 #### Suggested vehicle and setups for different public event types
 
-- See the **PE Setups** section on the main [hcr2.info page](/)  
-
+- See the **PE Setups** section on the main [hcr2.info](/) page  
+- 
 #### Optimal ways to increase GP
 
-- Follow the [daily checklist](/#Lists)
+- Follow the **[Daily Checklist](/#Lists)**
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
