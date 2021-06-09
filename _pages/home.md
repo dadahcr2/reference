@@ -393,7 +393,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 <details  markdown="block">
   <summary>
-    Daily checklist
+    Daily Checklist
   </summary>
 	
 ## Daily checklist
@@ -429,7 +429,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 		
 <details  markdown="block">
   <summary>
-    10 commandments
+    10 Commandments
   </summary>
 	
 ## 10 Commandments of HCR2
