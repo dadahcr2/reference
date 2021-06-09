@@ -131,7 +131,7 @@ Hill Climber | Wings JumpShock LandingBoost
 Scooter | JumpShocks LandingBoost Thrusters
 Bus | Wings JumpShocks Thrusters
 Mk2 | Wings Thrusters CoinBoost
-[Tractor](http://tractor.hcr2.info) | Wings OverchargedTurbo Afterburner / Wings CoinBoost Afterburner / CoinBoost OverchargedTurbo Afterburner
+Tractor | Wings OverchargedTurbo Afterburner / Wings CoinBoost Afterburner / CoinBoost OverchargedTurbo Afterburner
 Motocross | Wings Thrusters LandingBoost
 Dune Buggy | Wings OverchargedTurbo CoinBoost
 Sports Car | Wings JumpShocks LandingBoost
@@ -142,7 +142,7 @@ Chopper | Wings LandingBoost CoinBoost / Wings LandingBoost Thrusters
 Tank | Wings LandingBoost CoinBoost / Wings LandingBoost Thrusters
 Snowmobile | Wings Afterburner OverchargedTurbo
 Monowheel | Wings Magnet Thrusters / Wings FuelBoost Thruster / Wings JumpShocks Thrusters
-[Rally Car](http://vehicles.hcr2.info/#rally) | OverchargedTurbo Afterburner Wings / OverchargedTurbo Wings CoinBoost / OverchargedTurbo Afterburner CoinBoost / WinterTires OverchargedTurbo CoinBoost
+Rally Car | OverchargedTurbo Afterburner Wings / OverchargedTurbo Wings CoinBoost / OverchargedTurbo Afterburner CoinBoost / WinterTires OverchargedTurbo CoinBoost
 Formula | Wings JumpShocks LandingBoost / OverchargedTurbo FuelBoost CoinBoost / StartBoost JumpShocks LandingBoost
 Racing Truck | WheelieBoost CoinBoost Wings / CoinBoost FumeBoost WheelieBoost
 Hot Rod | LandingBoost CoinBoost FuelBoost / Magnet LandingBoost CoinBoost / FumeBoost CoinBoost LandingBoost
@@ -160,7 +160,7 @@ Hill Climber | Heavyweight
 Scooter | Heavyweight
 Bus | LandingBoost
 Mk2 | FlipBoost
-[Tractor](http://tractor.hcr2.info) | FlipBoost
+Tractor | FlipBoost
 Motocross | Heavyweight
 Dune Buggy | FlipBoost Heavyweight
 Sports Car | FlipBoost Heavyweight
@@ -171,7 +171,7 @@ Chopper | FlipBoost OverchargedTurbo
 Tank | FlipBoost
 Snowmobile | LandingBoost WheelieBoost
 Monowheel | AirControl
-[Rally Car](http://vehicles.hcr2.info/#rally) | FlipBoost AirControl
+Rally Car | FlipBoost AirControl
 Formula | FlipBoost RollCage
 Racing Truck | FlipBoost LandingBoost
 Hot Rod | -
@@ -228,7 +228,7 @@ Hill Climber | Wings JumpShock LandingBoost
 Scooter | Wings LandingBoost CoinBoost 
 Bus | Wings Magnet CoinBoost S=13
 Hill Climber Mk. 2 | Wings Magnet CoinBoost 
-[Tractor](http://tractor.hcr2.info) | Wings Magnet Rollcage 
+Tractor | Wings Magnet Rollcage 
 Motocross | Wings LandingBoost CoinBoost 
 Dune Buggy | Wings Magnet CoinBoost 
 Sports Car | Wings OverchargedTurbo CoinBoost DF=1
@@ -239,7 +239,7 @@ Chopper | Wings LandingBoost CoinBoost
 Tank | Magnet Rollcage LandingBoost 
 Snowmobile | Wings Rollcage Coin  SW=1 (remove front ski)
 Monowheel | Wings Magnet Coin 
-[Rally Car](http://vehicles.hcr2.info/#rally) | Wings JumpShock LandingBoost 
+Rally Car | Wings JumpShock LandingBoost 
 Formula | Wings JumpShock LandingBoost S=12 DF=1
 Racing Truck | Magnet WheelieBoost CoinBoost DF=1
 Hot Rod | Magnet LandingBoost CoinBoost 
