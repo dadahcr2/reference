@@ -25,82 +25,83 @@ classes: wide
 : hcr2.info:
 	- TE setups
 	- Next PE Info
-27 May
+27 May  
 : hcr2.info: 
 	- PE setups 
 	- update to league rewards
-26 May  
+	
+26 May    
 : hcr2.info: new PE
 
 25 May  
 : memes/tips/blog/chests/faq.hcr2.info: new host and formatting
 
-24 May
+24 May  
 : hcr2.info: links to other sites
 
-23 May
+23 May  
 : hcr2.info: 
 	- set up new host to avoid video ads 
 	- added TE setups 
 	- new PE teaser
 
-22 May
+22 May  
 : hcr2.info: new TE
 
-21 May
+21 May  
 : tw.hcr2.info: new host and theme
 : fw.hcr2.info: new host and theme
 
-19 May
+19 May  
 : hcr2.info: New Pe
 
-16 May
+16 May  
 : memes.hcr2.info: +poems
 -:
 
-15 May
+15 May  
 : memes.hcr2.info: +1
 : hcr2.info
 	- next PE
 	- TE vehicle parts
 
-14 May
+14 May  
 : hcr2.info: New TE
 
-10 May
+10 May  
 : hcr2.info
 	- removed old PE
 	- updated team season bonus table
 
-8 May
+8 May  
 : fw.hcr2.info: weekly results and reference to nicknames
 
-7 May
+7 May  
 : hcr2.info: next team and public events
 : tips.hcr2.info: reformated "More advanced" section
 
-5 May
+5 May  
 : hcr2.info: 
 	- new picture for PE
 	- changed suggested vehicle for PE
 : fw.hcr2.info: updated friend links
 
-4 May 
+4 May   
 : hcr2.info: 
  	- noted TE T1 = PE T3
 	- added suggested vehicle for PE
 : fw.hcr2.info: added suggestion to say "hi" on server
 
-3 May 
+3 May   
 : hcr2.info: removed old public event
 
-2 May 
+2 May   
 : fw.hcr2.info
 	- updated weekly results
 	- new banner
 	- added details of weekly adventure contest
 
-1 May 
+1 May   
 : hcr2.info
 	- added event flyer for next public event (breaking)
 	- removed max canyon climber table
