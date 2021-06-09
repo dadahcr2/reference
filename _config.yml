@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 lineone: <a href="http://wiki.hcr2.info">Wiki</a> - <a href="https://fingersoft.com/news/">FS News</a> - <a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a> - <a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a>  
-linethree: <small><strong><a href="http://fw.hcr2.info">Friendly Wars</a> - <a href="http://tw.hcr2.info">Tractor Wars</a> - <a href="http://vehicles.hcr2.info">Vehicles</a></strong></small>
+linethree: <small><strong><a href="http://fw.hcr2.info">Friendly Wars</a> - <a href="http://tw.hcr2.info">Tractor Wars</a> - <a href="/vehicles/">Vehicles</a></strong></small>
 linetwo: <a href="./blog.html">Log</a> - <a href="./tips.html">Tips</a> - <a href="./chests.html">Chests</a> - <a href="./memes.html">Memes</a> - <a href="./gm.html">GM</a> - <a href="./faq.html">FAQ</a>
 buttonone:  <a href=".\#best-distance-parts-by-vehicle">Adventure <strong>Parts</strong></a> 
 buttontwo: <a href=".\#tracks-by-map-type-and-distance">Cup <strong>Tracks</strong></a> 
