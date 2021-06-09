@@ -110,17 +110,17 @@ classes: wide
 	- removed reference to gloomvale cup
 
 30 April 
-- hcr2.info
+: hcr2.info
 	- added details for next team event
  	- added multi jump event to public event setups
 	- change log link
 	- added details of league one week delay
 	- New team event name and details
-- blog.hcr2.info: added change log
+: blog.hcr2.info: added change log
 
 29 April 2021
-- tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs
-- hcr2.info: added "*public event setup*" section
+: tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs
+: hcr2.info: added "*public event setup*" section
 
 <a name="bottom"> </a>
 Prior to this logs were not recorded...
