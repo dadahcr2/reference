@@ -22,7 +22,7 @@ classes: wide
 • memes: one addition  
 
 30 May  
-- hcr2.info:
+: hcr2.info:
 	- TE setups
 	- Next PE Info
 27 May
@@ -48,11 +48,11 @@ classes: wide
 - hcr2.info: new TE
 
 21 May
-- tw.hcr2.info: new host and theme
-- fw.hcr2.info: new host and theme
+: tw.hcr2.info: new host and theme
+: fw.hcr2.info: new host and theme
 
 19 May
-- hcr2.info: New Pe
+: hcr2.info: New Pe
 
 16 May
 - memes.hcr2.info: +poems
@@ -80,10 +80,10 @@ classes: wide
 - tips.hcr2.info: reformated "More advanced" section
 
 5 May
-- hcr2.info: 
+: hcr2.info: 
 	- new picture for PE
 	- changed suggested vehicle for PE
-- fw.hcr2.info: updated friend links
+: fw.hcr2.info: updated friend links
 
 4 May 
 - hcr2.info: 
