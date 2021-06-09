@@ -6,46 +6,46 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
-**8 June**  
-• New website theme
+8 June   
+: New website theme
 
-**7 June**   
-• Next PE thoughts
+7 June   
+: Next PE thoughts
 
-**4 June **     
-• New TE teaser 
+4 June     
+: New TE teaser 
 
-**1 June**    
-• Previous PE -> separate page  
-• Associated websites made into spearate pages of this site   
-• started to change PE setups from words to images  
-• memes: one addition  
+1 June   
+: Previous PE -> separate page  
+: Associated websites made into spearate pages of this site   
+: started to change PE setups from words to images  
+: memes: one addition  
 
 30 May  
 : hcr2.info:
 	- TE setups
 	- Next PE Info
 27 May
-- hcr2.info: 
+: hcr2.info: 
 	- PE setups 
 	- update to league rewards
 26 May  
-- hcr2.info: new PE
+: hcr2.info: new PE
 
 25 May  
-- memes/tips/blog/chests/faq.hcr2.info: new host and formatting
+: memes/tips/blog/chests/faq.hcr2.info: new host and formatting
 
 24 May
-- hcr2.info: links to other sites
+: hcr2.info: links to other sites
 
 23 May
-- hcr2.info: 
+: hcr2.info: 
 	- set up new host to avoid video ads 
 	- added TE setups 
 	- new PE teaser
 
 22 May
-- hcr2.info: new TE
+: hcr2.info: new TE
 
 21 May
 : tw.hcr2.info: new host and theme
@@ -55,29 +55,29 @@ classes: wide
 : hcr2.info: New Pe
 
 16 May
-- memes.hcr2.info: +poems
-- ~~hcr2.info hotrod aircontrol -> least used parts~~
+: memes.hcr2.info: +poems
+-:
 
 15 May
-- memes.hcr2.info: +1
-- hcr2.info
+: memes.hcr2.info: +1
+: hcr2.info
 	- next PE
 	- TE vehicle parts
 
 14 May
-- hcr2.info: New TE
+: hcr2.info: New TE
 
 10 May
-- hcr2.info
+: hcr2.info
 	- removed old PE
 	- updated team season bonus table
 
 8 May
-- fw.hcr2.info: weekly results and reference to nicknames
+: fw.hcr2.info: weekly results and reference to nicknames
 
 7 May
-- hcr2.info: next team and public events
-- tips.hcr2.info: reformated "More advanced" section
+: hcr2.info: next team and public events
+: tips.hcr2.info: reformated "More advanced" section
 
 5 May
 : hcr2.info: 
@@ -86,22 +86,22 @@ classes: wide
 : fw.hcr2.info: updated friend links
 
 4 May 
-- hcr2.info: 
+: hcr2.info: 
  	- noted TE T1 = PE T3
 	- added suggested vehicle for PE
-- fw.hcr2.info: added suggestion to say "hi" on server
+: fw.hcr2.info: added suggestion to say "hi" on server
 
 3 May 
-- hcr2.info: removed old public event
+: hcr2.info: removed old public event
 
 2 May 
-- fw.hcr2.info
+: fw.hcr2.info
 	- updated weekly results
 	- new banner
 	- added details of weekly adventure contest
 
 1 May 
-- hcr2.info
+: hcr2.info
 	- added event flyer for next public event (breaking)
 	- removed max canyon climber table
 	- removed old team event
