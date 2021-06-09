@@ -66,10 +66,7 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
-</details>	
-		
-
-
+</details>
 
 ##  Wikis & Tutorials
 
@@ -90,20 +87,14 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
     Video Tutorials
   </summary>	  
 
-[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
-[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
-
-[How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
-[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)
-
-[](###### [Neck flip the easy way](https://youtu.be/bgUmbi0HBCk)  
-[![Neck Flip the Rasy Way](http://img.youtube.com/vi/bgUmbi0HBCk/0.jpg)](https://youtu.be/bgUmbi0HBCk))
-
-[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
-
-[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
-[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
+- [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
+	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)  
+- [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
+	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  
+- [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
+	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
+- [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
+	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 
 [🔝](#top)    
 {: style="text-align: center;"}  
@@ -119,9 +110,11 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 	
 ### Parts Required & Costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
+	
 **HCR2 Parts Costs**  
 {: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
+	
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
 
@@ -131,8 +124,6 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
   <summary>
     Parts suggestions
   </summary>
-	
-### Parts Suggestions
 
 Vehicle | Parts
 :-- | :--
@@ -160,6 +151,7 @@ Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo Coin
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
 
 ### Least-used Parts
+	
 These are parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
 
 Vehicle | Parts
@@ -190,18 +182,22 @@ Moonlander | LandingBoost
 [🔝](#top)    
 {: style="text-align: center;"}  
 
-</details>  			
+</details>  
+
 ## Adventures  	
+
 <details  markdown="block">
   <summary>
     Setups
   </summary>  
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
+	
 ### Best Distance Parts by Vehicle
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 	
 ### Best Map Setups
+	
 Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: 
 
 Map | Vehicle and Parts
@@ -320,10 +316,9 @@ Distance | Obstacle
 
 <details  markdown="block">
   <summary>
-    2 & 4 Track cups
+    Two and Four Track Cups
   </summary>
 	
-### Two and Four Track Cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
 **Two tracks**  
@@ -340,10 +335,9 @@ Sunday Champ
 	
 <details  markdown="block">
   <summary>
-    Track by Type & Distance
+    Tracks by Map-type & Distance
   </summary>
 			
-### Tracks by Map-ype and Distance
 This may be helpful in identifying event tracks  
 
 Map Type | Tracks
@@ -396,8 +390,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   <summary>
     Daily Checklist
   </summary>
-	
-## Daily Checklist
 
 - [ ] **Every 4 hours**: Two free team tickets 
 - [ ] **Every 6 hours**:   Ad/VIP chest in the shop 
@@ -433,7 +425,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     10 Commandments
   </summary>
 	
-## 10 Commandments of HCR2
 1. **Don’t cheat or go against FS rules**
 2. **Only use gems for weekly public events / cups chests**
 3. **Scrap only excess parts, especially for legendaries**
@@ -452,7 +443,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     Tournaments
   </summary>
 	
-## Tournaments
 I highly recommend these:
 - Tractor  Wars : <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
