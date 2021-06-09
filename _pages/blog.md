@@ -7,25 +7,25 @@ classes: wide
 {{site.linethree}}  
 
 9 June  
-: - New PE track types  
+: New PE track types  
 
 8 June   
-: - New website theme
+: New website theme
 
 7 June   
-: - Next PE thoughts
+: Next PE thoughts
 
 4 June     
-: - New TE teaser 
+: New TE teaser 
 
 1 June   
-: - Previous PE -> separate page  
-- Associated websites made into spearate pages of this site   
-- started to change PE setups from words to images  
-- memes: one addition  
+: — Previous PE -> separate page  
+— Associated websites made into separate pages of this site   
+— started to change PE setups from words to images  
+— memes: one addition  
 
 30 May  
-: - hcr2.info:  
+: hcr2.info:  
 	- TE setups  
 	- Next PE Info  
 	
