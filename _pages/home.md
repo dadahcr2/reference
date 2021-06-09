@@ -48,6 +48,8 @@ classes: wide
 7. Mountain
 8. Desert
 9. Glacier	
+
+Recommend: ![Buggy] ![Wi] ![WB] ![CB]	
 	
 [Previous public event tracks]({{site.url}}/PrevPe/)
 
