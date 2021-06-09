@@ -7,7 +7,7 @@ classes: wide
 {{site.linethree}}  
 
 9 June  
-: New PE track thpes  
+: New PE track types  
 
 8 June   
 : New website theme
