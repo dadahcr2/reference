@@ -6,16 +6,16 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
-# 8 June  
+## 8 June  
 - New website theme
 
-# 7 June  
+## 7 June  
 - Next PE thoughts
 
-# 4 June   
+## 4 June   
 - New TE teaser 
 
-# 1 June  
+## 1 June  
 - Previous PE -> separate page
 - Associated websites made into spearate pages of this site  
 - started to change PE setups from words to images
