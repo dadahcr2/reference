@@ -19,19 +19,19 @@ classes: wide
 : New TE teaser 
 
 1 June   
-: Previous PE -> separate page  
-: Associated websites made into spearate pages of this site   
-: started to change PE setups from words to images  
-: memes: one addition  
+: - Previous PE -> separate page  
+: - Associated websites made into spearate pages of this site   
+: - started to change PE setups from words to images  
+: - memes: one addition  
 
 30 May  
 : hcr2.info:
 	• TE setups
 	• Next PE Info
 27 May  
-: •hcr2.info: 
-	• PE setups 
-	• update to league rewards
+: hcr2.info: 
+	- PE setups 
+	- update to league rewards
 	
 26 May    
 : hcr2.info: new PE
@@ -63,8 +63,8 @@ classes: wide
 -:
 
 15 May  
-: memes.hcr2.info: +1
-: hcr2.info
+: - memes.hcr2.info: +1
+: - hcr2.info
 	- next PE
 	- TE vehicle parts
 
