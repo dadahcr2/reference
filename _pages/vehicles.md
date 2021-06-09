@@ -21,7 +21,7 @@ toc_sticky: true
 
 ## Tractor
 
-_**"The King of Agricultural Equipment"**_  
+_**"The King of Agricultural Equipment"**_   
 ![](https://media.discordapp.net/attachments/806343355264401478/832438050906439680/image0.png?width=800&height=444)
 
 **Advantages**
@@ -42,8 +42,8 @@ _**"The King of Agricultural Equipment"**_
 
 *Nevertheless, it tends to be vastly underrated and is an extremely fun vehicle to drive.*
 
-**Wiki Description**
-![](https://cdn.discordapp.com/attachments/813824578077196338/813826104070373386/Tractor.png)  
+**Wiki Description**  
+![](https://cdn.discordapp.com/attachments/813824578077196338/813826104070373386/Tractor.png)    
 - _"The Tractor is a heavy vehicle that has decent speed and acceleration, is very stable and has a large fuel tank. This makes it a better choice on maps with generally flat terrain, though it is also one of the best vehicles at climbing very steep hills with the right Tuning Parts. The suspension is decent."_
 - _"The Tractor comes with a functional front loader that can be used by pressing both pedals (both sides of the device screen) at once, leaving it firm to the front, upwards or loose. This requires some strategy, as the loader can affect the Tractor's balance. The loader bucket's damage can be upgraded, making the tractor an ideal vehicle for maps that have lots of destructible obstacles, like Backwater Bog, Racer Glacier and Skyrock Outpost."_
 - _"Your character sits at the rear side of the Tractor, making excessive wheelies a dangerous maneuver. It is best to have the roll cage part installed to help avoid this problem"_
