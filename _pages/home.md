@@ -114,7 +114,7 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
     Parts, Costs & Fuel
   </summary>
 	
-### Parts required & costs  
+### Parts Required & Costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
 **HCR2 Parts Costs**  
 {: style="text-align: center;"}
@@ -129,7 +129,7 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
     Parts suggestions
   </summary>
 	
-### Parts suggestions
+### Parts Suggestions
 
 Vehicle | Parts
 :-- | :--
@@ -156,7 +156,7 @@ Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / O
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
 
-### Least used parts
+### Least-used Parts
 These are parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
 
 Vehicle | Parts
@@ -194,11 +194,11 @@ Moonlander | LandingBoost
     Setups
   </summary>  
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
-### Best distance parts by vehicle
+### Best Distance Parts by Vehicle
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 	
-### Best map setups
+### Best Map Setups
 Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: 
 
 Map | Vehicle and Parts
@@ -220,7 +220,7 @@ Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost Jum
 Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
 Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost	
 	
-**Forest adventure 10k vehicle parts**
+**Forest Adventure 10k Vehicle Parts**
 10K setups as follows:
 
 Vehicle | Parts 
@@ -258,10 +258,9 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 	
 <details  markdown="block">
   <summary>
-    Forest adv. obstacles
+    Forest Adventure Obstacles
   </summary>
 	
-### Forest adventure obstacles
 ![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
 ![](https://media.discordapp.net/attachments/617353655468687390/733422129181098055/image1.png?width=557&height=992)
 
@@ -277,9 +276,8 @@ Distance | Obstacle
 </details>  
 <details  markdown="block">
   <summary>
-    Desert valley obstacles
+    Desert Valley Obstacles
   </summary>  	
-### Desert valley obstacles
 
 Distance | Obstacle
 :-- | :--
@@ -319,10 +317,10 @@ Distance | Obstacle
 
 <details  markdown="block">
   <summary>
-    2 & 4 track cups
+    2 & 4 Track cups
   </summary>
 	
-### Two and four track cups
+### Two and Four Track Cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
 **Two tracks**  
@@ -339,10 +337,10 @@ Sunday Champ
 	
 <details  markdown="block">
   <summary>
-    Track by type & distance
+    Track by Type & Distance
   </summary>
 			
-### Tracks by map type and distance
+### Tracks by Map-ype and Distance
 This may be helpful in identifying event tracks  
 
 Map Type | Tracks
@@ -370,7 +368,7 @@ Note: Distances are within 1m or so
 		
 <details  markdown="block">
   <summary>
-    Season rewards
+    Season Rewards
   </summary>
 	
 ### Team Season Rewards  
@@ -396,7 +394,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     Daily Checklist
   </summary>
 	
-## Daily checklist
+## Daily Checklist
 
 - [ ] **Every 4 hours**: Two free team tickets 
 - [ ] **Every 6 hours**:   Ad/VIP chest in the shop 
