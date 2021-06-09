@@ -37,7 +37,7 @@ classes: wide
 	
 ### Public Event: More Torque (Wheelie)
 	
-![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
+![](https://pbs.twimg.com/media/E3bqkoDXwAEB2Cx.jpg:small)
 
 [Previous public event tracks]({{site.url}}/PrevPe/)
 
