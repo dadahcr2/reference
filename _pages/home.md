@@ -34,7 +34,9 @@ classes: wide
   <summary>
     PE: More Torque
   </summary>
+	
 ### Public Event: More Torque (Wheelie)
+	
 ![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
 
 [Previous public event tracks]({{site.url}}/PrevPe/)
@@ -45,6 +47,7 @@ classes: wide
   <summary>
     PE Setups
   </summary>
+	
 ### Public Event Setups
 
 Event | Suggested Vehicle and Parts
