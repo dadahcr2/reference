@@ -20,14 +20,14 @@ classes: wide
 
 1 June   
 : - Previous PE -> separate page  
-: - Associated websites made into spearate pages of this site   
-: - started to change PE setups from words to images  
-: - memes: one addition  
+- Associated websites made into spearate pages of this site   
+- started to change PE setups from words to images  
+- memes: one addition  
 
 30 May  
-: hcr2.info:
-	• TE setups
-	• Next PE Info
+: - hcr2.info:  
+	- TE setups  
+	- Next PE Info  
 27 May  
 : hcr2.info: 
 	- PE setups 
