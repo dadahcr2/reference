@@ -33,7 +33,7 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 
 \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
-These numbers may be updated as more data is collected.  The underlying data is available [here](.\chestdata)
+These numbers may be updated as more data is collected.  The underlying data is available [here](/chestdata/)
 
 #### Order of cup chests
 
@@ -147,4 +147,4 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 
 #### Data  
 <a name="bottom"></a>
-[Chest Data]({{site.url}}/chestdata/)
+[Chest Data](/chestdata/)
