@@ -120,7 +120,7 @@ See the following for additional Q&A on the shop: </faq/#shop-questions>
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle as tabulated in the **Adventures Setups** section] on the main [hcr2.info](/) page    
+- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the main [hcr2.info](/) page    
 
 #### Suggested vehicle and setups for different public event types
 
