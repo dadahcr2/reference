@@ -7,6 +7,9 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+June 9  
+![](https://cdn.discordapp.com/attachments/851788477506912266/851791708944334858/Screenshot_20210308-145951_Meme_Generator_Free.jpg)
+
 June 6  
 ![](https://media.discordapp.net/attachments/802790231861624832/850931128704958474/Shark-CC.png?width=926&height=653)  
 
