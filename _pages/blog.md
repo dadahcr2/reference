@@ -66,8 +66,8 @@ classes: wide
 : memes.hcr2.info: +poems
 
 15 May  
-: — memes.hcr2.info: +1  
-— hcr2.info  
+: memes.hcr2.info: +1  
+hcr2.info  
 	— next PE  
 	— TE vehicle parts  
 
@@ -87,16 +87,16 @@ classes: wide
 — tips.hcr2.info: reformated "More advanced" section
 
 5 May  
-: — hcr2.info:   
+: hcr2.info:   
 	— new picture for PE  
 	— changed suggested vehicle for PE  
-— fw.hcr2.info: updated friend links
+fw.hcr2.info: updated friend links
 
 4 May   
-: — hcr2.info:   
+: hcr2.info:   
  	— noted TE T1 = PE T3  
 	— added suggested vehicle for PE  
-— fw.hcr2.info: added suggestion to say "hi" on server  
+fw.hcr2.info: added suggestion to say "hi" on server  
 
 3 May   
 : — hcr2.info: removed old public event
@@ -116,13 +116,13 @@ classes: wide
 	— removed reference to gloomvale cup
 
 30 April 
-: — hcr2.info
+: hcr2.info
 	— added details for next team event
  	— added multi jump event to public event setups
 	— change log link
 	— added details of league one week delay
 	— New team event name and details
-— blog.hcr2.info: added change log
+blog.hcr2.info: added change log
 
 29 April 2021
 : — tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs
