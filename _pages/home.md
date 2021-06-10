@@ -460,9 +460,6 @@ I highly recommend these:
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
-	
-[🔝](#top)    
-{: style="text-align: center;"}  
 
 </details>	
 	
