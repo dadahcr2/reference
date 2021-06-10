@@ -99,7 +99,7 @@ fw.hcr2.info: updated friend links
 fw.hcr2.info: added suggestion to say "hi" on server  
 
 3 May   
-: — hcr2.info: removed old public event
+: hcr2.info: removed old public event
 
 2 May   
 : fw.hcr2.info  
@@ -108,25 +108,25 @@ fw.hcr2.info: added suggestion to say "hi" on server
 	— added details of weekly adventure contest
 
 1 May   
-: hcr2.info
-	— added event flyer for next public event (breaking)
-	— removed max canyon climber table
-	— removed old team event
-	— reduced large picture sizes (on some of the other sites too)
-	— removed reference to gloomvale cup
-
+: hcr2.info  
+	— added event flyer for next public event (breaking)  
+	— removed max canyon climber table  
+	— removed old team event  
+	— reduced large picture sizes (on some of the other sites too)  
+	— removed reference to gloomvale cup  
+ 
 30 April 
-: hcr2.info
-	— added details for next team event
- 	— added multi jump event to public event setups
-	— change log link
-	— added details of league one week delay
-	— New team event name and details
-blog.hcr2.info: added change log
+: hcr2.info  
+	— added details for next team event  
+ 	— added multi jump event to public event setups  
+	— change log link  
+	— added details of league one week delay  
+	— New team event name and details  
+blog.hcr2.info: added change log  
 
 29 April 2021
-: — tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs
-— hcr2.info: added "*public event setup*" section
+: — tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs  
+— hcr2.info: added "*public event setup*" section  
 
 <a name="bottom"> </a>
 Prior to this logs were not recorded...
