@@ -89,5 +89,5 @@ Once a wise man said :
 ![](https://cdn.discordapp.com/attachments/777125510798245898/811982316099600404/server.jpg)
 
 <a name="bottom"></a>  
-## [🔝](#top)  
+## [⬆](#top)  
 {: style="text-align: right;"}
