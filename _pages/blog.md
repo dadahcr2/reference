@@ -7,7 +7,7 @@ classes: wide
 {{site.linethree}}  
 
 9 June  
-: — New PE track types and setup recommendatiom 
+: — New PE track types and setup recommendatiom   
 — New meme
 
 8 June   
