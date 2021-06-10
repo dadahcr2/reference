@@ -32,10 +32,10 @@ classes: wide
 	— TE setups  
 	— Next PE Info  
 	
-27 May  
-: hcr2.info: 
-	— PE setups   
-	— update to league rewards  
+27 May   
+: hcr2.info:  
+	— PE setups    
+	— update to league rewards   
 	
 26 May    
 : hcr2.info: new PE
@@ -47,10 +47,10 @@ classes: wide
 : hcr2.info: links to other sites
 
 23 May  
-: hcr2.info: 
-	— set up new host to avoid video ads 
-	— added TE setups 
-	— new PE teaser
+: hcr2.info:   
+	— set up new host to avoid video ads   
+	— added TE setups   
+	— new PE teaser  
 
 22 May  
 : hcr2.info: new TE
@@ -66,10 +66,10 @@ classes: wide
 : memes.hcr2.info: +poems
 
 15 May  
-: — memes.hcr2.info: +1
-— hcr2.info
-	— next PE
-	— TE vehicle parts
+: — memes.hcr2.info: +1  
+— hcr2.info  
+	— next PE  
+	— TE vehicle parts  
 
 14 May  
 : hcr2.info: New TE
@@ -87,7 +87,7 @@ classes: wide
 — tips.hcr2.info: reformated "More advanced" section
 
 5 May  
-:— hcr2.info: 
+: — hcr2.info:   
 	— new picture for PE  
 	— changed suggested vehicle for PE  
 — fw.hcr2.info: updated friend links
