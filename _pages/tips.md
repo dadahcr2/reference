@@ -120,7 +120,7 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the main [hcr2.info](/) page    
+- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the main [hcr2.info](/#adventures) page    
 
 #### Suggested vehicle and setups for different public event types
 
@@ -128,7 +128,7 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 
 #### Optimal ways to increase GP
 
-- Follow the [Daily Checklist](/#daily-checklist)
+- Follow the [Daily Checklist](/#lists)
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
