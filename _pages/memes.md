@@ -5,7 +5,7 @@ classes: wide
 ![HCR2 Memes](https://cdn.discordapp.com/attachments/806343355264401478/851860837950160936/image.png)  
 
 ##  [⬇](#bottom)  
-{: style="text-align: center;"}  
+{: style="text-align: right;"}  
 
 June 6  
 ![](https://media.discordapp.net/attachments/802790231861624832/850931128704958474/Shark-CC.png?width=926&height=653)  
@@ -79,4 +79,4 @@ Once a wise man said :
 
 <a name="bottom"></a>  
 ## [🔝](#top)  
-{: style="text-align: center;"}
+{: style="text-align: right;"}
