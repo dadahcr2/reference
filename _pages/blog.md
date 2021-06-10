@@ -15,7 +15,7 @@ classes: wide
 
 
 7 June   
-: — Next PE thoughts
+: — Next PE thoughts  
 — New meme
 
 4 June     
