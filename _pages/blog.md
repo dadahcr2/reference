@@ -33,10 +33,10 @@ classes: wide
 	— Next PE Info  
 	
 27 May   
-: hcr2.info:  
-	— PE setups    
-	— update to league rewards   
-	
+: hcr2.info:    
+	— PE setups      
+	— update to league rewards     
+	  
 26 May    
 : hcr2.info: new PE
 
