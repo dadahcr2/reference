@@ -66,8 +66,8 @@ classes: wide
 : memes.hcr2.info: +poems
 
 15 May  
-: — memes.hcr2.info: +1  
-— hcr2.info  
+: • memes.hcr2.info: +1  
+• hcr2.info  
 	—— next PE  
 	—— TE vehicle parts  
 
