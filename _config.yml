@@ -27,7 +27,8 @@ description: "HCR2 Reference Information"
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
-search: false
+search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
