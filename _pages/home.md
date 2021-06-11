@@ -35,7 +35,7 @@ classes: wide
 	
 **Track 4:** I Hate Water - Reef Grief, _Time attack, 10k=20s_	
 
-![https://cdn.discordapp.com/attachments/719181324610437190/852801757302226944/xyzzy1623394180376.png]
+![](https://cdn.discordapp.com/attachments/719181324610437190/852801757302226944/xyzzy1623394180376.png)
 	
 </details>	
 <details  markdown="block">
