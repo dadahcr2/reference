@@ -60,6 +60,9 @@ Finally, an accurate event title 😁
 	
 ![](https://cdn.discordapp.com/attachments/750906124454330429/852968223636193320/image0.jpg)
 
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+		
 </details>
 
 <details  markdown="block">
@@ -82,7 +85,7 @@ Finally, an accurate event title 😁
 9. Glacier	
 
 Recommend: ![Buggy] ![Wi] ![WB] ![CB]	
-	
+
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 	
@@ -113,6 +116,9 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+	
 </details>
 
 ##  Wikis & Tutorials
