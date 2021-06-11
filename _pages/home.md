@@ -20,11 +20,13 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: preview
+    TE: Catastrophic Failure
   </summary>	
 	
 ### Team Event: Catastrophic Failure
 
+Finally, an accurate event title :-)	
+	
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 	
 **Track 1:** Factory Cup - Factory Settings, _Time attack, 10k=12.5s_
