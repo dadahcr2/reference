@@ -25,7 +25,7 @@ classes: wide
 	
 ### Team Event: Catastrophic Failure
 
-Finally, an accurate event title :-)	
+Finally, an accurate event title 😁
 	
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 	
