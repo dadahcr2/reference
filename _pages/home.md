@@ -50,7 +50,16 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
 
 </details>	
+
+<details  markdown="block">
+  <summary>
+    PE: Next (Superbike Wars)! 
+  </summary>
 	
+![](https://cdn.discordapp.com/attachments/750906124454330429/852968223636193320/image0.jpg)
+
+</details>
+
 <details  markdown="block">
   <summary>
     PE: More Torque
