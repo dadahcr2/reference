@@ -51,6 +51,9 @@ classes: wide
 
 Recommend: ![Buggy] ![Wi] ![WB] ![CB]	
 	
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+	
 [Previous public event tracks]({{site.url}}/PrevPe/)
 
 </details>	
