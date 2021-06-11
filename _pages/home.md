@@ -23,7 +23,7 @@ classes: wide
     TE: preview
   </summary>	
 	
-### Team Event: preview
+### Team Event: Catastrophic Failure
 
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 	
