@@ -249,7 +249,7 @@ Moonlander | LandingBoost
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 	
-Car | Countryside | Forest | City | Mountain | Rustbucket Reef | Winter | Mines | Beach | Desert Valley | Backwater Bog | Racier Glacier | Patchwork Plant | Sky Rock Outpost | Forest Trials | Intense City | Raging Winter | Car  
+Car | Countryside | ForestAdv | CityAdven | Mountain | Rustbucket Reef | WinterAdv | MinesAdv | BeachAdv | Desert ValleyAdv | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Sky Rock OutpostAdv | Forest TrialsAdv | Intense CityAdven | Raging WinterAdv | Car  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 ![jeep] | 🦘 | 🦘 | ![Wi]![JS]![Ma] | ![Wi]![WT]![Fume]<br>![Wi]![WT]![CB] | 🦘 | 🦘 | 🦘 | ![Fume]![Wi]![OT]/![JS]<br>🦘 | 🦘 | 🦘 | 🦘 | 🦘 | 🦘 | ![JS]![Wi]![CB]<br>🦘 | ![WT]![JS]![Wi] | ![Th]![Wi]![JS]<br>![Th]![Wi]![WT] | ![jeep]  
 ![scooter] | ![LB]![Wi]![WB]<br>🦘 | ![Wi]![WT]![Ma]<br>🦘 | ![JS]![Ma]![Th] | ![WT]![Wi]![LB] | 🦘 | 🦘 | 🦘 | ![CB]![Wi]![LB] | ![JS]![Th]![Wi]<br>🦘 | 🦘 | 🦘 | 🦘 | 🦘 | ![Wi]![JS]![Ma]<br>🦘 | ![JS]![Th]![Ma] | ![JS]![Th]![Wi] | ![scooter]  
@@ -273,6 +273,7 @@ Car | Countryside | Forest | City | Mountain | Rustbucket Reef | Winter | Mines 
 ![Sbike] | ![Wi]![CB]![Fume] | ![Wi]![CB]![Ma]<br>![Wi]![Fume]![Ma] | ![Wi]![CB]![Ma]<br>![Wi]![WT]![Ma] | ![WT]![Wi]![CB] | ![LB]![Wi]![CB]<br>![CB]![Wi]![Ma] | ![Fume]![CB]![Wi] | ![CB]![Wi]![LB]<br> ![CB]![Wi]![Ma] | ![OT]![Wi]![CB]<br>![Fume]![Wi]![Ma] | ![OT]![CB]![Wi] | ![Fume]![CB]![Wi] | ![WT]![CB]![Wi] | ![Ma]![Wi]![CB]<br>![Ma]![Wi]![WB] | ![CB]![LB]![Wi]<br>![CB]![Fume]![Wi] | ![CB]![Wi]![Ma]<br>![CB]![Wi]![WT] | ![Ma]![Wi]![WT] | ![WT]![Wi]![Fume] | ![Sbike]  
 ![Supercar] | ![JS]![Wi]![CB]<br>🦘 | 🦘 | ![Wi]![Ma]![JS] | ![WT]![Fume]![CB] | ![JS]![Wi]![CB]/![LB]<br>🦘 | ![WT]![Wi]![CB] | ![JS]![Wi]![CB] | ![OT]![Wi]![CB]<br>🦘 | ![Wi]![CB]![JS]<br>![OT]![JS]![WT]/![LB]/![Wi]<br>![OT]![CB]![Wi] | 🦘 | ![WT]![CB]![Wi] | 🦘 | 🦘 | ![JS]![Wi]![CB]<br>![JS]![Wi]![WT] | ![JS]![WT]![AC] | ![Wi]![RC]![WT] | ![Supercar]  
 ![Moonlander] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![LB]<br>![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma]<br>![CB]![WB]![LB] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![Moonlander]  
+
 	
 ### Best Map Setups
 	
