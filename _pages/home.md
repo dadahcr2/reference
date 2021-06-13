@@ -278,7 +278,7 @@ Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | 
 
 <mark>Best Vehicle</mark><br>*=Remove<br> 🦘 =(![JS]![LB]![Wi]<br>Br=Brain<br>DF=Downforce<br>Dr=Drag<br>SW=SkiWax  - Sources: Map rankings<br>Zorro (HCR2 Adventure Setup Server)<br>NikoRei (Adventure Guide Server)<br>BaDAtHcR - Latest version on www.hcr2.info
 
-Best Vehicle<{:.underline}<br>*=Remove<br> 🦘 =(![JS]![LB]![Wi]<br>Br=Brain<br>DF=Downforce<br>Dr=Drag<br>SW=SkiWax  - Sources: Map rankings {:.underline} <br>Zorro (HCR2 Adventure Setup Server)<br>NikoRei (Adventure Guide Server)<br>BaDAtHcR - Latest version on www.hcr2.info
+Best Vehicle{:.underline}<br>*=Remove<br> 🦘 =(![JS]![LB]![Wi]<br>Br=Brain<br>DF=Downforce<br>Dr=Drag<br>SW=SkiWax  - Sources: Map rankings {:.underline} <br>Zorro (HCR2 Adventure Setup Server)<br>NikoRei (Adventure Guide Server)<br>BaDAtHcR - Latest version on www.hcr2.info
 
 	
 	
