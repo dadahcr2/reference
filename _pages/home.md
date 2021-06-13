@@ -27,7 +27,7 @@ classes: wide
 
 Finally, an accurate event title 😁
 
-![](https://cdn.discordapp.com/attachments/850699804425191454/853718528507379722/image.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/853721071177039882/image0.png)  
 	
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 	
