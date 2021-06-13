@@ -34,19 +34,7 @@ Finally, an accurate event title 😁
 ![](https://cdn.discordapp.com/attachments/719181324610437190/852801757302226944/xyzzy1623394180376.png)
 	
 </details>	
-<details  markdown="block">
-  <summary>
-    TE: Hits Different
-  </summary>
 	
-### Team Event: Hits Different  
-
-![](https://cdn.discordapp.com/attachments/750874271022317678/850744364497895444/A586BAFB-C80E-4E7F-B383-7EADF5003562.png)
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
-
-</details>	
-
 <details  markdown="block">
   <summary>
     PE: Next (Superbike Wars)! 
