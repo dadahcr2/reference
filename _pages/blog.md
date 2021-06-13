@@ -6,6 +6,9 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+12 June  
+: Reformat of Adventure Vehicles Setups Table (how do you like it)?  
+
 11 June  
 : Superbike Wars Teaser
 
