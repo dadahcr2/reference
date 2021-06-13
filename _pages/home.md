@@ -246,9 +246,9 @@ Moonlander | LandingBoost
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
 	
 ### Best Distance Parts by Vehicle
-
+<!--
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
-	
+-->	
 
 
 Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Car | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Car | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Car  
@@ -276,10 +276,9 @@ Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | 
 ![Supercar] | ![JS]![Wi]![CB]<br>🦘 | 🦘 | ![Wi]![Ma]![JS] | ![WT]![Fume]![CB] | ![Supercar] | ![JS]![Wi]![CB]<br>![JS]![Wi]![LB]<br>🦘 | ![WT]![Wi]![CB] | ![JS]![Wi]![CB] | ![OT]![Wi]![CB]<br>🦘 | ![Supercar] | ![Wi]![CB]![JS]<br>![Wi]![CB]![OT]<br>![OT]![JS] +<br>![WT]/![LB]/![Wi] | 🦘 | ![WT]![CB]![Wi] | 🦘 | ![Supercar] | 🦘 | ![JS]![Wi]![CB]<br>![JS]![Wi]![WT] | ![JS]![WT]![AC] | ![Wi]![RC]![WT] | ![Supercar]  
 ![Moonlander] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![Moonlander] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![LB]<br>![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![Moonlander] | ![CB]![WB]![Ma]<br>![CB]![WB]![LB] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![Moonlander] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![CB]![WB]![Ma] | ![Moonlander]  
 :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==:  
-Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Car | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Car | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Car  
+**Car** | **Countryside** | **ForestAdv** | **CityAdven** | **Mountains** | **Car** | **Rustbucket Reef** | **WinterAdv** | **MineAdven** | **BeachAdv** | **Car** | **DesertValley** | **Backwater Bog** | **Racier GlacierAdv** | **Patchwork Plant** | **Car** | **SkyRockOut** | **ForestTrials** | **IntenseCity** | **RagingWint** | **Car**  
 
 {**Best Vehicle**}, \*=Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on www.hcr2.info
-
 	
 	
 ### Best Map Setups
