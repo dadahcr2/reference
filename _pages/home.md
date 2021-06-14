@@ -682,10 +682,9 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="20px" width="20px" style="background-color:yellow"} 
  
 [Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png  
-  {: height="80px" width="128px"}   
-	
-	
+  {: height="40px" width="64px"}  
 [Scootery]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png  
+{: height="40px" width="64px"} 
 [Busy]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
 {: height="40px" width="64px"}  
  [Mk2y]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png 
