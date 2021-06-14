@@ -715,7 +715,7 @@ We are an open team, so no password.  If there is an spot available and the belo
  [Monoy]: https://media.discordapp.net/attachments/834726907978711081/834728886881091604/Monowheel.png 
  {: height="40px" width="64px"}  
  [Rallyy]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png 
- {: height="20px" width="32px" style="background-color:yellow"} 
+ {: height="40px" width="64px"}  
  [Formulay]: https://media.discordapp.net/attachments/834727004082667580/834729204683112458/Formula.png 
  {: height="40px" width="64px"} 
  [RTy]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png 
