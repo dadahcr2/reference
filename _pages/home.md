@@ -90,13 +90,13 @@ For more information on Public Events, please feel free to join the Public Event
 
 **RELEASE NOTES:**
 
-Tutorial improvements
-Removed Daily Neckflips Tasks (Be nice or we will add them back)
-Removed hard maps from all Daily Task types, except distance
-Additional improvements to Daily Tasks
-New Adventure Map: Gloomevale
-New driver looks – Ivar Icegrille
-New vehicle paint – Ivar’s Super Diesel (with animated spinner rims!).
+Tutorial improvements  
+- Removed Daily Neckflips Tasks (Be nice or we will add them back)
+- Removed hard maps from all Daily Task types, except distance
+- Additional improvements to Daily Tasks
+- New Adventure Map: Gloomevale
+- New driver looks – Ivar Icegrille  
+- New vehicle paint – Ivar’s Super Diesel (with animated spinner rims!).
 
 </details>
 
