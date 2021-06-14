@@ -684,8 +684,8 @@ We are an open team, so no password.  If there is an spot available and the belo
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
  
-[Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
-{: height="40px" width="64px"} 
+[Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png  
+{: height="40px" width="64px"}   
 [Scootery]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png 
 {: height="40px" width="64px"} 
 [Busy]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
@@ -696,16 +696,16 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="40px" width="64px"} 
 [Motoy]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png 
 {: height="40px" width="64px"} 
- [Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png 
- {: height="40px" width="64px"} 
- [Sportscary]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png 
+[Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png 
 {: height="40px" width="64px"} 
- [Monstery]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png 
+[Sportscary]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png 
+{: height="40px" width="64px"} 
+[Monstery]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png 
+{: height="40px" width="64px"} 
+[Rotatory]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png 
+{: height="40px" width="64px"} 
+[Diesely]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png 
  {: height="40px" width="64px"} 
- [Rotatory]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png 
- {: height="40px" width="64px"} 
- [Diesely]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png 
-  {: height="40px" width="64px"} 
  [Choppery]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png 
  {: height="40px" width="64px"} 
  [Tanky]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png 
