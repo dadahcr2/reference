@@ -232,10 +232,9 @@ Moonlander | LandingBoost
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 -->	
 
-
 Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Car | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Car | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Car  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-![jeep] | 🦘 | 🦘 | ![Wi]![JS]![Ma] | ![Wi]![WT]![Fume]<br>![Wi]![WT]![CB] | ![jeep] | 🦘 | 🦘 | 🦘 | ![Fume]![Wi]![OT] <br> ![Fume]![Wi]![JS]<br>🦘 | ![jeep] | 🦘 | 🦘 | 🦘 | 🦘 | ![jeep] | 🦘 | ![JS]![Wi]![CB]<br>🦘 | ![WT]![JS]![Wi] | ![Th]![Wi]![JS]<br>![Th]![Wi]![WT] | ![jeep]  
+![jeep] | 🦘 | 🦘 | ![Wi]![JS]![Ma] | ![Wi]![WT]![Fume]<br>![Wi]![WT]![CB] | ![jeep] | 🦘 | 🦘 | 🦘 | ![Fume]![Wi]![OT]<br>![Fume]![Wi]![JS]<br>🦘 | ![jeep] | 🦘 | 🦘 | 🦘 | 🦘 | ![jeep] | 🦘 | ![JS]![Wi]![CB]<br>🦘 | ![WT]![JS]![Wi] | ![Th]![Wi]![JS]<br>![Th]![Wi]![WT] | ![jeep]  
 ![scooter] | ![LB]![Wi]![WB]<br>🦘 | ![Wi]![WT]![Ma]<br>🦘 | ![JS]![Ma]![Th] | ![WT]![Wi]![LB] | ![scooter] | 🦘 | 🦘 | 🦘 | ![CB]![Wi]![LB] | ![scooter] | ![JS]![Th]![Wi]<br>🦘 | 🦘 | 🦘 | 🦘 | ![scooter] | 🦘 | ![Wi]![JS]![Ma]<br>🦘 | ![JS]![Th]![Ma] | ![JS]![Th]![Wi] | ![scooter]  
 ![Bus] | ![Fume]![Wi]![WB] | ![CB]![Fume]![Wi] | ![Wi]![Th]![Ma] | ![Fume]![WB]![Th]<br>![JS]![WB]![Th] | ![Bus] | ![Fume]![WB]![Wi] | ![Fume]![Ma]![Wi]<br>![Fume]![OT]![Wi] | ![JS]![Th]![Wi]<br>![OT]![Fume]![Wi]<br>![WB]![Wi]![OT]<br>![WB]![Wi]!![Th] | ![OT]![WB]![Wi]<br>![Th]![WB]![Wi] | ![Bus] | ![JS]![Th]![Fume]<br>![WB]![Fume] +<br>![OT]/![CB]/![Ma] | ![Fume]![Wi]![OT] | ![Fume]![WB]![Wi]<br>![JS]![Ma]![Wi] | ![JS]![Wi]![Th]<br>![Fume]![Wi]![Th] | ![Bus] | ![JS]![Fume]![Wi]<br>🦘 | ![Fume]![Wi]![Th] | ![JS]![Th]![Wi] | ![JS]![Th]![Wi] | ![Bus]  
 ![Mk2] | 🦘![RC]=1*  | ![Wi]![WB]![CB] ![RC]=1* | ![JS]![Wi]![Ma] ![RC]=1*  | ![WB]![WT]![Wi] ![RC]=1*  | ![Mk2] | ![Fume]![WB]![Wi]<br>🦘 ![RC]=1*  | 🦘![RC]=1* | 🦘 ![RC]=1* | ![WB]![Wi]![Fume]/![OT] ![RC]=1* | ![Mk2] | 🦘![RC]=1*  | ![Wi]![Fume]![CB]<br>🦘![RC]=1*  | 🦘![RC]=1*  | 🦘![RC]=1*  | ![Mk2] | 🦘![RC]=1*  | ![JS]![WB]![Wi] ![RC]=1*  | ![JS]![WB]![Wi] | ![JS]![Th]![Wi] | ![Mk2]  
@@ -245,14 +244,14 @@ Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | 
 ![Sportscar] | 🦘 | ![Wi]![OT]![WB]<br>🦘 DF=8 | ![JS]![Wi]![Ma] | ![OT]![WB] +<br>![WT]/![Fume]/![CB] DF=1 | ![Sportscar] | 🦘 | 🦘DF=1 | ![JS]![Wi]![WB]<br>![JS]![Wi]![OT]<br>🦘  | ![OT]![Wi]![WB]<br>![OT]![Wi]![Fume] DF=5 | ![Sportscar] | 🦘 | 🦘DF=5 | 🦘 | 🦘DF=8 | ![Sportscar] | 🦘 | ![JS]![WB]![Fume]<br>![JS]![WB]![Wi] DF=1 | ![JS]![Wi]![OT]<br>![JS]![Wi]![WB] DF=5 | ![OT]![Wi]![JS]<br>![OT]![Wi]![Th] DF=1 | ![Sportscar]  
 ![Monster] | ![Wi]![CB]![WB]<br>![Wi]![CB]![Fume] | ![Wi]![CB]![Fume]<br>![Wi]![CB]![WB]<br>![Wi]![CB]![Ma] | ![JS]![Wi]![Ma] | ![WB]![Wi]![CB] | ![Monster] | ![WB]![CB]![Wi] | ![CB]![Wi]![Fume]<br>![CB]![Wi]![Ma]<br>![CB]![Wi]![WT] | ![Wi]![WB]![CB]<br>![Wi]![WB]![Fume] | ![WB]![CB]![Wi] | ![Monster] | ![Wi]![OT]![CB]<br> 🦘 | ![Fume]![Wi]![CB]<br>![Ma]![Wi]![CB] | ![WB]![Wi]![CB] | ![JS]![CB]![Wi]<br>🦘 | ![Monster] | ![Wi]![WB]![CB]<br>🦘 | ![CB]![RC]![Wi] | ![WB]![Wi]![RC] | ![RC]![Wi]![Th] | ![Monster]  
 ![Rotator] | ![CB]![Fume]![Wi]<br>![CB]![Ma]![Wi] | ![Wi]![CB]![LB]<br>![Wi]![CB]![Ma] Br=1  | ![Wi]![Ma]![Th] Br=1 | ![Ma]![Fume]![CB] | ![Rotator] | ![Wi]![CB]![WB]<br>![Wi]![CB]![LB] Br=1 | ![Fume]![CB]![Wi] Br=1 | ![WB]![Fume]![Wi] | ![Wi]![CB]![WB]<br>![Wi]![CB]![OT] Br=1 | ![Rotator] | ![OT]![Wi]![CB] | ![Wi]![CB]![LB]<br>![Wi]![CB]![Ma] Br=1 | ![CB]![Wi]![WB] Br=1 | ![Wi]![CB]![WB] Br=1 | ![Rotator] | ![Wi]![CB]![Fume]<br>![Wi]![CB]![Ma] Br=1 | ![WT]![CB]![Wi]<br>![Fume]![CB]![Wi] | ![WB]![Wi]![Ma]<br>![WB]![Wi]![WT] Br=1 | ![CB]![Wi]![Th] | ![Rotator]  
-![Diesel] | 🦘 | 🦘 | ![JS]![Wi]![Th]<br>![JS]![Wi]![Ma] | ![WB]![Wi]![Fume] | ![Diesel] | ![OT]![Fume]![Wi]<br>🦘 | ![WB]![CB]![Wi]<br> ![OT]![CB]![Wi] | ![OT]![Fume]![Wi]<br>🦘 | ![Wi]![JS]![WT]^<br>🦘 | ![Diesel] | ![OT]![Fume]![CB]<br>🦘 | ![Wi]![JS]![WT]^ <br>🦘 | 🦘 | ![WB]![Wi]![Fume]<br>🦘 | ![Diesel] | 🦘 | 🦘 | ![JS]![WB]![Wi] | ![JS]![Th]![Wi] | ![Diesel]  
+![Diesel] | 🦘 | 🦘 | ![JS]![Wi]![Th]<br>![JS]![Wi]![Ma] | ![WB]![Wi]![Fume] | ![Diesel] | ![OT]![Fume]![Wi]<br>🦘 | ![WB]![CB]![Wi]<br> ![OT]![CB]![Wi] | ![OT]![Fume]![Wi]<br>🦘 | ![Wiy]![JSy]![WTy]^<br>🦘 | ![Diesel] | ![OT]![Fume]![CB]<br>🦘 | ![Wiy]![JSy]![WTy]^ <br>🦘 | 🦘 | ![WB]![Wi]![Fume]<br>🦘 | ![Diesel] | 🦘 | 🦘 | ![JS]![WB]![Wi] | ![JS]![Th]![Wi] | ![Diesel]  
 ![Chopper] | ![Wi]![LB]![CB]<br>![Wi]![LB]![WB] | ![Wi]![LB]![CB] | ![Wi]![Th]![Ma] | ![WT]![Fume]![WB] | ![Chopper] | ![LB]![Fume]![Wi] | ![Wi]![WT]![Fume]/![LB]/![CB] | ![LB]![Wi]![Th]<br>  ![LB]![Wi]![Fume] | ![Wi]![LB]![Fume]<br>![Wi]![LB]![WB] | ![Chopper] | ![LB]![Wi]![CB] | ![LB]![Wi]![CB]<br>![LB]![Wi]![Fume] | ![LB]![Fume]![Wi] | ![Fume]![Wi]![LB]<br>![Fume]![Wi]![WB] | ![Chopper] | ![LB]![CB]![Wi] | ![Th]![Wi]![Fume]<br>![Th]![Wi]![LB] | ![Th]![Wi]![WB] | ![Wi]![Th]![LB]<br>![Wi]![Th]![Fume] | ![Chopper]  
-![Tank] | ![Wi]![WB]![CB] ^ | ![Wi]![CB]![LB] | ![Wi]![Th]![JS]<br>![Wi]![Th]![RC] | ![WB]![Fume]![RC]<br>![WB]![Wi]![CB] | ![Tank] | ![OT]![CB]![Fume] | ![Wi]![CB]![LB] | ![OT]![Wi]![RC] | ![OT]![CB]![Wi] | ![Tank] | ![OT]![LB]![CB]<br>🦘 | ![LB]![Wi]![CB]^ | ![LB]![CB]![Wi]<br>🦘 | ![RC]![WB]![Wi]<br>![CB]![WB]![Wi] | ![Tank] | ![Wi]![LB]![CB]<br>🦘 | ![OT]![Wi]![RC] | ![WB]![Wi]![RC] | ![Wi]![Th]![RC] | ![Tank]  
+![Tank] | ![Wiy]![WBy]![CBy] ^ | ![Wi]![CB]![LB] | ![Wi]![Th]![JS]<br>![Wi]![Th]![RC] | ![WB] ![Fume]![RC]<br>![WB]![Wi]![CB] | ![Tank] | ![OT]![CB]![Fume] | ![Wi]![CB]![LB] | ![OT]![Wi]![RC] | ![OT]![CB]![Wi] | ![Tank] | ![OT]![LB]![CB]<br>🦘 | ![LBy]![Wiy]![CBy]^ | ![LB]![CB]![Wi]<br>🦘 | ![RC]![WB]![Wi]<br>![CB]![WB]![Wi] | ![Tank] | ![Wi]![LB]![CB]<br>🦘 | ![OT]![Wi]![RC] | ![WB]![Wi]![RC] | ![Wi]![Th]![RC] | ![Tank]  
 ![Snowmobile] | ![Wi]![LB]![CB] SW=1* | ![Wi]![CB]![Fume] | ![Wi]![RC]![Ma]<br>![Wi]![CB]![Ma] | ![Wi]+ ![LB]/![Fume]/![OT]<br>/![RC]/![WB] | ![Snowmobile] | ![OT]![Fume]![Wi] | ![CB]![Wi]![Ma]<br>![CB]![Wi]![Fume] | ![OT]![Wi]![Fume]<br>![OT]![Wi]![CB] SW=1* | ![OT]![Wi]![CB]<br>![OT]![Wi]![LB] | ![Snowmobile] | ![OT]![CB]![Fume] | ![Fume]![CB]![Wi]<br>![Ma]![CB]![Wi] | ![CB]![Fume]![Wi] | ![Wi]![OT]![Fume] | ![Snowmobile] | ![Wi]![OT]![RC] | ![RC]![Wi]![OT] | ![Wi]![Ma]![RC]<br>![Wi]![OT]![RC] | ![OT]![RC]![Wi] | ![Snowmobile]  
 ![Mono] | ![Wi]![CB]![Fume]<br> ![Wi]![OT]![Fume] | ![Wi]![CB]![Ma] | ![Wi]![JS]![Th]<br>![Wi]![JS]![Ma] | ![JS]![Th]![Wi] | ![Mono] | ![JS]![Wi]![Ma] | ![JS]![Th]![Wi] | ![JS]![Wi]![Th]<br>  ![OT]![Wi]![Fume] | ![OT]![Wi]![CB]<br>![OT]![Wi]![Fume] | ![Mono] | ![JS]![Th]![Wi] | ![JS]![Wi]![Th]<br>![JS]![Wi]![CB] | ![JS]![Fume]![Wi] | ![JS]![Fume]![Wi] | ![Mono] | ![Ma]![Th]![Wi]<br>![JS]![Th]![Wi] | ![JS]![Th]![Wi] | ![JS]![Ma]![Th]<br>![JS]![Wi]![Th] | ![JS]![Wi]![Th] | ![Mono]  
-![Rally] | ![Wi]![WT]![CB]<br>🦘 | ![Wi]![LB]![CBy]^<br>🦘 | ![WT]{: style="background-color:yellow"}![Wi]![CB]^ /![JS]/![Ma] | ![WT]![CB]![Wi]^<br>![WT]{: style="background-color:transparent"}![CB]![WB] | ![Rally] | ![LB]![CB]![Fume]<br>🦘 | ![WT]![Wi]![CBy]^ | ![LB]![Wi]![WT]<br>🦘^ | ![OT]![Wi]![CBy] | ![Rally] | ![OT]![Fume]![CB]^<br>🦘 | 🦘 | 🦘^  | 🦘^  | ![Rally] | 🦘^  | ![JS]![Wi]![WT]<br>🦘^  | ![JS]![Wi]![WT]^  | ![CB]![Wi]![WT]^ | ![Rally]  
+![Rally] | ![Wi]![WT]![CB]<br>🦘 | ![Wiy]![LBy]![CBy]^<br><mark>🦘</mark> | ![WTy]![Wiy]![CBy]^ /![JS]/![Ma]  | ![WTy]![CBy]![Wiy]^<br>![WT]![CB]![WB] | ![Rally] | ![LB]![CB]![Fume]<br>🦘 | ![WTy]![Wiy]![CBy]^ | ![LB]![Wi]![WT]<br><mark>🦘</mark>^ | ![OT]![Wi]![CB] | ![Rally] | ![OTy]![Fumey]![CBy]^<br>🦘 | 🦘 | <mark>🦘</mark>^  | <mark>🦘</mark>^  | ![Rally] | <mark>🦘</mark>^  | ![JS]![Wi]![WT]<br> <mark>🦘</mark>^   | ![JSy]![Wiy]![WTy]^  | ![CBy]![Wiy]![WTy]^ | ![Rally]  
 ![Formula] | 🦘 | ![Wi]![WT]![OT]<br>🦘 | ![WT]![Wi]![Ma] | ![OT]![Wi]![WT]<br>![OT]![CB]![WT] | ![Formula] | 🦘 | 🦘 | 🦘 | ![OT]![Ma]![WT]<br>🦘 | ![Formula] | 🦘 | 🦘 | 🦘 | 🦘 | ![Formula] | 🦘 | ![JS]![Wi]![WT]<br>🦘 | ![OT]![WT]![JS] | ![RC]![Wi]![WT]<br>![OT]![Wi]![WT] | ![Formula]  
-![RT] | ![Wi]![WB]![CB]<br>![Wi]![WB]![Fume] | ![Fume]![WB]![CB]<br>![Fume]![WB]![Ma]^ | ![Wi]![Ma]![JS]<br>![Wi]![Ma]![WB] | ![WT]![WB]![Ma]<br>![WT]![WB]![CB]<br>Dr=1 | ![RT] | ![WB]![Fume]![CB]^ | ![WB] +<br>![Wi]/![CB]<br>/![WT]/![OT] | ![WB]![Wi]![Fume] | ![WB]![Wi]![CB]^ | ![RT] | ![OT]![Wi]![WB] | ![WB]![CB]![Wi] | ![WB]![Fume]![Wi] | ![WB]![CB]![Wi] | ![RT] | ![Wi]![WB]![JS]<br>🦘 | ![WB]![CB]![Wi]<br>![WB]![JS]![Wi] | ![JS]![WB]![Wi]<br>![WT]![WB]![Wi] | ![JS]![Th]![Wi] | ![RT]  
+![RT] | ![Wi]![WB]![CB]<br>![Wi]![WB]![Fume] | ![Fume]![WB]![CB]<br>![Fumey]![WBy]![May]^ | ![Wi]![Ma]![JS]<br>![Wi]![Ma]![WB] | ![WT]![WB]![Ma]<br>![WT]![WB]![CB]<br>Dr=1 | ![RT] | ![WBy]![Fumey]![CBy]^ | ![WB] +<br>![Wi]/![CB]<br>/![WT]/![OT] | ![WB]![Wi]![Fume] | ![WBy]![Wiy]![CBy]^ | ![RT] | ![OT]![Wi]![WB] | ![WB]![CB]![Wi] | ![WB]![Fume]![Wi] | ![WB]![CB]![Wi] | ![RT] | ![Wi]![WB]![JS]<br>🦘 | ![WB]![CB]![Wi]<br>![WB]![JS]![Wi] | ![JS]![WB]![Wi]<br>![WT]![WB]![Wi] | ![JS]![Th]![Wi] | ![RT]  
 ![Hotrod] | ![JS]![LB]![CB] | ![LB]![CB]![Fume]<br>![LB]![CB]![JS] | ![Ma]![CB]![Fume]<br>![Ma]![CB]![WT] | ![CB]![LB]![WT] | ![Hotrod] | ![JS]![LB]![CB] | ![JS]![CB]![LB] | ![JS]![LB]![CB]<br> ![JS]![LB]![Fume] | ![Ma]![CB]![LB] | ![Hotrod] | ![JS]![CB]![LB] | ![CB]![LB]![JS] | ![JS]![CB]![LB] | ![Ma]![JS]![LB] | ![Hotrod] | ![LB]![JS]![CB] | ![LB]![JS]![CB] | ![WT]![JS]![Ma] | ![WT]![JS]![LB] | ![Hotrod]  
 ![Sbike] | ![Wi]![CB]![Fume] | ![Wi]![CB]![Ma]<br>![Wi]![Fume]![Ma] | ![Wi]![CB]![Ma]<br>![Wi]![WT]![Ma] | ![WT]![Wi]![CB] | ![Sbike] | ![LB]![Wi]![CB]<br>![CB]![Wi]![Ma] | ![Fume]![CB]![Wi] | ![CB]![Wi]![LB]<br> ![CB]![Wi]![Ma] | ![OT]![Wi]![CB]<br>![Fume]![Wi]![Ma] | ![Sbike] | ![OT]![CB]![Wi] | ![Fume]![CB]![Wi] | ![WT]![CB]![Wi] | ![Ma]![Wi]![CB]<br>![Ma]![Wi]![WB] | ![Sbike] | ![CB]![LB]![Wi]<br>![CB]![Fume]![Wi] | ![CB]![Wi]![Ma]<br>![CB]![Wi]![WT] | ![Ma]![Wi]![WT] | ![WT]![Wi]![Fume] | ![Sbike]  
 ![Supercar] | ![JS]![Wi]![CB]<br>🦘 | 🦘 | ![Wi]![Ma]![JS] | ![WT]![Fume]![CB] | ![Supercar] | ![JS]![Wi]![CB]<br>![JS]![Wi]![LB]<br>🦘 | ![WT]![Wi]![CB] | ![JS]![Wi]![CB] | ![OT]![Wi]![CB]<br>🦘 | ![Supercar] | ![Wi]![CB]![JS]<br>![Wi]![CB]![OT]<br>![OT]![JS] +<br>![WT]/![LB]/![Wi] | 🦘 | ![WT]![CB]![Wi] | 🦘 | ![Supercar] | 🦘 | ![JS]![Wi]![CB]<br>![JS]![Wi]![WT] | ![JS]![WT]![AC] | ![Wi]![RC]![WT] | ![Supercar]  
@@ -260,8 +259,9 @@ Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | 
 :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==:  
 **Car** | **Countryside** | **ForestAdv** | **CityAdven** | **Mountains** | **Car** | **Rustbucket Reef** | **WinterAdv** | **MineAdven** | **BeachAdv** | **Car** | **DesertValley** | **Backwater Bog** | **Racier GlacierAdv** | **Patchwork Plant** | **Car** | **SkyRockOut** | **ForestTrials** | **IntenseCity** | **RagingWint** | **Car**  
 
-^=Best, \*=Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on www.hcr2.info
+^=<mark>Best</mark>, \*=Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on www.hcr2.info  
 	
+
 	
 ### Best Map Setups
 	
@@ -684,50 +684,5 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="20px" width="20px" style="background-color:yellow"} 
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
-
-
-[Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
-{: height="20px" width="32px"} 
-[Scootery]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png 
-{: height="20px" width="32px"} 
-[Busy]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
-{: height="20px" width="32px"} 
-[Mk2y]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png 
-{: height="20px" width="32px"} 
-[Tractory]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png 
-{: height="20px" width="32px"} 
-[Motoy]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png 
-{: height="20px" width="32px"} 
-[Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png 
-{: height="20px" width="32px"} 
-[Sportscary]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png 
-{: height="20px" width="32px"} 
-[Monstery]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png 
-{: height="20px" width="32px"} 
-[Rotatory]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png 
-{: height="20px" width="32px"} 
-[Diesely]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png 
-{: height="20px" width="32px" style="background-color:yellow"} 
-[Choppery]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png 
-{: height="20px" width="32px"} 
-[Tanky]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png 
-{: height="20px" width="32px" style="background-color:yellow"} 
-[Snowmobiley]: https://media.discordapp.net/attachments/834726868111589406/834728755783139338/Snowmobile.png 
-{: height="20px" width="32px"} 
-[Monoy]: https://media.discordapp.net/attachments/834726907978711081/834728886881091604/Monowheel.png 
-{: height="20px" width="32px"} 
-[Rallyy]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png 
-{: height="20px" width="32px" style="background-color:yellow"} 
-[Formulay]: https://media.discordapp.net/attachments/834727004082667580/834729204683112458/Formula.png 
-{: height="20px" width="32px"} 
-[RTy]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png 
-{: height="20px" width="32px" style="background-color:yellow"} 
-[Hotrody]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png 
-{: height="20px" width="32px"} 
-[Sbikey]: https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png 
-{: height="20px" width="32px"} 
-[Supercary]: https://media.discordapp.net/attachments/833681748688633877/837807347992363058/icon-vehicle-lambo.png 
-{: height="20px" width="32px"} 
-[Moonlandery]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png 
-{: height="20px" width="32px"} 
+ 
 <a name="bottom"></a>
