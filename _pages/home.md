@@ -694,9 +694,9 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="40px" width="64px"} 
  [Tractory]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png 
 	{: height="40px" width="64px"} 
-[Motoy]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png
+[Motoy]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png  
 	{: height="40px" width="64px"} 
-[Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png
+[Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png  
 {: height="40px" width="64px"} 
 [Sportscary]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png  
 {: height="40px" width="64px"}  
