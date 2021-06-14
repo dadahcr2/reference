@@ -697,7 +697,7 @@ We are an open team, so no password.  If there is an spot available and the belo
 [Motoy]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png 
 {: height="40px" width="64px"} 
 [Buggyy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png 
-{: height="40px" width="64px"} 
+{: height="40px" width="64px" style="background-color:yellow"} 
 [Sportscary]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png 
 {: height="40px" width="64px"} 
 [Monstery]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png 
