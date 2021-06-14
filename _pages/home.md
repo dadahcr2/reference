@@ -232,7 +232,7 @@ Moonlander | LandingBoost
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 -->	
 
-Car | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Car | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Car | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Car  
+Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Car | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Car | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Car | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Car  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 ![jeepy] | 🦘 | 🦘 | ![Wi]![JS]![Ma] | ![Wi]![WT]![Fume]<br>![Wi]![WT]![CB] | ![jeepy] | 🦘 | 🦘 | 🦘 | ![Fume]![Wi]![OT] <br> ![Fume]![Wi]![JS]<br>🦘 | ![jeepy] | 🦘 | 🦘 | 🦘 | 🦘 | ![jeepy] | 🦘 | ![JS]![Wi]![CB]<br>🦘 | ![WT]![JS]![Wi] | ![Th]![Wi]![JS]<br>![Th]![Wi]![WT] | ![jeepy]  
 ![scootery] | ![LB]![Wi]![WB]<br>🦘 | ![Wi]![WT]![Ma]<br>🦘 | ![JS]![Ma]![Th] | ![WT]![Wi]![LB] | ![scootery] | 🦘 | 🦘 | 🦘 | ![CB]![Wi]![LB] | ![scootery] | ![JS]![Th]![Wi]<br>🦘 | 🦘 | 🦘 | 🦘 | ![scootery] | 🦘 | ![Wi]![JS]![Ma]<br>🦘 | ![JS]![Th]![Ma] | ![JS]![Th]![Wi] | ![scootery]  
