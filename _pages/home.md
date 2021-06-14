@@ -37,40 +37,14 @@ Finally, an accurate event title 😁
 	
 <details  markdown="block">
   <summary>
-    PE: Next (Superbike Wars)! 
+    PE: Superbike Wars 
   </summary>
 	
 ![](https://cdn.discordapp.com/attachments/750906124454330429/852968223636193320/image0.jpg)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
-		
-</details>
-
-<details  markdown="block">
-  <summary>
-    PE: More Torque
-  </summary>
-	
-### Public Event: More Torque (Wheelie)
-	
-![](https://pbs.twimg.com/media/E3bqkoDXwAEB2Cx.jpg:small)
-
-1. Bog 
-2. Beach
-3. Forest 
-4. City
-5. City
-6. Bog 
-7. Mountain
-8. Desert
-9. Glacier	
-
-Recommend: ![Buggy] ![Wi] ![WB] ![CB]	
-
-For more information on Public Events, please feel free to join the Public Event Discord Server
-<https://discord.gg/FZPnQbxZTQ>
-	
+			
 [Previous public event tracks]({{site.url}}/PrevPe/)
 
 </details>	
@@ -101,6 +75,29 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 	
+</details>
+
+<details  markdown="block">
+  <summary>
+   New Update 21 June 2021
+  </summary>
+
+### New Update 1.45.0
+
+> A brand new update for Hill Climb Racing 2 is rolling out now for all supported platforms with a global release target of 21/06/2021 - Featuring the all-new adventure map; Gloomvale! Don't lose your way in it's dark and ever-changing depths! Can you uncover the secret of the forest?
+
+![](https://fingersoft.com/app/uploads/2021/06/rollout-gloomvale-fb-1-819x1024.jpg)
+
+**RELEASE NOTES:**
+
+Tutorial improvements
+Removed Daily Neckflips Tasks (Be nice or we will add them back)
+Removed hard maps from all Daily Task types, except distance
+Additional improvements to Daily Tasks
+New Adventure Map: Gloomevale
+New driver looks – Ivar Icegrille
+New vehicle paint – Ivar’s Super Diesel (with animated spinner rims!).
+
 </details>
 
 ##  Wikis & Tutorials
