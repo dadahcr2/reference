@@ -592,15 +592,12 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 
 [Jeep]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
-{: height="20px" width="32px"} 
 [Scooter]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png 
-{: height="20px" width="32px"} 
 [Bus]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
-{: height="20px" width="32px"} 
 [Mk2]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png 
-{: height="20px" width="32px"} 
+
 [Tractor]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png 
-{: height="20px" width="32px"} 
+{: height="20px" width="32px"}  
 [Moto]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png 
 {: height="20px" width="32px"} 
 [Buggy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png 
@@ -686,8 +683,9 @@ We are an open team, so no password.  If there is an spot available and the belo
  
 [Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png  
   {: height="80px" width="128px"}   
+	
+	
 [Scootery]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png  
-
 [Busy]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
 {: height="40px" width="64px"}  
  [Mk2y]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png 
