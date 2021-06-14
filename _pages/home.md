@@ -684,7 +684,7 @@ We are an open team, so no password.  If there is an spot available and the belo
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
  
-	[Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
+[Jeepy]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
  {: height="40px" width="64px"} 
  [Scootery]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png 
  {: height="40px" width="64px"} 
