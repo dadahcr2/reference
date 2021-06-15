@@ -256,7 +256,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket
 :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==:  
 **Vehicle** | **Countryside** | **ForestAdv** | **CityAdven** | **Mountains** | **Vehicle** | **Rustbucket Reef** | **WinterAdv** | **MineAdven** | **BeachAdv** | **Vehicle** | **DesertValley** | **Backwater Bog** | **Racier GlacierAdv** | **Patchwork Plant** | **Vehicle** | **SkyRockOut** | **ForestTrials** | **IntenseCity** | **RagingWint** | **Vehicle**  
 
-<mark>Best</mark>, \*=Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on www.hcr2.info
+<mark>Best for the map</mark>, \*=Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on www.hcr2.info
 	
 ### Best Map Setups
 	
