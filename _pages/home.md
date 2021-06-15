@@ -705,7 +705,7 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="40px" width="64px"}  
 	
 [Rotatory]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png 
-{: height="40px" width="64px"} 
+{: height="40px" width="64px"  style="background:orange"} 
 	
 [Diesely]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png 
  {: height="40px" width="64px"} 
