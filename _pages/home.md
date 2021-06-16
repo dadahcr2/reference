@@ -69,6 +69,7 @@ Long Kick | Rally AirControl JumpShocks Thrusters
 Moon Stunts |![Buggy] ![AC] ![WT] ![Ma]
 Multi Jump | Diesel/Jeep Wings JumpShocks LandingBoost
 Nian Chase |  Rally WinterTires Wings CoinBoost
+Superbike Wars | ![SBike] ![Wi] ![Ab] ![WB]/![cb]
  Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
  Tractor Wars | Tractor Afterburner OverchargeTurbo CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
