@@ -41,6 +41,8 @@ Finally, an accurate event title 😁
   </summary>
 	
 ![](https://cdn.discordapp.com/attachments/850233265306468372/854526207168872448/image0.png)
+	
+![SB] ![Wing]![Ab]![cb]
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
