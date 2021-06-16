@@ -42,7 +42,7 @@ Finally, an accurate event title 😁
 	
 ![](https://cdn.discordapp.com/attachments/850233265306468372/854526207168872448/image0.png)
 	
-Suggestion: ![SBikey] ![Wix2] ![Abx2] ![cbx2]  
+&nbsp; Suggestion: ![SBikey] ![Wix2]![Abx2]![cbx2]  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
