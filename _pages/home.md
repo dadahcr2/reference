@@ -40,7 +40,7 @@ Finally, an accurate event title 😁
     PE: Superbike Wars 
   </summary>
 	
-![](https://cdn.discordapp.com/attachments/750906124454330429/852968223636193320/image0.jpg)
+![](https://cdn.discordapp.com/attachments/850233265306468372/854526207168872448/image0.png)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
