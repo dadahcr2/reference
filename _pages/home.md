@@ -42,7 +42,7 @@ Finally, an accurate event title 😁
 	
 ![](https://cdn.discordapp.com/attachments/850233265306468372/854526207168872448/image0.png)
 	
-![SB] ![Wing]![Ab]![cb]
+Suggestion: ![SB] ![Wi] ![Ab] ![cb]
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
@@ -69,7 +69,7 @@ Long Kick | Rally AirControl JumpShocks Thrusters
 Moon Stunts |![Buggy] ![AC] ![WT] ![Ma]
 Multi Jump | Diesel/Jeep Wings JumpShocks LandingBoost
 Nian Chase |  Rally WinterTires Wings CoinBoost
- Time-attack | Superbike Wings AfterBurner CoinBoost
+ Time-attack | ![SB] ![Wing] ![Ab] ![cb]
  Tractor Wars | Tractor Afterburner OverchargeTurbo CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
