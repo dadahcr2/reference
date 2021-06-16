@@ -634,14 +634,18 @@ We are an open team, so no password.  If there is an spot available and the belo
 	
 [Kay]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
-[ABy]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
-{: height="20px" width="20px"} 
+	
+[ABx2]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
+{: height="40px" width="40px"} 
+	
 [ACy]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png 
 {: height="20px" width="20px"} 
 [Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
 {: height="20px" width="20px"} 
-[CBy]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
-{: height="20px" width="20px" style="background-color:yellow"} 
+	
+[CBx2]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
+{: height="40px" width="40px"} 
+	
 [SBy]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png 
 {: height="20px" width="20px"} 
 [Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
@@ -674,8 +678,10 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="20px" width="20px" style="background-color:yellow"} 
 [WBy]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
-[Wiy]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png 
-{: height="20px" width="20px" style="background-color:yellow"} 
+	
+[Wix2]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png  
+{: height="40px" width="40px"}  
+	
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
  
@@ -745,5 +751,6 @@ We are an open team, so no password.  If there is an spot available and the belo
 [Moonlandery]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png  
 {: height="40px" width="64px"}  
 	
+
 	
 <a name="bottom"></a>
