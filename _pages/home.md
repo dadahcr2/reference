@@ -18,7 +18,7 @@ classes: wide
 
 ## Events & Previews
 <details  markdown="block">
-  <summary>p
+  <summary>
     TE: Don't Hate, Coordinate.
   </summary>	
 <br>  	
