@@ -6,8 +6,6 @@ classes: wide
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
-Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
-{: style="text-align: right;"}  
 
 <!-- <details  markdown="block">
   <summary>
