@@ -21,14 +21,15 @@ classes: wide
   <summary>
     TE: Preview
   </summary>	
-	
-bus buggy sportscar superbike supercar
+<br>  	
+***bus buggy sportscar superbike supercar***
 	
 1. No air, beach, 10k=18s
 2. Multi-jump, moon, 10k=500m
 3. Uphill distance, mine, 10k=500m
 4. Wheelie, Beach, 10k=600m  
-	
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/855293080926945350/xyzzy1623988158839.png)
 </details>
 <details  markdown="block">
   <summary>
