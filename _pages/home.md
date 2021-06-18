@@ -18,8 +18,8 @@ classes: wide
 
 ## Events & Previews
 <details  markdown="block">
-  <summary>
-    TE: Preview
+  <summary>p
+    TE: Don't Hate, Coordinate.
   </summary>	
 <br>  	
 ***bus buggy sportscar superbike supercar***
@@ -29,7 +29,7 @@ classes: wide
 3. Uphill distance, mine, 10k=500m
 4. Wheelie, Beach, 10k=600m  
 
-![](https://cdn.discordapp.com/attachments/719181324610437190/855293080926945350/xyzzy1623988158839.png)
+![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
 <details  markdown="block">
   <summary>
