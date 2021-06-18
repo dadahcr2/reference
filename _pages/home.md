@@ -17,7 +17,19 @@ classes: wide
 </details> -->  
 
 ## Events & Previews
-
+<details  markdown="block">
+  <summary>
+    TE: Preview
+  </summary>	
+	
+bus buggy sportscar superbike supercar
+	
+1. No air, beach, 10k=18s
+2. Multi-jump, moon, 10k=500m
+3. Uphill distance, mine, 10k=500m
+4. Wheelie, Beach, 10k=600m  
+	
+</details>
 <details  markdown="block">
   <summary>
     TE: Catastrophic Failure
