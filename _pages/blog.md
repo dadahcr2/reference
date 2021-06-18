@@ -7,8 +7,7 @@ classes: wide
 {{site.linethree}}  
 
 18 June  
-: - New Team Event  
-- Last build time
+: New Team Event  
 
 17 June  
 : New update
