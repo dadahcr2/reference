@@ -6,6 +6,16 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+18 June  
+: New Team Event
+: Last build time
+
+17 June  
+: New update
+
+16 June  
+: PE tracks  
+
 12 June  
 : Reformat of Adventure Vehicles Setups Table (how do you like it)?  
 
