@@ -6,6 +6,9 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+19 June  
+: TE vehicles  
+
 18 June  
 : New Team Event  
 
