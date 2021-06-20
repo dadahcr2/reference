@@ -31,22 +31,6 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
-<details  markdown="block">
-  <summary>
-    TE: Catastrophic Failure
-  </summary>	
-	
-### Team Event: Catastrophic Failure
-
-Finally, an accurate event title 😁
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/853721071177039882/image0.png)  
-	
-![](https://cdn.discordapp.com/attachments/750874271022317678/853387280819027968/DD00CF9D-73B2-4E32-90CC-D95B4788435B_4.png)
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/852801757302226944/xyzzy1623394180376.png)
-	
-</details>	
 	
 <details  markdown="block">
   <summary>
