@@ -3,7 +3,7 @@ permalink: /PrevPe/
 title: "Previous Public Events"
 classes: wide
 ---  
-- 2021-06-16 **Superbike Wars** Captain’s Log, Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant, Dusky Vale   
+- 2021-06-16 **Superbike Wars (Superbike Timed)** Captain’s Log, Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant, Dusky Vale   
 - 2021-06-09 **More Torque (Wheelie)**  1.Bog 2.Beach 3.Forest 4.City 5.City 6.Bog 7.Mountain 8.Desert 9. Glacier  
 - 2021-06-02 **Moons of Mischief (Moon Stunts)**
 - 2021-05-26 **The Fast and the Last (2km adv)** Beach, City, Forest, Desert, Bog  
@@ -11,10 +11,10 @@ classes: wide
 - 2021-05-12 **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6  
 - 2021-05-05 **Anger Management (Breaking)** Demolition 1-6  
 - 2021-04-28 **Jump like you mean it (Multi Jump)** Multi jump 1-10  
-- 2021-04-21 **Tractor Wars (Tractor)** Beach Boys, Bumpy Ride, No Skidding, Hot Tarmac, SeeSaw Road, Showgrounds, Silo Showdown, The Dip, The Dunes, Trial of Fall 
+- 2021-04-21 **Tractor Wars (Tractor Timed)** Beach Boys, Bumpy Ride, No Skidding, Hot Tarmac, SeeSaw Road, Showgrounds, Silo Showdown, The Dip, The Dunes, Trial of Fall 
 - **Counterbalance Crisis (Wheelie)** Wheelie 1-9: Country, Beach, Mine, Underwater, Winter, Bog, Mountain, Desert, Glacier 
 - **Cheese Wheel (Moon Stunts)** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops - **Egg carting (cargo)** Muddy road, Happy miner Whipclash, Lost in transmission, The dip, The quarry, Smooth curves, Logs and rocks, Fury road, Spartan Racing, Barn ride
-- **Mono Wars 2 (monowheel)** Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant,  Nose Miner, Captain’s Log 
+- **Mono Wars 2 (Monowheel Timed)** Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant,  Nose Miner, Captain’s Log 
 - **Accelerating Allergies (Timed)** Muddy road, Circuit 9, Down the tube, Tired alligators, Coral quarrel, Take off, Trials of fall, The Quarry, Fast lane, Highs and lows -  *Superbike afterburner coinboost wings*
 - **Sky Rock Sonnet (Moon Long Jump)** Moon Jump 1-6
 - **Red Car'd (Long Kick)** Long Kick 1-8 
