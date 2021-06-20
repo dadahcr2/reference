@@ -54,8 +54,6 @@ Finally, an accurate event title 😁
   </summary>
 
 ![](https://pbs.twimg.com/media/E3_ts44XIAAaLnV.jpg:small)   
-
-![](https://cdn.discordapp.com/attachments/850233265306468372/854526207168872448/image0.png)
 	
 &nbsp; Suggestion: ![SBikey]![Wix2]![Abx2]![cbx2]  
 
