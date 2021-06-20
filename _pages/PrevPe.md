@@ -2,7 +2,8 @@
 permalink: /PrevPe/
 title: "Previous Public Events"
 classes: wide
----
+---  
+- 2021-06-16 **Superbike Wars** Captain’s Log, Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant, Dusky Vale   
 - 2021-06-09 **More Torque (Wheelie)**  1.Bog 2.Beach 3.Forest 4.City 5.City 6.Bog 7.Mountain 8.Desert 9. Glacier  
 - 2021-06-02 **Moons of Mischief (Moon Stunts)**
 - 2021-05-26 **The Fast and the Last (2km adv)** Beach, City, Forest, Desert, Bog  
