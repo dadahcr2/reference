@@ -24,10 +24,10 @@ classes: wide
 <br>  	
 ***bus buggy sportscar superbike supercar***
 	
-1. No air, beach, 10k=18s
-2. Multi-jump, moon, 10k=500m
-3. Uphill distance, mine, 10k=500m
-4. Wheelie, Beach, 10k=600m  
+1. No air, beach, 10k=18s - superbike
+2. Multi-jump, moon, 10k=500m - bus, supercar
+3. Uphill distance, mine, 10k=500m - buggy, bus
+4. Wheelie, Beach, 10k=600m - sportscar, buggy  
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
