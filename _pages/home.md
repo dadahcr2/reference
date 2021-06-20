@@ -24,10 +24,10 @@ classes: wide
 <br>  	
 ***bus buggy sportscar superbike supercar***
 	
-1. No air, beach, 10k=18s - superbike
-2. Multi-jump, moon, 10k=500m - bus, supercar, sportscar
-3. Uphill distance, mine, 10k=500m - buggy, bus
-4. Wheelie, Beach, 10k=600m - sportscar, buggy  
+1. No air, beach, 10k=18s - ![sbikey]
+2. Multi-jump, moon, 10k=500m - ![busy], ![supercary], ![sportscary]
+3. Uphill distance, mine, 10k=500m - ![buggyy], ![busy]
+4. Wheelie, Beach, 10k=600m - ![sportscary], ![buggyy]  
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
@@ -59,6 +59,8 @@ Finally, an accurate event title 😁
 	
 &nbsp; Suggestion: ![SBikey]![Wix2]![Abx2]![cbx2]  
 
+![](https://cdn.discordapp.com/attachments/852315313286545448/856222588950806549/image0.png)  
+	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 			
