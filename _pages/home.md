@@ -31,17 +31,27 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
+
+<details  markdown="block">
+  <summary>
+    PE: Under Pressure
+  </summary>
+
+![](https://cdn.discordapp.com/attachments/852315313286545448/856604325236178974/image0.png)  
+
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+			
+[Previous public event tracks]({{site.url}}/PrevPe/)  
+	
+</details>
 	
 <details  markdown="block">
   <summary>
-    PE: Superbike Wars 
+    PE: Moon Event 
   </summary>
 
-![](https://pbs.twimg.com/media/E3_ts44XIAAaLnV.jpg:small)   
-	
-&nbsp; Suggestion: ![SBikey]![Wix2]![Abx2]![cbx2]  
-
-![](https://cdn.discordapp.com/attachments/852315313286545448/856222588950806549/image0.png)  
+![](https://cdn.discordapp.com/attachments/852315313286545448/856604325593874442/image1.png)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
