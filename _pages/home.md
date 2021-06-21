@@ -58,20 +58,20 @@ For more information on Public Events, please feel free to join the Public Event
 ### Public Event Setups
 
 Event | Suggested Vehicle and Parts
-:-- | :--
+:-- | :--	
 2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]
-Breaking | Rally HeavyWeight WinterTires AfterBurner
-Cargo | Superbike/Monster Wings AfterBurner CoinBoost
-Long Kick | Rally AirControl JumpShocks Thrusters
- Mono Wars | Monowheel Wings Thrusters Fuel
- Moon Long Jump | Bus Thrusters Wing Magnet/JumpShocks
-Moon Stunts |![Buggy] ![AC] ![WT] ![Ma]
-Multi Jump | Diesel/Jeep Wings JumpShocks LandingBoost
-Nian Chase |  Rally WinterTires Wings CoinBoost
+Breaking | ![rally] ![hw] ![wt] ![ab]
+Cargo | ![sbike]/![Monster] ![wi] ![ab] ![cb]
+Long Kick | ![Rally] ![ac] ![js] ![th]
+Mono Wars | ![Mono] ![wi] ![th] ![Fuel]
+Moon Long Jump |![Bus] ![th] ![wi] ![ma]/![js]
+Moon Stunts | ![Buggy] ![AC] ![WT] ![Ma]
+Multi Jump | ![Diesel]/![Jeep] ![wi] ![js] ![lb]
+Nian Chase |  ![Rally] ![wt] ![wi] ![cb]
 Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]
- Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
- Tractor Wars | Tractor Afterburner OverchargeTurbo CoinBoost
- Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
+Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
+Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
+Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
