@@ -53,7 +53,6 @@ For more information on Public Events, please feel free to join the Public Event
   <summary>
     PE: Moon Event 
   </summary>
-![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)  
 	
 ![](https://cdn.discordapp.com/attachments/852315313286545448/856604325593874442/image1.png)  
 	
