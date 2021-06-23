@@ -38,8 +38,7 @@ classes: wide
 	 
   </summary>
 
-![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)  
-![<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	
+![![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	
 	
 ![](https://cdn.discordapp.com/attachments/852315313286545448/856604325236178974/image0.png)   	
 	
