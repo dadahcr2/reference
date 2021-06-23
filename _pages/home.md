@@ -32,7 +32,7 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
 
-<details  markdown="block">
+<details open  markdown="block">
   <summary>
     PE: Under Pressure (Cargo)
 	 
@@ -40,7 +40,7 @@ classes: wide
 
 ![![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	
 	
-![](https://cdn.discordapp.com/attachments/852315313286545448/856604325236178974/image0.png)   	
+![](https://cdn.discordapp.com/attachments/852315313286545448/857257298665930772/image0.png)   	
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
