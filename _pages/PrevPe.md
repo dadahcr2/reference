@@ -13,7 +13,8 @@ classes: wide
 - 2021-04-28 **Jump like you mean it (Multi Jump)** Multi jump 1-10  
 - 2021-04-21 **Tractor Wars (Tractor Timed)** Beach Boys, Bumpy Ride, No Skidding, Hot Tarmac, SeeSaw Road, Showgrounds, Silo Showdown, The Dip, The Dunes, Trial of Fall 
 - **Counterbalance Crisis (Wheelie)** Wheelie 1-9: Country, Beach, Mine, Underwater, Winter, Bog, Mountain, Desert, Glacier 
-- **Cheese Wheel (Moon Stunts)** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops - **Egg carting (cargo)** Muddy road, Happy miner Whipclash, Lost in transmission, The dip, The quarry, Smooth curves, Logs and rocks, Fury road, Spartan Racing, Barn ride
+- **Cheese Wheel (Moon Stunts)** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops  
+- **Egg carting (cargo)** Muddy road, Happy miner Whipclash, Lost in transmission, The dip, The quarry, Smooth curves, Logs and rocks, Fury road, Spartan Racing, Barn ride  
 - **Mono Wars 2 (Monowheel Timed)** Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant,  Nose Miner, Captain’s Log 
 - **Accelerating Allergies (Timed)** Muddy road, Circuit 9, Down the tube, Tired alligators, Coral quarrel, Take off, Trials of fall, The Quarry, Fast lane, Highs and lows -  *Superbike afterburner coinboost wings*
 - **Sky Rock Sonnet (Moon Long Jump)** Moon Jump 1-6
