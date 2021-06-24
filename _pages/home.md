@@ -40,7 +40,7 @@ classes: wide
 
 ![![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	
 	
-![](https://cdn.discordapp.com/attachments/852315313286545448/857257298665930772/image0.png)   	
+![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)   	
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
