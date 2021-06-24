@@ -16,7 +16,7 @@ classes: wide
 {:toc}
 </details> -->  
 
-## Events & Previews
+## Events & Updates
 <details  markdown="block">
   <summary>
     TE: Don't Hate, Coordinate.
@@ -32,7 +32,7 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 </details>
 
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     PE: Under Pressure (Cargo)
 	 
@@ -114,7 +114,34 @@ Tutorial improvements
 - New vehicle paint – Ivar’s Super Diesel (with animated spinner rims!).
 
 </details>
+<details  markdown="block">
+  <summary>
+   League Updates
+  </summary>
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
+	
+**Season 2**
 
+C.C. - after 11 matches
+![](https://cdn.discordapp.com/attachments/847866414638432256/857756339824492564/image0.png)
+- Demotion demarcation roughly 2215 average score
+- For C.C.  there are more teams averaging 3000-3500 than 2500-3000, which may indicate two separate population groups. I.e. the super-teams vs the rest. This property is called heteroscedasticity.  And that is your stats lesson for the day 😁
+
+Division 1 - after 11 matches
+![](https://cdn.discordapp.com/attachments/847867054635876383/857756404277051432/image0.png)
+- So after 11 matches, it looks like demotion for those with <2000 average score, and promotion for those averaging 3000 or more (roughly)
+- it will be interesting to see if this changes going into season end - or if some marginal teams will decline to play.								 
+
+**Season 1**
+
+C.C. - after 10 matches
+![](https://cdn.discordapp.com/attachments/847866414638432256/849385276241608744/image0.png)
+
+- 10 abandoned teams!
+- Max points is 4526 for 100 players, split between the two teams.  However. many teams are not full so total points will be less on average, say 4500. Accordingly averaging at least half this (2250) should be enough to not get demoted (but no guarantee).  Therefore, assuming 15 matches over the season, a total of 2250x15=33750 may be enough to be in the top 50, and thus avoid relegation.  Best of luck!
+	
+</details>
+	
 ##  Wikis & Tutorials
 
 <details  markdown="block">
@@ -445,7 +472,7 @@ Note: Distances are within 1m or so
     Season Rewards
   </summary>
 	
-### Team Season Rewards  
+### Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 	
 ### Season Bonus Chest
