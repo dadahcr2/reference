@@ -6,6 +6,12 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+24 June  
+: Added league updates section  
+
+23 June  
+: PE setups  
+
 21 June  
 : New PE teasers  
 
