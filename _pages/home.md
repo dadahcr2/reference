@@ -122,19 +122,16 @@ Tutorial improvements
 	
 **Season 2**
 
-C.C. - after 11 matches
 ![](https://cdn.discordapp.com/attachments/847866414638432256/857756339824492564/image0.png)
-- Demotion demarcation roughly 2215 average score
-- For C.C.  there are more teams averaging 3000-3500 than 2500-3000, which may indicate two separate population groups. I.e. the super-teams vs the rest. This property is called heteroscedasticity.  And that is your stats lesson for the day 😁
+- After 11 matches, the relegation demarcation is roughly 2215 average score
+- For C.C., there are more teams averaging 3000-3500 than 2500-3000, which may indicate two separate population groups. I.e. the super-teams vs the rest. This property is called heteroscedasticity.  And that is your stats lesson for the day 😁
 
-Division 1 - after 11 matches
 ![](https://cdn.discordapp.com/attachments/847867054635876383/857756404277051432/image0.png)
-- So after 11 matches, it looks like demotion for those with <2000 average score, and promotion for those averaging 3000 or more (roughly)
+- So after 11 matches, it looks like relegation for those with <2000 average score, and promotion for those averaging 3000 or more (roughly)
 - it will be interesting to see if this changes going into season end - or if some marginal teams will decline to play.								 
 
 **Season 1**
-
-C.C. - after 10 matches
+								    
 ![](https://cdn.discordapp.com/attachments/847866414638432256/849385276241608744/image0.png)
 
 - 10 abandoned teams!
