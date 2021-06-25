@@ -35,7 +35,7 @@ classes: wide
     TE: Don't Hate, Coordinate.
   </summary>	
 <br>  	
-***bus buggy sportscar superbike supercar***
+![busy] ![buggyy] ![sportscary] ![sbikey] ![supercary]  
 	
 1. No air, beach, 10k=18s - ![sbikey]
 2. Multi-jump, moon, 10k=500m - ![busy], ![supercary], ![sportscary]
