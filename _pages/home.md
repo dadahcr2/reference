@@ -43,6 +43,17 @@ classes: wide
 4. Wheelie, Beach, 10k=600m - ![sportscary], ![buggyy]  
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
+
+</details>
+<details  markdown="block">
+  <summary>
+    TE: Don't Hate, Coordinate.
+  </summary>	
+<br>  	
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/858037591198793738/image0.png)
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/857958222320893962/xyzzy1624623576270.png)  
 </details>
 
 <details  markdown="block">
