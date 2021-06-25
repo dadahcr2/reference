@@ -47,7 +47,7 @@ classes: wide
 </details>
 <details  markdown="block">
   <summary>
-    TE: Don't Hate, Coordinate.
+    TE: You are the weakest link
   </summary>	
 <br>  	
 
