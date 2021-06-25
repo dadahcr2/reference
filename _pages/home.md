@@ -159,7 +159,7 @@ Tutorial improvements
 ![](https://cdn.discordapp.com/attachments/847866414638432256/849385276241608744/image0.png)
 
 - 10 abandoned teams!
-- Max points is 4526 for 100 players, split between the two teams.  However. many teams are not full so total points will be less on average, say 4500. Accordingly averaging at least half this (2250) should be enough to not get demoted (but no guarantee).  Therefore, assuming 15 matches over the season, a total of 2250x15=33750 may be enough to be in the top 50, and thus avoid relegation.  Best of luck!
+- Max points is 4526 for 100 players, split between the two teams.  However. many teams are not full (and a few may not match) so total points will be less on average, say 4500. Accordingly averaging at least half this (2250) should be enough to not get demoted (but no guarantee).  Therefore, assuming 15 matches over the season, a total of 2250x15=33750 may be enough to be in the top 50, and thus avoid relegation.  Best of luck!
 	
 </details>
 	
