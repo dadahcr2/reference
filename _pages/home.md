@@ -17,19 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
-<details  markdown="block">
-  <summary>
-    TE: Preview (You are the weakest link?)
-  </summary>	
-<br>  	
-**Scooter mk2 diesel rally hotrod**  
-	
-1. Long Jump (mine)
-2. Watery Tunnel (Cup of City Water 2), timed
-3. Forest 2km, timed
-4. Multi-jump (mine)
-	
-</details>
+
 <details  markdown="block">
   <summary>
     TE: Don't Hate, Coordinate.
