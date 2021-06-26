@@ -75,10 +75,10 @@ For more information on Public Events, please feel free to join the Public Event
 	
 <details  markdown="block">
   <summary>
-    PE Setups
+    PE Setups & Previous Events
   </summary>
 	
-### Public Event Setups & Previous Events
+### Public Event Setups
 
 Event | Suggested Vehicle and Parts
 :-- | :--	
@@ -100,7 +100,7 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 
-[Previous public event tracks]({{site.url}}/PrevPe/)  
+[**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
 </details>
 
