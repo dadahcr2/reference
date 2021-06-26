@@ -140,7 +140,7 @@ Tutorial improvements
 </details>
 <details  markdown="block">
   <summary>
-   League Updates
+   Leagues
   </summary>
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 	
