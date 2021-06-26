@@ -35,7 +35,7 @@ classes: wide
 </details>
 <details  markdown="block">
   <summary>
-    TE: You are the weakest link
+    TE: You are the Weakest Link
   </summary>	
 <br>  	
 
