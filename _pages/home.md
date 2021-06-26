@@ -20,6 +20,17 @@ classes: wide
 
 <details  markdown="block">
   <summary>
+    TE: You are the Weakest Link
+  </summary>	
+<br>  	
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/858041456266444810/image0.png)
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/857958222320893962/xyzzy1624623576270.png)  
+</details>
+
+<details  markdown="block">
+  <summary>
     TE: Don't Hate, Coordinate.
   </summary>	
 <br>  	
@@ -33,16 +44,7 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
 
 </details>
-<details  markdown="block">
-  <summary>
-    TE: You are the Weakest Link
-  </summary>	
-<br>  	
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/857958222320893962/xyzzy1624623576270.png)  
-</details>
 
 <details  markdown="block">
   <summary>
