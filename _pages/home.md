@@ -181,8 +181,9 @@ Tutorial improvements
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 
-[🔝](#top)    
-{: style="text-align: center;"}  
+[Back to Top](#top)    
+{: style="text-align: right;"}  
+
 	
 </details>	
 	
@@ -264,8 +265,9 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
-[🔝](#top)    
-{: style="text-align: center;"}  
+[Back to Top](#top)    
+{: style="text-align: right;"}  
+
 
 </details>  
 
@@ -365,8 +367,9 @@ Moonlander | Magnet WheelieBoost CoinBoost
 Where DF=DownForce, S=Suspension, SW=SkiWax
 (_Source: [PR]linus 10k runs_: https://youtu.be/0hLcQWIaLSg)
 
-[🔝](#top)    
-{: style="text-align: center;"}  
+[Back to Top](#top)    
+{: style="text-align: right;"}  
+
 
 </details>	
 	
@@ -385,8 +388,9 @@ Distance | Obstacle
 23 600 | Moat
 25 600 | Moat
 
-[🔝](#top)    
-{: style="text-align: center;"}  
+[Back to Top](#top)    
+{: style="text-align: right;"}  
+
 </details>  
 <details  markdown="block">
   <summary>
