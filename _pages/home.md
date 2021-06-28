@@ -181,10 +181,7 @@ Tutorial improvements
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 
-[Back to Top](#top)    
-{: style="text-align: right;"}  
 
-	
 </details>	
 	
 ## Vehicles
@@ -265,8 +262,6 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
-[Back to Top](#top)    
-{: style="text-align: right;"}  
 
 
 </details>  
@@ -367,9 +362,6 @@ Moonlander | Magnet WheelieBoost CoinBoost
 Where DF=DownForce, S=Suspension, SW=SkiWax
 (_Source: [PR]linus 10k runs_: https://youtu.be/0hLcQWIaLSg)
 
-[Back to Top](#top)    
-{: style="text-align: right;"}  
-
 
 </details>	
 	
@@ -426,8 +418,6 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
-[🔝](#top)    
-{: style="text-align: center;"}  
 	
 </details>	
 	
@@ -477,8 +467,6 @@ Map Type | Tracks
 
 Note: Distances are within 1m or so
 
-[🔝](#top)    
-{: style="text-align: center;"}  
 
 </details>	
 		
