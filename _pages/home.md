@@ -65,7 +65,7 @@ For more information on Public Events, please feel free to join the Public Event
 	
 <details  markdown="block">
   <summary>
-    PE: Moon Event 
+    PE: We don't need roads (Moon Event) 
   </summary>
 	
 ![](https://cdn.discordapp.com/attachments/852315313286545448/856604325593874442/image1.png)  
