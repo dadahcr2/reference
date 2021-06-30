@@ -45,7 +45,7 @@ classes: wide
 
 </details> -->
 
-
+<!--
 <details  markdown="block">
   <summary>
     PE: Under Pressure (Cargo)
@@ -61,15 +61,29 @@ classes: wide
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 			
-</details>
+</details> -->
 	
 <details  markdown="block">
   <summary>
-    PE: We don't need roads (Moon Event) 
+    PE: We don't need roads (Moon Jump) 
   </summary>
 	
 ![](https://cdn.discordapp.com/attachments/852315313286545448/856604325593874442/image1.png)  
 	
+**We Don’t Need Roads** 
+
+Bus Thrusters Wing Magnet/JumpShocks
+
+This is from the last moon jump: 
+
+Tracks: **Moon Jump 1-6**
+1. bus wing thrusters fuel 672m 
+2. bus thrusters magnet 592m
+3. bus wing thrusters magnet 719m
+4. bus jumpshocks wing thrusters 576m
+5. bus wing thrusters magnet 792m - i think this is the same track: https://youtu.be/xmqNlIk3gtQ  
+6. bus wing jumpshocks thrusters 632m
+
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 
