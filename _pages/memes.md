@@ -7,6 +7,10 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+July 1
+
+![](https://images-ext-2.discordapp.net/external/gEfNgchM3JiP57IIvqPQmwceVWQRoHJLIYHVHIVn-fE/https/i.imgur.com/T1V59A9.png)
+
 June 9  
 
 ![](https://cdn.discordapp.com/attachments/851788477506912266/851791708944334858/Screenshot_20210308-145951_Meme_Generator_Free.jpg)
