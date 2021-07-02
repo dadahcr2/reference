@@ -145,15 +145,16 @@ Tutorial improvements
   <summary>
    Season Rewards
   </summary>
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  	
+	
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
+	
 </details>
 
 <details  markdown="block">
   <summary>
    Leagues Stats
   </summary>
-### Rewards	
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
+
 ### Final Analysis for Season 2 - After 14 Matches
 	
 The analysis is based on results after 14 matches as many teams missed the matching deadline for the 15th match, and I did not want the results distorted by this.
