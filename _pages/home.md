@@ -146,7 +146,7 @@ Tutorial improvements
   <summary>
    Leagues Stats
   </summary>
-### Season Rewards	
+### Rewards	
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 ### Final Analysis for Season 2 - After 14 Matches
 	
@@ -556,7 +556,7 @@ Note: Distances are within 1m or so
     Season Rewards
   </summary>
 	
-### Season Rewards  
+### League Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 	
 ### Season Bonus Chest
