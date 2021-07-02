@@ -34,11 +34,11 @@ classes: wide
     TE: Preview
   </summary>	
  
-**`Jeep tractor rotator formula moonlander`**
-1 no airtime - formula
-2 moon stunts - jeep
-3 timed mine downhill - rotator
-4 timed classic - tractor
+**`Jeep tractor rotator formula moonlander`**  
+1 no airtime - formula  
+2 moon stunts - jeep  
+3 timed mine downhill - rotator  
+4 timed classic - tractor  
 
 </details>
 
