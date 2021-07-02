@@ -28,7 +28,7 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/857958222320893962/xyzzy1624623576270.png)  
 </details>
-<!--
+
 <details  markdown="block">
   <summary>
     TE: Preview
@@ -40,7 +40,7 @@ classes: wide
 3 timed mine downhill - rotator
 4 timed classic - tractor
 
-</details> -->
+</details>
 
 <!--
 <details  markdown="block">
