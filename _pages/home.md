@@ -219,7 +219,7 @@ A few observations:
 ![](https://media.discordapp.net/attachments/847866414638432256/860209197899841536/Screenshot_2021-07-01-19-03-45-951_com.miui.gallery.jpg?width=1443&height=649)  
 ![](https://media.discordapp.net/attachments/847866414638432256/860209198498447370/Screenshot_2021-07-01-19-03-57-143_com.miui.gallery.jpg?width=1443&height=649)  
 100th team ЖУКОРАМА with 0 trophies.  
--- *Source: Apru*  	
+— *Source: Apru*  	
 </details>
 
 
@@ -231,7 +231,7 @@ A few observations:
 
 ![](https://media.discordapp.net/attachments/847867054635876383/860212912068624424/div1.jpg?width=578&height=1344)  
 ![](https://media.discordapp.net/attachments/847867054635876383/860214562242691082/div1-2.jpg?width=836&height=1343)  
--- *Source: Apru*  
+— *Source: Apru*  
 </details>
 	
 ##  Wikis & Tutorials
