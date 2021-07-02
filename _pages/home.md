@@ -202,11 +202,9 @@ A few observations:
 	
 </details>
 
-## Leagues	
-	
 <details  markdown="block">
   <summary>
-    C.C. - Season 2 - Final Results
+    Season 2 - Final Results - C.C.
   </summary>
 	
 ![](https://media.discordapp.net/attachments/847866414638432256/860208804842307644/Screenshot_2021-07-01-19-02-04-198_com.miui.gallery.jpg?width=2182&height=982)  	
@@ -227,7 +225,7 @@ A few observations:
 	
 <details  markdown="block">
   <summary>
-    Div. 1 - Season 2 - Final Results
+    Season 2 - Final Results - Div. 1
   </summary>
 
 ![](https://media.discordapp.net/attachments/847867054635876383/860212912068624424/div1.jpg?width=578&height=1344)  
