@@ -234,6 +234,7 @@ A few observations:
 ![](https://media.discordapp.net/attachments/847867054635876383/860214562242691082/div1-2.jpg?width=836&height=1343)  	
 	
 </details>
+	
 ##  Wikis & Tutorials
 
 <details  markdown="block">
