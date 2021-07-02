@@ -141,7 +141,13 @@ Tutorial improvements
 </details>
 
 ## Leagues	
-	
+<details  markdown="block">
+  <summary>
+   Season Rewards
+  </summary>
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  	
+</details>
+
 <details  markdown="block">
   <summary>
    Leagues Stats
