@@ -31,17 +31,14 @@ classes: wide
 <!--
 <details  markdown="block">
   <summary>
-    TE: Don't Hate, Coordinate.
+    TE: Preview
   </summary>	
-<br>  	
-![busy] ![buggyy] ![sportscary] ![sbikey] ![supercary]  
-	
-1. No air, beach, 10k=18s - ![sbikey]
-2. Multi-jump, moon, 10k=500m - ![busy], ![supercary], ![sportscary]
-3. Uphill distance, mine, 10k=500m - ![buggyy], ![busy]
-4. Wheelie, Beach, 10k=600m - ![sportscary], ![buggyy]  
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/855415215452848138/xyzzy1624017277721.png)
+ 
+**`Jeep tractor rotator formula moonlander`**
+1 no airtime - formula
+2 moon stunts - jeep
+3 timed mine downhill - rotator
+4 timed classic - tractor
 
 </details> -->
 
