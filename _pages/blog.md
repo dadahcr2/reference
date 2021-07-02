@@ -6,6 +6,9 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+2 July  
+: Updated Leagues Stats, and added Season 2 final results for C.C. & Div. 1  
+
 1 July  
 : New meme  
 
