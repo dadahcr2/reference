@@ -31,15 +31,14 @@ classes: wide
 
 <details markdown="block">
   <summary>
-    TE: Preview
+    TE: TROPHY HUNTERS  
   </summary>	
  
 **`Jeep tractor rotator formula moonlander`**  
-1 no airtime - formula  
-2 moon stunts - jeep  
-3 timed mine downhill - rotator  
-4 timed classic - tractor  
-
+  
+![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)
+	
+![](https://cdn.discordapp.com/attachments/719181324610437190/860489729631977482/xyzzy1625227136281.png)
 </details>
 
 <!--
