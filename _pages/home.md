@@ -43,8 +43,8 @@ classes: wide
 **Approximate Scoring**  
 T1: 17.5s=10k less 1k for every +1.5s  
 T2: 1200=10k less 1k for every -70 points  
-T3: 16s=10k less 1k for ever +1.5s  
-T4: 17s=10k less 1k for ever +1.5s  
+T3: 16s=10k less 1k for every +1.5s  
+T4: 17s=10k less 1k for every +1.5s  
 	
 </details>
 
