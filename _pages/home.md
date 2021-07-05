@@ -403,25 +403,23 @@ Popular vehicles and corresponding parts at the top of the rankings for each adv
 
 Map | Vehicle and Parts
 :-- | :--
-Countryside | Tank Wings WheelieBoost CoinBoost (remove gun barrel)
-Forest | RacingTruck Magnet WheelieBoost CoinBoost / Rally Wings LandingBoost CoinBoost
-City | Rally Wings WinterTires CoinBoost
-Mountain | Rally Wings WinterTires CoinBoost
-Rustbucket Reef | RacingTruck FumeBoost WheelieBoost CoinBoost
-Winter | Rally Wings WinterTires CoinBoost
-Mines | Rally Wings WinterTires LandingBoost
-Desert Valley | Rally FumeBoost OverchargedTurbo CoinBoost
-Beach | Diesel Wings WinterTires JumpShocks / RacingTruck Wings WheelieBoost CoinBoost
-Backwater Bog | Diesel Wings WinterTires JumpShocks / Tank Wings LandingBoost CoinBoost
-Racier Glacier | Rally Wings LandingBoost JumpShocks
-Patchwork Plant | Rally Wings WinterTires JumpShocks/FumeBoost  
-Gloomvale | Rally / Diesel Wings Landingboost JumpShocks
-Gloomvale | ![Rally]/![Diesel] ![Wi] ![LB] ![JS]
-Gloomvale | ![Rallyy]/![Diesely] ![Wix2] ![LBy] ![JSy]
-Sky Rock Outpost | Rally Wings LandingBoost JumpShocks
-Forest Trials | Rally Wings LandingBoost JumpShocks
-Intense City | Rally Wings WinterTires JumpShocks
-Raging Winter | Rally Wings WinterTires CoinBoost	
+Countryside | ![Tank] ![Wi] ![WB] ![CB] (remove gun barrel)
+Forest | ![RT] ![Ma] ![WB] ![CB] / ![Rally] ![Wi] ![LB] ![CB]
+City | ![Rally] ![Wi] ![WT] ![CB]
+Mountain | ![Rally] ![Wi] ![WT] ![CB]
+Rustbucket Reef | ![RT] ![fume] ![WB] ![CB]
+Winter | ![Rally] ![Wi] ![WT] ![CB]
+Mines | ![Rally] ![Wi] ![WT] ![LB]
+Desert Valley | ![Rally] ![fume] ![OT] ![CB]
+Beach | ![diesel] ![Wi] ![WT] ![JS] / ![RT] ![Wi] ![WB] ![CB]
+Backwater Bog | ![diesel] ![Wi] ![WT] ![JS] / ![Tank] ![Wi] ![LB] ![CB]
+Racier Glacier | ![Rally] ![Wi] ![LB] ![JS]
+Patchwork Plant | ![Rally] ![Wi] ![WT] ![JS]/![fume]  
+GLoomvale | ![Rally]/![diesel] ![Wi] ![LB] ![JS]
+Sky Rock Outpost | ![Rally] ![Wi] ![LB] ![JS]
+Forest Trials | ![Rally] ![Wi] ![LB] ![JS]
+Intense City | ![Rally] ![Wi] ![WT] ![JS]
+Raging Winter | ![Rally] ![Wi] ![WT] ![CB]	
 	
 **Forest Adventure 10k Vehicle Parts**
 10K setups as follows:
