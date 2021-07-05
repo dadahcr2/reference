@@ -39,6 +39,13 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)
 	
 ![](https://cdn.discordapp.com/attachments/719181324610437190/860489729631977482/xyzzy1625227136281.png)
+	
+**Approximate Scoring**  
+T1: 17.5s=10k less 1k for every +1.5s  
+T2: 1200=10k less 1k for every -70 points  
+T3: 16s=10k less 1k for ever +1.5s  
+T4: 17s=10k less 1k for ever +1.5s  
+	
 </details>
 
 <!--
