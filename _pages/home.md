@@ -405,20 +405,21 @@ Map | Vehicle and Parts
 :-- | :--
 Countryside | Tank Wings WheelieBoost CoinBoost (remove gun barrel)
 Forest | RacingTruck Magnet WheelieBoost CoinBoost / Rally Wings LandingBoost CoinBoost
-City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
-Mountain | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
+City | Rally Wings WinterTires CoinBoost
+Mountain | Rally Wings WinterTires CoinBoost
 Rustbucket Reef | RacingTruck FumeBoost WheelieBoost CoinBoost
-Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
-Mines | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires LandingBoost
-Desert Valley | [Rally](http://vehicles.hcr2.info/#rally) FumeBoost OverchargedTurbo CoinBoost
+Winter | Rally Wings WinterTires CoinBoost
+Mines | Rally Wings WinterTires LandingBoost
+Desert Valley | Rally FumeBoost OverchargedTurbo CoinBoost
 Beach | Diesel Wings WinterTires JumpShocks / RacingTruck Wings WheelieBoost CoinBoost
 Backwater Bog | Diesel Wings WinterTires JumpShocks / Tank Wings LandingBoost CoinBoost
-Racier Glacier | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost JumpShocks
-Patchwork Plant | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks/FumeBoost
-Sky Rock Outpost | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost JumpShocks
-Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost JumpShocks
-Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
-Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost	
+Racier Glacier | Rally Wings LandingBoost JumpShocks
+Patchwork Plant | Rally Wings WinterTires JumpShocks/FumeBoost  
+Gloomvale | Rally/Diesel Wings Landingboost JumpShocks
+Sky Rock Outpost | Rally Wings LandingBoost JumpShocks
+Forest Trials | Rally Wings LandingBoost JumpShocks
+Intense City | Rally Wings WinterTires JumpShocks
+Raging Winter | Rally Wings WinterTires CoinBoost	
 	
 **Forest Adventure 10k Vehicle Parts**
 10K setups as follows:
