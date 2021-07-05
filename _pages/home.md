@@ -415,7 +415,9 @@ Beach | Diesel Wings WinterTires JumpShocks / RacingTruck Wings WheelieBoost Coi
 Backwater Bog | Diesel Wings WinterTires JumpShocks / Tank Wings LandingBoost CoinBoost
 Racier Glacier | Rally Wings LandingBoost JumpShocks
 Patchwork Plant | Rally Wings WinterTires JumpShocks/FumeBoost  
-Gloomvale | Rally/Diesel Wings Landingboost JumpShocks
+Gloomvale | Rally / Diesel Wings Landingboost JumpShocks
+Gloomvale | [Rally]/[Diesel] [Wi] [LB] [JS]
+Gloomvale | [Rallyy]/[Diesely] [Wix2] [LBy] [JSy]
 Sky Rock Outpost | Rally Wings LandingBoost JumpShocks
 Forest Trials | Rally Wings LandingBoost JumpShocks
 Intense City | Rally Wings WinterTires JumpShocks
