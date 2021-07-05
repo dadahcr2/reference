@@ -799,6 +799,10 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="20px" width="20px"} 
 [Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
 {: height="20px" width="20px"} 
+
+	
+[CBy]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
+{: height="20px" width="20px" style="background-color:yellow"}  
 	
 [CBx2]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
 {: height="40px" width="40px"} 
@@ -835,7 +839,10 @@ We are an open team, so no password.  If there is an spot available and the belo
 {: height="20px" width="20px" style="background-color:yellow"} 
 [WBy]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
-	
+
+[Wiy]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png  
+{: height="20px" width="20px" style="background-color:yellow"} 
+
 [Wix2]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png  
 {: height="40px" width="40px"}  
 	
