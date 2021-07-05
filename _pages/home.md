@@ -51,7 +51,7 @@ T4: 17s=10k less 1k for every +1.5s
 
 <details  markdown="block">
   <summary>
-    PE: Next (Soccer)	 
+    PE: Dribble Trouble (Soccer)	 
   </summary>
 
 ![](https://cdn.discordapp.com/attachments/850233265306468372/861547103641927740/image0.png)   		
