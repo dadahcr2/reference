@@ -48,23 +48,20 @@ T4: 17s=10k less 1k for every +1.5s
 	
 </details>
 
-<!--
+
 <details  markdown="block">
   <summary>
-    PE: Under Pressure (Cargo)
-	 
+    PE: Next (Soccer)	 
   </summary>
 
-![![](https://buckyou.co.uk/wp-content/uploads/2020/03/pressreu.jpg)](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	
-	
-![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)   		
+![](https://cdn.discordapp.com/attachments/850233265306468372/861547103641927740/image0.png)   		
 
 [Previous public event tracks]({{site.url}}/PrevPe/)  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 			
-</details> -->
+</details>
 	
 <details  markdown="block">
   <summary>
