@@ -370,6 +370,7 @@ Moonlander | LandingBoost
 <!--
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 -->	
+	
 Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket Reef | WinterAdv | MineAdven | BeachAdv | Vehicle | DesertValley | Backwater Bog | Racier GlacierAdv | Patchwork Plant | Vehicle | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Vehicle  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 ![jeepy] | 🦘 | 🦘 | ![Wi]![JS]![Ma] | ![Wi]![WT]![Fume]<br>![Wi]![WT]![CB] | ![jeepy] | 🦘 | 🦘 | 🦘 | ![Fume]![Wi]![OT] <br> ![Fume]![Wi]![JS]<br>🦘 | ![jeepy] | 🦘 | 🦘 | 🦘 | 🦘 | ![jeepy] | 🦘 | ![JS]![Wi]![CB]<br>🦘 | ![WT]![JS]![Wi] | ![Th]![Wi]![JS]<br>![Th]![Wi]![WT] | ![jeepy]  
