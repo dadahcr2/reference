@@ -5,6 +5,13 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
+
+7 July  
+: New PE
+
+6 July  
+: Season 3 stats  
+
 4 July  
 : Gloomvale Adventure Setups  
 
