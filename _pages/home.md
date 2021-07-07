@@ -161,26 +161,28 @@ Tutorial improvements
 
 ### Season 3
 
-**After Match 1**  
-**`C.C.`**
+#### After Match 1 
+	
+##### **C.C.**
 ![](https://cdn.discordapp.com/attachments/847866414638432256/861011530815373352/image0.png)  
 - After the first match in C.C., the median score was 2259.  This will probably reduce over time assuming some teams are not able to match in future rounds. 
 - It is noticeable how uniform the results were spread.  A function of this being based on a single, randomly-allocated match.
 - Italy² came last with 30 cup points - which is not surprising as they are down to 3 members and the leader has <2k gp.  Presumably the members are off to better hunting grounds for the season. How many other teams will do the same? They are unlikely to be the only ones.  It looks like GERMANY was the lucky team that benefited from the easy match!
 - With one or two exceptions, the vast majority of lower ranked teams (e.g. 8 of the bottom 10) are imports from Division 1.   Welcome to C.C.!!  
 
-**`Div 1`**  						
+##### **Div 1**  						
 ![](https://cdn.discordapp.com/attachments/858336498159714324/861464590512291870/image0.png)  
 - The distribution of scores in Division 1 is quite Bell Shaped with most teams scoring between 1000 and 3500.  A sign of very little variation in team strength.
 - 499 teams in total.  The bottom two are clearly inactive with 3 player between the two of them.  The unlucky team that was unable to find a match was GermanEmpire.  									
 														     
-**`Div 2`**  
+##### **Div 2**  
 ![](https://cdn.discordapp.com/attachments/858336498159714324/861464783299674112/image0.png)	
 - 1997 teams of which 23 did not match
 - The triangle-shaped distribution suggest less variation is strength than C.C. - but more than Div. 1.  
 ![](https://cdn.discordapp.com/attachments/858336498159714324/861492615270760489/image0.png)	
 
-**Matching**	
+#### Matching
+														     
 About 30% of Division 1 matched within a 5-10 minute window.  This indicates that many many teams joined the season right as it started.  I wouldn’t be surprised if this has something to do with teams missing out on the 15th match in Season 2?  
 
 With so many teams starting around the same time, I’m hoping that the matching algorithm will do a better job🤞	
