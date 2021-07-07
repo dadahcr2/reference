@@ -433,7 +433,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket
 	
 ### Best Map Setups
 	
-Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: 
+Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: (*Latest version on* <http://www.hcr2.info>)
 
 Map | Vehicle and Parts
 :-- | :--
