@@ -187,7 +187,7 @@ About 30% of Division 1 matched within a 5-10 minute window.  This indicates tha
 
 With so many teams starting around the same time, I’m hoping that the matching algorithm will do a better job🤞	
 	
-#### [Previous Seasons]({{site.url}}/seasons/)  
+#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 
