@@ -54,7 +54,9 @@ T4: 17s=10k less 1k for every +1.5s
     PE: Dribble Trouble (Soccer)	 
   </summary>
 
-![](https://cdn.discordapp.com/attachments/850233265306468372/861547103641927740/image0.png)   		
+![](https://cdn.discordapp.com/attachments/850233265306468372/861547103641927740/image0.png)   
+	
+![](https://cdn.discordapp.com/attachments/861704955060027403/862177594807287828/image0.png)  
 
 [Previous public event tracks]({{site.url}}/PrevPe/)  
 
@@ -383,7 +385,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket
 	
 ### Best Map Setups
 	
-Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses. (Latest version on <www.hcr2.info>)
+Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses. (Latest version on <http://www.hcr2.info>)
 
 Map | Vehicle and Parts
 :-- | :--
