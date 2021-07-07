@@ -1,3 +1,8 @@
+---
+permalink: /seasons/
+title: "Previous League Seasons"
+classes: wide
+---  
 
 ### Final Analysis for Season 2 - After 14 Matches
 	
