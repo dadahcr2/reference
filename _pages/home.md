@@ -20,7 +20,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Preview 
+    TE: 3k or go home 
   </summary>	
 <br>	
 ![Motoy] ![Tanky] ![RTy] x2 each
