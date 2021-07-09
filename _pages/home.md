@@ -66,6 +66,20 @@ T4: 17s=10k less 1k for every +1.5s
 	
 ![](https://cdn.discordapp.com/attachments/861704955060027403/862177594807287828/image0.png)  
 
+	
+	
+**Maps**  
+- [GOAL 1](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
+- [GOAL 2](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
+- [GOAL 3](https://cdn.discordapp.com/attachments/850047416472174632/862815319537352704/image0.png) 
+- [GOAL 4](https://cdn.discordapp.com/attachments/850047416472174632/862809693382115368/image0.png)  
+- [GOAL 5](https://cdn.discordapp.com/attachments/850047416472174632/862804683947769877/image0.png)  
+- [GOAL 6](https://cdn.discordapp.com/attachments/850047416472174632/862893676372033536/image0.png)  
+- [GOAL 7](https://cdn.discordapp.com/attachments/850047416472174632/862854993819861032/image0.png)  
+- [GOAL 8](https://cdn.discordapp.com/attachments/850047416472174632/862854825205301268/image0.png)  
+- [GOAL 9](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)  
+	
+	
 [Previous public event tracks]({{site.url}}/PrevPe/)  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
