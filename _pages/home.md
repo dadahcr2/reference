@@ -62,9 +62,7 @@ T4: 17s=10k less 1k for every +1.5s
     PE: Dribble Trouble (Soccer)	 
   </summary>
 
-![](https://cdn.discordapp.com/attachments/850233265306468372/861547103641927740/image0.png)   
-	
-![](https://cdn.discordapp.com/attachments/861704955060027403/862177594807287828/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/862883090959564800/image0.png)    
 
 	
 	
