@@ -22,7 +22,7 @@ classes: wide
   <summary>
     TE: Preview 
   </summary>	
-	
+<br>	
 ![Motoy] ![Tanky] ![RTy] x2 each
 	
 1. Timed Soccer - Goal 9
