@@ -23,7 +23,7 @@ classes: wide
     TE: Preview 
   </summary>	
 	
-[Motoy] [Tanky] [RTy] x2 each
+![Motoy] ![Tanky] ![RTy] x2 each
 	
 1. Timed Soccer - Goal 9
 2. Wheelie (city)
