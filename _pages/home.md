@@ -20,13 +20,20 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: You are the Weakest Link
+    TE: Preview 
   </summary>	
+	
+[Moto2] [Tank2] [RT2] x2 each
+	
+1. Timed Soccer (Yuck) - Goal 9
+2. Wheelie (city)
+3. Breaking Boxes 
+4. No fuel distance -  forest
+5. Hollow Road(Dark Roads 3)	
+	
 <br>  	
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/858041456266444810/image0.png)
 
-![](https://cdn.discordapp.com/attachments/719181324610437190/857958222320893962/xyzzy1624623576270.png)  
 </details>
 
 <details markdown="block">
@@ -64,33 +71,20 @@ For more information on Public Events, please feel free to join the Public Event
 <https://discord.gg/FZPnQbxZTQ>
 			
 </details>
-<!--	
+	
 <details  markdown="block">
   <summary>
-    PE: We Don't Need Roads (Moon Jump) 
+    PE: Next (Classic) 
   </summary>
 	
-![](https://cdn.discordapp.com/attachments/852315313286545448/856604325593874442/image1.png)  
+![](https://cdn.discordapp.com/attachments/850233265306468372/862871831341301810/image0.png)  
 	
-**We Don’t Need Roads** 
-
-Bus Thrusters Wing Magnet/JumpShocks
-
-This is from the last moon jump: 
-
-Tracks: **Moon Jump 1-6**
-1. bus wing thrusters fuel 672m 
-2. bus thrusters magnet 592m
-3. bus wing thrusters magnet 719m
-4. bus jumpshocks wing thrusters 576m
-5. bus wing thrusters magnet 792m - i think this is the same track: https://youtu.be/xmqNlIk3gtQ  
-6. bus wing jumpshocks thrusters 632m
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 
 </details>	
--->	
+	
 <details  markdown="block">
   <summary>
     PE Setups & Previous Events
