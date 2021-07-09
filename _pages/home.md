@@ -25,12 +25,13 @@ classes: wide
 	
 [Moto2] [Tank2] [RT2] x2 each
 	
-1. Timed Soccer (Yuck) - Goal 9
+1. Timed Soccer - Goal 9
 2. Wheelie (city)
 3. Breaking Boxes 
 4. No fuel distance -  forest
 5. Hollow Road(Dark Roads 3)	
-	
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/862901401125388318/xyzzy1625802123208.png)  
 <br>  	
 
 
