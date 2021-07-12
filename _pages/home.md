@@ -124,7 +124,7 @@ Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
 Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
-<https://discord.gg/FZPnQbxZTQ> | <www.hcr2.info>  
+<https://discord.gg/FZPnQbxZTQ> / <http://hcr2.info>  
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
