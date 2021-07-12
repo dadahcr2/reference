@@ -87,7 +87,7 @@ For more information on Public Events, please feel free to join the Public Event
 	
 <details  markdown="block">
   <summary>
-    PE: Next (Classic) 
+    PE: Retro Rewind (Classic) 
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/850233265306468372/862871831341301810/image0.png)  
