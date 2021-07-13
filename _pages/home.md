@@ -123,7 +123,7 @@ Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
 Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
 Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
-<http://hcr2.info> | [discord: FZPnQbxZTQ](https://discord.gg/FZPnQbxZTQ)
+<http://hcr2.info> | [Discord Server: **FZPnQbxZTQ**](https://discord.gg/FZPnQbxZTQ)
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
