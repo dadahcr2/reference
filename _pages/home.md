@@ -55,7 +55,7 @@ T3: 16s=10k less 1k for every +1.5s
 T4: 17s=10k less 1k for every +1.5s  
 	
 </details>
--->
+
 
 <details  markdown="block">
   <summary>
@@ -84,13 +84,13 @@ For more information on Public Events, please feel free to join the Public Event
 <https://discord.gg/FZPnQbxZTQ>
 			
 </details>
-	
+-->	
 <details  markdown="block">
   <summary>
     PE: Retro Rewind (Classic) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850233265306468372/862871831341301810/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/864751942202294292/image0.png)  
 	
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
