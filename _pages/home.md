@@ -110,7 +110,7 @@ Event | Suggested Vehicle and Parts
 2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]
 Breaking | ![rally] ![hw] ![wt] ![ab]
 Cargo | ![sbike]/![Monster] ![wi] ![ab] ![cb]  
-Classic | ![sbike] ![wi] ![ab] ![cb]/![ot]
+Classic | ![sbike]] ![ab] ![cb]/![ot]/![wi]  
 Long Kick | ![Rally] ![ac] ![js] ![th]
 Mono Wars | ![Mono] ![wi] ![th] ![Fuel]
 Moon Jump |![Bus] ![th] ![wi] ![ma]/![js]
