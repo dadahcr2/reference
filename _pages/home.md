@@ -36,24 +36,19 @@ classes: wide
 
 
 </details>
-<!--
+
 <details markdown="block">
   <summary>
-    TE: TROPHY HUNTERS  
+    TE: Next (Preview)  
   </summary>	
- 
-**`Jeep tractor rotator formula moonlander`**  
-  
-![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)
-	
-![](https://cdn.discordapp.com/attachments/719181324610437190/860489729631977482/xyzzy1625227136281.png)
-	
-**Approximate Scoring**  
-T1: 17.5s=10k less 1k for every +1.5s  
-T2: 1200=10k less 1k for every -70 points  
-T3: 16s=10k less 1k for every +1.5s  
-T4: 17s=10k less 1k for every +1.5s  
-	
+
+2x![Busy] 2x![Monstery] 2x![Supercary]
+1:No Airtime - FingerWoods(Dirty Rally 1)
+2:Timed - Dangerous Downhill
+3:Cargo - Boarding(It’s Mine! 1)
+4:Multi Jump - desert
+5:Timed - Over the Cliff(Mountain Bridges 2)
+
 </details>
 
 
