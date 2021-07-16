@@ -41,14 +41,14 @@ classes: wide
   <summary>
     TE: Next (Preview)  
   </summary>	
-
+<br>  
 ![Busy] ![Monstery] ![Supercary] x2 each
 1. No Airtime - FingerWoods(Dirty Rally 1)
 2. Timed - Dangerous Downhill
 3. Cargo - Boarding(It’s Mine! 1)
 4. Multi Jump - desert
 5. Timed - Over the Cliff(Mountain Bridges 2)
-
+<br>
 </details>
 
 <!--
@@ -85,7 +85,7 @@ For more information on Public Events, please feel free to join the Public Event
     PE: Retro Rewind (Classic) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/864751942202294292/image0.png)  
+![](https://cdn.discordapp.com/attachments/852048869336678420/865419817296461844/06D6985E-D9A2-4060-AC8E-0BC821BBE3F4.png)  
 	
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
