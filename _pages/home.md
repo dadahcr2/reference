@@ -42,7 +42,7 @@ classes: wide
     TE: Next (Preview)  
   </summary>	
 
-2x![Busy] 2x![Monstery] 2x![Supercary]
+![Busy] ![Monstery] ![Supercary] x2 each
 1. No Airtime - FingerWoods(Dirty Rally 1)
 2. Timed - Dangerous Downhill
 3. Cargo - Boarding(It’s Mine! 1)
