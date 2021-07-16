@@ -43,11 +43,11 @@ classes: wide
   </summary>	
 
 2x![Busy] 2x![Monstery] 2x![Supercary]
-1:No Airtime - FingerWoods(Dirty Rally 1)
-2:Timed - Dangerous Downhill
-3:Cargo - Boarding(It’s Mine! 1)
-4:Multi Jump - desert
-5:Timed - Over the Cliff(Mountain Bridges 2)
+1. No Airtime - FingerWoods(Dirty Rally 1)
+2. Timed - Dangerous Downhill
+3. Cargo - Boarding(It’s Mine! 1)
+4. Multi Jump - desert
+5. Timed - Over the Cliff(Mountain Bridges 2)
 
 </details>
 
