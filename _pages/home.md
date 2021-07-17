@@ -39,7 +39,7 @@ classes: wide
 
 <details markdown="block">
   <summary>
-    TE: Next (Preview)  
+    TE: All for One
   </summary>	
 <br>  
 ![Busy] ![Monstery] ![Supercary] x2 each
@@ -48,6 +48,14 @@ classes: wide
 3. Cargo - Boarding(It’s Mine! 1)
 4. Multi Jump - desert
 5. Timed - Over the Cliff(Mountain Bridges 2)
+	
+![](https://i.pinimg.com/originals/de/76/08/de7608307d080237584bbe4568dd3652.jpg)  	
+![](https://cdn.discordapp.com/attachments/750874271022317678/865707666227986502/image0.png)  
+
+[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  	
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/865550286244020244/xyzzy1626433666542.png)  
+
 <br>
 </details>
 
