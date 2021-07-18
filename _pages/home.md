@@ -574,7 +574,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>
 
 ## Lists
-
+<details  markdown="block">
+  <summary>
+    Flags
+  </summary>
+![](https://media.discordapp.net/attachments/855543443363332116/865971303973257216/wp-content.jpg)
+</details>  	
+	
 <details  markdown="block">
   <summary>
     Daily Checklist
