@@ -6,6 +6,9 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
 
+17 July  
+: New TE  
+
 14 July  
 : New PE  
 
