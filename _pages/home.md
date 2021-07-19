@@ -1,4 +1,4 @@
----
+.---
 permalink: /
 toc: false
 toc_sticky: false
@@ -558,7 +558,7 @@ Note: Distances are within 1m or so
 <br>
 **It is not necessary to always win the last race of a cup to win the cup**   
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/866798522039664650/image0.png)  
+![](https://cdn.discordapp.com/attachments/806343355264401478/866800968086978590/image0.png)  
 	
 </details>
 	
