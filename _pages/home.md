@@ -20,7 +20,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: 3k or go home 
+    TE: 3k or Go Home 
   </summary>	
 <br>	
 ![Moto2] ![Tank2] ![RT2] x2 each
@@ -256,8 +256,8 @@ With so many teams starting around the same time, I’m hoping that the matching
 
 - [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)  
-- [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
-	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  
+<!-- - [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
+	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  -->
 - [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
@@ -287,7 +287,7 @@ With so many teams starting around the same time, I’m hoping that the matching
 		
 <details  markdown="block">
   <summary>
-    Parts suggestions
+    Parts Suggestions
   </summary>
 
 Vehicle | Parts
