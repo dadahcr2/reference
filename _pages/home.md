@@ -222,8 +222,6 @@ With so many teams starting around the same time, I’m hoping that the matching
 100th team ЖУКОРАМА with 0 trophies.  
 – *Source: Apru*  	
 </details>
-
-
 	
 <details  markdown="block">
   <summary>
@@ -343,8 +341,6 @@ Hot Rod | -
 Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
-
-
 
 </details>  
 
@@ -562,7 +558,7 @@ Note: Distances are within 1m or so
 <br>
 **It is not necessary to always win the last race of a cup to win the cup**   
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/866757775115681842/image0.png)  
+![](https://cdn.discordapp.com/attachments/806343355264401478/866798522039664650/image0.png)  
 	
 </details>
 	
