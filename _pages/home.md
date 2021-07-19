@@ -562,7 +562,7 @@ Note: Distances are within 1m or so
 <br>
 **It is not necessary to always win the last race of a cup to win the cup**   
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/866742361497403442/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/866757775115681842/image0.png)  
 	
 </details>
 	
