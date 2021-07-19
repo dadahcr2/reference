@@ -555,7 +555,15 @@ Note: Distances are within 1m or so
 
 
 </details>	
-		
+<details  markdown="block">
+  <summary>
+    Last Race Strategy
+  </summary>
+This may be obvious to most, but thought I would just point out that **it is not necessary to always win the last race of a cup to win the cup**  	
+![](https://cdn.discordapp.com/attachments/858336498159714324/866728193817968650/image0.png)  
+	
+</details>
+	
 <details  markdown="block">
   <summary>
     Season Bonus Chest
@@ -574,13 +582,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>
 
 ## Lists
-<details  markdown="block">
-  <summary>
-    Flags
-  </summary>
-![](https://media.discordapp.net/attachments/855543443363332116/865971303973257216/wp-content.jpg)
-</details>  	
-	
+
 <details  markdown="block">
   <summary>
     Daily Checklist
@@ -639,13 +641,19 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   </summary>
 	
 I highly recommend these:
-- Tractor  Wars : <http://tw.hcr2.info>
+- Tractor  Wars : <http://tw.hcr2.info> (daily on a break)  
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
 
 </details>	
-	
+<details  markdown="block">
+  <summary>
+    Flags
+  </summary>
+![](https://media.discordapp.net/attachments/855543443363332116/865971303973257216/wp-content.jpg)
+</details>  	
+		
 <details  markdown="block">
   <summary>
     Team Philosophy
