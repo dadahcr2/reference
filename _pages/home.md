@@ -559,7 +559,9 @@ Note: Distances are within 1m or so
   <summary>
     Last Race Strategy
   </summary>
+<br>
 This may be obvious to most, but thought I would just point out that **it is not necessary to always win the last race of a cup to win the cup**  	
+
 ![](https://cdn.discordapp.com/attachments/858336498159714324/866728193817968650/image0.png)  
 	
 </details>
