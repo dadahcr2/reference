@@ -1,4 +1,4 @@
-.---
+---
 permalink: /
 toc: false
 toc_sticky: false
