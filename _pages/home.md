@@ -13,7 +13,7 @@ classes: wide
   </summary>
   {: .text-delta }
 1. TOC
-{:toc}
+{:toc} 
 </details> -->  
 
 ## Events & Updates
