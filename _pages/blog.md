@@ -5,6 +5,8 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
+19 July  
+: +last cup race strategy  
 
 17 July  
 : New TE  
