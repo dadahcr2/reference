@@ -17,7 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
-
+<!--
 <details  markdown="block">
   <summary>
     TE: 3k or Go Home 
@@ -36,7 +36,7 @@ classes: wide
 
 
 </details>
-
+-->
 <details markdown="block">
   <summary>
     TE: All for One
