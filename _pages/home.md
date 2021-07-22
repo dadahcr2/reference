@@ -91,10 +91,10 @@ For more information on Public Events, please feel free to join the Public Event
 -->	
 <details  markdown="block">
   <summary>
-    PE: Retro Rewind (Classic) 
+    PE: I Am Speed (Time-Attack) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/852048869336678420/865419817296461844/06D6985E-D9A2-4060-AC8E-0BC821BBE3F4.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/867563659722227732/2A6A0C64-3FFB-4F7C-9B17-BF56EB83CE30.png)  
 	
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
