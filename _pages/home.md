@@ -17,21 +17,19 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
-<!--
+
 <details  markdown="block">
   <summary>
-    TE: 3k or Go Home 
+    TE: Preview
   </summary>	
 <br>	
-![Moto2] ![Tank2] ![RT2] x2 each
+![Jeep2]![Jeep2]![sportscar]![sportscar]![Hotrod]![Hotrod]  
 	
-1. Timed Soccer - Goal 9
-2. Wheelie (city)
-3. Breaking Boxes 
-4. No fuel distance -  forest
-5. Hollow Road(Dark Roads 3)	
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/862901401125388318/xyzzy1625802123208.png)  
+1. Uphill distance
+2. nNo air - Landing Drive(Big Air Cup)
+3. Tricky Drive(Uphill Cup)
+4. Winter Wheelie
+5. Trial of Balance(Downhill Trials)
 <br>  	
 
 
