@@ -23,7 +23,7 @@ classes: wide
     TE: Preview
   </summary>	
 <br>	
-![Jeep2]![Jeep2]![sportscar]![sportscar]![Hotrod]![Hotrod]  
+![Jeep2]![Jeep2]![sportscar2]![sportscar2]![Hotrod2]![Hotrod2]  
 	
 1. Uphill distance
 2. nNo air - Landing Drive(Big Air Cup)
