@@ -170,7 +170,30 @@ Tutorial improvements
   </summary>
 
 ### Season 3
+	
+#### After Match 10
 
+**Season 3 - C.C. - After 10 Matches**
+Very peaked distribution of average scores, with thick tails (I call this the Middle Fingersoft Distribution 🤣).  I.e. lots of real strong/weak team and some in the middle too - with few in between. 
+Projected Relegation Score for 15 matches is 33900 (average of 2260 per match)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/868025040724176906/image0.png)  	
+
+**Season 3 - Div 1 - After 10 Matches**
+A very typical bell curve.  Only one team averaging over 4000 per match (Norden Elite).  Small tails suggesting fewer walkover matches.
+Assuming 15 matches, projected score for promotion is 46500 (3070 per match average), and a total score of 31125 or less to be relegated (average of 2075)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/868027529770991636/image0.png)  
+
+**Season 3 - Div 2 - After 10 Matches**  
+A bit of a scewed distribution suggesting many weak teams and few super-strong teams. 
+Four teams with averages above 4000 per match headed by TÜRKIYE.
+Assuming 15 matches, expected  total score required for promotion is 46200 (average of 3080 per match). Double relegation est.score < 23500 (1570 average) and single relegation est. 30k score (2000 average)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/868030387559993404/image0.png)
+							
+**Comparison of Division Distributions**
+Extent of mismatches clear in C.C. given thick tails
+Matches are closest in Div 1 with more consistent average scores in general
+Div 2 super strong teams as scarce as in Div 1 -  but a heavier preponderance of weaker teams (promotions from Div 4?)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/868031654839603250/image0.png)  										   
 #### After Match 1 
 	
 ##### **C.C.**
