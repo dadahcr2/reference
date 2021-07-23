@@ -3,6 +3,8 @@ permalink: /PrevPe/
 title: "Previous Public Events"
 classes: wide
 ---  
+**Going forward, I intend to add historical PE info to the Wiki <https://hillclimbracing2.fandom.com/wiki/Public_Events_Archive> rather than on this page**  
+
 - 2021-07-21 **I Am Speed (Time-attack)** Trial of Balance(Downhill Trials) Whipclash(Spring City) Visions of Victory(Dark Roads) Captain's Log(Cup in the Woods) The Big Dunes(Sand in Swimsuit) Four-Wheel Park(Countryside Cup) Flipway(Dirty Rally) Hot Tarmac(Bill's Circuit) No Step on Snek (Interstate Cup) Like a Hawk(Stormrider Cup)  
 - 2021 -07-14 **Retro Rewind (Classic)** Classic 1-10  
 - 2021-07-07 **Dribble Trouble (Soccer)** Goal 1-10  	 
