@@ -172,6 +172,34 @@ The one advantage of the shop is speed, as it takes time to run the cups to obta
 
 \* I have spared you the details of the analysis, but it is available on request.
 
+## Other
+
+### How strong are the various vehicle roll-cages verses each other?
+
+So I did some rough testing of the durability of the various vehicle roll-cages.   Basically I estimated how long in seconds it took for the roof to fail when upside down.  Results as follows:
+```
+Hill Climber 6+
+Scooter      5+
+Mk2          6s
+Tractor      5+
+Motocross    3s
+Buggy        5s
+Sportscar    3+
+Monster      7s
+Rotator      1½s
+Diesel       1s
+Chopper      4s
+Tank         8s
+Snowmobile   3+
+Rally        3s
+Formula      2+
+RacingTruck  ½s
+HotRod       3s
+Supercar     7s
+Moonlander   1s
+```
++ means “at least” (my roll-cage for that vehicle is not maxed)
+
 ***
 
 # Reddit FAQ
