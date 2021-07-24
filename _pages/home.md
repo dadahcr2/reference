@@ -172,11 +172,11 @@ Tutorial improvements
 ### Season 3
 
 **How well are teams that were promoted doIng in C.C.?**
-	Promoted teams are widely regarded as *Shark Fodder* to be chewed up and spat back out to Division 1 after one season.  Is this true?  
+Promoted teams are widely regarded as *Shark Fodder* to be chewed up and spat back out to Division 1 after one season.  Is this true?  
 	
-	Well I took a quick look at the Top 50 teams in C.C. to see how many had made there way out of the relegation zone. I found that there were ten from Division 1, placed as follows: 13, 24, 29, 30, 34, 41, 45, 46, 48, 50.  Half of these were still outside the Top 40.
+Well I took a quick look at the Top 50 teams in C.C. to see how many had made there way out of the relegation zone. I found that there were ten from Division 1, placed as follows: 13, 24, 29, 30, 34, 41, 45, 46, 48, 50.  Half of these were still outside the Top 40.
 	
-	Accordingly it appears that of the 50 promoted teams, 40 are likely to be relegated after one season, 5 may just hang in for another season or two, and 5 may be longer term C.C. residents!
+Accordingly it appears that of the 50 promoted teams, 40 are likely to be relegated after one season, 5 may just hang in for another season or two, and 5 may be longer term C.C. residents!
 	
 #### After Match 10
 
