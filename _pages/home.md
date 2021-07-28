@@ -40,7 +40,7 @@ classes: wide
     PE: Orbital Overdrive (Moon Time-Attack) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/869958702743056454/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/869965357887156284/image0.png)  
 	
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
