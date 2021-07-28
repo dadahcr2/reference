@@ -34,7 +34,7 @@ classes: wide
 
 
 </details>
-
+<!--
 <details markdown="block">
   <summary>
     TE: All for One
@@ -58,7 +58,7 @@ classes: wide
 <br>
 </details>
 
-<!--
+
 <details  markdown="block">
   <summary>
     PE: Dribble Trouble (Soccer)	 
