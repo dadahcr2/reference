@@ -691,7 +691,6 @@ F | L | A | G
 "[<font size=""+4"">🇷🇼</font> Rwanda](https://www.crwflags.com/fotw/flags/RW.html) | [<font size=""+4"">🇬🇭</font> Ghana](https://www.crwflags.com/fotw/flags/GH.html) | [<font size=""+4"">🇬🇮</font> Gibraltar](https://www.crwflags.com/fotw/flags/GI.html) | [<font size=""+4"">🇹🇲</font> Turkmenistan](https://www.crwflags.com/fotw/flags/TM.html)"
 
 
-
 </details>  	
 		
 <details  markdown="block">
