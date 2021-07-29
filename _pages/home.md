@@ -626,6 +626,72 @@ I highly recommend these:
     Flags
   </summary>
 ![](https://media.discordapp.net/attachments/855543443363332116/865971303973257216/wp-content.jpg)
+	
+F | L | A | G
+:--: | :--: | :--: | :--:
+[🇧🇷](https://www.crwflags.com/fotw/flags/BR.html) | [🇨🇼](https://www.crwflags.com/fotw/flags/CW.html) | [🇨🇫](https://www.crwflags.com/fotw/flags/CF.html) | 
+[🇧🇩](https://www.crwflags.com/fotw/flags/BD.html) | [🇨🇴](https://www.crwflags.com/fotw/flags/CO.html) | [🇲🇺](https://www.crwflags.com/fotw/flags/MU.html) | 
+[🇯🇵](https://www.crwflags.com/fotw/flags/JP.html) | [🇪🇨](https://www.crwflags.com/fotw/flags/EC.html) | [🇨🇺](https://www.crwflags.com/fotw/flags/CU.html) | 
+[🇳🇪](https://www.crwflags.com/fotw/flags/NE.html) | [🇦🇴](https://www.crwflags.com/fotw/flags/AO.html) | [🇬🇲](https://www.crwflags.com/fotw/flags/GM.html) | 
+[🇰🇷](https://www.crwflags.com/fotw/flags/KR.html) | [🇧🇫](https://www.crwflags.com/fotw/flags/BF.html) | [🇹🇭](https://www.crwflags.com/fotw/flags/TH.html) | 
+[🇬🇱](https://www.crwflags.com/fotw/flags/GL.html) | [🇮🇩](https://www.crwflags.com/fotw/flags/ID.html) | [🇹🇬](https://www.crwflags.com/fotw/flags/TG.html) | 
+[🇧🇿](https://www.crwflags.com/fotw/flags/BZ.html) | [🇲🇨](https://www.crwflags.com/fotw/flags/MC.html) | [🇨🇻](https://www.crwflags.com/fotw/flags/CV.html) | 
+[🇱🇦](https://www.crwflags.com/fotw/flags/LA.html) | [🇵🇱](https://www.crwflags.com/fotw/flags/PL.html) | [🇨🇷](https://www.crwflags.com/fotw/flags/CR.html) | 
+[🇹🇳](https://www.crwflags.com/fotw/flags/TN.html) | [🇸🇬](https://www.crwflags.com/fotw/flags/SG.html) | [🇰🇪](https://www.crwflags.com/fotw/flags/KE.html) | 
+[🇬🇵](https://www.crwflags.com/fotw/flags/GP.html) | [🇸🇲](https://www.crwflags.com/fotw/flags/SM.html) | [🇸🇷](https://www.crwflags.com/fotw/flags/SR.html) | 
+[🇰🇬](https://www.crwflags.com/fotw/flags/KG.html) | [🇺🇦](https://www.crwflags.com/fotw/flags/UA.html) | [🇮🇱](https://www.crwflags.com/fotw/flags/IL.html) | 
+[🇳🇨](https://www.crwflags.com/fotw/flags/NC.html) | [🇭🇹](https://www.crwflags.com/fotw/flags/HT.html) | [🇧🇼](https://www.crwflags.com/fotw/flags/BW.html) | 
+[🇵🇼](https://www.crwflags.com/fotw/flags/PW.html) | [🇱🇮](https://www.crwflags.com/fotw/flags/LI.html) | [🇺🇬](https://www.crwflags.com/fotw/flags/UG.html) | 
+[🇰🇮](https://www.crwflags.com/fotw/flags/KI.html) | [🇨🇱](https://www.crwflags.com/fotw/flags/CL.html) | [🇺🇾](https://www.crwflags.com/fotw/flags/UY.html) | 
+[🇧🇹](https://www.crwflags.com/fotw/flags/BT.html) | [🇵🇦](https://www.crwflags.com/fotw/flags/PA.html) | [🇬🇷](https://www.crwflags.com/fotw/flags/GR.html) | 
+[🇧🇶](https://www.crwflags.com/fotw/flags/BQ.html) | [🇧🇯](https://www.crwflags.com/fotw/flags/BJ.html) | [🇱🇷](https://www.crwflags.com/fotw/flags/LR.html) | 
+[🇨🇩](https://www.crwflags.com/fotw/flags/CD.html) | [🇬🇼](https://www.crwflags.com/fotw/flags/GW.html) | [🇲🇾](https://www.crwflags.com/fotw/flags/MY.html) | 
+[🇨🇬](https://www.crwflags.com/fotw/flags/CG.html) | [🇲🇬](https://www.crwflags.com/fotw/flags/MG.html) | [🇺🇸](https://www.crwflags.com/fotw/flags/US.html) | 
+[🇲🇭](https://www.crwflags.com/fotw/flags/MH.html) | [🇧🇾](https://www.crwflags.com/fotw/flags/BY.html) | [🇦🇽](https://www.crwflags.com/fotw/flags/AX.html) | 
+[🇳🇦](https://www.crwflags.com/fotw/flags/NA.html) | [🇷🇸](https://www.crwflags.com/fotw/flags/RS.html) | [🇮🇸](https://www.crwflags.com/fotw/flags/IS.html) | 
+[🇰🇳](https://www.crwflags.com/fotw/flags/KN.html) | [🇦🇲](https://www.crwflags.com/fotw/flags/AM.html) | [🇸🇪](https://www.crwflags.com/fotw/flags/SE.html) | 
+[🇸🇧](https://www.crwflags.com/fotw/flags/SB.html) | [🇷🇺](https://www.crwflags.com/fotw/flags/RU.html) | [🇩🇰](https://www.crwflags.com/fotw/flags/DK.html) | 
+[🇹🇿](https://www.crwflags.com/fotw/flags/TZ.html) | [🇸🇰](https://www.crwflags.com/fotw/flags/SK.html) | [🇳🇴](https://www.crwflags.com/fotw/flags/NO.html) | 
+[🇹🇰](https://www.crwflags.com/fotw/flags/TK.html) | [🇸🇮](https://www.crwflags.com/fotw/flags/SI.html) | [🇫🇴](https://www.crwflags.com/fotw/flags/FO.html) | 
+[🇧🇦](https://www.crwflags.com/fotw/flags/BA.html) | [🇻🇪](https://www.crwflags.com/fotw/flags/VE.html) | [🇫🇮](https://www.crwflags.com/fotw/flags/FI.html) | 
+[🇧🇳](https://www.crwflags.com/fotw/flags/BN.html) | [🇧🇬](https://www.crwflags.com/fotw/flags/BG.html) | [🇩🇲](https://www.crwflags.com/fotw/flags/DM.html) | 
+[🇨🇽](https://www.crwflags.com/fotw/flags/CX.html) | [🇱🇹](https://www.crwflags.com/fotw/flags/LT.html) | [🇩🇴](https://www.crwflags.com/fotw/flags/DO.html) | 
+[🇬🇫](https://www.crwflags.com/fotw/flags/GF.html) | [🇲🇲](https://www.crwflags.com/fotw/flags/MM.html) | [🇬🇪](https://www.crwflags.com/fotw/flags/GE.html) | 
+[🇵🇬](https://www.crwflags.com/fotw/flags/PG.html) | [🇦🇿](https://www.crwflags.com/fotw/flags/AZ.html) | [🇬🇬](https://www.crwflags.com/fotw/flags/GG.html) | 
+[🇹🇹](https://www.crwflags.com/fotw/flags/TT.html) | [🇴🇲](https://www.crwflags.com/fotw/flags/OM.html) | [🇲🇶](https://www.crwflags.com/fotw/flags/MQ.html) | 
+[🇬🇧](https://www.crwflags.com/fotw/flags/GB.html) | [🇲🇼](https://www.crwflags.com/fotw/flags/MW.html) | [🇨🇭](https://www.crwflags.com/fotw/flags/CH.html) | 
+[🇫🇯](https://www.crwflags.com/fotw/flags/FJ.html) | [🇩🇪](https://www.crwflags.com/fotw/flags/DE.html) | [🇹🇴](https://www.crwflags.com/fotw/flags/TO.html) | 
+[🇹🇻](https://www.crwflags.com/fotw/flags/TV.html) | [🇦🇷](https://www.crwflags.com/fotw/flags/AR.html) | [🇨🇨](https://www.crwflags.com/fotw/flags/CC.html) | 
+[🇧🇲](https://www.crwflags.com/fotw/flags/BM.html) | [🇳🇮](https://www.crwflags.com/fotw/flags/NI.html) | [🇲🇻](https://www.crwflags.com/fotw/flags/MV.html) | 
+[🇨🇰](https://www.crwflags.com/fotw/flags/CK.html) | [🇺🇿](https://www.crwflags.com/fotw/flags/UZ.html) | [🇵🇰](https://www.crwflags.com/fotw/flags/PK.html) | 
+[🇦🇮](https://www.crwflags.com/fotw/flags/AI.html) | [🇸🇻](https://www.crwflags.com/fotw/flags/SV.html) | [🇹🇷](https://www.crwflags.com/fotw/flags/TR.html) | 
+[🇰🇾](https://www.crwflags.com/fotw/flags/KY.html) | [🇭🇳](https://www.crwflags.com/fotw/flags/HN.html) | [🇲🇷](https://www.crwflags.com/fotw/flags/MR.html) | 
+[🇫🇰](https://www.crwflags.com/fotw/flags/FK.html) | [🇱🇸](https://www.crwflags.com/fotw/flags/LS.html) | [🇰🇿](https://www.crwflags.com/fotw/flags/KZ.html) | 
+[🇲🇸](https://www.crwflags.com/fotw/flags/MS.html) | [🇸🇱](https://www.crwflags.com/fotw/flags/SL.html) | [🇫🇲](https://www.crwflags.com/fotw/flags/FM.html) | 
+[🇵🇳](https://www.crwflags.com/fotw/flags/PN.html) | [🇱🇻](https://www.crwflags.com/fotw/flags/LV.html) | [🇵🇲](https://www.crwflags.com/fotw/flags/PM.html) | 
+[🇸🇭](https://www.crwflags.com/fotw/flags/SH.html) | [🇮🇷](https://www.crwflags.com/fotw/flags/IR.html) | [🇸🇴](https://www.crwflags.com/fotw/flags/SO.html) | 
+[🇬🇸](https://www.crwflags.com/fotw/flags/GS.html) | [🇰🇼](https://www.crwflags.com/fotw/flags/KW.html) | [🇦🇶](https://www.crwflags.com/fotw/flags/AQ.html) | 
+[🇹🇨](https://www.crwflags.com/fotw/flags/TC.html) | [🇾🇪](https://www.crwflags.com/fotw/flags/YE.html) | [🇦🇼](https://www.crwflags.com/fotw/flags/AW.html) | 
+[🇻🇬](https://www.crwflags.com/fotw/flags/VG.html) | [🇦🇪](https://www.crwflags.com/fotw/flags/AE.html) | [🇬🇺](https://www.crwflags.com/fotw/flags/GU.html) | 
+[🇦🇺](https://www.crwflags.com/fotw/flags/AU.html) | [🇱🇺](https://www.crwflags.com/fotw/flags/LU.html) | [🇳🇷](https://www.crwflags.com/fotw/flags/NR.html) | 
+[🇳🇿](https://www.crwflags.com/fotw/flags/NZ.html) | [🇭🇷](https://www.crwflags.com/fotw/flags/HR.html) | [🇲🇵](https://www.crwflags.com/fotw/flags/MP.html) | 
+[🇮🇴](https://www.crwflags.com/fotw/flags/IO.html) | [🇳🇱](https://www.crwflags.com/fotw/flags/NL.html) | [🇿🇲](https://www.crwflags.com/fotw/flags/ZM.html) | 
+[🇳🇺](https://www.crwflags.com/fotw/flags/NU.html) | [🇵🇾](https://www.crwflags.com/fotw/flags/PY.html) | [🇦🇱](https://www.crwflags.com/fotw/flags/AL.html) | 
+[🇧🇮](https://www.crwflags.com/fotw/flags/BI.html) | [🇭🇺](https://www.crwflags.com/fotw/flags/HU.html) | [🇨🇳](https://www.crwflags.com/fotw/flags/CN.html) | 
+[🇬🇩](https://www.crwflags.com/fotw/flags/GD.html) | [🇹🇯](https://www.crwflags.com/fotw/flags/TJ.html) | [🇭🇰](https://www.crwflags.com/fotw/flags/HK.html) | 
+[🇯🇲](https://www.crwflags.com/fotw/flags/JM.html) | [🇦🇹](https://www.crwflags.com/fotw/flags/AT.html) | [🇮🇲](https://www.crwflags.com/fotw/flags/IM.html) | 
+[🇯🇪](https://www.crwflags.com/fotw/flags/JE.html) | [🇪🇬](https://www.crwflags.com/fotw/flags/EG.html) | [🇲🇪](https://www.crwflags.com/fotw/flags/ME.html) | 
+[🇲🇰](https://www.crwflags.com/fotw/flags/MK.html) | [🇮🇶](https://www.crwflags.com/fotw/flags/IQ.html) | [🇲🇦](https://www.crwflags.com/fotw/flags/MA.html) | 
+[🇷🇪](https://www.crwflags.com/fotw/flags/RE.html) | [🇸🇾](https://www.crwflags.com/fotw/flags/SY.html) | [🇼🇸](https://www.crwflags.com/fotw/flags/WS.html) | 
+[🇰🇭](https://www.crwflags.com/fotw/flags/KH.html) | [🇮🇳](https://www.crwflags.com/fotw/flags/IN.html) | [🇹🇼](https://www.crwflags.com/fotw/flags/TW.html) | 
+[🇰🇵](https://www.crwflags.com/fotw/flags/KP.html) | [🇪🇪](https://www.crwflags.com/fotw/flags/EE.html) | [🇻🇳](https://www.crwflags.com/fotw/flags/VN.html) | 
+[🇸🇿](https://www.crwflags.com/fotw/flags/SZ.html) | [🇱🇾](https://www.crwflags.com/fotw/flags/LY.html) | [🇨🇾](https://www.crwflags.com/fotw/flags/CY.html) | 
+[🇵🇫](https://www.crwflags.com/fotw/flags/PF.html) | [🇬🇦](https://www.crwflags.com/fotw/flags/GA.html) | [🇾🇹](https://www.crwflags.com/fotw/flags/YT.html) | 
+[🇱🇧](https://www.crwflags.com/fotw/flags/LB.html) | [🇪🇹](https://www.crwflags.com/fotw/flags/ET.html) | [🇧🇱](https://www.crwflags.com/fotw/flags/BL.html) | 
+[🇪🇸](https://www.crwflags.com/fotw/flags/ES.html) | [🇧🇴](https://www.crwflags.com/fotw/flags/BO.html) | [🇻🇮](https://www.crwflags.com/fotw/flags/VI.html) | 
+[🇷🇼](https://www.crwflags.com/fotw/flags/RW.html) | [🇬🇭](https://www.crwflags.com/fotw/flags/GH.html) | [🇬🇮](https://www.crwflags.com/fotw/flags/GI.html) | 	
+[🇸🇧](https://www.crwflags.com/fotw/flags/SB.html) | [🇷🇺](https://www.crwflags.com/fotw/flags/RU.html) | [🇩🇰](https://www.crwflags.com/fotw/flags/DK.html) |
+
 </details>  	
 		
 <details  markdown="block">
