@@ -625,7 +625,7 @@ I highly recommend these:
   <summary>
     Flags Grouped by Design
   </summary>
-<be>
+<br>
 
 Similar flags are grouped together to make recognition easier. Tap on a flag for more info
 
