@@ -632,7 +632,6 @@ Similar flags are grouped together to make recognition easier. Tap on a flag for
 
 Flags | Flags | Flags | Flags | Flags | Flags  
 :--: | :--: | :--: | :--: | :--: | :--:  
-
 [![🇧🇷](https://www.countryflags.io/BR/flat/64.png)](https://www.crwflags.com/fotw/flags/BR.html) | [![🇧🇩](https://www.countryflags.io/BD/flat/64.png)](https://www.crwflags.com/fotw/flags/BD.html) | [![🇯🇵](https://www.countryflags.io/JP/flat/64.png)](https://www.crwflags.com/fotw/flags/JP.html) | [![🇳🇪](https://www.countryflags.io/NE/flat/64.png)](https://www.crwflags.com/fotw/flags/NE.html) | [![🇰🇷](https://www.countryflags.io/KR/flat/64.png)](https://www.crwflags.com/fotw/flags/KR.html) | [![🇬🇱](https://www.countryflags.io/GL/flat/64.png)](https://www.crwflags.com/fotw/flags/GL.html)  
 [![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)](https://www.crwflags.com/fotw/flags/BZ.html) | [![🇱🇦](https://www.countryflags.io/LA/flat/64.png)](https://www.crwflags.com/fotw/flags/LA.html) | [![🇹🇳](https://www.countryflags.io/TN/flat/64.png)](https://www.crwflags.com/fotw/flags/TN.html) | [![🇬🇵](https://www.countryflags.io/GP/flat/64.png)](https://www.crwflags.com/fotw/flags/GP.html) | [![🇰🇬](https://www.countryflags.io/KG/flat/64.png)](https://www.crwflags.com/fotw/flags/KG.html) | [![🇳🇨](https://www.countryflags.io/NC/flat/64.png)](https://www.crwflags.com/fotw/flags/NC.html)  
 [![🇵🇼](https://www.countryflags.io/PW/flat/64.png)](https://www.crwflags.com/fotw/flags/PW.html) | [![🇰🇮](https://www.countryflags.io/KI/flat/64.png)](https://www.crwflags.com/fotw/flags/KI.html) | [![🇧🇹](https://www.countryflags.io/BT/flat/64.png)](https://www.crwflags.com/fotw/flags/BT.html) | [![🇨🇩](https://www.countryflags.io/CD/flat/64.png)](https://www.crwflags.com/fotw/flags/CD.html) | [![🇨🇬](https://www.countryflags.io/CG/flat/64.png)](https://www.crwflags.com/fotw/flags/CG.html) | [![🇲🇭](https://www.countryflags.io/MH/flat/64.png)](https://www.crwflags.com/fotw/flags/MH.html)  
@@ -675,7 +674,9 @@ Flags | Flags | Flags | Flags | Flags | Flags
 [![🇹🇩](https://www.countryflags.io/TD/flat/64.png)](https://www.crwflags.com/fotw/flags/TD.html) | [![🇻🇨](https://www.countryflags.io/VC/flat/64.png)](https://www.crwflags.com/fotw/flags/VC.html) | [![🇦🇩](https://www.countryflags.io/AD/flat/64.png)](https://www.crwflags.com/fotw/flags/AD.html) | [![🇲🇩](https://www.countryflags.io/MD/flat/64.png)](https://www.crwflags.com/fotw/flags/MD.html) | [![🇷🇴](https://www.countryflags.io/RO/flat/64.png)](https://www.crwflags.com/fotw/flags/RO.html) | [![🇲🇱](https://www.countryflags.io/ML/flat/64.png)](https://www.crwflags.com/fotw/flags/ML.html)  
 [![🇸🇳](https://www.countryflags.io/SN/flat/64.png)](https://www.crwflags.com/fotw/flags/SN.html) | [![🇬🇳](https://www.countryflags.io/GN/flat/64.png)](https://www.crwflags.com/fotw/flags/GN.html) | [![🇧🇪](https://www.countryflags.io/BE/flat/64.png)](https://www.crwflags.com/fotw/flags/BE.html) |  |  |   
 
+
 	
+
 </details>  	
 		
 <details  markdown="block">
