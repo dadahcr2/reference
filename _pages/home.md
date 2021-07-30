@@ -626,9 +626,10 @@ I highly recommend these:
     Flags Grouped by Design
   </summary>
 <be>
-Flags are grouped by design to make recognition easier. Tap on a flag for more info
+Similar flags are grouped together to make recognition easier. Tap on a flag for more info
 
-Flags |  |  |  |  |  |   
+
+Flags | grouped | together | based | on | similar | designs    
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 [![🇧🇷](https://www.countryflags.io/BR/flat/64.png)](https://www.crwflags.com/fotw/flags/BR.html) | [![🇧🇩](https://www.countryflags.io/BD/flat/64.png)](https://www.crwflags.com/fotw/flags/BD.html) | [![🇯🇵](https://www.countryflags.io/JP/flat/64.png)](https://www.crwflags.com/fotw/flags/JP.html) | [![🇳🇪](https://www.countryflags.io/NE/flat/64.png)](https://www.crwflags.com/fotw/flags/NE.html) | [![🇰🇷](https://www.countryflags.io/KR/flat/64.png)](https://www.crwflags.com/fotw/flags/KR.html) | [![🇬🇱](https://www.countryflags.io/GL/flat/64.png)](https://www.crwflags.com/fotw/flags/GL.html) | [![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)](https://www.crwflags.com/fotw/flags/BZ.html)  
 [![🇱🇦](https://www.countryflags.io/LA/flat/64.png)](https://www.crwflags.com/fotw/flags/LA.html) | [![🇹🇳](https://www.countryflags.io/TN/flat/64.png)](https://www.crwflags.com/fotw/flags/TN.html) | [![🇬🇵](https://www.countryflags.io/GP/flat/64.png)](https://www.crwflags.com/fotw/flags/GP.html) | [![🇰🇬](https://www.countryflags.io/KG/flat/64.png)](https://www.crwflags.com/fotw/flags/KG.html) | [![🇳🇨](https://www.countryflags.io/NC/flat/64.png)](https://www.crwflags.com/fotw/flags/NC.html) | [![🇵🇼](https://www.countryflags.io/PW/flat/64.png)](https://www.crwflags.com/fotw/flags/PW.html) | [![🇰🇮](https://www.countryflags.io/KI/flat/64.png)](https://www.crwflags.com/fotw/flags/KI.html)  
