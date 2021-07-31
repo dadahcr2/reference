@@ -20,6 +20,23 @@ classes: wide
 
 <details  markdown="block">
   <summary>
+    TE: Among Them
+  </summary>	
+<br>	
+	
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/e/e1/AmongThem.jpg)
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/870714783400333323/image0.png)
+
+![](https://cdn.discordapp.com/attachments/719181324610437190/870677329708478504/xyzzy1627656049083.png)
+
+<br>  	
+
+
+</details>
+
+<details  markdown="block">
+  <summary>
     TE: Hill Climb Raging
   </summary>	
 <br>	
