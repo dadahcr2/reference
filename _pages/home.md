@@ -39,7 +39,7 @@ Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]
 
 
 </details>
-
+<!--
 <details  markdown="block">
   <summary>
     TE: Hill Climb Raging
@@ -56,7 +56,7 @@ Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]
 
 
 </details>
-
+-->
 <details  markdown="block">
   <summary>
     PE: Orbital Overdrive (Moon Time-Attack) 
