@@ -25,13 +25,13 @@ classes: wide
 <br>	
 	
 **Among Them**
-Allowed vehicles: ![buggy2] ![snowmobile2] ![] ![mono2] ![moonlander2]  
+Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]  
 **Track 1:** Backwater Cup - Grill Bill, _Time attack, flips, 10k=8s_  
 **Track 2:** Time Attack in Moon - MAN IN THE MOON, _Time attack, 10k=18s_  
 **Track 3:** Distance in - Patchwork, _Distance, 10k=1200m_  
 **Track 4:** Floor is Lava in - Mines, _Distance, 10k=800m_  
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/870714783400333323/image0.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/871431867407151155/image0.png)
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/871051887724621824/xyzzy1627745350943.png)
 
