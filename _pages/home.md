@@ -218,7 +218,10 @@ With so many teams starting around the same time, I’m hoping that the matching
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509546549258/Screenshot_2021-08-01-14-22-54-198_com.fingersoft.hcr2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325510020513792/Screenshot_2021-08-01-14-23-00-069_com.fingersoft.hcr2.jpg)   
 100. I T A L Y² 826	
-	
+– *Source: Apru* 
+
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
 </details>
 	
 <details  markdown="block">
@@ -229,7 +232,8 @@ With so many teams starting around the same time, I’m hoping that the matching
 ![](https://cdn.discordapp.com/attachments/ 847867054635876383/871406537170628618/div1-july-page1.jpg)  
 ![]( https://cdn.discordapp.com/attachments/847867054635876383/871406904830738492/div1-july-page2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847867054635876383/871410962702401606/div1-july-page3.jpg )  
-![]( https://cdn.discordapp.com/attachments/847867054635876383/871411108689346650/div1-july-page4.jpg)
+![]( https://cdn.discordapp.com/attachments/847867054635876383/871411108689346650/div1-july-page4.jpg)  
+– *Source: Apru* 
 	
 </details>
 
@@ -241,40 +245,14 @@ With so many teams starting around the same time, I’m hoping that the matching
 **Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
 ...
 **Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
-**Div. 7**: <https://youtu.be/3eVbSkBzAq8>
+**Div. 7**: <https://youtu.be/3eVbSkBzAq8>  
+– *Source: Apru* 
 
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
 </details>
 
-<details  markdown="block">
-  <summary>
-    Season 2 - Final Results - C.C.
-  </summary>
-	
-![](https://media.discordapp.net/attachments/847866414638432256/860208804842307644/Screenshot_2021-07-01-19-02-04-198_com.miui.gallery.jpg?width=2182&height=982)  	
-![](https://media.discordapp.net/attachments/847866414638432256/860208805187026984/Screenshot_2021-07-01-19-02-17-637_com.miui.gallery.jpg?width=2182&height=982)  	
-![](https://media.discordapp.net/attachments/847866414638432256/860208805576048640/Screenshot_2021-07-01-19-02-25-463_com.miui.gallery.jpg?width=2182&height=982)  
-![](https://media.discordapp.net/attachments/847866414638432256/860208805946458182/Screenshot_2021-07-01-19-02-31-407_com.miui.gallery.jpg?width=2182&height=982)  
-![](https://media.discordapp.net/attachments/847866414638432256/860208996782571561/Screenshot_2021-07-01-19-02-48-908_com.miui.gallery.jpg?width=1443&height=649)  	
-![](https://media.discordapp.net/attachments/847866414638432256/860208997130174484/Screenshot_2021-07-01-19-02-55-955_com.miui.gallery.jpg?width=1443&height=649)  
-![](https://media.discordapp.net/attachments/847866414638432256/860208997519982622/Screenshot_2021-07-01-19-03-02-051_com.miui.gallery.jpg?width=1443&height=649)  
-![](https://media.discordapp.net/attachments/847866414638432256/860208997986729984/Screenshot_2021-07-01-19-03-10-017_com.miui.gallery.jpg?width=1443&height=649)  
-![](https://media.discordapp.net/attachments/847866414638432256/860209197454983218/Screenshot_2021-07-01-19-03-18-031_com.miui.gallery.jpg?width=1443&height=649)  
-![](https://media.discordapp.net/attachments/847866414638432256/860209197899841536/Screenshot_2021-07-01-19-03-45-951_com.miui.gallery.jpg?width=1443&height=649)  
-![](https://media.discordapp.net/attachments/847866414638432256/860209198498447370/Screenshot_2021-07-01-19-03-57-143_com.miui.gallery.jpg?width=1443&height=649)  
-100th team ЖУКОРАМА with 0 trophies.  
-– *Source: Apru*  	
-</details>
-	
-<details  markdown="block">
-  <summary>
-    Season 2 - Final Results - Div. 1
-  </summary>
 
-![](https://media.discordapp.net/attachments/847867054635876383/860212912068624424/div1.jpg?width=578&height=1344)  
-![](https://media.discordapp.net/attachments/847867054635876383/860214562242691082/div1-2.jpg?width=836&height=1343)  
-– *Source: Apru*  
-</details>
-	
 ##  Wikis & Tutorials
 
 <details  markdown="block">
