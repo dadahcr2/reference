@@ -41,7 +41,7 @@ classes: wide
   </summary>	
 **Div. 2**: <https://youtu.be/Mnu9qhjiHa4>  
 **Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
-...
+...  
 **Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
 **Div. 7**: <https://youtu.be/3eVbSkBzAq8>  
 – *Source: Apru*  
