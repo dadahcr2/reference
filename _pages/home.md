@@ -671,11 +671,6 @@ I highly recommend these:
   </summary>
 <br>
 
-![🇻🇪](https://www.countryflags.io/VE/flat/64.png) Venezuela | ![🇧🇬](https://www.countryflags.io/BG/flat/64.png) Bulgaria | ![🇱🇹](https://www.countryflags.io/LT/flat/64.png) Lithuania | ![🇲🇲](https://www.countryflags.io/MM/flat/64.png) Myanmar | ![🇦🇿](https://www.countryflags.io/AZ/flat/64.png) Azerbaijan | ![🇴🇲](https://www.countryflags.io/OM/flat/64.png) Oman 
-![🇲🇼](https://www.countryflags.io/MW/flat/64.png) Malawi | ![🇩🇪](https://www.countryflags.io/DE/flat/64.png) Germany | ![🇦🇷](https://www.countryflags.io/AR/flat/64.png) Argentina | ![🇳🇮](https://www.countryflags.io/NI/flat/64.png) Nicaragua | ![🇺🇿](https://www.countryflags.io/UZ/flat/64.png) Uzbekistan | ![🇸🇻](https://www.countryflags.io/SV/flat/64.png) El Salvador 
-![🇭🇳](https://www.countryflags.io/HN/flat/64.png) Honduras | ![🇱🇸](https://www.countryflags.io/LS/flat/64.png) Lesotho | ![🇸🇱](https://www.countryflags.io/SL/flat/64.png) Sierra Leone | ![🇱🇻](https://www.countryflags.io/LV/flat/64.png) Latvia | ![🇮🇷](https://www.countryflags.io/IR/flat/64.png) Iran | ![🇰🇼](https://www.countryflags.io/KW/flat/64.png) Kuwait 
-![🇾🇪](https://www.countryflags.io/YE/flat/64.png) Yemen | ![🇦🇪](https://www.countryflags.io/AE/flat/64.png) United Arab Emirates | ![🇱🇺](https://www.countryflags.io/LU/flat/64.png) Luxembourg | ![🇭🇷](https://www.countryflags.io/HR/flat/64.png) Croatia | ![🇳🇱](https://www.countryflags.io/NL/flat/64.png) Netherlands | ![🇵🇾](https://www.countryflags.io/PY/flat/64.png) P
-
 
 ![🇧🇷](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | ![🇯🇵](https://www.countryflags.io/JP/flat/64.png)<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 :--: | :--: | :--: | :--:  
