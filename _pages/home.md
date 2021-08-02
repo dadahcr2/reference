@@ -216,7 +216,7 @@ With so many teams starting around the same time, I’m hoping that the matching
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325304998735952/Screenshot_2021-08-01-14-22-43-699_com.fingersoft.hcr2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509072584824/Screenshot_2021-08-01-14-22-48-729_com.fingersoft.hcr2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509546549258/Screenshot_2021-08-01-14-22-54-198_com.fingersoft.hcr2.jpg )  
-![]( https://cdn.discordapp.com/attachments/847866414638432256/871325510020513792/Screenshot_2021-08-01-14-23-00-069_com.fingersoft.hcr2.jpg)  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325510020513792/Screenshot_2021-08-01-14-23-00-069_com.fingersoft.hcr2.jpg)   
 100. I T A L Y² 826	
 	
 </details>
@@ -225,6 +225,11 @@ With so many teams starting around the same time, I’m hoping that the matching
   <summary>
     Season 3 - Final Results - Div. 1
   </summary>	
+
+![](https://cdn.discordapp.com/attachments/ 847867054635876383/871406537170628618/div1-july-page1.jpg)  
+![]( https://cdn.discordapp.com/attachments/847867054635876383/871406904830738492/div1-july-page2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847867054635876383/871410962702401606/div1-july-page3.jpg )  
+![]( https://cdn.discordapp.com/attachments/847867054635876383/871411108689346650/div1-july-page4.jpg)
 	
 </details>
 
@@ -232,6 +237,11 @@ With so many teams starting around the same time, I’m hoping that the matching
   <summary>
     Season 3 - Final Results - Other Divisions
   </summary>	
+**Div. 2**: <https://youtu.be/Mnu9qhjiHa4>  
+**Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
+...
+**Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
+**Div. 7**: <https://youtu.be/3eVbSkBzAq8>
 
 </details>
 
