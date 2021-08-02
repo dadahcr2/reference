@@ -217,7 +217,7 @@ With so many teams starting around the same time, I’m hoping that the matching
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509072584824/Screenshot_2021-08-01-14-22-48-729_com.fingersoft.hcr2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509546549258/Screenshot_2021-08-01-14-22-54-198_com.fingersoft.hcr2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847866414638432256/871325510020513792/Screenshot_2021-08-01-14-23-00-069_com.fingersoft.hcr2.jpg)   
-100. I T A L Y² 826	
+100. I T A L Y² 826  	
 – *Source: Apru* 
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
@@ -243,7 +243,7 @@ With so many teams starting around the same time, I’m hoping that the matching
   </summary>	
 **Div. 2**: <https://youtu.be/Mnu9qhjiHa4>  
 **Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
-...
+...  
 **Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
 **Div. 7**: <https://youtu.be/3eVbSkBzAq8>  
 – *Source: Apru* 
