@@ -671,7 +671,7 @@ I highly recommend these:
   </summary>
 <br>
 
-**Tap on a flag for country information
+**Tap on a flag for country information**
 	
 [![🇧🇷](https://www.countryflags.io/BR/flat/64.png)](https://www.crwflags.com/fotw/flags/BR.html) | [![🇧🇩](https://www.countryflags.io/BD/flat/64.png)](https://www.crwflags.com/fotw/flags/BD.html) | [![🇯🇵](https://www.countryflags.io/JP/flat/64.png)](https://www.crwflags.com/fotw/flags/JP.html) | [![🇳🇪](https://www.countryflags.io/NE/flat/64.png)](https://www.crwflags.com/fotw/flags/NE.html) | [![🇰🇷](https://www.countryflags.io/KR/flat/64.png)](https://www.crwflags.com/fotw/flags/KR.html) | [![🇬🇱](https://www.countryflags.io/GL/flat/64.png)](https://www.crwflags.com/fotw/flags/GL.html)  
 :--: | :--: | :--: | :--: | :--: | :--:  
