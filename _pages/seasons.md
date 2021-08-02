@@ -37,6 +37,18 @@ classes: wide
 
 <details  markdown="block">
   <summary>
+    Season 3 - Final Results - Other Divisions
+  </summary>	
+**Div. 2**: <https://youtu.be/Mnu9qhjiHa4>  
+**Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
+...
+**Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
+**Div. 7**: <https://youtu.be/3eVbSkBzAq8>  
+– *Source: Apru*  
+</details>
+	
+<details  markdown="block">
+  <summary>
    Leagues Stats - Season 3
   </summary>
 
@@ -99,20 +111,6 @@ About 30% of Division 1 matched within a 5-10 minute window.  This indicates tha
 With so many teams starting around the same time, I’m hoping that the matching algorithm will do a better job🤞	
 </details>	
 
-
-
-<details  markdown="block">
-  <summary>
-    Season 3 - Final Results - Other Divisions
-  </summary>	
-**Div. 2**: <https://youtu.be/Mnu9qhjiHa4>  
-**Div. 3**: <https://youtu.be/BQsyFUYvzhs>  
-...
-**Div. 6**: <https://youtu.be/3YbE1GCWg3w>  
-**Div. 7**: <https://youtu.be/3eVbSkBzAq8>  
-– *Source: Apru*  
-</details>
-
 <details  markdown="block">
   <summary>
     Season 2 - Final Results - C.C.
@@ -145,7 +143,7 @@ With so many teams starting around the same time, I’m hoping that the matching
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats
+   Leagues Stats - Season 2
   </summary>
 ### Final Analysis for Season 2 - After 14 Matches
 	
