@@ -670,10 +670,9 @@ I highly recommend these:
     Flags Sorted by Design
   </summary>
 <br>
-	
 
 	
-***Long press on a flag to seem it's name***	
+<mark>***Long press on a flag to seem it's name***</mark>
 	
 **Circles**  
 ![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil") ![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh")
