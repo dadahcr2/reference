@@ -202,6 +202,38 @@ With so many teams starting around the same time, I’m hoping that the matching
 <br>			
 </details>
 
+details  markdown="block">
+  <summary>
+    Season 3 - Final Results - C.C.
+  </summary>	
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325233154523146/Screenshot_20210801-142152.png)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325233452298270/Screenshot_2021-08-01-14-22-10-328_com.fingersoft.hcr2.jpg)    
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325233859153920/Screenshot_2021-08-01-14-22-15-571_com.fingersoft.hcr2.jpg )  
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325234194702336/Screenshot_2021-08-01-14-22-20-462_com.fingersoft.hcr2.jpg )  
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325303790780456/Screenshot_2021-08-01-14-22-26-569_com.fingersoft.hcr2.jpg )  
+![](https://cdn.discordapp.com/attachments/847866414638432256/871325304185061416/Screenshot_2021-08-01-14-22-31-692_com.fingersoft.hcr2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325304537358376/Screenshot_2021-08-01-14-22-38-558_com.fingersoft.hcr2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325304998735952/Screenshot_2021-08-01-14-22-43-699_com.fingersoft.hcr2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509072584824/Screenshot_2021-08-01-14-22-48-729_com.fingersoft.hcr2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325509546549258/Screenshot_2021-08-01-14-22-54-198_com.fingersoft.hcr2.jpg )  
+![]( https://cdn.discordapp.com/attachments/847866414638432256/871325510020513792/Screenshot_2021-08-01-14-23-00-069_com.fingersoft.hcr2.jpg)  
+100. I T A L Y² 826	 
+</details>
+	
+details  markdown="block">
+  <summary>
+    Season 3 - Final Results - Div. 1
+  </summary>	
+	
+</details>
+
+details  markdown="block">
+  <summary>
+    Season 3 - Final Results - Other Divisions
+  </summary>	
+
+</details>
+
 <details  markdown="block">
   <summary>
     Season 2 - Final Results - C.C.
