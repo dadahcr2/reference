@@ -678,15 +678,14 @@ I highly recommend these:
 	
 **Circles**
 
-[![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil")![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh")![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger")![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea")![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland")![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize")![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic")![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia")![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe")![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan")![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia")![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau")![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati")](){: .notice}  
-	
+| ![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil")![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh")![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger")![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea")![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland")![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize")![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic")![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia")![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe")![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan")![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia")![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau")![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati") |	
 | -- |   
 | &nbsp; |      
 
 **Diagonals**
 
 | ![🇧🇹](https://www.countryflags.io/BT/flat/64.png "Bhutan") ![🇨🇩](https://www.countryflags.io/CD/flat/64.png "Congo") ![🇨🇬](https://www.countryflags.io/CG/flat/64.png "Congo") ![🇲🇭](https://www.countryflags.io/MH/flat/64.png "Marshall Islands") ![🇳🇦](https://www.countryflags.io/NA/flat/64.png "Namibia") ![🇰🇳](https://www.countryflags.io/KN/flat/64.png "Saint Kitts and Nevis") ![🇸🇧](https://www.countryflags.io/SB/flat/64.png "Solomon Islands") ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png "Tanzania") ![🇹🇰](https://www.countryflags.io/TK/flat/64.png "Tokelau") ![🇧🇦](https://www.countryflags.io/BA/flat/64.png "Bosnia and Herzegovina") ![🇧🇳](https://www.countryflags.io/BN/flat/64.png "Brunei Darussalam") ![🇨🇽](https://www.countryflags.io/CX/flat/64.png "Christmas Island") ![🇬🇫](https://www.countryflags.io/GF/flat/64.png "French Guiana") ![🇵🇬](https://www.countryflags.io/PG/flat/64.png "Papua New Guinea") ![🇹🇹](https://www.countryflags.io/TT/flat/64.png "Trinidad and Tobago") |  
-| ---  |  
+| --  |  
 | &nbsp;   | 	
 
 **Union Jack**
