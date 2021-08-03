@@ -672,14 +672,13 @@ I highly recommend these:
 <br>
 
 	
-**Long press on a flag to see the country name**
-{: .notice}
+**Long press on a flag to see the country name**{: .notice}
 	
 ***
 	
 **Circles**
 
-![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil") ![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh") ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan"){:.thumbnail.bordered} ![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger") ![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea") ![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland") ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize") ![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic") ![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia") ![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe") ![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan") ![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia") ![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau") ![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati"){: .notice}  
+[![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil") ![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh") ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan") ![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger") ![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea") ![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland") ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize") ![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic") ![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia") ![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe") ![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan") ![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia") ![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau") ![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati")](){: .notice}  
 	
 | -- |   
 | &nbsp; |      
@@ -710,7 +709,7 @@ I highly recommend these:
 	
 **Two Horizontal Stripes**
 
-| ![🇦🇴](https://www.countryflags.io/AO/flat/64.png "Angola") ![🇧🇫](https://www.countryflags.io/BF/flat/64.png "Burkina Faso") ![🇮🇩](https://www.countryflags.io/ID/flat/64.png "Indonesia") ![🇲🇨](https://www.countryflags.io/MC/flat/64.png "Monaco") ![🇵🇱](https://www.countryflags.io/PL/flat/64.png "Poland") ![🇸🇬](https://www.countryflags.io/SG/flat/64.png "Singapore") ![🇸🇲](https://www.countryflags.io/SM/flat/64.png "San Marino") ![🇺🇦](https://www.countryflags.io/UA/flat/64.png "Ukraine") ![🇭🇹](https://www.countryflags.io/HT/flat/64.png "Haiti") ![🇱🇮](https://www.countryflags.io/LI/flat/64.png "Liechtenstein") ![🇨🇱](https://www.countryflags.io/CL/flat/64.png "Chile") ![🇵🇦](https://www.countryflags.io/PA/flat/64.png "Panama") ![🇧🇯](https://www.countryflags.io/BJ/flat/64.png "Benin") ![🇬🇼](https://www.countryflags.io/GW/flat/64.png "Guinea-Bissau") ![🇲🇬](https://www.countryflags.io/MG/flat/64.png "Madagascar") ![🇧🇾](https://www.countryflags.io/BY/flat/64.png "Belarus") | {:.thumbnail.bordered}
+| ![🇦🇴](https://www.countryflags.io/AO/flat/64.png "Angola") ![🇧🇫](https://www.countryflags.io/BF/flat/64.png "Burkina Faso") ![🇮🇩](https://www.countryflags.io/ID/flat/64.png "Indonesia") ![🇲🇨](https://www.countryflags.io/MC/flat/64.png "Monaco") ![🇵🇱](https://www.countryflags.io/PL/flat/64.png "Poland") ![🇸🇬](https://www.countryflags.io/SG/flat/64.png "Singapore") ![🇸🇲](https://www.countryflags.io/SM/flat/64.png "San Marino") ![🇺🇦](https://www.countryflags.io/UA/flat/64.png "Ukraine") ![🇭🇹](https://www.countryflags.io/HT/flat/64.png "Haiti") ![🇱🇮](https://www.countryflags.io/LI/flat/64.png "Liechtenstein") ![🇨🇱](https://www.countryflags.io/CL/flat/64.png "Chile") ![🇵🇦](https://www.countryflags.io/PA/flat/64.png "Panama") ![🇧🇯](https://www.countryflags.io/BJ/flat/64.png "Benin") ![🇬🇼](https://www.countryflags.io/GW/flat/64.png "Guinea-Bissau") ![🇲🇬](https://www.countryflags.io/MG/flat/64.png "Madagascar") ![🇧🇾](https://www.countryflags.io/BY/flat/64.png "Belarus") |
 | -- | 	
 |  &nbsp; |
 
@@ -720,9 +719,9 @@ I highly recommend these:
 | --
 | &nbsp; 
 
-**Three Horizontal Stripes - Other**  
+**Three Horizontal Stripes - Other Middle**  
 
-| ![🇷🇸](https://www.countryflags.io/RS/flat/64.png "Serbia") ![🇦🇲](https://www.countryflags.io/AM/flat/64.png "Armenia") ![🇷🇺](https://www.countryflags.io/RU/flat/64.png "Russia") ![🇸🇰](https://www.countryflags.io/SK/flat/64.png "Slovakia") ![🇸🇮](https://www.countryflags.io/SI/flat/64.png "Slovenia") ![🇻🇪](https://www.countryflags.io/VE/flat/64.png "Venezuela") ![🇧🇬](https://www.countryflags.io/BG/flat/64.png "Bulgaria") ![🇱🇹](https://www.countryflags.io/LT/flat/64.png "Lithuania") ![🇲🇲](https://www.countryflags.io/MM/flat/64.png "Myanmar") ![🇦🇿](https://www.countryflags.io/AZ/flat/64.png "Azerbaijan") ![🇴🇲](https://www.countryflags.io/OM/flat/64.png "Oman") ![🇲🇼](https://www.countryflags.io/MW/flat/64.png "Malawi") ![🇩🇪](https://www.countryflags.io/DE/flat/64.png "Germany") ! [🇪🇪](https://www.countryflags.io/EE/flat/64.png "Estonia")![🇱🇾](https://www.countryflags.io/LY/flat/64.png "Libya")![🇬🇦](https://www.countryflags.io/GA/flat/64.png "Gabon")![🇪🇹](https://www.countryflags.io/ET/flat/64.png "Ethiopia")![🇧🇴](https://www.countryflags.io/BO/flat/64.png "Bolivia")![🇬🇭](https://www.countryflags.io/GH/flat/64.png "Ghana")
+| ![🇷🇸](https://www.countryflags.io/RS/flat/64.png "Serbia") ![🇦🇲](https://www.countryflags.io/AM/flat/64.png "Armenia") ![🇷🇺](https://www.countryflags.io/RU/flat/64.png "Russia") ![🇸🇰](https://www.countryflags.io/SK/flat/64.png "Slovakia") ![🇸🇮](https://www.countryflags.io/SI/flat/64.png "Slovenia") ![🇻🇪](https://www.countryflags.io/VE/flat/64.png "Venezuela") ![🇧🇬](https://www.countryflags.io/BG/flat/64.png "Bulgaria") ![🇱🇹](https://www.countryflags.io/LT/flat/64.png "Lithuania") ![🇲🇲](https://www.countryflags.io/MM/flat/64.png "Myanmar") ![🇦🇿](https://www.countryflags.io/AZ/flat/64.png "Azerbaijan") ![🇴🇲](https://www.countryflags.io/OM/flat/64.png "Oman") ![🇲🇼](https://www.countryflags.io/MW/flat/64.png "Malawi") ![🇩🇪](https://www.countryflags.io/DE/flat/64.png "Germany") ![🇪🇪](https://www.countryflags.io/EE/flat/64.png "Estonia") ![🇱🇾](https://www.countryflags.io/LY/flat/64.png "Libya") ![🇬🇦](https://www.countryflags.io/GA/flat/64.png "Gabon") ![🇪🇹](https://www.countryflags.io/ET/flat/64.png "Ethiopia") ![🇧🇴](https://www.countryflags.io/BO/flat/64.png "Bolivia") ![🇬🇭](https://www.countryflags.io/GH/flat/64.png "Ghana")
 | --	
 | &nbsp; 
 	
@@ -761,9 +760,6 @@ I highly recommend these:
 ![🇧🇷](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 ![🇰🇷](https://www.countryflags.io/KR/flat/64.png)<br>South Korea | ![🇬🇱](https://www.countryflags.io/GL/flat/64.png)<br>Greenland | ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)<br>Belize | ![🇱🇦](https://www.countryflags.io/LA/flat/64.png)<br>Laos  
 ![🇹🇳](https://www.countryflags.io/TN/flat/64.png)<br>Tunisia | ![🇬🇵](https://www.countryflags.io/GP/flat/64.png)<br>Guadeloupe | ![🇰🇬](https://www.countryflags.io/KG/flat/64.png)<br>Kyrgyzstan | ![🇳🇨](https://www.countryflags.io/NC/flat/64.png)<br>New Caledonia
-{: .notice}
-
-
 ![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati | ![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo 
 ![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall Islands | ![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts & Nevis  
 ![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania | ![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia & Herzegovina  
