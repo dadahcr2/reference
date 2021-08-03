@@ -667,7 +667,7 @@ I highly recommend these:
 </details>	
 <details  markdown="block">
   <summary>
-    Country Flags arranged by Design
+    Flags arranged by Design
   </summary>
 <br>
 
