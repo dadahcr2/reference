@@ -724,23 +724,7 @@ I highly recommend these:
 	
 **Four+ Horizontal Stripes**  
 
-![🇨🇫](https://www.countryflags.io/CF/flat/64.png "Central African Rep.")
-![🇲🇺](https://www.countryflags.io/MU/flat/64.png "Mauritius")
-![🇬🇲](https://www.countryflags.io/GM/flat/64.png "Gambia")
-![🇹🇭](https://www.countryflags.io/TH/flat/64.png "Thailand")
-![🇹🇬](https://www.countryflags.io/TG/flat/64.png "Togo")
-![🇨🇻](https://www.countryflags.io/CV/flat/64.png "Cape Verde")
-![🇨🇷](https://www.countryflags.io/CR/flat/64.png "Costa Rica")
-![🇰🇪](https://www.countryflags.io/KE/flat/64.png "Kenya")
-![🇸🇷](https://www.countryflags.io/SR/flat/64.png "Suriname")
-![🇮🇱](https://www.countryflags.io/IL/flat/64.png "Israel")
-![🇧🇼](https://www.countryflags.io/BW/flat/64.png "Botswana")
-![🇺🇬](https://www.countryflags.io/UG/flat/64.png "Uganda")
-![🇺🇾](https://www.countryflags.io/UY/flat/64.png "Uruguay")
-![🇬🇷](https://www.countryflags.io/GR/flat/64.png "Greece")
-![🇱🇷](https://www.countryflags.io/LR/flat/64.png "Liberia")
-![🇲🇾](https://www.countryflags.io/MY/flat/64.png "Malaysia")
-![🇺🇸](https://www.countryflags.io/US/flat/64.png "United States")	
+![🇨🇫](https://www.countryflags.io/CF/flat/64.png "Central African Rep.") ![🇲🇺](https://www.countryflags.io/MU/flat/64.png "Mauritius") ![🇬🇲](https://www.countryflags.io/GM/flat/64.png "Gambia") ![🇹🇭](https://www.countryflags.io/TH/flat/64.png "Thailand") ![🇹🇬](https://www.countryflags.io/TG/flat/64.png "Togo") ![🇨🇻](https://www.countryflags.io/CV/flat/64.png "Cape Verde") ![🇨🇷](https://www.countryflags.io/CR/flat/64.png "Costa Rica") ![🇰🇪](https://www.countryflags.io/KE/flat/64.png "Kenya") ![🇸🇷](https://www.countryflags.io/SR/flat/64.png "Suriname") ![🇮🇱](https://www.countryflags.io/IL/flat/64.png "Israel") ![🇧🇼](https://www.countryflags.io/BW/flat/64.png "Botswana") ![🇺🇬](https://www.countryflags.io/UG/flat/64.png "Uganda") ![🇺🇾](https://www.countryflags.io/UY/flat/64.png "Uruguay") ![🇬🇷](https://www.countryflags.io/GR/flat/64.png "Greece") ![🇱🇷](https://www.countryflags.io/LR/flat/64.png "Liberia") ![🇲🇾](https://www.countryflags.io/MY/flat/64.png "Malaysia") ![🇺🇸](https://www.countryflags.io/US/flat/64.png "United States")	
 | --
 | &nbsp; 
 	
