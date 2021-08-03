@@ -674,7 +674,7 @@ I highly recommend these:
 	
 ***<mark>Long press on a flag to see the country name</mark>***
 	
-| ---
+
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
@@ -688,10 +688,8 @@ I highly recommend these:
 	
 	
 
-| ![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil") ![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh")
-![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan"){:.thumbnail.bordered}
-![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger") ![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea") ![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland") ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize") ![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic") ![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia") ![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe") ![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan") ![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia") ![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau") ![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati") |   
-| :-- |   
+| ![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil") ![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh") ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan"){:.thumbnail.bordered} ![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger") ![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea") ![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland") ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize") ![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic") ![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia") ![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe") ![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan") ![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia") ![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau") ![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati") |   
+| -- |   
 | **Circles** |     
 
 
