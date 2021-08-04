@@ -59,10 +59,10 @@ Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]
 -->
 <details  markdown="block">
   <summary>
-    PE: Orbital Overdrive (Moon Time-Attack) 
+    PE: The Milliseconds Between (No Air) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/852403800887132171/870192741710196796/image0.png)  
+![](https://cdn.discordapp.com/attachments/852315313286545448/872036169897082890/image0.png)  
 	
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
