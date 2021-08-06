@@ -22,7 +22,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Preview
+    TE: Floor It
   </summary>	
 <br>
 **All Vehicles**  
