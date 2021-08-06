@@ -233,7 +233,7 @@ With so many teams starting around the same time, I’m hoping that the matching
   <summary>
     Season 3 - Final Results - Div. 1
   </summary>	
-
+![](https://media.discordapp.net/attachments/847867054635876383/871406537170628618/div1-july-page1.jpg)  
 ![](https://cdn.discordapp.com/attachments/ 847867054635876383/871406537170628618/div1-july-page1.jpg)  
 ![]( https://cdn.discordapp.com/attachments/847867054635876383/871406904830738492/div1-july-page2.jpg )  
 ![]( https://cdn.discordapp.com/attachments/847867054635876383/871410962702401606/div1-july-page3.jpg )  
