@@ -63,7 +63,8 @@ Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/850232585707323402/872733510157365258/image0.png)  
-	
+
+![](https://cdn.discordapp.com/attachments/864520500007927819/873016114664321064/image0.jpg)  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
