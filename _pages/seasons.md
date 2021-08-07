@@ -139,6 +139,7 @@ With so many teams starting around the same time, I’m hoping that the matching
 ![](https://media.discordapp.net/attachments/847867054635876383/860212912068624424/div1.jpg?width=578&height=1344)  
 ![](https://media.discordapp.net/attachments/847867054635876383/860214562242691082/div1-2.jpg?width=836&height=1343)  
 – *Source: Apru*  
+	
 </details>
 	
 <details  markdown="block">
@@ -189,11 +190,12 @@ A few observations:
 
 ![](https://cdn.discordapp.com/attachments/847867054635876383/857756404277051432/image0.png)
 - So after 11 matches, it looks like relegation for those with <2040 average score, and promotion for those averaging 3150 or more (roughly)
-- it will be interesting to see if this changes going into season end - or if some marginal teams will decline to play.								 
-</details>	
+- it will be interesting to see if this changes going into season end - or if some marginal teams will decline to play.								 							
+</details>  
+	
 <details  markdown="block">
   <summary>
-   Final Results - Season 1 - C.C.
+   Season 1 - Final Results - C.C.
   </summary>
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/873445977451819008/image0.jpg)  
