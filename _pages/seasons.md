@@ -191,7 +191,17 @@ A few observations:
 - So after 11 matches, it looks like relegation for those with <2040 average score, and promotion for those averaging 3150 or more (roughly)
 - it will be interesting to see if this changes going into season end - or if some marginal teams will decline to play.								 
 </details>	
+<details  markdown="block">
+  <summary>
+   Final Results - Season 1 - C.C.
+  </summary>
 
+![](https://cdn.discordapp.com/attachments/806343355264401478/873445977451819008/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/806343355264401478/873445977795731486/image1.jpg)  
+- *Source: Nemesis News*  
+	
+</details>	
+	
 <details  markdown="block">
   <summary>
    Leagues Stats - Season 1
