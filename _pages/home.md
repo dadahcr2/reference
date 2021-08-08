@@ -43,45 +43,7 @@ classes: wide
 </details>  
 
 	
-<details  markdown="block">
-  <summary>
-    TE: Among Them
-  </summary>	
-<br>	
-	
-**Among Them**
-Allowed vehicles: ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]  
-**Track 1:** Backwater Cup - Grill Bill, _Time attack, flips, 10k=8s_  
-**Track 2:** Time Attack in Moon - MAN IN THE MOON, _Time attack, 10k=18s_  
-**Track 3:** Distance in - Patchwork, _Distance, 10k=1200m_  
-**Track 4:** Floor is Lava in - Mines, _Distance, 10k=800m_  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/871431867407151155/image0.png)
 
-![](https://cdn.discordapp.com/attachments/719181324610437190/871051887724621824/xyzzy1627745350943.png)
-
-<br>  	
-
-
-</details>
-<!--
-<details  markdown="block">
-  <summary>
-    TE: Hill Climb Raging
-  </summary>	
-<br>	
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/868162007499698216/image0.png)
-	
-![Jeep2]![Jeep2]![sportscar2]![sportscar2]![Hotrod2]![Hotrod2]  
-	
-![](https://cdn.discordapp.com/attachments/834773705866477598/868136479895998514/xyzzy1627049937467.png)
-	
-<br>  	
-
-
-</details>
--->
 <details  markdown="block">
   <summary>
     PE: The Milliseconds Between (No Air) 
