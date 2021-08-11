@@ -35,7 +35,7 @@ classes: wide
 **10k Setups**
 ![](https://cdn.discordapp.com/attachments/850761577320677396/873280606694420500/image0.png)
 
-"10k" Videos
+**10k Videos**
 1. [Sportscar start JS LB](https://images-ext-2.discordapp.net/external/ippLoInBjBdyhzNgDY8_yziaDOIZeIAQKxMYH9RzBBc/https/i.imgur.com/1YzF83u.mp4)
 2. [Formula start JS LB](https://images-ext-1.discordapp.net/external/16QC7Cgl3UDbTfpfk4OUUM1pANWwVf2zxCanZ8pR28A/https/i.imgur.com/T4MDIkP.mp4)
 3. [Diesel wing JS LB](https://images-ext-1.discordapp.net/external/mf3xyNbA_OtfiRFDHOhlIlgPO4JY9NXsAww-PoES8d4/https/i.imgur.com/EftVysB.mp4)
