@@ -140,10 +140,8 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats
+   Leagues Stats - Season 4
   </summary>
-
-### Season 4
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/873759071113707520/image0.png)
 	
@@ -155,6 +153,8 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 ![](https://cdn.discordapp.com/attachments/858336498159714324/873768792851898408/image0.png)  
 ![](https://cdn.discordapp.com/attachments/858336498159714324/873768793170673716/image1.png)  
 ![](https://cdn.discordapp.com/attachments/858336498159714324/873768793485213746/image2.png)
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/873759071113707520/image0.png)
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
