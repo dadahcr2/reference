@@ -143,63 +143,18 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
    Leagues Stats
   </summary>
 
-### Season 3
-
-**How well are teams that were promoted doIng in C.C.?**
-Promoted teams are widely regarded as *Shark Fodder* to be chewed up and spat back out to Division 1 after one season.  Is this true?  
+### Season 4
 	
-Well I took a quick look at the Top 50 teams in C.C. to see how many had made there way out of the relegation zone. I found that there were ten from Division 1, placed as follows: 13, 24, 29, 30, 34, 41, 45, 46, 48, 50.  Half of these were still outside the Top 40.
+![](https://cdn.discordapp.com/attachments/858336498159714324/873759071113707520/image0.png)
 	
-Accordingly it appears that of the 50 promoted teams, 40 are likely to be relegated after one season, 5 may just hang in for another season or two, and 5 may be longer term C.C. residents!
-	
-#### After Match 10
-
-**Season 3 - C.C. - After 10 Matches**
-Very peaked distribution of average scores, with thick tails (I call this the Middle Fingersoft Distribution 🤣).  I.e. lots of real strong/weak team and some in the middle too - with few in between. 
-Projected Relegation Score for 15 matches is 33900 (average of 2260 per match)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/868025040724176906/image0.png)  	
-
-**Season 3 - Div 1 - After 10 Matches**
-A very typical bell curve.  Only one team averaging over 4000 per match (Norden Elite).  Small tails suggesting fewer walkover matches.
-Assuming 15 matches, projected score for promotion is 46500 (3070 per match average), and a total score of 31125 or less to be relegated (average of 2075)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/868027529770991636/image0.png)  
-
-**Season 3 - Div 2 - After 10 Matches**  
-A bit of a scewed distribution suggesting many weak teams and few super-strong teams. 
-Four teams with averages above 4000 per match headed by TÜRKIYE.
-Assuming 15 matches, expected  total score required for promotion is 46200 (average of 3080 per match). Double relegation est.score < 23500 (1570 average) and single relegation est. 30k score (2000 average)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/868030387559993404/image0.png)
-							
-**Comparison of Division Distributions**
-Extent of mismatches clear in C.C. given thick tails
-Matches are closest in Div 1 with more consistent average scores in general
-Div 2 super strong teams as scarce as in Div 1 -  but a heavier preponderance of weaker teams (promotions from Div 4?)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/868031654839603250/image0.png)  										   
-#### After Match 1 
-	
-##### **C.C.**
-![](https://cdn.discordapp.com/attachments/847866414638432256/861011530815373352/image0.png)  
-- After the first match in C.C., the median score was 2259.  This will probably reduce over time assuming some teams are not able to match in future rounds. 
-- It is noticeable how uniform the results were spread.  A function of this being based on a single, randomly-allocated match.
-- Italy² came last with 30 cup points - which is not surprising as they are down to 3 members and the leader has <2k gp.  Presumably the members are off to better hunting grounds for the season. How many other teams will do the same? They are unlikely to be the only ones.  It looks like GERMANY was the lucky team that benefited from the easy match!
-- With one or two exceptions, the vast majority of lower ranked teams (e.g. 8 of the bottom 10) are imports from Division 1.   Welcome to C.C.!!  
-
-##### **Div 1**  						
-![](https://cdn.discordapp.com/attachments/858336498159714324/861464590512291870/image0.png)  
-- The distribution of scores in Division 1 is quite Bell Shaped with most teams scoring between 1000 and 3500.  A sign of very little variation in team strength.
-- 499 teams in total.  The bottom two are clearly inactive with 3 player between the two of them.  The unlucky team that was unable to find a match was GermanEmpire.  									
-														     
-##### **Div 2**  
-![](https://cdn.discordapp.com/attachments/858336498159714324/861464783299674112/image0.png)	
-- 1997 teams of which 23 did not match
-- The triangle-shaped distribution suggest less variation is strength than C.C. - but more than Div. 1.  
-![](https://cdn.discordapp.com/attachments/858336498159714324/861492615270760489/image0.png)	
-
-#### Matching
-														     
-About 30% of Division 1 matched within a 5-10 minute window.  This indicates that many many teams joined the season right as it started.  I wouldn’t be surprised if this has something to do with teams missing out on the 15th match in Season 2?  
-
-With so many teams starting around the same time, I’m hoping that the matching algorithm will do a better job🤞	
+**Season 4 after two matches**  
+**CC:** Bimodal distribution suggesting very different strength level between Top 50 and Bottom 50  
+**D1:**  Remains a well-balanced division with a very normal and symmetric distribution of scores  
+**D2:** In-between with well-balanced teams but many weak teams too  	
+![](https://cdn.discordapp.com/attachments/858336498159714324/873766839203807282/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/873768792851898408/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/873768793170673716/image1.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/873768793485213746/image2.png)
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
