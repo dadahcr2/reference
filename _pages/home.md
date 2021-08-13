@@ -143,8 +143,6 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
    Leagues Stats - Season 4
   </summary>
 	
-![](https://cdn.discordapp.com/attachments/858336498159714324/873759071113707520/image0.png)
-	
 **Season 4 after two matches**  
 **CC:** Bimodal distribution suggesting very different strength level between Top 50 and Bottom 50  
 **D1:**  Remains a well-balanced division with a very normal and symmetric distribution of scores  
