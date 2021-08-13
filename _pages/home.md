@@ -18,7 +18,14 @@ classes: wide
 
 ## Events & Updates
 
-
+<details  markdown="block">
+  <summary>
+    TE: Mine Event Preview
+  </summary>	
+<br>
+![scooter2] ![tractor2] ![chopper2] ![formjla2] ![supercar2] 
+![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)
+</details>
 
 <details  markdown="block">
   <summary>
