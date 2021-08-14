@@ -20,11 +20,11 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Mine Event Preview
+    TE: Crunch
   </summary>	
 <br>
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)  
+![](https://cdn.discordapp.com/attachments/750874271022317678/875929164321030174/image0.jpg)  
 ![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
 </details>
 
