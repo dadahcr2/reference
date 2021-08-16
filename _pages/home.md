@@ -27,35 +27,6 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/750874271022317678/875929164321030174/image0.jpg)  
 ![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
 </details>
-
-<details  markdown="block">
-  <summary>
-    TE: Floor It
-  </summary>	
-<br>
-![](https://c.tenor.com/UpUQr4nMF1AAAAAC/ok-floor-it-spongebob.gif)
-	
-**All Vehicles**  
-	
-![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
-
-	
-**10k Setups**
-![](https://cdn.discordapp.com/attachments/850761577320677396/873280606694420500/image0.png)
-
-**10k Videos**
-1. [Sportscar start JS LB](https://images-ext-2.discordapp.net/external/ippLoInBjBdyhzNgDY8_yziaDOIZeIAQKxMYH9RzBBc/https/i.imgur.com/1YzF83u.mp4)
-2. [Formula start JS LB](https://images-ext-1.discordapp.net/external/16QC7Cgl3UDbTfpfk4OUUM1pANWwVf2zxCanZ8pR28A/https/i.imgur.com/T4MDIkP.mp4)
-3. [Diesel wing JS LB](https://images-ext-1.discordapp.net/external/mf3xyNbA_OtfiRFDHOhlIlgPO4JY9NXsAww-PoES8d4/https/i.imgur.com/EftVysB.mp4)
-4. [Sbike tire start AB](https://images-ext-2.discordapp.net/external/xz9vSSJmMx__La2heSLLDk1aH5uCvqxpPYDxytyQZ4s/https/i.imgur.com/NO8E4of.mp4)
-5. [Rotator flip AB OT](https://images-ext-1.discordapp.net/external/UvtNsBEtL5esKyVZJQRFSGY-xc_HTPYdbMjqQstu2MQ/https/i.imgur.com/DjyU7oy.mp4)
-
-**Easier Setups**  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/874174511149359104/image0.png)
-	
-</details>  
-
 	
 
 <details  markdown="block">
