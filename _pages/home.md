@@ -34,7 +34,7 @@ classes: wide
      PE: Back Wheel Blues (Wheelie)
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850235181507149854/877402514016849930/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/877730728157270026/image0.png)  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
