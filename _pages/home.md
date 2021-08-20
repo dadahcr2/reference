@@ -23,7 +23,7 @@ classes: wide
   </summary>	
 <br>
 
-![](https://cdn.discordapp.com/attachments/731162975854919690/878137108844380171/image0.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/878291991547510794/image0.png)  
 ![mk22] ![moto2]![rotator2] ![tank2] ![rally2]   
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/878409453458837534/image0.png)  
