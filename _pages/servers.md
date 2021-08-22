@@ -148,4 +148,4 @@ Hcr2 ArtGallery Bot Support | <https://discord.gg/EzHaSUfcht>
 HCR1 Assets | <https://discord.gg/3UsWqKySXQ>  
 Hill Climb Racing 1 Community | <https://discord.gg/89sW7UEQfu>  
 
-*Source: **HCR Server Link Hub** (a truly excellent discord server)* - Aug 21, 2021
+*Source: **HCR Server Link Hub** (a truly excellent discord server) - Aug 21, 2021*
