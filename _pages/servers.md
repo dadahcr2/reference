@@ -1,4 +1,4 @@
-*Source: **HCR Server Link Hub** (a truly excellent discord server)
+*Source: **HCR Server Link Hub** (a truly excellent discord server)*
 
 Server | Link  
 -- | --  
