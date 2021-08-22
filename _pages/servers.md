@@ -1,3 +1,9 @@
+---
+permalink: /servers/
+title: "HCR Discord Server Invites"
+classes: wide
+---
+
 Server | Link  
 -- | --  
 HCR Server Link Hub | <https://discord.gg/RXQeGtuz8U>  
