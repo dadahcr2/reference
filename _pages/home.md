@@ -766,6 +766,18 @@ I highly recommend these:
 ![🇸🇳](https://www.countryflags.io/SN/flat/64.png)<br>Senegal | ![🇬🇳](https://www.countryflags.io/GN/flat/64.png)<br>Guinea | ![🇧🇪](https://www.countryflags.io/BE/flat/64.png)<br>Belgium |   
 :--: | :--: | :--: | :--:  	
 &nbsp; | | | 	
+
+	
+</details>  	
+		
+	
+<details  markdown="block">
+  <summary>
+    Server & Friend Invites
+  </summary>
+	
+- [Discord Server Invites](/servers/)
+- [HCR2 Friend Links](/Friends/)
 	
 	
 </details>  	
