@@ -1,3 +1,9 @@
+---
+permalink: /friends/
+title: "HCR2 Friend Links"
+classes: wide
+---
+
 Name | Link | Date added  
 -- | -- | --  
 (PR)Aastha | <https://playhcr.com/invite?id=o9APOa> | 2020-09-25  
