@@ -777,7 +777,7 @@ I highly recommend these:
   </summary>
 	
 - [Discord Server Invites](/servers/)
-- [HCR2 Friend Links](/Friends/)
+- [HCR2 Friend Links](/friends/)
 	
 	
 </details>  	
