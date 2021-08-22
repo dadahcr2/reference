@@ -69,7 +69,7 @@ IO&OI YT | <https://discord.gg/zh9f6x9ugQ>
 Vereshchak | <https://discord.gg/pq3Uta7ht5>  
 Eric YT | <https://discord.gg/mrDEm4TxyX>  
 Aniket | <https://discord.gg/MTtCvMkdkU>  
-|PL|FULO | <https://discord.gg/5W4S867>  
+\|PL\|FULO | <https://discord.gg/5W4S867>  
 Cthulhu's Crab Shack | <https://discord.gg/fGTmV23tuv>  
 Rose YT | <https://discord.gg/5mvSbGZ>  
 Vokope | <https://discord.gg/VjXvNykCNW>  
@@ -99,7 +99,7 @@ HCR2 PEC | <https://discord.gg/hkJWwCe>
 HCR2 WARS GLOBAL | <https://discord.gg/6DgDjTfuTp>  
 Tournoi Vehicule Specifique | <https://discord.gg/YCtKrMNrde>  
 Team vsTeam Tournaments | <https://discord.gg/7CTXnUZ2cY>  
-Daily Chanllenge Events AU|HCR2 | <https://discord.gg/5tkVJbsY2d>  
+Daily Chanllenge Events AU\|HCR2 | <https://discord.gg/5tkVJbsY2d>  
 Adventure Tournament | <https://discord.gg/JPs9JkhFgP>  
 Friendly Wars | <https://discord.gg/Ntc2cTUrkU>  
 Quick Racing Community | <https://discord.gg/RSx6tyGNtU>  
@@ -112,7 +112,7 @@ Natural Killers | <https://discord.gg/w39hM4nXZ7>
 Squad of Bastards Community | <https://discord.gg/2yuEX6RQZh>  
 [SN]Super Ninjas Officials | <https://discord.gg/EVvzYfDAF7>  
 [DB]Dumb Brain \ Official Clan | <https://discord.gg/5ZPvvEZXnr>  
-Fury Legends reborn | 2nd Gen | <https://discord.gg/FBJHDNnZ5R>  
+Fury Legends reborn \| 2nd Gen | <https://discord.gg/FBJHDNnZ5R>  
 Blade Runnrs Clan (BRC) | <https://discord.gg/W9uwMvArrB>  
 SB Community & Recruiting Server | <https://discord.gg/BAt8BTYsKk>  
 Dark Spirits | <https://discord.gg/qW9h5pMyFF>  
@@ -138,7 +138,7 @@ French Academy | <https://discord.gg/crCftXV>
 Rhey Team | <https://discord.gg/mPxeDphRWu>  
 Ghost Riders | <https://discord.gg/ty7c3VQD8U>  
 PRIDE - Hill Climb Racing Team | <https://discord.gg/WZEvcPn3F2>  
-RR | WARRIORS | <https://discord.gg/RnBHMSa6Wh>  
+RR \| WARRIORS | <https://discord.gg/RnBHMSa6Wh>  
 [RB] Rentnerbrigade / [JB} Juniorbrigade | <https://discord.gg/4rNDjeu>  
 Critical X HCR Community | <https://discord.gg/xDGBF7AYfy>  
 Team T2 SINGH | <https://discord.gg/vtndJqs9hX>  
