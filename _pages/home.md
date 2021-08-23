@@ -29,16 +29,6 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/806343355264401478/878409453458837534/image0.png)  
 	
 </details>
-
-<details  markdown="block">
-  <summary>
-    TE: Crunch
-  </summary>	
-<br>
-
-![](https://cdn.discordapp.com/attachments/750874271022317678/875929164321030174/image0.jpg)  
-![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
-</details>
 	
 
 <details  markdown="block">
@@ -47,6 +37,19 @@ classes: wide
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/850232585707323402/877730728157270026/image0.png)  
+
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+
+</details>	
+	
+
+<details  markdown="block">
+  <summary>
+     PE: Next (Breaking)
+  </summary>
+<br>	
+![](https://cdn.discordapp.com/attachments/868740096772415528/879130891908153364/image0.png)  
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
