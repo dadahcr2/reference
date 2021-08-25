@@ -45,18 +45,7 @@ For more information on Public Events, please feel free to join the Public Event
 </details>	
 	
 
-<details  markdown="block">
-  <summary>
-     PE: Next (Breaking)
-  </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/868740096772415528/879130891908153364/image0.png)  
 
-For more information on Public Events, please feel free to join the Public Event Discord Server
-<https://discord.gg/FZPnQbxZTQ>
-
-</details>	
-	
 <details  markdown="block">
   <summary>
     PE Setups & Previous Events
