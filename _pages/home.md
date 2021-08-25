@@ -30,13 +30,14 @@ classes: wide
 	
 </details>
 	
-
 <details  markdown="block">
   <summary>
-     PE: Back Wheel Blues (Wheelie)
+    PE: Team Building Exercise
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/877730728157270026/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/879938852087812156/image0.jpg)  
+
+![](https://www.resourcefulmanager.com/wp-content/uploads/teambuildingcover.png)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
