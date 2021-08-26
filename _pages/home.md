@@ -138,9 +138,9 @@ It’s amazing how similar the distributions of average scores for the top 3 div
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/879187734823043144/image0.png)	
 	
-__**Divisional Commentary**__
+**Divisional Commentary**
 
-**CC** Only Discord and Not Redd|It have managed to average over 3500 per match, but 15 teams have averaged over 3000.  The boundary average score required to be in the Top 50 (out of the relegation zone) is almost 2300, which is very high.  Perhaps teams at the bottom not really trying and gifting lots of points to their opponents?
+**CC** Only Discord and Not Redd\|It have managed to average over 3500 per match, but 15 teams have averaged over 3000.  The boundary average score required to be in the Top 50 (out of the relegation zone) is almost 2300, which is very high.  Perhaps teams at the bottom not really trying and gifting lots of points to their opponents?
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/879389569198465054/image0.png)
 	
