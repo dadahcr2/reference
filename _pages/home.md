@@ -148,7 +148,7 @@ It’s amazing how similar the distributions of average scores for the top 3 div
 
 ![](https://cdn.discordapp.com/attachments/858336498159714324/879389569471090688/image1.png)
 	
-**D2** Top 200 promotion boundary at almost 3100.  Double relegation boundary at 1500 and single relegation at 2050.  3 teams averaging over 4000: PRO-TAGONISTS, Not Redd|It² and OLDSCHOOL 2.0 - and another 21 averaging over 3.5k.	
+**D2** Top 200 promotion boundary at almost 3100.  Double relegation boundary at 1500 and single relegation at 2050.  3 teams averaging over 4000: PRO-TAGONISTS, Not Redd\|It² and OLDSCHOOL 2.0 - and another 21 averaging over 3.5k.	
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/879389569747935302/image2.png)
 	
