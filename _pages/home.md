@@ -128,6 +128,29 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
   <summary>
    Leagues Stats - Season 4
   </summary>
+**Season 4 - after 10 Matches**
+
+It’s amazing how similar the distributions of average scores for the top 3 divisions have become. Division 1 remains the best balanced with most fair matches and very few walkovers. Both CC and Division II do suggest a greater number of weaker teams (more teams in the left tail) - but these are looking better than previous seasons.  In fact this is true of Division 1 too, where the tails are smaller than previous seasons  (fewer super-strong and super-weak teams).  Why is this?  Well there are two reasons that come to mind…
+
+**1. Teams are gradually being sorted into their right divisions.** Prior to leagues there were many strong teams that were resets to farm better rewards.  With season bonus awards providing an incentive to being in a higher division, many of these teams have been working their way up to their correct divisions.  There were also teams that were highly ranked before due to a series of lucky matches with weak teams.  These teams have not been able to compete in the high ranks and have fallen back to lower divisions.  Both of these should result in fewer extreme match results.
+
+**2. Teams are doing it for themselves.**  Many who have tired of unfair matchups and do not wish to risk relegation (or promotions from Div 1, say) have formed alliances with teams of similar strength to ensure more competitive matches.  This is especially prevalent in CC by the looks of it, given the dramatic change in average score distribution to being much more like the other divisions!  It is quite ironic that the lack of fair matches that leagues failed to provide now seems to be indirectly succeeding via concerted team action to address it.
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/879187734823043144/image0.png)	
+	
+__**Divisional Commentary**__
+
+**CC** Only Discord and Not Redd|It have managed to average over 3500 per match, but 15 teams have averaged over 3000.  The boundary average score required to be in the Top 50 (out of the relegation zone) is almost 2300, which is very high.  Perhaps teams at the bottom not really trying and gifting lots of points to their opponents?
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/879389569198465054/image0.png)
+	
+**D1** Only the Portuguese speaking team, BR & PT, averaging over 4000 with another 10 teams averaging over 3500. Top 50 promotion boundary just over 3000, but may come down assuming many teams don’t want to be shark-fodder. Relegation boundary for the bottom 200 is almost 2100 average score!
+
+![](https://cdn.discordapp.com/attachments/858336498159714324/879389569471090688/image1.png)
+	
+**D2** Top 200 promotion boundary at almost 3100.  Double relegation boundary at 1500 and single relegation at 2050.  3 teams averaging over 4000: PRO-TAGONISTS, Not Redd|It² and OLDSCHOOL 2.0 - and another 21 averaging over 3.5k.	
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/879389569747935302/image2.png)
 	
 **Season 4 after two matches**  
 **CC:** Bimodal distribution suggesting very different strength level between Top 50 and Bottom 50  
