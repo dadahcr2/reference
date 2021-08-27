@@ -1,6 +1,7 @@
 ---
 permalink: /friends/
 title: "HCR2 Friend Links"
+layout: search
 classes: wide
 ---
 
