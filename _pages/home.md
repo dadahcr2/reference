@@ -141,6 +141,15 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
   <summary>
    Leagues Stats - Season 4
   </summary>
+
+**How badly did teams want to be promoted and avoid relegation  in Div. 1 last season?**
+
+The quick answer is not at all when it came to being promoted!  Division 1 teams know that facing super-strong teams in CC is brutal, and may be willing to take extreme steps to avoid that fate.  One way to see this behavior is to analyze the last (15th) match of the season - or lack therof!   But I’m not going to go into too much detail - just give you a taste of what happened last season.
+
+Let’s start with the relegations from Division 1 (D1).  I think this performs a decent control group as D1 teams surely do not fear D2 teams; nevertheless, they are likely to wish to remain in D1 for the better rewards.  Any team ranked 301-500 at season-end is relegated.   After 14 matches the relegation border was 29036 points (an average of 2077 per match).   After 15 matches, it increased to 31149 points.  31149-29036=2113.  So a touch higher than the average indicating borderline teams did make an effort to stay in D1 (using extra tickets perhaps?). And probably no borderline teams in the region tried to perform poorly or skipped the last match in order to be relegated.
+
+However the story was quite different for promotions to CC (top 50 teams in D1).  After 14 matches, the border was 42414 (an average of 3030 per match).  However the final promotion yardstick turned out to be 43755 - only 43755-42414=1341 higher.  So teams in that region that were averaging over 3000 per match averaged well less than half that for their last match?  The inference is that more than half the teams at risk of promotion skipped their last match to try avoid being promoted!!
+	
 **Season 4 - after 10 Matches**
 
 It’s amazing how similar the distributions of average scores for the top 3 divisions have become. Division 1 remains the best balanced with most fair matches and very few walkovers. Both CC and Division II do suggest a greater number of weaker teams (more teams in the left tail) - but these are looking better than previous seasons.  In fact this is true of Division 1 too, where the tails are smaller than previous seasons  (fewer super-strong and super-weak teams).  Why is this?  Well there are two reasons that come to mind…
