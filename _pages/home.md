@@ -323,7 +323,7 @@ Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost
 
 ### Least-used Parts
 	
-These are parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
+These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
 
 Vehicle | Parts
 :-- | :--
