@@ -19,6 +19,16 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
+    TE: Group Therapy 
+  </summary>
+<br>	
+![](https://cdn.discordapp.com/attachments/662142801084940298/880676554181595186/image0.png)  
+	
+![](https://cdn.discordapp.com/attachments/850222164065648680/880685234956402688/image0.png)  
+<br>	
+</details>
+<details  markdown="block">
+  <summary>
     TE: Automotive Aggression
   </summary>	
 <br>
