@@ -5,6 +5,10 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/837569890357346334/image0.png)   
 {{site.linethree}}  
+
+Changes now recorded on the Discord PE Server hcr2.info change-log channel <https://discord.gg/FZPnQbxZTQ>
+
+
 19 July  
 : +last cup race strategy  
 
