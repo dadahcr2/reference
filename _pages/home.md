@@ -28,7 +28,10 @@ classes: wide
 	
 **Track 1**  
 ![](https://cdn.discordapp.com/attachments/880712810542297148/880712846344871956/image0.jpg) 
-	
+
+Track 2 Racing Truck
+<https://youtu.be/Swc2OXQtwOg>
+
 <br>	
 </details>
 <details  markdown="block">
