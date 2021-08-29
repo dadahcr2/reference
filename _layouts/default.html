@@ -33,11 +33,20 @@
       <footer>
         {% include footer/custom.html %}
 <!--        {% include_cached footer.html %} -->
-        <center><small> {{ site.footertwo }} <br> {{ site.footerone }} <br><sub></sub></small></center>
+        <center><small> {{ site.footertwo }} <br> {{ site.footerone }} <br><sub>{{site.footerthree}}</sub></small></center>
       </footer>
+      
+<center>{{site.footerthree}}</center>
+      
+<center><small>{{site.footerthree}}</small></center>
     </div>
 
     {% include scripts.html %}
 {{site.footerthree}}
+
+    <center>{{site.footerthree}}</center>
+
+  <center><small>{{site.footerthree}}</small></center>
+  
   </body>
 </html>
