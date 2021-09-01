@@ -31,13 +31,13 @@
 
     <div id="footer" class="page__footer">
       <footer>
+        <center><small> {{ site.footertwo }} <br> {{ site.footerone }} <br><sub></sub></small></center>
         {% include footer/custom.html %}
 <!--        {% include_cached footer.html %} -->
-        <center><small> {{ site.footertwo }} <br> {{ site.footerone }} <br><sub></sub></small></center>
       </footer>
+      <center><small><p style="line-height:120%">{{site.footerthree}}</p></small></center>
     </div>
-    {% include scripts.html %}
-    <center><small><p style="line-height:120%">{{site.footerthree}}</p></small></center>
+    {% include scripts.html %}   
   </body>
 </html>
 
