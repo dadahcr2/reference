@@ -98,7 +98,7 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
 <details  markdown="block">
   <summary>
-   Top 10 Teams Ranked
+   Top 10 Teams Ranked after Season 4
   </summary>
 ![](https://cdn.discordapp.com/attachments/847866414638432256/882789464555008010/image0.png)  
 - Not Reddit moves into the lead by 1 point!
