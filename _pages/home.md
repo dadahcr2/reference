@@ -100,6 +100,10 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
   <summary>
    Top 10 Teams Ranked
   </summary>
+![](https://cdn.discordapp.com/attachments/847866414638432256/882789464555008010/image0.png)  
+- Not Reddit moves into the lead by 1 point!
+- RUSSIA (5->7) and LEGION (7->5) swapped places.
+- As did IMPERIO~H (10->8) and The New Order (8->10).
 
 ![](https://cdn.discordapp.com/attachments/847866414638432256/873449549887324160/image0.png)  
 	
