@@ -193,6 +193,20 @@ It’s amazing how similar the distributions of average scores for the top 3 div
 <br>			
 </details>
 
+	
+<details  markdown="block">
+  <summary>
+    Season 4 - Final Results - C.C.
+  </summary>		
+![](https://cdn.discordapp.com/attachments/847866414638432256/882544771774693376/ccaug-1.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/882544772168949830/cc_aug_2.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/882544772466757712/cc_aug_4.jpg)  
+– *Source: Apru* 
+
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
 <details  markdown="block">
   <summary>
     Season 3 - Final Results - C.C.
