@@ -204,7 +204,7 @@ It’s amazing how similar the distributions of average scores for the top 3 div
 ![](https://media.discordapp.net/attachments/856001146920501269/882433222145867796/DIV1-1.jpg)  
 ![](https://media.discordapp.net/attachments/856001146920501269/882433222988943440/DIV-2.jpg)  
 ![](https://media.discordapp.net/attachments/868955766005047296/882612155168477204/IMG_20210901_183457.jpg)
-- *source NKRI*
+  *- source NKRI*
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
