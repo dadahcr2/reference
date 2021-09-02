@@ -40,10 +40,7 @@ Racing Truck <https://youtu.be/Swc2OXQtwOg>
   </summary>
 <br>
 	
-![](https://cdn.discordapp.com/attachments/850232585707323402/882832873802047559/image0.png)
-
-
-![](https://www.resourcefulmanager.com/wp-content/uploads/teambuildingcover.png)
+![](https://cdn.discordapp.com/attachments/850222120163999794/883132697264947290/image0.png)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
