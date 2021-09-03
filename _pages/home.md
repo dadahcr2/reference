@@ -647,8 +647,8 @@ I highly recommend these:
 <figure class="align-left"><img src="https://www.countryflags.io/KG/flat/64.png" alt=""><figcaption><center>Kyrgyzstan</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/NC/flat/64.png" alt=""><figcaption><center>New Caledonia</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/PW/flat/64.png" alt=""><figcaption><center>Palau</center></figcaption></figure>{: .notice}
-<figure class="align-left"><img src="https://www.countryflags.io/KI/flat/64.png" alt=""><figcaption><center>Kiribati</center></figcaption></figure>{: .notice}
-
+<figure class="align-left"><img src="https://www.countryflags.io/KI/flat/64.png" alt=""><figcaption><center>Kiribati</center></figcaption></figure>{: .notice}  
+<br>
 <!--
 **Circles**
 
