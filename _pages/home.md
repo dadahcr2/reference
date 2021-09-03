@@ -634,7 +634,7 @@ I highly recommend these:
 	
 **Circles**
 
-<p><figure class="align-left"><img src="https://www.countryflags.io/BR/flat/64.png" alt=""><figcaption><center>Brazil</center></figcaption></figure>{: .notice}
+<div><figure class="align-left"><img src="https://www.countryflags.io/BR/flat/64.png" alt=""><figcaption><center>Brazil</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/BD/flat/64.png" alt=""><figcaption><center>Bangladesh</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/JP/flat/64.png" alt=""><figcaption><center>Japan</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/NE/flat/64.png" alt=""><figcaption><center>Niger</center></figcaption></figure>{: .notice}
@@ -647,7 +647,8 @@ I highly recommend these:
 <figure class="align-left"><img src="https://www.countryflags.io/KG/flat/64.png" alt=""><figcaption><center>Kyrgyzstan</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/NC/flat/64.png" alt=""><figcaption><center>New Caledonia</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/PW/flat/64.png" alt=""><figcaption><center>Palau</center></figcaption></figure>{: .notice}
-<figure class="align-left"><img src="https://www.countryflags.io/KI/flat/64.png" alt=""><figcaption><center>Kiribati</center></figcaption></figure>{: .notice}</p>  
+<figure class="align-left"><img src="https://www.countryflags.io/KI/flat/64.png" alt=""><figcaption><center>Kiribati</center></figcaption></figure>{: .notice}
+</div>  
 	
 <br>  
 	
