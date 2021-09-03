@@ -7,6 +7,7 @@ Search | **Ctrl-f**
 --: | :--
 Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then **Find on Page**  
 Chrome | Tap ![](https://www.veryicon.com/download/png/miscellaneous/old-sheep-icon-workshop/more-8?s=16) then **Find in Page…**
+{: .align-center}
 
 Name | Link | Date added  
 -- | -- | --  
