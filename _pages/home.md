@@ -19,6 +19,17 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
+    TE: Group Project 
+  </summary>
+<br>	
+![](https://cdn.discordapp.com/attachments/850222164065648680/883410599646748762/image0.jpg)
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)
+<br>	
+</details>
+
+<details  markdown="block">
+  <summary>
     TE: Group Therapy 
   </summary>
 <br>	
