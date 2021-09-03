@@ -5,8 +5,8 @@ classes: wide
 ---
 Search | **Ctrl-f**
 --: | :--
-Safari |  Tap  ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16)  then **Find on Page**  
-Chrome | Tap ![](https://www.veryicon.com/download/png/miscellaneous/old-sheep-icon-workshop/more-8?s=16) then **Find in page…**
+Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then **Find on Page**  
+Chrome | Tap ![](https://www.veryicon.com/download/png/miscellaneous/old-sheep-icon-workshop/more-8?s=16) then **Find in Page…**
 
 Name | Link | Date added  
 -- | -- | --  
