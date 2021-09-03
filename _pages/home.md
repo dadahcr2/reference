@@ -634,9 +634,9 @@ I highly recommend these:
 	
 **Circles**
 
-<p><figure class="align-left"><img src="https://www.countryflags.io/BR/flat/64.png" alt=""><figcaption>Brazil</figcaption></figure>
-<figure class="align-left"><img src="https://www.countryflags.io/BD/flat/64.png" alt=""><figcaption>Bangladesh</figcaption></figure>
-<figure class="align-left"><img src="https://www.countryflags.io/JP/flat/64.png" alt=""><figcaption>Japan</figcaption></figure></p>{: .notice}
+<figure class="align-center"><img src="https://www.countryflags.io/BR/flat/64.png" alt=""><figcaption>Brazil</figcaption></figure>{: .notice}
+<figure class="align-center"><img src="https://www.countryflags.io/BD/flat/64.png" alt=""><figcaption>Bangladesh</figcaption></figure>{: .notice}
+<figure class="align-center"><img src="https://www.countryflags.io/JP/flat/64.png" alt=""><figcaption>Japan</figcaption></figure>{: .notice}
 
 **Circles**
 
