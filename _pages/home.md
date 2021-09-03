@@ -649,12 +649,14 @@ I highly recommend these:
 <figure class="align-left"><img src="https://www.countryflags.io/PW/flat/64.png" alt=""><figcaption><center>Palau</center></figcaption></figure>{: .notice}
 <figure class="align-left"><img src="https://www.countryflags.io/KI/flat/64.png" alt=""><figcaption><center>Kiribati</center></figcaption></figure>{: .notice}  
 <br>
+	
 <!--
 **Circles**
 
 | ![🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil")![🇧🇩](https://www.countryflags.io/BD/flat/64.png "Bangladesh")![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger")![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea")![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland")![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize")![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic")![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia")![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe")![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan")![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia")![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau")![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati") |	
 | -- |   
-| &nbsp; |      -->
+| &nbsp; |      
+ -->
 
 **Diagonals**
 
