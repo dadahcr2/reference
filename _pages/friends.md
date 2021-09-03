@@ -3,12 +3,10 @@ permalink: /friends/
 title: "HCR2 Friend Links"
 classes: wide
 ---
-Search: | **Ctrl-f**  
-IOS |  Tap  
-![](https://github.com/dadahcr2/reference/blob/master/assets/images/cadc928b998b9ce31be75d6bffa0de65.png)  
-![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16)  
-then select **Find on Page**  
-Android | Tap "**⋮**" then select **Find in page**
+Search: | **Ctrl-f**
+--: | :--
+Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then select **Find on Page**  
+Chrome | Tap ![](https://www.veryicon.com/download/png/miscellaneous/conventional-use/dot-menu?s=16) then select **Find in page**
 
 Name | Link | Date added  
 -- | -- | --  
