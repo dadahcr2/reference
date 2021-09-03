@@ -4,8 +4,8 @@ title: "HCR2 Friend Links"
 classes: wide
 ---
 Search: **Ctrl-f**  
-IOS: ![](https://github.com/dadahcr2/reference/blob/master/assets/images/cadc928b998b9ce31be75d6bffa0de65.png) **Find on Page**  
-Android: ![](https://github.com/dadahcr2/reference/blob/bef81a3cda46ced1ed8ea9203d81f12a68083338/assets/images/oLoRPrHJd7m46sWijX6zBWnEnfslP62AxJSwt5Nj0bNbpaYHz2pyscExleiofsH2kQ=h36.png) **Find in page**
+IOS: Tap ![](https://github.com/dadahcr2/reference/blob/master/assets/images/cadc928b998b9ce31be75d6bffa0de65.png) then select **Find on Page**  
+Android: Tap "**⋮**" then select **Find in page**
 
 Name | Link | Date added  
 -- | -- | --  
