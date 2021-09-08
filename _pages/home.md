@@ -32,7 +32,6 @@ classes: wide
 <br>	
 </details>
 
-<
 <details  markdown="block">
   <summary>
     PE: Jump. Land. Repeat.
