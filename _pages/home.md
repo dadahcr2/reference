@@ -32,30 +32,14 @@ classes: wide
 <br>	
 </details>
 
+<
 <details  markdown="block">
   <summary>
-    TE: Group Therapy 
-  </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/850222164065648680/880695206079500308/image0.png)  
-	
-![](https://cdn.discordapp.com/attachments/850222164065648680/880846998046113792/image0.jpg)  
-	
-**Track 1**  
-![](https://cdn.discordapp.com/attachments/880712810542297148/880712846344871956/image0.jpg) 
-
-**Track 2**   
-Racing Truck <https://youtu.be/Swc2OXQtwOg>
-
-<br>	
-</details>
-<details  markdown="block">
-  <summary>
-    PE: KASA Space Program
+    PE: Jump. Land. Repeat.
   </summary>
 <br>
 	
-![](https://cdn.discordapp.com/attachments/850222120163999794/883132697264947290/image0.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/885294410621931520/image0.jpg)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
