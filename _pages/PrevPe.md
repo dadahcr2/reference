@@ -6,7 +6,7 @@ classes: wide
 *I add historical PE info to the Wiki <https://hillclimbracing2.fandom.com/wiki/Public_Events_Archive> so feel free to look there i stead of this page**  
 
 Start Date | Event Name | Type | YT
--- | -- | -- | --
+:--: | :--: | :--: | :--:
 1st September 2021 | [**KASA Space Program**](https://cdn.discordapp.com/attachments/884686604944437278/884691529325768714/image0.png) | Moon Stunts | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22kasa+space+program%22)
 25th August 2021 | [**Team Building Exercise**](https://cdn.discordapp.com/attachments/884686604944437278/884687739763699722/Pe001.png) | Breaking | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Team+Building+Exercise%22)
 18th August 2021 | [**Back Wheel Blues**](https://cdn.discordapp.com/attachments/884686604944437278/884687745363107870/Pe002.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Back+Wheel+Blues%22)
