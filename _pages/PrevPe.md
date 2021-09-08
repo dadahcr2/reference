@@ -3,7 +3,7 @@ permalink: /PrevPe/
 title: "Previous Public Events"
 classes: wide
 ---  
-***I add historical PE info to the Wiki <https://hillclimbracing2.fandom.com/wiki/Public_Events_Archive> so feel free to look there too***  
+***I add historical PE info to the [Wiki](https://hillclimbracing2.fandom.com/wiki/Public_Events_Archive) so feel free to look there too***  
 
 Start Date | Event Name | Type | YT
 :--: | :--: | :--: | :--:
