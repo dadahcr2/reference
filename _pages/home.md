@@ -26,6 +26,12 @@ classes: wide
 	
 ![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
 
+T1 Map
+![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)
+
+T2 Map
+![](https://cdn.discordapp.com/attachments/864520500007927819/873014764127780874/image0.jpg)
+
 ![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
 <br>	
 </details>	
