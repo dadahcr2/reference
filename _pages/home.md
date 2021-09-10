@@ -19,6 +19,18 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
+    TE: GroupThink 
+  </summary>
+<br>	
+![](https://cdn.discordapp.com/attachments/850222164065648680/885930253967573032/image0.jpg)
+	
+![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
+
+![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
+<br>	
+</details>	
+<details  markdown="block">
+  <summary>
     TE: Group Project 
   </summary>
 <br>	
