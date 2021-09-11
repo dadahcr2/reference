@@ -7,7 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
-8th September 2021 | [**Jump. Land. Repeat.**](https://cdn.discordapp.com/attachments/884678599737769994/886096264985477170/image0.png) | Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22kasa+space+program%22)
+8th September 2021 | [**Jump. Land. Repeat.**](https://cdn.discordapp.com/attachments/884678599737769994/886096264985477170/image0.png) | Long Jump | [🎦](https://www.youtube.com/re sults?search_query=hill+climb+racing+2+hcr2+%22Jump.+Land.+Repeat.%22)
 1st September 2021 | [**KASA Space Program**](https://cdn.discordapp.com/attachments/884686604944437278/884691529325768714/image0.png) | Moon Stunts | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22kasa+space+program%22)
 25th August 2021 | [**Team Building Exercise**](https://cdn.discordapp.com/attachments/884686604944437278/884687739763699722/Pe001.png) | Breaking | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Team+Building+Exercise%22)
 18th August 2021 | [**Back Wheel Blues**](https://cdn.discordapp.com/attachments/884686604944437278/884687745363107870/Pe002.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Back+Wheel+Blues%22)
