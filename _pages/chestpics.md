@@ -1,6 +1,6 @@
 ---
 permalink: /chestpics/
-title: "Epic+ Chests"
+title: "Epic + Better Chests"
 classes: wide
 ---  
 
