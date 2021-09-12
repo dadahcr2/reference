@@ -35,22 +35,6 @@ T2 Map
 ![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
 <br>	
 </details>	
-<details  markdown="block">
-  <summary>
-    TE: Group Project 
-  </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/850222164065648680/883410599646748762/image0.jpg)
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)
-
-T3/T4 Tutorial: <https://youtu.be/XcxtWx4UZ-c>
-	
-**Track 4**
-![](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg)
-
-<br>	
-</details>
 
 <details  markdown="block">
   <summary>
