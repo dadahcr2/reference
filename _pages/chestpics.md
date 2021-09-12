@@ -4,8 +4,7 @@ title: "Epic+ Chests"
 classes: wide
 ---  
 
-![](https://cdn.discordapp.com/attachments/826525665116553228/827368664105484318/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/827368700528033812/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/827542599207616552/image0.png)
-:—: |  :—: |  :—:
+![](https://cdn.discordapp.com/attachments/826525665116553228/827368664105484318/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/827368700528033812/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/827542599207616552/image0.png)  
 ![](https://cdn.discordapp.com/attachments/826525665116553228/828439499091738694/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/828439499486527508/image1.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/828439499981848618/image2.png)
 ![](https://cdn.discordapp.com/attachments/826525665116553228/828439500291702784/image3.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/830211930731053126/image0.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/830211931335819264/image1.png)
 ![](https://cdn.discordapp.com/attachments/826525665116553228/830211931804532786/image2.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/830211932836462612/image3.png) | ![](https://cdn.discordapp.com/attachments/826525665116553228/830211933307142184/image4.png)
