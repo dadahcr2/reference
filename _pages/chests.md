@@ -146,5 +146,7 @@ VIP | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480
 Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg)
 
 #### Data  
-<a name="bottom"></a>
-[Chest Data](/chestdata/)
+
+[Chest Data](/chestdata/)  
+[Epic+ Chest Pics](/chestpics/)  
+<a name="bottom"></a>  
