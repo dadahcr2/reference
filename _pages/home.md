@@ -827,13 +827,13 @@ I highly recommend these:
   </summary>
 	
 ## Gas Brake Go
-We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
+We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join.
 
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
 
-3. **In-game chat** is the preferred means of communication. (Nevertheless we do have a well maintained discord server and website.)
+3. **In-game chat** is the preferred means of communication. Nevertheless, we also have a well maintained discord server and website.
 
 4. **Relax and have fun!**  Rankings are secondary.
 
