@@ -833,7 +833,7 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
 
-3. **In-game chat** is the preferred means of communication. Nevertheless we do have well maintained discord server and website.
+3. **In-game chat** is the preferred means of communication. (Nevertheless we do have a well maintained discord server and website.)
 
 4. **Relax and have fun!**  Rankings are secondary.
 
