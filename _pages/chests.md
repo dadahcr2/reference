@@ -148,5 +148,5 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 #### Data  
 
 [Chest Data](/chestdata/)  
-[Epic+ Chest Pics](/chestpics/)  
+[Chest Screenshots](/chestpics/)  
 <a name="bottom"></a>  
