@@ -1,6 +1,6 @@
 ---
 permalink: /chestpics/
-title: "Epic + Better Chests"
+title: "Chest Screenshots"
 classes: wide
 ---  
 
@@ -171,3 +171,4 @@ Tap on thumbnail to see fullsize image
 [![](https://media.discordapp.net/attachments/826525665116553228/886524628959383592/IMG_8933.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/886524628959383592/IMG_8933.PNG)
 [![](https://media.discordapp.net/attachments/826525665116553228/886524633963200542/IMG_9136.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/886524633963200542/IMG_9136.PNG)
 [![](https://media.discordapp.net/attachments/826525665116553228/886524634269364244/IMG_9079.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/886524634269364244/IMG_9079.PNG)
+{: style="text-align: center;"}
