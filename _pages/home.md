@@ -42,7 +42,7 @@ T2 Map
   </summary>
 <br>
 	
-![](https://cdn.discordapp.com/attachments/850232585707323402/887504197308796969/image0.png)
+![](https://media.discordapp.net/attachments/850232585707323402/888184109036343296/image0.png)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
@@ -64,6 +64,7 @@ Event | Suggested Vehicle and Parts
 Breaking | ![rally] ![hw] ![wt] ![ab]
 Cargo | ![sbike]/![Monster] ![wi] ![ab] ![cb]  
 Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
+Downhill | ![rally]![WT] ![SB] ![AB] 
 Flip Bonus | ![sbike] ![AC] ![Flip] ![WT] 
 Long Jump | ![bus] ![Wi] ![Th] ![fuel]/![JS]/![Ma]
 Long Kick | ![Rally] ![ac] ![js] ![th]
