@@ -64,7 +64,7 @@ Event | Suggested Vehicle and Parts
 Breaking | ![rally] ![hw] ![wt] ![ab]
 Cargo | ![sbike]/![Monster] ![wi] ![ab] ![cb]  
 Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
-Downhill | ![rally]![WT] ![SB] ![AB] 
+Downhill | ![rally] ![WT] ![SB] ![AB] 
 Flip Bonus | ![sbike] ![AC] ![Flip] ![WT] 
 Long Jump | ![bus] ![Wi] ![Th] ![fuel]/![JS]/![Ma]
 Long Kick | ![Rally] ![ac] ![js] ![th]
