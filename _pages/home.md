@@ -42,7 +42,7 @@ T2 Map
   </summary>
 <br>
 	
-![](https://media.discordapp.net/attachments/850232585707323402/888184109036343296/image0.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/888318430460125184/image0.png)
 
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
