@@ -19,6 +19,15 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
+    TE: Trophy is unbreakable 
+  </summary>
+<br>	
+![](https://cdn.discordapp.com/attachments/850222164065648680/888688841039429652/image0.png)  
+![](https://cdn.discordapp.com/attachments/850222164065648680/888358672126844978/image0.png)  
+</details> 
+
+<details  markdown="block">
+  <summary>
     TE: GroupThink 
   </summary>
 <br>	
