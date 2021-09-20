@@ -29,12 +29,12 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    PE: where we dropping?
+       PE: Stop 'n Go?
   </summary>
 <br>
+Based on last Pitstop event:
+![](https://cdn.discordapp.com/attachments/850232585707323402/889576901528674365/image0.jpg)  
 	
-![](https://cdn.discordapp.com/attachments/850232585707323402/888318430460125184/image0.png)
-
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
 
