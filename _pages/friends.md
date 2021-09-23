@@ -158,7 +158,7 @@ Name | Link | Date added
 :mf:NS\|Sm@uG | <https://playhcr.com/invite?id=zEnvBD> | 2020-09-29  
 :mf:NS\|Sparco | <https://playhcr.com/invite?id=95PEWg> | 2020-09-29  
 :mf:NS\|tas | <https://playhcr.com/invite?id=Vexv1o> | 2020-09-29  
-:mf:NS\|TD•Telmo | <https://playhcr.com/invite?id=zEM0vb> | 2020-09-29  
+:mf:\|TD•Telmo | <https://playhcr.com/invite?id=zEM0vb> | 2020-09-29  
 :mf:NS\|Tornad0 | <https://playhcr.com/invite?id=95eQJg> | 2020-09-29  
 :mf:NS\|Zéxy | <https://playhcr.com/invite?id=xBbw3v> | 2020-09-29  
 :mx: H~Nestor | <https://playhcr.com/invite?id=rdOZ4M> | 2021-08-04  
