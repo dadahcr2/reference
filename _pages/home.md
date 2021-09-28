@@ -19,12 +19,14 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
-    TE: Trophy is unbreakable 
+    TE: Technical Fault 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850222164065648680/888688841039429652/image0.png)  
+![](https://cdn.discordapp.com/attachments/850238241533722664/890197019753332766/11.png)  
 	
-![](https://cdn.discordapp.com/attachments/850222164065648680/888358672126844978/image0.png)  
+![](https://cdn.discordapp.com/attachments/731162975854919690/891312958993485854/image0.png)
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/892525751549710366/image0.png)
 </details> 
 
 <details  markdown="block">
