@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+22nd September 2021 | [**Stop'n Go**](https://cdn.discordapp.com/attachments/884678599737769994/892531094619037716/image0.png) | Pitstop | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Stop'n+Go%22) 
 15th September 2021 | [**Where We Dropping?**](https://cdn.discordapp.com/attachments/884686604944437278/889335995168854086/image0.png) | Downhill | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Where+We+Dropping?%22) 
 8th September 2021 | [**Jump. Land. Repeat.**](https://cdn.discordapp.com/attachments/884678599737769994/886096264985477170/image0.png) | Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Jump.+Land.+Repeat.%22)
 1st September 2021 | [**KASA Space Program**](https://cdn.discordapp.com/attachments/884686604944437278/884691529325768714/image0.png) | Moon Stunts | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22kasa+space+program%22)
@@ -78,7 +79,7 @@ Start Date | Event Name | Type | YT
 27th May 2020 | [**Moons of Madness**](https://cdn.discordapp.com/attachments/884686604944437278/884688295731286026/Pe066.png) | Moon stunts | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Moons+of+Madness%22)
 20th May 2020 | [**Hydrolocked**](https://cdn.discordapp.com/attachments/884686604944437278/884688303134212166/Pe067.png) | Underwater timed | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Hydrolocked%22)
 13th May 2020 | [**Dumping the Clutch**](https://cdn.discordapp.com/attachments/884686604944437278/884688310931427368/Pe068.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Dumping+the+Clutch%22)
-6th May 2020 | [**Pit Stop**](https://cdn.discordapp.com/attachments/884686604944437278/884688319127113778/Pe069.png) | Pit Stop | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Pit+Stop%22)
+6th May 2020 | [**Pit Stop**](https://cdn.discordapp.com/attachments/884686604944437278/884688319127113778/Pe069.png) | Pitstop | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Pit+Stop%22)
 29th April 2020 | [**Orbital Time Attack**](https://cdn.discordapp.com/attachments/884686604944437278/884688326836228116/Pe070.png) | Moon time-attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Orbital+Time+Attack%22)
 22nd April 2020 | [**Rising Anger**](https://cdn.discordapp.com/attachments/884686604944437278/884688335287767090/Pe071.png) | Uphill Distance | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Rising+Anger%22)
 15th April 2020 | [**Jump Around**](https://cdn.discordapp.com/attachments/884686604944437278/884688342954942484/Pe072.png) | Long jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Jump+Around%22)
