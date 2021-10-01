@@ -17,6 +17,17 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+<details markdown="block">
+  <summary>
+    TE: Canyonball Run
+  </summary>
+<br>
+![jeep2], ![monster2], ![tank2], ![RT2], ![Sbike2]
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/893358273238040576/image0.png)
+	
+</details>
+
 <details  markdown="block">
   <summary>
     TE: Technical Fault 
