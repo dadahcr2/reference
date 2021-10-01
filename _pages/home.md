@@ -22,8 +22,8 @@ classes: wide
     TE: Canyonball Run
   </summary>
 <br>
-![jeep2], ![monster2], ![tank2], ![RT2], ![Sbike2]
-
+![](https://cdn.discordapp.com/attachments/850238241533722664/892011950110822410/2021.10.01_Canyonball_Run.png)
+	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/893358273238040576/image0.png)
 	
 </details>
