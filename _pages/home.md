@@ -31,11 +31,11 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-       PE: Stop 'n Go?
+       PE: Paradoxical Pain
   </summary>
 <br>
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/890544395806445639/2021.09.22_PE_Pit_Stop_Stopn_Go.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/893234667497586749/PE_No_FuelNo_Air_Paradoxical_Pain_2021.09.30_2.png)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
