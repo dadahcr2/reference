@@ -492,9 +492,9 @@ Distance | Obstacle
 
 <details  markdown="block">
   <summary>
-    Supercharged September
+    Spooktober Map
   </summary>	
-![](https://cdn.discordapp.com/attachments/855146477650575370/884909058170187786/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/884641147547422821/893501539635843182/image0.jpg)  
 </details>	
 	
 <details  markdown="block">
