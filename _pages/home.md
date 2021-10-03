@@ -97,8 +97,13 @@ Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
 
 <details  markdown="block">
   <summary>
-   Top 10 Teams Ranked after Season 4
+   Top 10 Teams Ranked after Season 5
   </summary>
+![](https://media.discordapp.net/attachments/858336498159714324/893802102760038410/image0.png)
+- Top 4 settling into their places.
+- Russia up 1 (back to 5th place). Imperio~H joins Germany in 6th from 8th. Both overtake LEGION (5→9)
+- GL and TNO drop out of Top 10 replaced by UNIVERSE(8) and PARTISANS(10)
+	
 ![](https://cdn.discordapp.com/attachments/847866414638432256/882789464555008010/image0.png)  
 - Not Reddit moves into the lead by 1 point!
 - RUSSIA (5->7) and LEGION (7->5) swapped places.
