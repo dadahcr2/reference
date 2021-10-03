@@ -1070,5 +1070,52 @@ We are an open team, so no password.  If there is a spot available and the below
 {: height="40px" width="64px"}  
 	
 
+[Ka2]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
+{: height="40px" width="40px"} 
+[AB2]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
+{: height="40px" width="40px"} 
+[AC2]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png 
+{: height="40px" width="40px"} 
+[Br2]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
+{: height="40px" width="40px"} 
+[CB2]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
+{: height="40px" width="40px"} 
+[SB2]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png 
+{: height="40px" width="40px"} 
+[Fuel2]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
+{: height="40px" width="40px"} 
+[DF2]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
+{: height="40px" width="40px"} 
+[Dr2]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
+{: height="40px" width="40px"} 
+[Flip2]: https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
+{: height="40px" width="40px"} 
+[Fume2]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png 
+{: height="40px" width="40px"} 
+[HW2]: https://media.discordapp.net/attachments/831974892538560523/831975186663604234/weight.png 
+{: height="40px" width="40px"}
+[JS2]: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png 
+{: height="40px" width="40px"} 
+[LB2]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png 
+{: height="40px" width="40px"} 
+[Ma2]: https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png 
+{: height="40px" width="40px"} 
+[OT2]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png 
+{: height="40px" width="40px"} 
+[RC2]: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png 
+{: height="40px" width="40px"} 
+[SB2]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png 
+{: height="40px" width="40px"} 
+[SW2]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
+{: height="40px" width="40px"} 
+[Th2]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png 
+{: height="40px" width="40px"} 
+[WB2]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png 
+{: height="40px" width="40px"} 
+[Wi2]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png 
+{: height="40px" width="40px"} 
+[WT2]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
+{: height="40px" width="40px"} 
+
 	
 <a name="bottom"></a> 
