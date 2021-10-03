@@ -28,17 +28,7 @@ classes: wide
 	
 </details>
 
-<details  markdown="block">
-  <summary>
-    TE: Technical Fault 
-  </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/850238241533722664/890197019753332766/11.png)  
-	
-![](https://cdn.discordapp.com/attachments/731162975854919690/891312958993485854/image0.png)
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/892525751549710366/image0.png)
-</details> 
+
 
 <details  markdown="block">
   <summary>
@@ -46,6 +36,8 @@ classes: wide
   </summary>
 <br>
 
+![Rally2] ![HW2] ![WT2] ![Fume2]
+	
 ![](https://cdn.discordapp.com/attachments/850232585707323402/893234667497586749/PE_No_FuelNo_Air_Paradoxical_Pain_2021.09.30_2.png)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
