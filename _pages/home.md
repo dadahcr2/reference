@@ -30,7 +30,7 @@ classes: wide
 
 
 
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     PE: Canyoneer Bikers from Earth
   </summary>
