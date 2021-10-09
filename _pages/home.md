@@ -256,15 +256,57 @@ Inactive is purely measured as having zero on the leaderboard. But some teams ha
     Season 5 - Final Results - Div 1
   </summary>		
 ![](https://cdn.discordapp.com/attachments/847867054635876383/893388616229867550/div1-_top_50.jpg)    
-![](https://cdn.discordapp.com/attachments/847867054635876383/893906175375073280/div1season551-108.jpg) 
+![](https://cdn.discordapp.com/attachments/847867054635876383/893906175375073280/div1season551-108.jpg)
 	
-[Video of full resilts](https://youtu.be/QKGHIqUx0t8)  
-
+[Video of full results](https://youtu.be/QKGHIqUx0t8)  
+  
+– *Source: Apru*
+	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 
 
+<details  markdown="block">
+  <summary>
+    Season 5 - Final Results - Other Divisions
+  </summary>
+	
+#### Division 2
+	
+Top 80
+![](https://cdn.discordapp.com/attachments/847867127142154292/894246964886134804/div1top80season_5.jpg)  
+	
+#### Division 3
+	
+Top 52
+![](https://cdn.discordapp.com/attachments/847867258964279346/894246730390974464/div3_season5.jpg)
+	
+	
+#### Division 4
+	
+Top 50
+![](https://cdn.discordapp.com/attachments/847867467228512306/894246640121176064/div4_season5.jpg)
+	
+#### Division 5
+	
+Top 53
+![](https://cdn.discordapp.com/attachments/847867553116454932/894239494591623198/div5season5.jpg)  
+	
+#### Division 6
+	
+![](https://cdn.discordapp.com/attachments/847867760162635819/894238088128258089/div6season5.jpg)  
+	
+#### Division 7 
+
+Top 50
+![](https://cdn.discordapp.com/attachments/847867868568879154/894238021363322940/div7_top_50.jpg)  
+  
+– *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
 
 ##  Wikis & Tutorials
 
