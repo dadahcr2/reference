@@ -47,7 +47,7 @@ classes: wide
   </summary>
 <br>
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/895006045938810880/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/895507418069487626/Untitled_3.png)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
