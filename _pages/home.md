@@ -40,6 +40,8 @@ classes: wide
 	
 ![](https://media.discordapp.net/attachments/850222164065648680/895973356246016041/image0.png)
 	
+![](https://cdn.discordapp.com/attachments/864520500007927819/896494545729114133/image0.jpg)
+	
 </details>
 <details  markdown="block">
   <summary>
