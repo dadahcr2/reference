@@ -27,8 +27,6 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/851566907920089128/893358273238040576/image0.png)
 	
 </details>
-
-https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png
   
 <details markdown="block">
   <summary>
