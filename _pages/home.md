@@ -150,15 +150,27 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
    Leagues Stats - Season 5
   </summary>
 
+		
+
+#### **Average Team Scores per round at the boundaries for Promotion and Relegation (Season 5)** 
+(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
+- Clearly does not take much to be promoted in the lower divisions.  Even zero could do it in Div.6!
+- And if you want to be in Div.2, it is easier to be double-promoted from D4 (2339), than to be single-promoted from D3 (2707) ?!   And that’s ignoring the easier completion!!
+- In fact, this is true for all double-promotions.  So if you want to be promoted to the next division, the easiest route is to be relegated first 🤣	 
+
+![](https://cdn.discordapp.com/attachments/858336498159714324/896345031575744562/image0.png)
+	
 **CC season 5 Final Results Distribution**
 - Interestingly, almost as many teams averaged 3000-3500 per match as 2500-3000.  A symptom of having a group of, say, 20 super teams in the league that are much  stronger than the rest.
 - The cutoff for relegation was an average score of 2230 per match.
+![](https://cdn.discordapp.com/attachments/858336498159714324/896313946426986516/image0.png)  
 	
 **D1 Season 5 Final Distribution**
 - A fairly peaked distribution with a big drop in #teams averaging  3000-3500 vs 2500-3000
 - Why is this?  Clearly most of the stronger teams are arranging matches between themselves to reduce their chances of being promoted to CC
 - The cutoff for promotion was an average score of 2918. The total at the boundary only increased by only  2125 for the last match suggesting quite a few teams (perhaps almost ⅓ of the teams near the boundary) decided not to play their last match as a last ditch attempt to avoid CC.
-- Relegation boundary was an average match score of 2180.  A very highly populated area.
+- Relegation boundary was an average match score of 2180.  A very highly populated area.  
+![](https://cdn.discordapp.com/attachments/858336498159714324/896316556068401202/image0.png)  
 	
 **D2 Final Season 5 Results**
 Average Score Boundaries for changing division
@@ -168,13 +180,8 @@ Average Score Boundaries for changing division
 
 **Comparison of Division Distributions**
 - Very strong right tail in CC (Superteams)
-- Extreme bunching in 2000-2500 in D1. I.e. lots of fair matches.  Also means some of the teams being relegated to D2 are actually very competitive in D1 and will have an easy time in D2 😁	
-
-#### **Average Team Scores per round at the boundaries for Promotion and Relegation (Season 5)** 
-(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
-- Clearly does not take much to be promoted in the lower divisions.  Even zero could do it in Div.6!
-- And if you want to be in Div.2, it is easier to be double-promoted from D4 (2339), than to be single-promoted from D3 (2707) ?!   And that’s ignoring the easier completion!!
-- In fact, this is true for all double-promotions.  So if you want to be promoted to the next division, the easiest route is to be relegated first 🤣	
+- Extreme bunching in 2000-2500 in D1. I.e. lots of fair matches.  Also means some of the teams being relegated to D2 are actually very competitive in D1 and will have an easy time in D2 😁
+![](https://cdn.discordapp.com/attachments/858336498159714324/896321628269596692/image0.png)  
 
 #### **Does the BEST team even exist?**
 
