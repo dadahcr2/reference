@@ -147,63 +147,96 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats - Season 4
+   Leagues Stats - Season 5
   </summary>
 
-**How badly did teams want to be promoted and avoid relegation  in Div. 1 last season?**
+**CC season 5 Final Results Distribution**
+- Interestingly, almost as many teams averaged 3000-3500 per match as 2500-3000.  A symptom of having a group of, say, 20 super teams in the league that are much  stronger than the rest.
+- The cutoff for relegation was an average score of 2230 per match.
+	
+**D1 Season 5 Final Distribution**
+- A fairly peaked distribution with a big drop in #teams averaging  3000-3500 vs 2500-3000
+- Why is this?  Clearly most of the stronger teams are arranging matches between themselves to reduce their chances of being promoted to CC
+- The cutoff for promotion was an average score of 2918. The total at the boundary only increased by only  2125 for the last match suggesting quite a few teams (perhaps almost ⅓ of the teams near the boundary) decided not to play their last match as a last ditch attempt to avoid CC.
+- Relegation boundary was an average match score of 2180.  A very highly populated area.
+	
+**D2 Final Season 5 Results**
+Average Score Boundaries for changing division
+- Promotion:  3040
+- 1x Relegation: 2015
+- 2x Relegation: 1526
 
-The quick answer is not at all when it came to being promoted!  Division 1 teams know that facing super-strong teams in CC is brutal, and may be willing to take extreme steps to avoid that fate.  One way to see this behavior is to analyze the last (15th) match of the season - or lack therof!   But I’m not going to go into too much detail - just give you a taste of what happened last season.
+**Comparison of Division Distributions**
+- Very strong right tail in CC (Superteams)
+- Extreme bunching in 2000-2500 in D1. I.e. lots of fair matches.  Also means some of the teams being relegated to D2 are actually very competitive in D1 and will have an easy time in D2 😁	
 
-Let’s start with the relegations from Division 1 (D1).  I think this performs a decent control group as D1 teams surely do not fear D2 teams; nevertheless, they are likely to wish to remain in D1 for the better rewards.  Any team ranked 301-500 at season-end is relegated.   After 14 matches the relegation border was 29036 points (an average of 2077 per match).   After 15 matches, it increased to 31149 points.  31149-29036=2113.  So a touch higher than the average indicating borderline teams did make an effort to stay in D1 (using extra tickets perhaps?). And probably no borderline teams in the region tried to perform poorly or skipped the last match in order to be relegated.
+#### **Average Team Scores per round at the boundaries for Promotion and Relegation (Season 5)** 
+(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
+- Clearly does not take much to be promoted in the lower divisions.  Even zero could do it in Div.6!
+- And if you want to be in Div.2, it is easier to be double-promoted from D4 (2339), than to be single-promoted from D3 (2707) ?!   And that’s ignoring the easier completion!!
+- In fact, this is true for all double-promotions.  So if you want to be promoted to the next division, the easiest route is to be relegated first 🤣	
 
-However the story was quite different for promotions to CC (top 50 teams in D1).  After 14 matches, the border was 42414 (an average of 3030 per match).  However the final promotion yardstick turned out to be 43755 - only 43755-42414=1341 higher.  So teams in that region that were averaging over 3000 per match averaged well less than half that for their last match?  The inference is that more than half the teams at risk of promotion skipped their last match to try avoid being promoted!!
-	
-**Season 4 - after 10 Matches**
+#### **Does the BEST team even exist?**
 
-It’s amazing how similar the distributions of average scores for the top 3 divisions have become. Division 1 remains the best balanced with most fair matches and very few walkovers. Both CC and Division II do suggest a greater number of weaker teams (more teams in the left tail) - but these are looking better than previous seasons.  In fact this is true of Division 1 too, where the tails are smaller than previous seasons  (fewer super-strong and super-weak teams).  Why is this?  Well there are two reasons that come to mind…
+We all wonder which is the best HCR2 team i.e. the team that would beat any other team in a match.  And there very well may be a “best” team.   However, is this always true?  In fact,  this is not a forgone conclusion. A team superior to all others may not always exist!
 
-**1. Teams are gradually being sorted into their right divisions.** Prior to leagues there were many strong teams that were resets to farm better rewards.  With season bonus awards providing an incentive to being in a higher division, many of these teams have been working their way up to their correct divisions.  There were also teams that were highly ranked before due to a series of lucky matches with weak teams.  These teams have not been able to compete in the high ranks and have fallen back to lower divisions.  Both of these should result in fewer extreme match results.
+For example, you could have three teams such that Team A beats Team  B, Team B beats team C, and Team C beats Team A.  Don’t believe me?  Let me be more specific:
 
-**2. Teams are doing it for themselves.**  Many who have tired of unfair matchups and do not wish to risk relegation (or promotions from Div 1, say) have formed alliances with teams of similar strength to ensure more competitive matches.  This is especially prevalent in CC by the looks of it, given the dramatic change in average score distribution to being much more like the other divisions!  It is quite ironic that the lack of fair matches that leagues failed to provide now seems to be indirectly succeeding via concerted team action to address it.
-	
-![](https://cdn.discordapp.com/attachments/858336498159714324/879187734823043144/image0.png)	
-	
-**Divisional Commentary**
+Let’s assume that there are 3 players on each team, and each player always scores the same no matter which other team is faced.
 
-**CC** Only Discord and Not Redd\|It have managed to average over 3500 per match, but 15 teams have averaged over 3000.  The boundary average score required to be in the Top 50 (out of the relegation zone) is almost 2300, which is very high.  Perhaps teams at the bottom not really trying and gifting lots of points to their opponents?
-	
-![](https://cdn.discordapp.com/attachments/858336498159714324/879389569198465054/image0.png)
-	
-**D1** Only the Portuguese speaking team, BR & PT, averaging over 4000 with another 10 teams averaging over 3500. Top 50 promotion boundary just over 3000, but may come down assuming many teams don’t want to be shark-fodder. Relegation boundary for the bottom 200 is almost 2100 average score!
+Team A players score: 35k, 30k, and 25k
+Team B players score: 34k, 29k, and 28k 
+Team C players score: 33k, 32k, and 27k
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/879389569471090688/image1.png)
+Assuming a round-robin, my calculation of the team scores using HCR2’s scoring table is as follows:
+
+Team A (775) beats Team B (752)
+Team B (772) beats Team C (755)
+Team C (770) beats Team A (757)
+
+So after each team having played both of the other teams, which is the best team?  Your guess is as good as mine - because I’m not sure the concept of a superior team applies in this case. ¯\_(ツ)_/¯	
+
+#### Last 3 Seasons
 	
-**D2** Top 200 promotion boundary at almost 3100.  Double relegation boundary at 1500 and single relegation at 2050.  3 teams averaging over 4000: PRO-TAGONISTS, Not Redd\|It² and OLDSCHOOL 2.0 - and another 21 averaging over 3.5k.	
+I took a look at the actual CC score results over the last three seasons (graciously supplied by Raph).  The results seem to confirm that there are less mismatches going on.  Both tails: <1500 and >3000 scores have been reducing as a percent of all scores.  This is particularly pronounced in the extreme tails: <500 and >4000 scores.   This may be due to weaker teams being driven out of CC as stronger pre-league reset teams finally work themselves back, as well as mergers increasing the average strength of CC teams.  However, the more likely reason is the greater number of arranged matches resulting in fewer uneven pairings.
 	
-![](https://cdn.discordapp.com/attachments/858336498159714324/879389569747935302/image2.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/886806722977599528/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/886806722977599528/image0.png)  
 	
-**Season 4 after two matches**  
-**CC:** Bimodal distribution suggesting very different strength level between Top 50 and Bottom 50  
-**D1:**  Remains a well-balanced division with a very normal and symmetric distribution of scores  
-**D2:** In-between with well-balanced teams but many weak teams too  	
-![](https://cdn.discordapp.com/attachments/858336498159714324/873766839203807282/image0.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/873768792851898408/image0.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/873768793170673716/image1.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/873768793485213746/image2.png)
+#### **Season 5 After 2 Matches**
+
+**CC:** Still bimodal with two peaks suggesting big difference in strength between Top 50 and Bottom 50
+ **D1:** High peak in the middle suggesting many equally matched teams
+**D2:** Still some evidence of weaker teams - perhaps the 400 teams double promoted from Division 4
+
+Compared to Season 4 (<https://discord.com/channels/762347618851880981/858336498159714324/873766842211135528>), the patterns are not that different, but perhaps on the margin are becoming more similar - indicating an improved number of fair matches?
+
+![](https://cdn.discordapp.com/attachments/858336498159714324/886565949245898752/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/886567187094077500/image0.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/886567187366694922/image1.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/886567187807109120/image2.png)  
+
 	
-![](https://cdn.discordapp.com/attachments/858336498159714324/873759071113707520/image0.png)
-	
+#### __**Season change in #Teams**__
+Total teams increased from 37k to 590k. Clearly FS changing classifications of teams eligible for leagues. 590k is consistent with an increase of 5-10k each month since leagues starts - the majority not successful in getting off the ground.
+
+The active teams increased by almost 1k.  The first monthly increase since leagues started. Part of the increase in inactive teams in D4 and D5 may be due to inactive teams having been promoted from D6. I have no idea how the number of D6 inactives increased by 30k but given the number reduced by 30k last month, presumably this was just FS reversing their eligibility criteria.
+
+Inactive is purely measured as having zero on the leaderboard. But some teams have abandoned since season start.  In CC, only OTTOMAN has 0 points, but UL, KO and TURKIYE 2 are empty. As are Hold my 🍺, FrenchPower3 and JumpingMonkey in D1.     Not only is Hold my 🍺 the lowest ranked team in D1 with 2/50 players,  but for a time, their second team, Hold my 🍻 (50/50) was #1 in D3 🧐
+
+![](https://cdn.discordapp.com/attachments/858336498159714324/885723202553274428/image0.png)
+
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 
 <details  markdown="block">
   <summary>
-    Season 4 - Final Results - C.C.
+    Season 5 - Final Results - C.C.
   </summary>		
-![](https://cdn.discordapp.com/attachments/847866414638432256/882544771774693376/ccaug-1.jpg)  
-![](https://cdn.discordapp.com/attachments/847866414638432256/882544772168949830/cc_aug_2.jpg)  
-![](https://cdn.discordapp.com/attachments/847866414638432256/882544772466757712/cc_aug_4.jpg)   
+![]()  
+![]()  
+![]()
 – *Source: Apru* 
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
@@ -212,12 +245,11 @@ It’s amazing how similar the distributions of average scores for the top 3 div
 
 <details  markdown="block">
   <summary>
-    Season 4 - Final Results - Div 1
+    Season 5 - Final Results - Div 1
   </summary>		
-![](https://media.discordapp.net/attachments/856001146920501269/882433222145867796/DIV1-1.jpg)    
-![](https://media.discordapp.net/attachments/856001146920501269/882433222988943440/DIV-2.jpg)   
-![](https://media.discordapp.net/attachments/868955766005047296/882612155168477204/IMG_20210901_183457.jpg)  
-  *- source NKRI*
+![]()    
+![]()   
+![]()  
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
