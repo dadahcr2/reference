@@ -241,9 +241,10 @@ Inactive is purely measured as having zero on the leaderboard. But some teams ha
   <summary>
     Season 5 - Final Results - C.C.
   </summary>		
-![]()  
-![]()  
-![]()
+![](https://cdn.discordapp.com/attachments/847866414638432256/893382560732811284/cc_september_leaderboard-1.jpg)    
+![](https://cdn.discordapp.com/attachments/847866414638432256/893382590202007552/IMG_20211001_115150.jpg)		
+![](https://cdn.discordapp.com/attachments/847866414638432256/893382642668548116/cc_september_leaderboard-3.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/893382652361592832/cc_september_leaderboard-4.jpg)  
 – *Source: Apru* 
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
@@ -254,9 +255,10 @@ Inactive is purely measured as having zero on the leaderboard. But some teams ha
   <summary>
     Season 5 - Final Results - Div 1
   </summary>		
-![]()    
-![]()   
-![]()  
+![](https://cdn.discordapp.com/attachments/847867054635876383/893388616229867550/div1-_top_50.jpg)    
+![](https://cdn.discordapp.com/attachments/847867054635876383/893906175375073280/div1season551-108.jpg) 
+	
+[Video of full resilts](https://youtu.be/QKGHIqUx0t8)  
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
