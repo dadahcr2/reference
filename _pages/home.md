@@ -34,6 +34,8 @@ classes: wide
   </summary>
 <br>
 
+![](https://cdn.discordapp.com/attachments/858017263989948447/896483668963491861/image0.png)
+	
 ![Rotator2] ![Buggy2] ![Moto2] ![Formula2] ![Moonlander2]
 
 ![](https://cdn.discordapp.com/attachments/893071497705439242/895981410421182514/image0.png)
