@@ -7,6 +7,10 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+October 11
+
+![](https://cdn.discordapp.com/attachments/795615515917418496/897052427184918538/Screenshot_20210310-234430_Meme_Generator_Free.jpg)
+
 October 7
 
 ![](https://media.discordapp.net/attachments/855048807288012821/895697163064061962/FB_IMG_16336210674442041.jpg)
