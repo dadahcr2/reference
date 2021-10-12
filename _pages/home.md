@@ -739,7 +739,7 @@ I highly recommend these:
 **Long press on a flag to see the country name**{: .notice}
 	
 ***
-	
+<!--
 **Circles**
 	
 
@@ -819,47 +819,100 @@ I highly recommend these:
 | [![🇧🇭](https://www.countryflags.io/BH/flat/64.png "Bahrain")](https://duckduckgo.com/?q=Bahrain+flag&ia=about)[![🇶🇦](https://www.countryflags.io/QA/flat/64.png "Qatar")](https://duckduckgo.com/?q=Qatar+flag&ia=about)[![🇲🇹](https://www.countryflags.io/MT/flat/64.png "Malta")](https://duckduckgo.com/?q=Malta+flag&ia=about)[![🇵🇹](https://www.countryflags.io/PT/flat/64.png "Portugal")](https://duckduckgo.com/?q=Portugal+flag&ia=about)[![🇻🇦](https://www.countryflags.io/VA/flat/64.png "Vatican City")](https://duckduckgo.com/?q=Vatican+City+flag&ia=about)[![🇱🇰](https://www.countryflags.io/LK/flat/64.png "Sri Lanka")](https://duckduckgo.com/?q=Sri+Lanka+flag&ia=about)[![🇩🇿](https://www.countryflags.io/DZ/flat/64.png "Algeria")](https://duckduckgo.com/?q=Algeria+flag&ia=about)[![🇲🇳](https://www.countryflags.io/MN/flat/64.png "Mongolia")](https://duckduckgo.com/?q=Mongolia+flag&ia=about)[![🇨🇲](https://www.countryflags.io/CM/flat/64.png "Cameroon")](https://duckduckgo.com/?q=Cameroon+flag&ia=about)[![🇦🇫](https://www.countryflags.io/AF/flat/64.png "Afghanistan")](https://duckduckgo.com/?q=Afghanistan+flag&ia=about)[![🇬🇹](https://www.countryflags.io/GT/flat/64.png "Guatemala")](https://duckduckgo.com/?q=Guatemala+flag&ia=about)[![🇫🇷](https://www.countryflags.io/FR/flat/64.png "France")](https://duckduckgo.com/?q=France+flag&ia=about)[![🇹🇫](https://www.countryflags.io/TF/flat/64.png "French S. Territories")](https://duckduckgo.com/?q=French+S.+Territories+flag&ia=about)[![🇼🇫](https://www.countryflags.io/WF/flat/64.png "Wallis and Futuna")](https://duckduckgo.com/?q=Wallis+and+Futuna+flag&ia=about)[![🇳🇬](https://www.countryflags.io/NG/flat/64.png "Nigeria")](https://duckduckgo.com/?q=Nigeria+flag&ia=about)[![🇳🇫](https://www.countryflags.io/NF/flat/64.png "Norfolk Island")](https://duckduckgo.com/?q=Norfolk+Island+flag&ia=about)[![🇮🇪](https://www.countryflags.io/IE/flat/64.png "Ireland")](https://duckduckgo.com/?q=Ireland+flag&ia=about)[![🇮🇹](https://www.countryflags.io/IT/flat/64.png "Italy")](https://duckduckgo.com/?q=Italy+flag&ia=about)[![🇲🇽](https://www.countryflags.io/MX/flat/64.png "Mexico")](https://duckduckgo.com/?q=Mexico+flag&ia=about)[![🇨🇮](https://www.countryflags.io/CI/flat/64.png "Côte D'Ivoire")](https://duckduckgo.com/?q=Côte+D'Ivoire+flag&ia=about)[![🇨🇦](https://www.countryflags.io/CA/flat/64.png "Canada")](https://duckduckgo.com/?q=Canada+flag&ia=about)[![🇵🇪](https://www.countryflags.io/PE/flat/64.png "Peru")](https://duckduckgo.com/?q=Peru+flag&ia=about)[![🇧🇧](https://www.countryflags.io/BB/flat/64.png "Barbados")](https://duckduckgo.com/?q=Barbados+flag&ia=about)[![🇹🇩](https://www.countryflags.io/TD/flat/64.png "Chad")](https://duckduckgo.com/?q=Chad+flag&ia=about)[![🇻🇨](https://www.countryflags.io/VC/flat/64.png "St. Vincent, & Grenadines")](https://duckduckgo.com/?q=St.+Vincent,+&+Grenadines+flag&ia=about)[![🇦🇩](https://www.countryflags.io/AD/flat/64.png "Andorra")](https://duckduckgo.com/?q=Andorra+flag&ia=about)[![🇲🇩](https://www.countryflags.io/MD/flat/64.png "Moldova")](https://duckduckgo.com/?q=Moldova+flag&ia=about)[![🇷🇴](https://www.countryflags.io/RO/flat/64.png "Romania")](https://duckduckgo.com/?q=Romania+flag&ia=about)[![🇲🇱](https://www.countryflags.io/ML/flat/64.png "Mali")](https://duckduckgo.com/?q=Mali+flag&ia=about)[![🇸🇳](https://www.countryflags.io/SN/flat/64.png "Senegal")](https://duckduckgo.com/?q=Senegal+flag&ia=about)[![🇬🇳](https://www.countryflags.io/GN/flat/64.png "Guinea")](https://duckduckgo.com/?q=Guinea+flag&ia=about)[![🇧🇪](https://www.countryflags.io/BE/flat/64.png "Belgium")](https://duckduckgo.com/?q=Belgium+flag&ia=about) |  
 | -- |
 | &nbsp; |
-
-## Table with Country Names
+-->
+## Circles
 	
 ![🇧🇷](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 ![🇰🇷](https://www.countryflags.io/KR/flat/64.png)<br>South Korea | ![🇬🇱](https://www.countryflags.io/GL/flat/64.png)<br>Greenland | ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)<br>Belize | ![🇱🇦](https://www.countryflags.io/LA/flat/64.png)<br>Laos  
 ![🇹🇳](https://www.countryflags.io/TN/flat/64.png)<br>Tunisia | ![🇬🇵](https://www.countryflags.io/GP/flat/64.png)<br>Guadeloupe | ![🇰🇬](https://www.countryflags.io/KG/flat/64.png)<br>Kyrgyzstan | ![🇳🇨](https://www.countryflags.io/NC/flat/64.png)<br>New Caledonia
-![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati | ![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo 
+![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+
+## Diagonals
+	
+| ![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo 
 ![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall Islands | ![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts & Nevis  
 ![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania | ![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia & Herzegovina  
 ![🇧🇳](https://www.countryflags.io/BN/flat/64.png)<br>Brunei Darussalam | ![🇨🇽](https://www.countryflags.io/CX/flat/64.png)<br>Christmas Island | ![🇬🇫](https://www.countryflags.io/GF/flat/64.png)<br>French Guiana | ![🇵🇬](https://www.countryflags.io/PG/flat/64.png)<br>Papua New Guinea  
-![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad & Tobago | ![🇬🇧](https://www.countryflags.io/GB/flat/64.png)<br>United Kingdom | ![🇫🇯](https://www.countryflags.io/FJ/flat/64.png)<br>Fiji | ![🇹🇻](https://www.countryflags.io/TV/flat/64.png)<br>Tuvalu  
+![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad & Tobago
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+
+## 🇬🇧 * x
+	
+| ![🇬🇧](https://www.countryflags.io/GB/flat/64.png)<br>United Kingdom | ![🇫🇯](https://www.countryflags.io/FJ/flat/64.png)<br>Fiji | ![🇹🇻](https://www.countryflags.io/TV/flat/64.png)<br>Tuvalu  
 ![🇧🇲](https://www.countryflags.io/BM/flat/64.png)<br>Bermuda | ![🇨🇰](https://www.countryflags.io/CK/flat/64.png)<br>Cook Islands | ![🇦🇮](https://www.countryflags.io/AI/flat/64.png)<br>Anguilla | ![🇰🇾](https://www.countryflags.io/KY/flat/64.png)<br>Cayman Islands  
 ![🇫🇰](https://www.countryflags.io/FK/flat/64.png)<br>Falkland Islands | ![🇲🇸](https://www.countryflags.io/MS/flat/64.png)<br>Montserrat | ![🇵🇳](https://www.countryflags.io/PN/flat/64.png)<br>Pitcairn | ![🇸🇭](https://www.countryflags.io/SH/flat/64.png)<br>St. Helena  
 ![🇬🇸](https://www.countryflags.io/GS/flat/64.png)<br>South Georgia | ![🇹🇨](https://www.countryflags.io/TC/flat/64.png)<br>Turks & Caicos | ![🇻🇬](https://www.countryflags.io/VG/flat/64.png)<br>British Virgin Islands | ![🇦🇺](https://www.countryflags.io/AU/flat/64.png)<br>Australia  
-![🇳🇿](https://www.countryflags.io/NZ/flat/64.png)<br>New Zealand | ![🇮🇴](https://www.countryflags.io/IO/flat/64.png)<br>British Indian Ocean Territory  | ![🇳🇺](https://www.countryflags.io/NU/flat/64.png)<br>Niue | ![🇧🇮](https://www.countryflags.io/BI/flat/64.png)<br>Burundi  
+![🇳🇿](https://www.countryflags.io/NZ/flat/64.png)<br>New Zealand | ![🇮🇴](https://www.countryflags.io/IO/flat/64.png)<br>British Indian Ocean Territory  | ![🇳🇺](https://www.countryflags.io/NU/flat/64.png)<br>Niue | ![🇧🇮](https://www.countryflags.io/BI/flat/64.png)<br>Burundi 
 ![🇬🇩](https://www.countryflags.io/GD/flat/64.png)<br>Grenada | ![🇯🇲](https://www.countryflags.io/JM/flat/64.png)<br>Jamaica | ![🇯🇪](https://www.countryflags.io/JE/flat/64.png)<br>Jersey | ![🇲🇰](https://www.countryflags.io/MK/flat/64.png)<br>Macedonia  
-![🇷🇪](https://www.countryflags.io/RE/flat/64.png)<br>Réunion | ![🇰🇭](https://www.countryflags.io/KH/flat/64.png)<br>Cambodia | ![🇰🇵](https://www.countryflags.io/KP/flat/64.png)<br>North Korea | ![🇸🇿](https://www.countryflags.io/SZ/flat/64.png)<br>Swaziland  
+![🇷🇪](https://www.countryflags.io/RE/flat/64.png)<br>Réunion |
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+## Horizontal Stripes - Varying Widths	
+
+![🇰🇭](https://www.countryflags.io/KH/flat/64.png)<br>Cambodia | ![🇰🇵](https://www.countryflags.io/KP/flat/64.png)<br>North Korea | ![🇸🇿](https://www.countryflags.io/SZ/flat/64.png)<br>Swaziland  
 ![🇵🇫](https://www.countryflags.io/PF/flat/64.png)<br>French Polynesia | ![🇱🇧](https://www.countryflags.io/LB/flat/64.png)<br>Lebanon | ![🇪🇸](https://www.countryflags.io/ES/flat/64.png)<br>Spain | ![🇷🇼](https://www.countryflags.io/RW/flat/64.png)<br>Rwanda  
-![🇨🇼](https://www.countryflags.io/CW/flat/64.png)<br>Curaçao | ![🇨🇴](https://www.countryflags.io/CO/flat/64.png)<br>Colombia | ![🇪🇨](https://www.countryflags.io/EC/flat/64.png)<br>Ecuador | ![🇦🇴](https://www.countryflags.io/AO/flat/64.png)<br>Angola  
+![🇨🇼](https://www.countryflags.io/CW/flat/64.png)<br>Curaçao | ![🇨🇴](https://www.countryflags.io/CO/flat/64.png)<br>Colombia | ![🇪🇨](https://www.countryflags.io/EC/flat/64.png)<br>Ecuador | 
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+
+## Two Horizontal Stripes
+	
+![🇦🇴](https://www.countryflags.io/AO/flat/64.png)<br>Angola  
 ![🇧🇫](https://www.countryflags.io/BF/flat/64.png)<br>Burkina Faso | ![🇮🇩](https://www.countryflags.io/ID/flat/64.png)<br>Indonesia | ![🇲🇨](https://www.countryflags.io/MC/flat/64.png){:.thumbnail.bordered}<br>Monaco | ![🇵🇱](https://www.countryflags.io/PL/flat/64.png)<br>Poland  
 ![🇸🇬](https://www.countryflags.io/SG/flat/64.png)<br>Singapore | ![🇸🇲](https://www.countryflags.io/SM/flat/64.png)<br>San Marino | ![🇺🇦](https://www.countryflags.io/UA/flat/64.png)<br>Ukraine | ![🇭🇹](https://www.countryflags.io/HT/flat/64.png)<br>Haiti  
 ![🇱🇮](https://www.countryflags.io/LI/flat/64.png)<br>Liechtenstein | ![🇨🇱](https://www.countryflags.io/CL/flat/64.png)<br>Chile | ![🇵🇦](https://www.countryflags.io/PA/flat/64.png)<br>Panama | ![🇧🇯](https://www.countryflags.io/BJ/flat/64.png)<br>Benin  
-![🇬🇼](https://www.countryflags.io/GW/flat/64.png)<br>Guinea-Bissau | ![🇲🇬](https://www.countryflags.io/MG/flat/64.png)<br>Madagascar | ![🇧🇾](https://www.countryflags.io/BY/flat/64.png)<br>Belarus | ![🇷🇸](https://www.countryflags.io/RS/flat/64.png)<br>Serbia  
-![🇦🇲](https://www.countryflags.io/AM/flat/64.png)<br>Armenia | ![🇷🇺](https://www.countryflags.io/RU/flat/64.png)<br>Russia | ![🇸🇰](https://www.countryflags.io/SK/flat/64.png)<br>Slovakia | ![🇸🇮](https://www.countryflags.io/SI/flat/64.png)<br>Slovenia  
-![🇻🇪](https://www.countryflags.io/VE/flat/64.png)<br>Venezuela | ![🇧🇬](https://www.countryflags.io/BG/flat/64.png)<br>Bulgaria | ![🇱🇹](https://www.countryflags.io/LT/flat/64.png)<br>Lithuania | ![🇲🇲](https://www.countryflags.io/MM/flat/64.png)<br>Myanmar  
-![🇦🇿](https://www.countryflags.io/AZ/flat/64.png)<br>Azerbaijan | ![🇴🇲](https://www.countryflags.io/OM/flat/64.png)<br>Oman | ![🇲🇼](https://www.countryflags.io/MW/flat/64.png)<br>Malawi | ![🇩🇪](https://www.countryflags.io/DE/flat/64.png)<br>Germany  
+![🇬🇼](https://www.countryflags.io/GW/flat/64.png)<br>Guinea-Bissau | ![🇲🇬](https://www.countryflags.io/MG/flat/64.png)<br>Madagascar | ![🇧🇾](https://www.countryflags.io/BY/flat/64.png)<br>Belarus | 
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+### Three Horizontal Stripes - White Middle
+	
 ![🇦🇷](https://www.countryflags.io/AR/flat/64.png)<br>Argentina | ![🇳🇮](https://www.countryflags.io/NI/flat/64.png)<br>Nicaragua | ![🇺🇿](https://www.countryflags.io/UZ/flat/64.png)<br>Uzbekistan | ![🇸🇻](https://www.countryflags.io/SV/flat/64.png)<br>El Salvador  
 ![🇭🇳](https://www.countryflags.io/HN/flat/64.png)<br>Honduras | ![🇱🇸](https://www.countryflags.io/LS/flat/64.png)<br>Lesotho | ![🇸🇱](https://www.countryflags.io/SL/flat/64.png)<br>Sierra Leone | ![🇱🇻](https://www.countryflags.io/LV/flat/64.png)<br>Latvia  
 ![🇮🇷](https://www.countryflags.io/IR/flat/64.png)<br>Iran | ![🇰🇼](https://www.countryflags.io/KW/flat/64.png)<br>Kuwait | ![🇾🇪](https://www.countryflags.io/YE/flat/64.png)<br>Yemen | ![🇦🇪](https://www.countryflags.io/AE/flat/64.png)<br>United Arab Emirates  
 ![🇱🇺](https://www.countryflags.io/LU/flat/64.png)<br>Luxembourg | ![🇭🇷](https://www.countryflags.io/HR/flat/64.png)<br>Croatia | ![🇳🇱](https://www.countryflags.io/NL/flat/64.png)<br>Netherlands | ![🇵🇾](https://www.countryflags.io/PY/flat/64.png)<br>Paraguay  
 ![🇭🇺](https://www.countryflags.io/HU/flat/64.png)<br>Hungary | ![🇹🇯](https://www.countryflags.io/TJ/flat/64.png)<br>Tajikistan | ![🇦🇹](https://www.countryflags.io/AT/flat/64.png)<br>Austria | ![🇪🇬](https://www.countryflags.io/EG/flat/64.png)<br>Egypt  
-![🇮🇶](https://www.countryflags.io/IQ/flat/64.png)<br>Iraq | ![🇸🇾](https://www.countryflags.io/SY/flat/64.png)<br>Syrian Arab Republic | ![🇮🇳](https://www.countryflags.io/IN/flat/64.png)<br>India | ![🇪🇪](https://www.countryflags.io/EE/flat/64.png)<br>Estonia  
+![🇮🇶](https://www.countryflags.io/IQ/flat/64.png)<br>Iraq | ![🇸🇾](https://www.countryflags.io/SY/flat/64.png)<br>Syrian Arab Republic | ![🇮🇳](https://www.countryflags.io/IN/flat/64.png)<br>India | 
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+
+## Three Horizontal Stripes - Other Middle
+	
+![🇷🇸](https://www.countryflags.io/RS/flat/64.png)<br>Serbia  
+![🇦🇲](https://www.countryflags.io/AM/flat/64.png)<br>Armenia | ![🇷🇺](https://www.countryflags.io/RU/flat/64.png)<br>Russia | ![🇸🇰](https://www.countryflags.io/SK/flat/64.png)<br>Slovakia | ![🇸🇮](https://www.countryflags.io/SI/flat/64.png)<br>Slovenia  
+![🇻🇪](https://www.countryflags.io/VE/flat/64.png)<br>Venezuela | ![🇧🇬](https://www.countryflags.io/BG/flat/64.png)<br>Bulgaria | ![🇱🇹](https://www.countryflags.io/LT/flat/64.png)<br>Lithuania | ![🇲🇲](https://www.countryflags.io/MM/flat/64.png)<br>Myanmar  
+![🇦🇿](https://www.countryflags.io/AZ/flat/64.png)<br>Azerbaijan | ![🇴🇲](https://www.countryflags.io/OM/flat/64.png)<br>Oman | ![🇲🇼](https://www.countryflags.io/MW/flat/64.png)<br>Malawi | ![🇩🇪](https://www.countryflags.io/DE/flat/64.png)<br>Germany  
+	
+![🇪🇪](https://www.countryflags.io/EE/flat/64.png)<br>Estonia  
 ![🇱🇾](https://www.countryflags.io/LY/flat/64.png)<br>Libya | ![🇬🇦](https://www.countryflags.io/GA/flat/64.png)<br>Gabon | ![🇪🇹](https://www.countryflags.io/ET/flat/64.png)<br>Ethiopia | ![🇧🇴](https://www.countryflags.io/BO/flat/64.png)<br>Bolivia  
-![🇬🇭](https://www.countryflags.io/GH/flat/64.png)<br>Ghana | ![🇨🇫](https://www.countryflags.io/CF/flat/64.png)<br>Central African Rep. | ![🇲🇺](https://www.countryflags.io/MU/flat/64.png)<br>Mauritius | ![🇬🇲](https://www.countryflags.io/GM/flat/64.png)<br>Gambia  
+![🇬🇭](https://www.countryflags.io/GH/flat/64.png)<br>Ghana |
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+## Four+ Horizontal Stripes
+![🇨🇫](https://www.countryflags.io/CF/flat/64.png)<br>Central African Rep. | ![🇲🇺](https://www.countryflags.io/MU/flat/64.png)<br>Mauritius | ![🇬🇲](https://www.countryflags.io/GM/flat/64.png)<br>Gambia  
 ![🇹🇭](https://www.countryflags.io/TH/flat/64.png)<br>Thailand | ![🇹🇬](https://www.countryflags.io/TG/flat/64.png)<br>Togo | ![🇨🇻](https://www.countryflags.io/CV/flat/64.png)<br>Cape Verde | ![🇨🇷](https://www.countryflags.io/CR/flat/64.png)<br>Costa Rica  
 ![🇰🇪](https://www.countryflags.io/KE/flat/64.png)<br>Kenya | ![🇸🇷](https://www.countryflags.io/SR/flat/64.png)<br>Suriname | ![🇮🇱](https://www.countryflags.io/IL/flat/64.png)<br>Israel | ![🇧🇼](https://www.countryflags.io/BW/flat/64.png)<br>Botswana  
 ![🇺🇬](https://www.countryflags.io/UG/flat/64.png)<br>Uganda | ![🇺🇾](https://www.countryflags.io/UY/flat/64.png)<br>Uruguay | ![🇬🇷](https://www.countryflags.io/GR/flat/64.png)<br>Greece | ![🇱🇷](https://www.countryflags.io/LR/flat/64.png)<br>Liberia  
-![🇲🇾](https://www.countryflags.io/MY/flat/64.png)<br>Malaysia | ![🇺🇸](https://www.countryflags.io/US/flat/64.png)<br>United States | ![🇦🇽](https://www.countryflags.io/AX/flat/64.png)<br>Åland Islands | ![🇮🇸](https://www.countryflags.io/IS/flat/64.png)<br>Iceland  
+![🇲🇾](https://www.countryflags.io/MY/flat/64.png)<br>Malaysia | ![🇺🇸](https://www.countryflags.io/US/flat/64.png)<br>United States | 
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 		
+	
+## Crosses
+	
+![🇦🇽](https://www.countryflags.io/AX/flat/64.png)<br>Åland Islands | ![🇮🇸](https://www.countryflags.io/IS/flat/64.png)<br>Iceland  
 ![🇸🇪](https://www.countryflags.io/SE/flat/64.png)<br>Sweden | ![🇩🇰](https://www.countryflags.io/DK/flat/64.png)<br>Denmark | ![🇳🇴](https://www.countryflags.io/NO/flat/64.png)<br>Norway | ![🇫🇴](https://www.countryflags.io/FO/flat/64.png)<br>Faroe Islands  
 ![🇫🇮](https://www.countryflags.io/FI/flat/64.png)<br>Finland | ![🇩🇲](https://www.countryflags.io/DM/flat/64.png)<br>Dominica | ![🇩🇴](https://www.countryflags.io/DO/flat/64.png)<br>Dominican Republic | ![🇬🇪](https://www.countryflags.io/GE/flat/64.png)<br>Georgia  
 ![🇬🇬](https://www.countryflags.io/GG/flat/64.png)<br>Guernsey | ![🇲🇶](https://www.countryflags.io/MQ/flat/64.png)<br>Martinique | ![🇨🇭](https://www.countryflags.io/CH/flat/64.png)<br>Switzerland | ![🇹🇴](https://www.countryflags.io/TO/flat/64.png)<br>Tonga  
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+## Mostly One Color
+	
 ![🇨🇨](https://www.countryflags.io/CC/flat/64.png)<br>Cocos Islands  | ![🇲🇻](https://www.countryflags.io/MV/flat/64.png)<br>Maldives | ![🇵🇰](https://www.countryflags.io/PK/flat/64.png)<br>Pakistan | ![🇹🇷](https://www.countryflags.io/TR/flat/64.png)<br>Turkey  
 ![🇲🇷](https://www.countryflags.io/MR/flat/64.png)<br>Mauritania | ![🇲🇴](https://www.countryflags.io/MO/flat/64.png)<br>Macao | ![🇸🇦](https://www.countryflags.io/SA/flat/64.png)<br>Saudi Arabia | ![🇹🇲](https://www.countryflags.io/TM/flat/64.png)<br>Turkmenistan  
 ![🇰🇿](https://www.countryflags.io/KZ/flat/64.png)<br>Kazakhstan | ![🇫🇲](https://www.countryflags.io/FM/flat/64.png)<br>Micronesia | ![🇵🇲](https://www.countryflags.io/PM/flat/64.png)<br>St. Pierre & Miquelon | ![🇸🇴](https://www.countryflags.io/SO/flat/64.png)<br>Somalia  
@@ -868,13 +921,24 @@ I highly recommend these:
 ![🇭🇰](https://www.countryflags.io/HK/flat/64.png)<br>Hong Kong | ![🇮🇲](https://www.countryflags.io/IM/flat/64.png)<br>Isle of Man | ![🇲🇪](https://www.countryflags.io/ME/flat/64.png)<br>Montenegro | ![🇲🇦](https://www.countryflags.io/MA/flat/64.png)<br>Morocco  
 ![🇼🇸](https://www.countryflags.io/WS/flat/64.png)<br>Samoa | ![🇹🇼](https://www.countryflags.io/TW/flat/64.png)<br>Taiwan | ![🇻🇳](https://www.countryflags.io/VN/flat/64.png)<br>Viet Nam | ![🇨🇾](https://www.countryflags.io/CY/flat/64.png)<br>Cyprus  
 ![🇾🇹](https://www.countryflags.io/YT/flat/64.png)<br>Mayotte | ![🇧🇱](https://www.countryflags.io/BL/flat/64.png)<br>St. Barthélemy | ![🇻🇮](https://www.countryflags.io/VI/flat/64.png)<br>U.S. Virgin Islands | ![🇬🇮](https://www.countryflags.io/GI/flat/64.png)<br>Gibraltar  
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+## Triangles
+
 ![🇳🇵](https://www.countryflags.io/NP/flat/64.png)<br>Nepal | ![🇱🇨](https://www.countryflags.io/LC/flat/64.png)<br>St. Lucia | ![🇹🇱](https://www.countryflags.io/TL/flat/64.png)<br>Timor-Leste | ![🇦🇸](https://www.countryflags.io/AS/flat/64.png)<br>American Samoa  
 ![🇦🇬](https://www.countryflags.io/AG/flat/64.png)<br>Antigua and Barbuda | ![🇪🇷](https://www.countryflags.io/ER/flat/64.png)<br>Eritrea | ![🇬🇾](https://www.countryflags.io/GY/flat/64.png)<br>Guyana | ![🇸🇨](https://www.countryflags.io/SC/flat/64.png)<br>Seychelles  
 ![🇨🇿](https://www.countryflags.io/CZ/flat/64.png)<br>Czech Republic | ![🇩🇯](https://www.countryflags.io/DJ/flat/64.png)<br>Djibouti | ![🇵🇭](https://www.countryflags.io/PH/flat/64.png)<br>Philippines | ![🇸🇽](https://www.countryflags.io/SX/flat/64.png)<br>St. Maarten  
 ![🇬🇶](https://www.countryflags.io/GQ/flat/64.png)<br>Equatorial Guinea | ![🇯🇴](https://www.countryflags.io/JO/flat/64.png)<br>Jordan | ![🇵🇸](https://www.countryflags.io/PS/flat/64.png)<br>Palestinian Territory | ![🇸🇩](https://www.countryflags.io/SD/flat/64.png)<br>Sudan  
 ![🇪🇭](https://www.countryflags.io/EH/flat/64.png)<br>Western Sahara | ![🇲🇿](https://www.countryflags.io/MZ/flat/64.png)<br>Mozambique | ![🇧🇸](https://www.countryflags.io/BS/flat/64.png)<br>Bahamas | ![🇸🇹](https://www.countryflags.io/ST/flat/64.png)<br>Sao Tome & Principe  
 ![🇰🇲](https://www.countryflags.io/KM/flat/64.png)<br>Comoros | ![🇨🇺](https://www.countryflags.io/CU/flat/64.png)<br>Cuba | ![🇵🇷](https://www.countryflags.io/PR/flat/64.png)<br>Puerto Rico | ![🇿🇦](https://www.countryflags.io/ZA/flat/64.png)<br>South Africa  
-![🇸🇸](https://www.countryflags.io/SS/flat/64.png)<br>South Sudan | ![🇻🇺](https://www.countryflags.io/VU/flat/64.png)<br>Vanuatu | ![🇿🇼](https://www.countryflags.io/ZW/flat/64.png)<br>Zimbabwe | ![🇧🇭](https://www.countryflags.io/BH/flat/64.png)<br>Bahrain  
+![🇸🇸](https://www.countryflags.io/SS/flat/64.png)<br>South Sudan | ![🇻🇺](https://www.countryflags.io/VU/flat/64.png)<br>Vanuatu | ![🇿🇼](https://www.countryflags.io/ZW/flat/64.png)<br>Zimbabwe | 
+:--: | :--: | :--: | :--:  	
+&nbsp; | | | 	
+	
+## Vertical Stripes
+	
+![🇧🇭](https://www.countryflags.io/BH/flat/64.png)<br>Bahrain  
 ![🇶🇦](https://www.countryflags.io/QA/flat/64.png)<br>Qatar | ![🇲🇹](https://www.countryflags.io/MT/flat/64.png)<br>Malta | ![🇵🇹](https://www.countryflags.io/PT/flat/64.png)<br>Portugal | ![🇻🇦](https://www.countryflags.io/VA/flat/64.png)<br>Vatican City  
 ![🇱🇰](https://www.countryflags.io/LK/flat/64.png)<br>Sri Lanka | ![🇩🇿](https://www.countryflags.io/DZ/flat/64.png)<br>Algeria | ![🇲🇳](https://www.countryflags.io/MN/flat/64.png)<br>Mongolia | ![🇨🇲](https://www.countryflags.io/CM/flat/64.png)<br>Cameroon  
 ![🇦🇫](https://www.countryflags.io/AF/flat/64.png)<br>Afghanistan | ![🇬🇹](https://www.countryflags.io/GT/flat/64.png)<br>Guatemala | ![🇫🇷](https://www.countryflags.io/FR/flat/64.png)<br>France | ![🇹🇫](https://www.countryflags.io/TF/flat/64.png)<br>French S. Territories  
