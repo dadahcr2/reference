@@ -858,11 +858,10 @@ I highly recommend these:
 
 ##  Two Horizontal Stripes
 	
-![🇧🇫](https://www.countryflags.io/BF/flat/64.png)<br>Burkina Faso | ![🇮🇩](https://www.countryflags.io/ID/flat/64.png)<br>Indonesia | ![🇲🇨](https://www.countryflags.io/MC/flat/64.png)<br>Monaco | ![🇵🇱](https://www.countryflags.io/PL/flat/64.png)<br>Poland  
-![🇸🇬](https://www.countryflags.io/SG/flat/64.png)<br>Singapore | ![🇸🇲](https://www.countryflags.io/SM/flat/64.png)<br>San Marino | ![🇺🇦](https://www.countryflags.io/UA/flat/64.png)<br>Ukraine | ![🇭🇹](https://www.countryflags.io/HT/flat/64.png)<br>Haiti  
-![🇱🇮](https://www.countryflags.io/LI/flat/64.png)<br>Liechtenstein | ![🇨🇱](https://www.countryflags.io/CL/flat/64.png)<br>Chile | ![🇵🇦](https://www.countryflags.io/PA/flat/64.png)<br>Panama | ![🇧🇯](https://www.countryflags.io/BJ/flat/64.png)<br>Benin  
-![🇬🇼](https://www.countryflags.io/GW/flat/64.png)<br>Guinea-Bissau | ![🇲🇬](https://www.countryflags.io/MG/flat/64.png)<br>Madagascar | ![🇧🇾](https://www.countryflags.io/BY/flat/64.png)<br>Belarus | 
-![🇦🇴](https://www.countryflags.io/AO/flat/64.png)<br>Angola  
+![🇧🇫](https://www.countryflags.io/BF/flat/64.png)<br>Burkina Faso | ![🇮🇩](https://www.countryflags.io/ID/flat/64.png)<br>Indonesia | ![🇲🇨](https://www.countryflags.io/MC/flat/64.png)<br>Monaco | ![🇵🇱](https://www.countryflags.io/PL/flat/64.png)<br>Poland   
+![🇸🇬](https://www.countryflags.io/SG/flat/64.png)<br>Singapore | ![🇸🇲](https://www.countryflags.io/SM/flat/64.png)<br>San Marino | ![🇺🇦](https://www.countryflags.io/UA/flat/64.png)<br>Ukraine | ![🇭🇹](https://www.countryflags.io/HT/flat/64.png)<br>Haiti   
+![🇱🇮](https://www.countryflags.io/LI/flat/64.png)<br>Liechtenstein | ![🇨🇱](https://www.countryflags.io/CL/flat/64.png)<br>Chile | ![🇵🇦](https://www.countryflags.io/PA/flat/64.png)<br>Panama | ![🇧🇯](https://www.countryflags.io/BJ/flat/64.png)<br>Benin   
+![🇬🇼](https://www.countryflags.io/GW/flat/64.png)<br>Guinea-Bissau | ![🇲🇬](https://www.countryflags.io/MG/flat/64.png)<br>Madagascar | ![🇧🇾](https://www.countryflags.io/BY/flat/64.png)<br>Belarus | ![🇦🇴](https://www.countryflags.io/AO/flat/64.png)<br>Angola   
 :--: | :--: | :--: | :--:  	
 &nbsp; | | | 	
 	
