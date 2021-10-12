@@ -19,7 +19,7 @@ classes: wide
 ## Events & Updates
 <details markdown="block">
   <summary>
-    TE: Gaurdkams of the Garage
+    TE: Guardians of the Garage
   </summary>
 <br>
 ![](https://cdn.discordapp.com/attachments/850238241533722664/897195783441494046/TE_2021.10.15_english.png)
