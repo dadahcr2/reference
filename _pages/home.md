@@ -19,12 +19,10 @@ classes: wide
 ## Events & Updates
 <details markdown="block">
   <summary>
-    TE: Canyonball Run
+    TE: Gaurdkams of the Garage
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850238241533722664/892011950110822410/2021.10.01_Canyonball_Run.png)
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/893358273238040576/image0.png)
+![](https://cdn.discordapp.com/attachments/850238241533722664/897195783441494046/TE_2021.10.15_english.png)
 	
 </details>
   
