@@ -825,17 +825,16 @@ I highly recommend these:
 ![🇧🇷](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | ![🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 ![🇰🇷](https://www.countryflags.io/KR/flat/64.png)<br>South Korea | ![🇬🇱](https://www.countryflags.io/GL/flat/64.png)<br>Greenland | ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)<br>Belize | ![🇱🇦](https://www.countryflags.io/LA/flat/64.png)<br>Laos  
 ![🇹🇳](https://www.countryflags.io/TN/flat/64.png)<br>Tunisia | ![🇬🇵](https://www.countryflags.io/GP/flat/64.png)<br>Guadeloupe | ![🇰🇬](https://www.countryflags.io/KG/flat/64.png)<br>Kyrgyzstan | ![🇳🇨](https://www.countryflags.io/NC/flat/64.png)<br>New Caledonia
-![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati
+![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati | | 
 :--: | :--: | :--: | :--:  	
 &nbsp; | | | 	
 
 ## Diagonals
 	
-| ![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo 
-![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall Islands | ![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts & Nevis  
-![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania | ![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia & Herzegovina  
-![🇧🇳](https://www.countryflags.io/BN/flat/64.png)<br>Brunei Darussalam | ![🇨🇽](https://www.countryflags.io/CX/flat/64.png)<br>Christmas Island | ![🇬🇫](https://www.countryflags.io/GF/flat/64.png)<br>French Guiana | ![🇵🇬](https://www.countryflags.io/PG/flat/64.png)<br>Papua New Guinea  
-![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad & Tobago
+![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo | ![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall Islands 
+![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts & Nevis  | ![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania 
+![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia & Herzegovina  | ![🇧🇳](https://www.countryflags.io/BN/flat/64.png)<br>Brunei Darussalam | ![🇨🇽](https://www.countryflags.io/CX/flat/64.png)<br>Christmas Island  
+![🇬🇫](https://www.countryflags.io/GF/flat/64.png)<br>French Guiana | ![🇵🇬](https://www.countryflags.io/PG/flat/64.png)<br>Papua New Guinea  | ![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad & Tobago
 :--: | :--: | :--: | :--:  	
 &nbsp; | | | 	
 
