@@ -830,10 +830,10 @@ I highly recommend these:
 
 ## Diagonals
 	
-![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep. of Congo | ![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall Islands 
-![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts & Nevis  | ![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania 
-![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia & Herzegovina  | ![🇧🇳](https://www.countryflags.io/BN/flat/64.png)<br>Brunei Darussalam | ![🇨🇽](https://www.countryflags.io/CX/flat/64.png)<br>Christmas Island  
-![🇬🇫](https://www.countryflags.io/GF/flat/64.png)<br>French Guiana | ![🇵🇬](https://www.countryflags.io/PG/flat/64.png)<br>Papua New Guinea  | ![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad & Tobago
+![🇧🇹](https://www.countryflags.io/BT/flat/64.png)<br>Bhutan | ![🇨🇩](https://www.countryflags.io/CD/flat/64.png)<br>Dem. Rep.<br>of Congo | ![🇨🇬](https://www.countryflags.io/CG/flat/64.png)<br>Congo | ![🇲🇭](https://www.countryflags.io/MH/flat/64.png)<br>Marshall<br>Islands 
+![🇳🇦](https://www.countryflags.io/NA/flat/64.png)<br>Namibia | ![🇰🇳](https://www.countryflags.io/KN/flat/64.png)<br>St. Kitts <br>& Nevis  | ![🇸🇧](https://www.countryflags.io/SB/flat/64.png)<br>Solomon<br>Islands | ![🇹🇿](https://www.countryflags.io/TZ/flat/64.png)<br>Tanzania 
+![🇹🇰](https://www.countryflags.io/TK/flat/64.png)<br>Tokelau | ![🇧🇦](https://www.countryflags.io/BA/flat/64.png)<br>Bosnia<br>& Herzegovina  | ![🇧🇳](https://www.countryflags.io/BN/flat/64.png)<br>Brunei<br>Darussalam | ![🇨🇽](https://www.countryflags.io/CX/flat/64.png)<br>Christmas<br>Island  
+![🇬🇫](https://www.countryflags.io/GF/flat/64.png)<br>French<br>Guiana | ![🇵🇬](https://www.countryflags.io/PG/flat/64.png)<br>Papua<br>New Guinea  | ![🇹🇹](https://www.countryflags.io/TT/flat/64.png)<br>Trinidad <br>& Tobago
 :--: | :--: | :--: | :--:  	
 &nbsp; | | | 	
 
