@@ -22,7 +22,12 @@ classes: wide
     TE: Guardians of the Garage
   </summary>
 <br>
+
+![Tractor2] ![Buggy2] ![Diesel2] ![Chopper2] ![Supercar2]
+	
 ![](https://cdn.discordapp.com/attachments/850238241533722664/897195783441494046/TE_2021.10.15_english.png)
+	
+![](https://cdn.discordapp.com/attachments/850222164065648680/898433224429170688/image0.png)
 	
 </details>
   
@@ -45,11 +50,11 @@ classes: wide
 </details>
 <details  markdown="block">
   <summary>
-    PE: Canyoneer Bikers from Earth
+    PE: United in Suffering
   </summary>
 <br>
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/895507418069487626/Untitled_3.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/897840862124462110/image0.jpg)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
