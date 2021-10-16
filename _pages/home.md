@@ -676,9 +676,9 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     Daily Checklist
   </summary>
 
-- [ ] **Every 4 hours**: Two free team tickets 
-- [ ] **Every 6 hours**:   Ad/VIP chest in the shop 
-- [ ] **Every 8 hours**:   Free chest in the shop 
+- [ ] **Every 4 hours**: Two free team tickets  
+- [ ] **Every 8 hours**:   Free chest in the shop
+- [ ] **Every 8 hours**:   Three Ad/VIP chest in the shop
 
 **Every 12 hours**
 - [ ] Six ad/VIP 3-hour cup chests
