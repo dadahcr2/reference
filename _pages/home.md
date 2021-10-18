@@ -27,27 +27,12 @@ classes: wide
 	
 ![](https://cdn.discordapp.com/attachments/850238241533722664/897195783441494046/TE_2021.10.15_english.png)
 	
+![](https://cdn.discordapp.com/attachments/750874271022317678/898452387914727424/Untitled_7.png)
+	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/898433224429170688/image0.png)
 	
 </details>
-  
-<details markdown="block">
-  <summary>
-    TE: Revhead Rampage
-  </summary>
-<br>
 
-![](https://cdn.discordapp.com/attachments/858017263989948447/896483668963491861/image0.png)
-	
-![Rotator2] ![Buggy2] ![Moto2] ![Formula2] ![Moonlander2]
-
-![](https://cdn.discordapp.com/attachments/893071497705439242/895981410421182514/image0.png)
-	
-![](https://media.discordapp.net/attachments/850222164065648680/895973356246016041/image0.png)
-	
-![](https://cdn.discordapp.com/attachments/864520500007927819/896494545729114133/image0.jpg)
-	
-</details>
 <details  markdown="block">
   <summary>
     PE: United in Suffering
