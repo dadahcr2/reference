@@ -35,11 +35,11 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    PE: United in Suffering
+    PE: Speedy Hollow
   </summary>
 <br>
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/897840862124462110/image0.jpg)  
+![](https://media.discordapp.net/attachments/850232585707323402/900228649494667304/image0.jpg)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
