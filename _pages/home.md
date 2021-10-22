@@ -17,6 +17,20 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+
+<details  markdown="block">
+  <summary>
+    TE: Cardust Crusaders
+  </summary>
+
+![Jeep2] ![Sportscar2] ![Monowheel2] ![Rally2] ![Hotrod2]
+
+![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)
+	
+![](https://cdn.discordapp.com/attachments/840171991197417493/901070710057861141/te_Strategy.png)
+	
+</details>
+
 <details markdown="block">
   <summary>
     TE: Guardians of the Garage
