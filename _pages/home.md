@@ -31,29 +31,13 @@ classes: wide
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Guardians of the Garage
-  </summary>
-<br>
-
-![Tractor2] ![Buggy2] ![Diesel2] ![Chopper2] ![Supercar2]
-	
-![](https://cdn.discordapp.com/attachments/850238241533722664/897195783441494046/TE_2021.10.15_english.png)
-	
-![](https://cdn.discordapp.com/attachments/750874271022317678/898452387914727424/Untitled_7.png)
-	
-![](https://cdn.discordapp.com/attachments/850222164065648680/898433224429170688/image0.png)
-	
-</details>
-
 <details  markdown="block">
   <summary>
     PE: Speedy Hollow
   </summary>
 <br>
 
-![](https://media.discordapp.net/attachments/850232585707323402/900228649494667304/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/850222120163999794/901962446456111124/incollage_save.jpg)  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
