@@ -599,7 +599,7 @@ Sunday Champ
 	
 <details  markdown="block">
   <summary>
-    Tracks by Map-type & Distance
+    Tracks by Type & Distance
   </summary>
 			
 This may be helpful in identifying event tracks  
