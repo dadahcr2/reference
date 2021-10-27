@@ -73,12 +73,14 @@ Nian Chase |  ![Rally] ![wt] ![wi] ![cb]
 No Air | ![Formula] ![WT] ![AB] ![CB]   
 No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]
 Pitstop | ![Supercar] ![fume] ![OT]
+Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]
 Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	
 Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]
 Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
 Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
 Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
+Zombie Chase | ![Rally] ![Wi] ![LB] ![CB]
 <http://hcr2.info> | <https://discord.gg/FZPnQbxZTQ>
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
