@@ -19,11 +19,11 @@ classes: wide
 ## Events & Updates
 <details   markdown="block">
   <summary>
-    TE: Pumpkin JUice
+    TE: Pumpkin Juice
   </summary>
 ![](https://cdn.discordapp.com/attachments/851566907920089128/903550976626147338/IMG_0668.jpg)
 	
-![Bus2] ![mk22] ![Rotator2 ![EV2] ![Sbike2]
+![Bus2] ![mk22] ![Rotator2] ![EV2] ![Sbike2]
 
 ![](https://cdn.discordapp.com/attachments/850222164065648680/903551599543210034/IMG_0667.png)
 	
