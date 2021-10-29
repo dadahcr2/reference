@@ -21,10 +21,8 @@ classes: wide
   <summary>
     TE: Pumpkin Juice
   </summary>
-![](https://cdn.discordapp.com/attachments/851566907920089128/903550976626147338/IMG_0668.jpg)
 	
 ![Bus2] ![mk22] ![Rotator2] ![EV2] ![Sbike2]
-
 ![](https://cdn.discordapp.com/attachments/850222164065648680/903551599543210034/IMG_0667.png)
 	
 ![](https://media.discordapp.net/attachments/858851529058418765/903561533597040650/2021-10-29_11h30_46.png)
