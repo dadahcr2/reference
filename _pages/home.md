@@ -17,6 +17,19 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+<details   markdown="block">
+  <summary>
+    TE: Pumpkin JUice
+  </summary>
+![](https://cdn.discordapp.com/attachments/851566907920089128/903550976626147338/IMG_0668.jpg)
+	
+![Bus2] ![mk22] ![Rotator2 ![EV2] ![Sbike2]
+
+![](https://cdn.discordapp.com/attachments/850222164065648680/903551599543210034/IMG_0667.png)
+	
+![](https://media.discordapp.net/attachments/858851529058418765/903561533597040650/2021-10-29_11h30_46.png)
+	
+</details>	
 
 <details  markdown="block">
   <summary>
@@ -1076,6 +1089,10 @@ We are an open team, so no password.  If there is a spot available and the below
 	
 [RT]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png 
 {: height="20px" width="32px"} 
+
+	
+ [EV]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
+  {: height="20px" width="32px"} 
 	
 [Hotrod]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png 
 {: height="20px" width="32px"} 
@@ -1203,6 +1220,9 @@ We are an open team, so no password.  If there is a spot available and the below
 	
  [RT2]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png 
   {: height="40px" width="64px"}  
+	
+ [EV2]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
+  {: height="40px" width="64px"} 
 	
  [Hotrod2]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png 
   {: height="40px" width="64px"}  
