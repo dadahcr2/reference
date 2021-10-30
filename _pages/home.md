@@ -91,7 +91,7 @@ Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
 Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
 Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
-Zombie Chase | ![Rally] ![Wi] ![LB] ![CB]
+Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 <http://hcr2.info> | <https://discord.gg/FZPnQbxZTQ>
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
