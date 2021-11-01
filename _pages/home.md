@@ -609,12 +609,7 @@ Distance | Obstacle
 	
 ![]()  
 </details>
-<details  markdown="block">
-  <summary>
-    Spooktober Map
-  </summary>	
-![](https://cdn.discordapp.com/attachments/884641147547422821/893501539635843182/image0.jpg)  
-</details>	
+
 	
 <details  markdown="block">
   <summary>
