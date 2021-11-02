@@ -467,7 +467,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket
 
 <mark>Best for Map</mark>, ®️ =Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on <http://www.hcr2.info>
 
-#### Setups from Zorro Server
+#### Setups from Zorro Server (incl. Gloomvale)
 
 Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Rustbucket Reef | Vehicle | WinterAdv | MineAdven | DesertValley | BeachAdv | Vehicle | Backwater Bog | Racer GlacierAdv | Patchwork Plant | Gloomvale | Vehicle | SkyRockOut | ForestTrials | IntenseCity | RagingWint | Vehicle  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
