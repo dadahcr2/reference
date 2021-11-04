@@ -78,8 +78,7 @@ Happy to send you a template if you are not sure how to create your input spread
     PE: CC-EV GG WP EZ
   </summary>
 <br>
-
-![](https://cdn.discordapp.com/attachments/850232585707323402/905532866610487376/Untitled_21.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/905532866610487376/Untitled_21.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
