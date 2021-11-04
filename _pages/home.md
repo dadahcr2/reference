@@ -36,7 +36,7 @@ classes: wide
  
 Seem what your score would be if you faced other teams.
 	
-__**Current Leaderboard**__
+__**Current Leaderboard**__  
 `LEGIION₁             15669`  
 `Thor's Hammer         9815`  
 `Gas Brake Go          7114`  
