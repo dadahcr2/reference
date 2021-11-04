@@ -49,18 +49,13 @@ __**Current Leaderboard**__
 3. Anyone interested in participating in a virtual league for Pumpkin Juice match?
 4. Here is the link to the “Virtual League” sheet for everyone to view:  
 <https://docs.google.com/spreadsheets/d/1XULHWU59x3XhKYN7tilqkd1tR-I2vi4sVWddcCdBoZ0>
-5. To participate, set up your own team score google sheet.
-
-**Team Name** must be in cell **Sheet1:A1**
-
-**Scores** must be in **Sheet1:a2:a51**
-
-Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work.
-
+5. To participate, set up your own team score google sheet.  
+**Team Name** must be in cell **Sheet1:A1**  
+**Scores** must be in **Sheet1:a2:a51**  
+Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work.  
 I will also need a link to the spreadsheet so I can add it to the Virtual League e.g. GBG input sheet link is  
-*<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*
-
-Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will have to have a google account (e.g. Gmail address - can always set up a new one if need be)
+*<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*  
+Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will have to have a google account (e.g. Gmail address - can always set up a new one if need be)  
 6. For teams that would like to see how their individual players compare, please let me know, and I will add your links to a separate worksheet as well that includes virtualmatch (one vs one) and supermatch (all in one big match) tabs. Obviously this will be a subset of the virtual league.  
 <https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit?usp=sharing>
 	
