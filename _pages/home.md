@@ -41,7 +41,7 @@ __**Current Leaderboard**__
 `Thor's Hammer         9815`  
 `Gas Brake Go          7114`  
 `GBG₁                  6959`  
-`The Coalition₁        5569`
+`The Coalition₁        5569`  
 	
 **Instructions:**
 1. The idea is that we can compete against each other (virtually) and see how we would do.
