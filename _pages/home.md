@@ -37,12 +37,13 @@ classes: wide
 Seem what your score would be if you faced other teams.
 	
 __**Current Leaderboard**__  
-`LEGIION₁             15669`  
-`Thor's Hammer         9815`  
-`Gas Brake Go          7114`  
-`GBG₁                  6959`  
-`The Coalition₁        5569`  
-	
+```
+LEGIION₁             15669  
+Thor's Hammer         9815  
+Gas Brake Go          7114  
+GBG₁                  6959  
+The Coalition₁        5569  
+```
 **Instructions:**
 1. The idea is that we can compete against each other (virtually) and see how we would do.
 2. Just have to enter your individual scores in your **own** google sheet, and the virtual league will take care of the rest. No one will see your individual scores, only the results from the virtual matches e.g. 2350 vs 2100  
