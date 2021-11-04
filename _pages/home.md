@@ -31,15 +31,44 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Cardust Crusaders
+    Virtual League - Pumpkin Juice
   </summary>
  
+Seem what your score would be if you faced other teams.
+	
+__**Current Leaderboard**__
+`LEGIION₁             15669`
+`Thor's Hammer         9815`
+`Gas Brake Go          7114`
+`GBG₁                  6959`
+`The Coalition₁        5569`
+	
+**Instructions:**
+1. The idea is that we can compete against each other (virtually) and see how we would do.
+2. Just have to enter your individual scores in your **own** google sheet, and the virtual league will take care of the rest. No one will see your individual scores, only the results from the virtual matches e.g. 2350 vs 2100  
+3. Anyone interested in participating in a virtual league for Pumpkin Juice match?
+4. Here is the link to the “Virtual League” sheet for everyone to view:  
+<https://docs.google.com/spreadsheets/d/1XULHWU59x3XhKYN7tilqkd1tR-I2vi4sVWddcCdBoZ0>
+5. To participate, set up your own team score google sheet.
 
+**Team Name** must be in cell **Sheet1:A1**
+
+**Scores** must be in **Sheet1:a2:a51**
+
+Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work.
+
+I will also need a link to the spreadsheet so I can add it to the Virtual League e.g. GBG input sheet link is  
+*<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*
+
+Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will have to have a google account (e.g. Gmail address - can always set up a new one if need be)
+6. For teams that would like to see how their individual players compare, please let me know, and I will add your links to a separate worksheet as well that includes virtualmatch (one vs one) and supermatch (all in one big match) tabs. Obviously this will be a subset of the virtual league.  
+<https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit?usp=sharing>
+<!--
 ![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)  
 ![Jeep2] ![Sportscar2] ![Mono2] ![Rally2] ![Hotrod2]
 	
 ![](https://cdn.discordapp.com/attachments/840171991197417493/901070710057861141/te_Strategy.png)
-	
+-->
 </details>
 
 <details  markdown="block">
