@@ -269,12 +269,12 @@ Thought I would mention it here in case any teams out there are curious how they
 
 <details  markdown="block">
   <summary>
-    Season 5 - Final Results - C.C.
+    Season 6 - Final Results - C.C.
   </summary>		
-![](https://cdn.discordapp.com/attachments/847866414638432256/893382560732811284/cc_september_leaderboard-1.jpg)    
-![](https://cdn.discordapp.com/attachments/847866414638432256/893382590202007552/IMG_20211001_115150.jpg)		
-![](https://cdn.discordapp.com/attachments/847866414638432256/893382642668548116/cc_september_leaderboard-3.jpg)  
-![](https://cdn.discordapp.com/attachments/847866414638432256/893382652361592832/cc_september_leaderboard-4.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741343845302273/ccoct1.jpg)    
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741344591900702/ccoct2.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741344956788737/ccoct3.jpg)  
+![]()  
 – *Source: Apru* 
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
@@ -283,12 +283,11 @@ Thought I would mention it here in case any teams out there are curious how they
 
 <details  markdown="block">
   <summary>
-    Season 5 - Final Results - Div 1
+    Season 6 - Final Results - Div 1
   </summary>		
-![](https://cdn.discordapp.com/attachments/847867054635876383/893388616229867550/div1-_top_50.jpg)    
-![](https://cdn.discordapp.com/attachments/847867054635876383/893906175375073280/div1season551-108.jpg)
+![](https://cdn.discordapp.com/attachments/847867054635876383/904744108021657660/div1octtop50.jpg)    
 	
-[Video of full results](https://youtu.be/QKGHIqUx0t8)  
+[Video of full results](https://youtu.be/6xcgbFu3Q04)  
   
 – *Source: Apru*
 	
@@ -299,39 +298,35 @@ Thought I would mention it here in case any teams out there are curious how they
 
 <details  markdown="block">
   <summary>
-    Season 5 - Final Results - Other Divisions
+    Season 6 - Final Results - Other Divisions
   </summary>
 	
 #### Division 2
 	
-Top 80
-![](https://cdn.discordapp.com/attachments/847867127142154292/894246964886134804/div1top80season_5.jpg)  
+Top 54
+![](https://cdn.discordapp.com/attachments/847867127142154292/904944220803039262/div2season6top54.jpg)  
 	
 #### Division 3
 	
-Top 52
-![](https://cdn.discordapp.com/attachments/847867258964279346/894246730390974464/div3_season5.jpg)
+Top 54
+![](https://cdn.discordapp.com/attachments/847867258964279346/904946961231274014/div3top54season6.jpg)
 	
 	
 #### Division 4
 	
-Top 50
-![](https://cdn.discordapp.com/attachments/847867467228512306/894246640121176064/div4_season5.jpg)
+Top 54
+![](https://cdn.discordapp.com/attachments/847867467228512306/904947076369096714/div4season6top54.jpg)
 	
 #### Division 5
 	
-Top 53
-![](https://cdn.discordapp.com/attachments/847867553116454932/894239494591623198/div5season5.jpg)  
-	
-#### Division 6
-	
-![](https://cdn.discordapp.com/attachments/847867760162635819/894238088128258089/div6season5.jpg)  
-	
-#### Division 7 
+Top 54
+![](https://cdn.discordapp.com/attachments/847867553116454932/904947187618820116/div5top54season6.jpg)  
 
-Top 50
-![](https://cdn.discordapp.com/attachments/847867868568879154/894238021363322940/div7_top_50.jpg)  
-  
+	
+#### Division 7
+Top 9
+![](https://cdn.discordapp.com/attachments/847867868568879154/904949120127615006/IMG_20211102_095409.jpg)
+	
 – *Source: Apru*
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
