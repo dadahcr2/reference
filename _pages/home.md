@@ -57,9 +57,9 @@ The Coalition₁	| 5663
 2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet (see bottom of this channel).  Please enter a unique name in the top row, and individual scores below that.
 
 3. There is also a confidential version of the sheet (*without SuperMatch and VirtualMatch*) for teams that don’t want to reveal their individual player scores,  However, you will have set up your own team score google sheet. 
-> a) **Team Name** must be in cell **Sheet1:A1**
-> b) **Scores** must be in **Sheet1:a2:a51**
-> c) Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work. I will also need a link to the spreadsheet so I can add it to the Virtual League e.g. GBG input sheet link is *<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*
+> a) **Team Name** must be in cell **Sheet1:A1**  
+> b) **Scores** must be in **Sheet1:a2:a51**  
+> c) Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work. I will also need a link to the spreadsheet so I can add it to the Virtual League e.g. GBG input sheet link is *<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*  
 > d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will have to have a google account (e.g. Gmail address - can always set up a new one if need be)
 
 4. To compete in both versions, you can avoid entering your scores twice by just entering the input sheet name in the top row of the “Input” tab on the non-confidential version
@@ -68,10 +68,10 @@ Latest versions of the Sheet:
 
 **Pumpkin juice**
 
-With individual scores shown (Virtual League, Virtual Match, and SuperMatch):
+With individual scores shown (Virtual League, Virtual Match, and Super Match):
 <https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
 
-Without individual scores (Virtual Leagureonly):
+Without individual scores (Virtual League eonly):
 <https://docs.google.com/spreadsheets/d/1XULHWU59x3XhKYN7tilqkd1tR-I2vi4sVWddcCdBoZ0>	
 	
 <!--
