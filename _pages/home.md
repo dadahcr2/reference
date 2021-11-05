@@ -158,8 +158,15 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary>
-   Top 10 Teams Ranked after Season 5
+   Top 10 Teams Ranked after Season 6
   </summary>
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/904900396533817344/IMG_0931.png)  
+**Revised Top 10 Ranking (Seasons 1-6)**  
+- Top 3 remain the same - with possibly only NORTH competitive with Discord
+- RUSSiA falling down the rankings due to inactivity?
+- Legion (8→5) and TNO (10→6) leapfrog IMPERIO~H and UNIVERSE
+	
 ![](https://media.discordapp.net/attachments/858336498159714324/893802102760038410/image0.png)
 - Top 4 settling into their places.
 - Russia up 1 (back to 5th place). Imperio~H joins Germany in 6th from 8th. Both overtake LEGION (5→9)
