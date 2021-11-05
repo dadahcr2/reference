@@ -71,8 +71,24 @@ Happy to send you a template if you are not sure how to create your input spread
 
 -->
 	
-</details>
 
+</details>
+	
+<details  markdown="block">
+  <summary>
+    TE: SQUAD GOALS
+  </summary>
+<br>
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
+	
+![Scooter2] ![Snowmobile2] ![Mono2] ![RT2] ![EV2] ![EV2]
+	
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/906044617617735720/IMG_0995.png) 
+	
+</details>
+	
 <details  markdown="block">
   <summary>
     PE: CC-EV GG WP EZ
