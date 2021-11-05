@@ -1,6 +1,6 @@
 ---
 permalink: /
-toc: false
+tocQ: false
 toc_sticky: false
 classes: wide
 ---
@@ -206,92 +206,63 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats - Season 5
+   Leagues Stats - Season 6/7
   </summary>
 
-		
+**Comparison with Division I and II**
+- Although no superteams in I and II, clearly relegated teams from  CC and I respectively are dominating in their new (lower) division with scores in the 3000-4000 range.   
+- Division I remains the best balanced with most matches in the 2000-2500 range, but not by as much as before
+- Doubly promoted teams from Div IV still resulting in a group of relatively weak teams in D2 with scores < 1500
+![](https://cdn.discordapp.com/attachments/858336498159714324/906160701775695914/IMG_1050.png)  
+						
+**D1 first match**
+- It really stands out how many close matches (2000-2500) there were in D1.
+- My team’s match included. 2261 vs 2259 (we won 😅)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/906164584862343229/IMG_1051.png)  
 
-#### **Average Team Scores per round at the boundaries for Promotion and Relegation (Season 5)** 
+**D2 first match**
+- A fairly flat distribution suggesting quite a bit of divergence in team strength
+![](https://cdn.discordapp.com/attachments/858336498159714324/906165243942699008/IMG_1052.png)	
+
+**CC Season 7 - First Match**
+- A fairly uniform distribution with thick tails.  Probably reflects the randomness of the matching as well as the enormous divergence in team strength resulting in the thick tails.
+- That there was more teams that scored >4000 than 3500-4000 indicates the shear strength of the super-teams!
+![](https://cdn.discordapp.com/attachments/858336498159714324/906123792965857330/IMG_1038.png)
+	
+	
+**CC Season 6 Final Results Distribution**
+- Clearly 5-10 teams that really didn’t even try
+- interesting that there were fewer teams in 2000-2500 range than 1500-2000 and 2500-3000.  I think this represents not only the divergence between the Top 50 and Bottom 50, but also that teams were avoiding the promotion boundary by taking steps to ensure relegation (not playing, say) or avoid it by lining up an easy last match.
+![](https://cdn.discordapp.com/attachments/858336498159714324/906122349034758154/IMG_1037.png)
+	
+	
+	
+Here is the latest Pumpkin Juice Virtual League Spreadsheet.  Feel free to enter your team’s scores in a free column to see how you compare…
+<https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
+	
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 6)** 
 (assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
-- Clearly does not take much to be promoted in the lower divisions.  Even zero could do it in Div.6!
-- And if you want to be in Div.2, it is easier to be double-promoted from D4 (2339), than to be single-promoted from D3 (2707) ?!   And that’s ignoring the easier completion!!
-- In fact, this is true for all double-promotions.  So if you want to be promoted to the next division, the easiest route is to be relegated first 🤣	 
-
-![](https://cdn.discordapp.com/attachments/858336498159714324/896345031575744562/image0.png)
+- Note due to a bug, it was not possible to record boundaries for Divisioms 5, 6 & 7. Accordingly numbers for these divisions are based on Season 5 with an adjustment for the extra match
+- The promotion boundary from Division 1 to CC dropped by 40 points as teams increasingly attempt to avoid promotion
+- It is still easier to enter Division 2 by being double-promoted from Division 4 (2378 average score) than to be single-promoted from Division  3 (2707 average score)
+- Estimated total scores for promotion and relegation in November are shown in the second table	
+![](https://cdn.discordapp.com/attachments/858336498159714324/905011185731108914/IMG_0936.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/905011186335109120/IMG_0938.png)  	
 	
-**CC season 5 Final Results Distribution**
-- Interestingly, almost as many teams averaged 3000-3500 per match as 2500-3000.  A symptom of having a group of, say, 20 super teams in the league that are much  stronger than the rest.
-- The cutoff for relegation was an average score of 2230 per match.
-![](https://cdn.discordapp.com/attachments/858336498159714324/896313946426986516/image0.png)  
+Here is a link to the spreadsheet if you are interested.  You should be able to input your player scores in columns D:AA (one column per team) ...
+<https://docs.google.com/spreadsheets/d/1uFH1-HRvjmFWrnwRnj4jg_iJnb_Zbn1AY__btsOw8sk/edit?usp=sharing>	
 	
-**D1 Season 5 Final Distribution**
-- A fairly peaked distribution with a big drop in #teams averaging  3000-3500 vs 2500-3000
-- Why is this?  Clearly most of the stronger teams are arranging matches between themselves to reduce their chances of being promoted to CC
-- The cutoff for promotion was an average score of 2918. The total at the boundary only increased by only  2125 for the last match suggesting quite a few teams (perhaps almost ⅓ of the teams near the boundary) decided not to play their last match as a last ditch attempt to avoid CC.
-- Relegation boundary was an average match score of 2180.  A very highly populated area.  
-![](https://cdn.discordapp.com/attachments/858336498159714324/896316556068401202/image0.png)  
+My team tried to line up a match with Thor’s Hammer - the only US flagged team ranked higher than us in our division, but it didn’t work.  Nevertheless, we are now running a virtual match where we each input our player scores into a spreadsheet and it tells us the virtual team score!  It is working pretty well (other than my team is behind). Current score:
+`Gas Brake Go          2132`
+`Thor's Hammer         2367`
+The spreadsheet can also handle more teams via two methods:
+1) Virtual League : Total score from all pairwise virtual matches
+2) Super Match : Single match with multiple teams participating
+Thought I would mention it here in case any teams out there are curious how they would do if they matched another team.  Note: it does require inputting the individual player scores.	
 	
-**D2 Final Season 5 Results**
-Average Score Boundaries for changing division
-- Promotion:  3040
-- 1x Relegation: 2015
-- 2x Relegation: 1526
-
-**Comparison of Division Distributions**
-- Very strong right tail in CC (Superteams)
-- Extreme bunching in 2000-2500 in D1. I.e. lots of fair matches.  Also means some of the teams being relegated to D2 are actually very competitive in D1 and will have an easy time in D2 😁
-![](https://cdn.discordapp.com/attachments/858336498159714324/896321628269596692/image0.png)  
-
-#### **Does the BEST team even exist?**
-
-We all wonder which is the best HCR2 team i.e. the team that would beat any other team in a match.  And there very well may be a “best” team.   However, is this always true?  In fact,  this is not a forgone conclusion. A team superior to all others may not always exist!
-
-For example, you could have three teams such that Team A beats Team  B, Team B beats team C, and Team C beats Team A.  Don’t believe me?  Let me be more specific:
-
-Let’s assume that there are 3 players on each team, and each player always scores the same no matter which other team is faced.
-
-Team A players score: 35k, 30k, and 25k
-Team B players score: 34k, 29k, and 28k 
-Team C players score: 33k, 32k, and 27k
-
-Assuming a round-robin, my calculation of the team scores using HCR2’s scoring table is as follows:
-
-Team A (775) beats Team B (752)
-Team B (772) beats Team C (755)
-Team C (770) beats Team A (757)
-
-So after each team having played both of the other teams, which is the best team?  Your guess is as good as mine - because I’m not sure the concept of a superior team applies in this case. ¯\_(ツ)_/¯	
-
-#### Last 3 Seasons
+**Season Change in #Teams**		
+![](https://cdn.discordapp.com/attachments/858336498159714324/896682683986501692/image0.png)  
 	
-I took a look at the actual CC score results over the last three seasons (graciously supplied by Raph).  The results seem to confirm that there are less mismatches going on.  Both tails: <1500 and >3000 scores have been reducing as a percent of all scores.  This is particularly pronounced in the extreme tails: <500 and >4000 scores.   This may be due to weaker teams being driven out of CC as stronger pre-league reset teams finally work themselves back, as well as mergers increasing the average strength of CC teams.  However, the more likely reason is the greater number of arranged matches resulting in fewer uneven pairings.
-	
-![](https://cdn.discordapp.com/attachments/858336498159714324/886806722977599528/image0.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/886806722977599528/image0.png)  
-	
-#### **Season 5 After 2 Matches**
-
-**CC:** Still bimodal with two peaks suggesting big difference in strength between Top 50 and Bottom 50
- **D1:** High peak in the middle suggesting many equally matched teams
-**D2:** Still some evidence of weaker teams - perhaps the 400 teams double promoted from Division 4
-
-Compared to Season 4 (<https://discord.com/channels/762347618851880981/858336498159714324/873766842211135528>), the patterns are not that different, but perhaps on the margin are becoming more similar - indicating an improved number of fair matches?
-
-![](https://cdn.discordapp.com/attachments/858336498159714324/886565949245898752/image0.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/886567187094077500/image0.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/886567187366694922/image1.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/886567187807109120/image2.png)  
-
-	
-#### __**Season change in #Teams**__
-Total teams increased from 37k to 590k. Clearly FS changing classifications of teams eligible for leagues. 590k is consistent with an increase of 5-10k each month since leagues starts - the majority not successful in getting off the ground.
-
-The active teams increased by almost 1k.  The first monthly increase since leagues started. Part of the increase in inactive teams in D4 and D5 may be due to inactive teams having been promoted from D6. I have no idea how the number of D6 inactives increased by 30k but given the number reduced by 30k last month, presumably this was just FS reversing their eligibility criteria.
-
-Inactive is purely measured as having zero on the leaderboard. But some teams have abandoned since season start.  In CC, only OTTOMAN has 0 points, but UL, KO and TURKIYE 2 are empty. As are Hold my 🍺, FrenchPower3 and JumpingMonkey in D1.     Not only is Hold my 🍺 the lowest ranked team in D1 with 2/50 players,  but for a time, their second team, Hold my 🍻 (50/50) was #1 in D3 🧐
-
-![](https://cdn.discordapp.com/attachments/858336498159714324/885723202553274428/image0.png)
-
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
