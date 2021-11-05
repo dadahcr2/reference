@@ -39,7 +39,7 @@ Seem what your score would be if you faced other teams:
 __**Team Leaderboard**__    
 
 Team	| Score
-:== | ==:
+:-- | --:
 LEGIION₁	| 18178
 Thor's Hammer	| 14849
 Gas Brake Go	| 11420
