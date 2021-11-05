@@ -4,6 +4,36 @@ title: "Previous League Seasons"
 classes: wide
 ---  
 
+	
+Top 52
+![](https://cdn.discordapp.com/attachments/847867258964279346/894246730390974464/div3_season5.jpg)
+	
+	
+#### Division 4
+	
+Top 50
+![](https://cdn.discordapp.com/attachments/847867467228512306/894246640121176064/div4_season5.jpg)
+	
+#### Division 5
+	
+Top 53
+![](https://cdn.discordapp.com/attachments/847867553116454932/894239494591623198/div5season5.jpg)  
+	
+#### Division 6
+	
+![](https://cdn.discordapp.com/attachments/847867760162635819/894238088128258089/div6season5.jpg)  
+	
+#### Division 7 
+
+Top 50
+![](https://cdn.discordapp.com/attachments/847867868568879154/894238021363322940/div7_top_50.jpg)  
+  
+– *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+
 <details  markdown="block">
   <summary>
    Leagues Stats - Season 4
