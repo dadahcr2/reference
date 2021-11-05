@@ -37,7 +37,7 @@ classes: wide
 Seem what your score would be if you faced other teams:
 	
 __**Team Leaderboard**__    
-	
+
 Team	| Score
 :== | ==:
 LEGIION₁	| 18178
@@ -47,6 +47,7 @@ The Coalition₂	| 10598
 GBG₁	|7127
 The Coalition₁	| 5663
 	
+
 **Instructions:**
 1. The idea is that we can compete against each other (virtually) and see how we would do.
     - **Virtual Match** : One-on-one vs. another team (select teams via dropdown)
