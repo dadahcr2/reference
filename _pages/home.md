@@ -36,13 +36,16 @@ classes: wide
  
 Seem what your score would be if you faced other teams:
 	
-__**Team Leaderboard**__  
-`LEGIION₁             18178`  
-`Thor's Hammer        14849`  
-`Gas Brake Go         11420`  
-`The Coalition₂       10598`  
-`GBG₁                  7127`  
-`The Coalition₁        5663`  
+__**Team Leaderboard**__    
+	
+Team	| Score
+:== | ==:
+LEGIION₁	| 18178
+Thor's Hammer	| 14849
+Gas Brake Go	| 11420
+The Coalition₂	| 10598
+GBG₁	|7127
+The Coalition₁	| 5663
 	
 **Instructions:**
 1. The idea is that we can compete against each other (virtually) and see how we would do.
