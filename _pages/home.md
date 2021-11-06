@@ -60,24 +60,24 @@ __**Pumkin Juice Leaderboard**__
 `The Coalition₁        7413`
 	
 **Instructions:**
-1. The idea is that we can compete against each other (virtually) and see how we would do.   
-	- **Virtual Match** : One-on-one vs. another team (select teams via dropdown)  
-    	- **Virtual League** : Teams ranked based on the total of all pairwise match scores  
-    	- **Super Match** : Results from one very large match that includes all teams  
+1. The idea is that we can compete against each other (virtually) and see how we would do.
+    - **Virtual Match** : One-on-one vs. another team (select teams via dropdown)
+    - **Virtual League** : Teams ranked based on the total of all pairwise match scores
+    - **Super Match** : Results from one very large match that includes all teams
 
 2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet (see bottom of this channel).  Please enter a unique name in the top row, and individual scores below that.
 
-3. If you would prefer to type your individual player scores on you own google sheet:  
-> a) **Team Name** must be in cell **Sheet1:A1**  
-> b) **Scores** must be in **Sheet1:a2:a51**  
-> c) Enter the input sheet name in the top row of the “Input” tab ( instead of team name )  
-> c) Give “viewer” access to **dadahcr2@gmail.com** and let me know as I will need to enable it  
+3. If you would prefer to type your individual player scores on you own google sheet:
+> a) **Team Name** must be in cell **Sheet1:A1**
+> b) **Scores** must be in **Sheet1:a2:a51**
+> c) Enter the input sheet name in the top row of the “Input” tab ( instead of team name )
+> c) Give “viewer” access to **dadahcr2@gmail.com** and let me know as I will need to enable it
 > d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will need a google account (e.g. Gmail address - can always set up a new one)
 
-**Pumpkin juice** Virtual League  
+**Pumpkin juice** Virtual League
 <https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
-
-**Squad goal ** Virtual League  
+	
+**Squad goal ** Virtual League
 <https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
 	
 Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it on my iPad:  
