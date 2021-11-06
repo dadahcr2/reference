@@ -49,46 +49,39 @@ classes: wide
  
 Seem what your score would be if you faced other teams:
 	
-__**Team Leaderboard**__    
-
-Team	| Score
-:-- | --:
-LEGIION₁	| 18178
-Thor's Hammer	| 14849
-Gas Brake Go	| 11420
-The Coalition₂	| 10598
-GBG₁	|7127
-The Coalition₁	| 5663
+__**Pumkin Juice Leaderboard**__
+`LEGIION2             26984`
+`LEGIION₁             23135`
+`Thor's Hammer        18984`
+`Gas Brake Go₃        14608`
+`The Coalition₂       13464`
+`G.B.G.₄              12791`
+`GBG₁                  9185`
+`The Coalition₁        7413`
 	
-
 **Instructions:**
-1. The idea is that we can compete against each other (virtually) and see how we would do.
-    - **Virtual Match** : One-on-one vs. another team (select teams via dropdown)
-    - **Virtual League** : Teams ranked based on the total of all pairwise match scores
-    - **Super Match** : Results from one very large match that includes all teams
+1. The idea is that we can compete against each other (virtually) and see how we would do.   
+	- **Virtual Match** : One-on-one vs. another team (select teams via dropdown)  
+    	- **Virtual League** : Teams ranked based on the total of all pairwise match scores  
+    	- **Super Match** : Results from one very large match that includes all teams  
 
 2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet (see bottom of this channel).  Please enter a unique name in the top row, and individual scores below that.
 
-3. There is also a confidential version of the sheet (*without SuperMatch and VirtualMatch*) for teams that don’t want to reveal their individual player scores,  However, you will have set up your own team score google sheet. 
+3. If you would prefer to type your individual player scores on you own google sheet:  
 > a) **Team Name** must be in cell **Sheet1:A1**  
 > b) **Scores** must be in **Sheet1:a2:a51**  
-> c) Make sure you don’t share it with anyone you don’t want to see your individual scores, but you will have to give “viewer” access to **dadahcr2@gmail.com** for the virtual league sheet to work. I will also need a link to the spreadsheet so I can add it to the Virtual League e.g. GBG input sheet link is *<https://docs.google.com/spreadsheets/d/1YD2pnJIpOl_8taJPpJlyPovYwOSROZAO7dClExbx7gA>*  
-> d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will have to have a google account (e.g. Gmail address - can always set up a new one if need be)
+> c) Enter the input sheet name in the top row of the “Input” tab ( instead of team name )  
+> c) Give “viewer” access to **dadahcr2@gmail.com** and let me know as I will need to enable it  
+> d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will need a google account (e.g. Gmail address - can always set up a new one)
 
-4. To compete in both versions, you can avoid entering your scores twice by just entering the input sheet name in the top row of the “Input” tab on the non-confidential version
-	
-Latest versions of the Sheet:
-
-**Pumpkin juice**
-
-With individual scores shown (Virtual League, Virtual Match, and Super Match):
+**Pumpkin juice** Virtual League  
 <https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
 
-Without individual scores (Virtual League eonly):
-<https://docs.google.com/spreadsheets/d/1XULHWU59x3XhKYN7tilqkd1tR-I2vi4sVWddcCdBoZ0>	
-
-Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it on my iPad by copying scores from snapshots:
-<https://youtu.be/etd0UTGpOdM>
+**Squad goal ** Virtual League  
+<https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
+	
+Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it on my iPad:  
+<https://youtu.be/etd0UTGpOdM>	
 <!--
 
 ![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)  
