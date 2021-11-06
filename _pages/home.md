@@ -73,7 +73,9 @@ With individual scores shown (Virtual League, Virtual Match, and Super Match):
 
 Without individual scores (Virtual League eonly):
 <https://docs.google.com/spreadsheets/d/1XULHWU59x3XhKYN7tilqkd1tR-I2vi4sVWddcCdBoZ0>	
-	
+
+Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it:
+<https://youtu.be/etd0UTGpOdM>
 <!--
 
 ![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)  
