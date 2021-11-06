@@ -19,6 +19,19 @@ classes: wide
 ## Events & Updates
 <details   markdown="block">
   <summary>
+    TE: Squad Goal
+  </summary>
+![](https://media.discordapp.net/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
+	
+![scooter2] ![Snowmobile2] ![Mono2] ![RT2] ![EV2] ![EV2]
+![](https://cdn.discordapp.com/attachments/851566907920089128/906044617617735720/IMG_0995.png)
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/906561627871117382/te_Strategy.png)
+	
+</details>	
+
+<details   markdown="block">
+  <summary>
     TE: Pumpkin Juice
   </summary>
 	
@@ -31,7 +44,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    Virtual League - Pumpkin Juice
+    Virtual League
   </summary>
  
 Seem what your score would be if you faced other teams:
