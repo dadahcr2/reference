@@ -36,7 +36,7 @@ classes: wide
   </summary>
 	
 ![Bus2] ![mk22] ![Rotator2] ![EV2] ![Sbike2]
-![](https://cdn.discordapp.com/attachments/850222164065648680/903551599543210034/IMG_0667.png)
+![](https://cdn.discordapp.com/attachments/850222164065648680/906571027629363250/IMG_1133.png)
 	
 ![](https://media.discordapp.net/attachments/858851529058418765/903561533597040650/2021-10-29_11h30_46.png)
 	
@@ -50,14 +50,14 @@ classes: wide
 Seem what your score would be if you faced other teams:
 	
 __**Pumkin Juice Leaderboard**__
-`LEGIION2             26984`
-`LEGIION₁             23135`
-`Thor's Hammer        18984`
-`Gas Brake Go₃        14608`
-`The Coalition₂       13464`
-`G.B.G.₄              12791`
-`GBG₁                  9185`
-`The Coalition₁        7413`
+`LEGIION2             26984`  
+`LEGIION₁             23135`  
+`Thor's Hammer        18984`  
+`Gas Brake Go₃        14608`  
+`The Coalition₂       13464`  
+`G.B.G.₄              12791`  
+`GBG₁                  9185`  
+`The Coalition₁        7413`  
 	
 **Instructions:**
 1. The idea is that we can compete against each other (virtually) and see how we would do.
@@ -82,6 +82,7 @@ __**Pumkin Juice Leaderboard**__
 	
 Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it on my iPad:  
 <https://youtu.be/etd0UTGpOdM>	
+	
 <!--
 
 ![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)  
