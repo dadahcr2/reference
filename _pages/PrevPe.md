@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+3 Nov 21 | [**CC EV - GG WP EZ**](https://cdn.discordapp.com/attachments/884686604944437278/906913371411075093/IMG_1215.png) | CC-EV Wars | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22CC+EV+-+GG+WP+EZ%22)  
 27 October 2021 | [**28 Hills Later**](https://cdn.discordapp.com/attachments/884686604944437278/904313352803713034/IMG_0854.png) | Zombie Chase | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%2228+Hills+Later%22)
 20th October 2021 | [**Speedy Hollow**](https://cdn.discordapp.com/attachments/884686604944437278/900710260401135686/image0.png) | Pumpkin Smash | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Speedy+Hollow%22)
 13th October 2021 | [**United in Suffering**](https://cdn.discordapp.com/attachments/884686604944437278/899567012844556328/image0.png) | Dribble Distance | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22United+in+Suffering%22)
