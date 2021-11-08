@@ -27,18 +27,12 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/850222164065648680/906571027629363250/IMG_1133.png)
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/906561627871117382/te_Strategy.png)
-	
-</details>	
 
-<details   markdown="block">
-  <summary>
-    TE: Pumpkin Juice
-  </summary>
+
+### See how you would compare with my team and others:
 	
-![Bus2] ![mk22] ![Rotator2] ![EV2] ![Sbike2]
-![](https://cdn.discordapp.com/attachments/850222164065648680/906571027629363250/IMG_1133.png)
-	
-![](https://media.discordapp.net/attachments/858851529058418765/903561533597040650/2021-10-29_11h30_46.png)
+**Squad Goal** Virtual League  
+<https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
 	
 </details>	
 
@@ -77,9 +71,6 @@ The Coalition₁	| 7413
 - c) Give “viewer” access to **dadahcr2@gmail.com** and let me know as I will need to enable it
 - d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will need a google account (e.g. Gmail address - can always set up a new one)
 
-**Pumpkin juice** Virtual League  
-<https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
-	
 **Squad Goal** Virtual League  
 <https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
 	
