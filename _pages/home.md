@@ -29,80 +29,15 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/851566907920089128/906561627871117382/te_Strategy.png)
 
 
-### See how you would compare with my team and others:
+### To see how you would compare with my team and others:
+	
+Enter your scores in a free column on the **Input** Tab
 	
 **Squad Goal** Virtual League  
 <https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
 	
 </details>	
 
-<details  markdown="block">
-  <summary>
-    Virtual League
-  </summary>
- 
-Seem what your score would be if you faced other teams:
-	
-__**Pumkin Juice Leaderboard**__
-	
-Team	| Score
-:-- | --:
-LEGIION2	| 26984
-LEGIION₁	| 23135
-Thor's Hammer	| 18984
-Gas Brake Go₃	| 14608
-The Coalition₂	| 13464
-G.B.G.₄	| 12791
-GBG₁	| 9185
-The Coalition₁	| 7413  
-	
-**Instructions:**
-1. The idea is that we can compete against each other (virtually) and see how we would do.
-    - **Virtual Match** : One-on-one vs. another team (select teams via dropdown)
-    - **Virtual League** : Teams ranked based on the total of all pairwise match scores
-    - **Super Match** : Results from one very large match that includes all teams
-
-2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet (see bottom of this channel).  Please enter a unique name in the top row, and individual scores below that.
-
-3. If you would prefer to type your individual player scores on you own google sheet:
-- a) **Team Name** must be in cell **Sheet1:A1**
-- b) **Scores** must be in **Sheet1:a2:a51**
-- c) Enter the input sheet name in the top row of the “Input” tab ( instead of team name )
-- c) Give “viewer” access to **dadahcr2@gmail.com** and let me know as I will need to enable it
-- d) Happy to send you a template if you are not sure how to create your input spreadsheet.  Note you will need a google account (e.g. Gmail address - can always set up a new one)
-
-**Squad Goal** Virtual League  
-<https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
-	
-Entering team scores can be made easier.  Did you know that you can copy your team scores from snapshots?  Unconvinced?  Watch me do it on my iPad:  
-<https://youtu.be/etd0UTGpOdM>	
-	
-<!--
-
-![](https://cdn.discordapp.com/attachments/840171991197417493/901071114468470844/scores_chart.jpg)  
-![Jeep2] ![Sportscar2] ![Mono2] ![Rally2] ![Hotrod2]
-	
-![](https://cdn.discordapp.com/attachments/840171991197417493/901070710057861141/te_Strategy.png)
-
--->
-	
-
-</details>
-	
-<details  markdown="block">
-  <summary>
-    TE: SQUAD GOALS
-  </summary>
-<br>
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
-	
-![Scooter2] ![Snowmobile2] ![Mono2] ![RT2] ![EV2] ![EV2]
-	
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/906044617617735720/IMG_0995.png) 
-	
-</details>
 	
 <details  markdown="block">
   <summary>
