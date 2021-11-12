@@ -17,7 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     TE: Let's Gooooooo!
   </summary>
