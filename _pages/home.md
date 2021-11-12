@@ -17,6 +17,18 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+<details open  markdown="block">
+  <summary>
+    TE: Let's Gooooooo!
+  </summary>
+<br>
+![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
+	
+![Moto2] ![buggy2] ![tank2] ![formula2] ![EV2] 
+	
+![](https://cdn.discordapp.com/attachments/850222164065648680/908583048021426176/IMG_1394.png) 
+
+</details>
 <details   markdown="block">
   <summary>
     TE: Squad Goal
