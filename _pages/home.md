@@ -28,28 +28,12 @@ classes: wide
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/908583048021426176/IMG_1394.png) 
 
+![](https://cdn.discordapp.com/attachments/851566907920089128/909109067610480650/te_Strategy.png)
+
+### Virtual League:  <https://docs.google.com/spreadsheets/d/1239uJVT40ZtkPvAtQujcLjXIvvJx4kVDsq0p9Lgk-OI/edit>  
+To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
+
 </details>
-<details   markdown="block">
-  <summary>
-    TE: Squad Goal
-  </summary>
-![](https://media.discordapp.net/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
-	
-![scooter2] ![Snowmobile2] ![Mono2] ![RT2] ![EV2] ![EV2]
-![](https://cdn.discordapp.com/attachments/850222164065648680/906571027629363250/IMG_1133.png)
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/906561627871117382/te_Strategy.png)
-
-
-### To see how you would compare with my team and others:
-	
-Enter your scores in a free column on the **Input** Tab
-	
-**Squad Goal** Virtual League  
-<https://docs.google.com/spreadsheets/d/1KJawi7kOWwi_kJLTmlHGP1kXkfNJpKFa6lej_6O54fc/edit?usp=sharing>
-	
-</details>	
-
 	
 <details  markdown="block">
   <summary>
