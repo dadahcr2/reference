@@ -37,10 +37,10 @@ To see how you would compare with my team and others, enter your scores in a fre
 	
 <details  markdown="block">
   <summary>
-    PE: Tachycardia
+    PE: in the name of the moon
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/908252353659035698/IMG_1366.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/910425371730669568/IMG_1656.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
