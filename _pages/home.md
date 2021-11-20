@@ -20,7 +20,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Let's Gooooooo!
+    TE: Gas Gas Gas
   </summary>
 <br>
 ![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
