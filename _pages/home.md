@@ -17,6 +17,24 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+
+<details  markdown="block">
+  <summary>
+    TE: Let's Gooooooo!
+  </summary>
+<br>
+![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
+
+![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
+![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
+	
+![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
+	
+### Virtual League:  <https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>  
+To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
+
+</details>
+	
 <details  markdown="block">
   <summary>
     TE: Let's Gooooooo!
@@ -28,7 +46,8 @@ classes: wide
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/908583048021426176/IMG_1394.png) 
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/909109067610480650/te_Strategy.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/909109067610480650/te_Strategy.png)  
+ - soulis
 
 ### Virtual League:  <https://docs.google.com/spreadsheets/d/1239uJVT40ZtkPvAtQujcLjXIvvJx4kVDsq0p9Lgk-OI/edit>  
 To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
