@@ -29,6 +29,7 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
 	
 ![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
+ - soulis
 	
 ### Virtual League:  <https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>  
 To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
