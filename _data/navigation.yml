@@ -5,7 +5,7 @@ main:
     url: /chests/
   - title: "Memes"
     url: /memes/
-  - title: "Previous PEs"
+  - title: "Prior PEs"
     url: /PrevPe/
   - title: "GM"
     url: /gm/
