@@ -38,25 +38,6 @@ To see how you would compare with my team and others, enter your scores in a fre
 	
 <details  markdown="block">
   <summary>
-    TE: Let's Gooooooo!
-  </summary>
-<br>
-![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
-	
-![Moto2] ![buggy2] ![tank2] ![formula2] ![EV2] 
-	
-![](https://cdn.discordapp.com/attachments/850222164065648680/908583048021426176/IMG_1394.png) 
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/909109067610480650/te_Strategy.png)  
- - soulis
-
-### Virtual League:  <https://docs.google.com/spreadsheets/d/1239uJVT40ZtkPvAtQujcLjXIvvJx4kVDsq0p9Lgk-OI/edit>  
-To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
-
-</details>
-	
-<details  markdown="block">
-  <summary>
     PE: in the name of the moon
   </summary>
 <br>
