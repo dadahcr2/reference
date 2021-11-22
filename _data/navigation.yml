@@ -1,12 +1,12 @@
 main:
-  - title: "Change Log"
-    url: /blog/
   - title: "Tips"
     url: /tips/
   - title: "Chests"
     url: /chests/
   - title: "Memes"
     url: /memes/
+  - title: "Prev.PEs"
+    url: /PrevPe/
   - title: "GM"
     url: /gm/
   - title: "FAQ"
