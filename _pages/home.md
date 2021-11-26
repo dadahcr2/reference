@@ -17,6 +17,14 @@ classes: wide
 </details> -->  
 
 ## Events & Updates
+<details  markdown="block">
+  <summary>
+    TE: Pedal + Metal
+  </summary>
+<br>
+![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
+![https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png]  
+</details>
 
 <details  markdown="block">
   <summary>
@@ -38,10 +46,10 @@ To see how you would compare with my team and others, enter your scores in a fre
 	
 <details  markdown="block">
   <summary>
-    PE: in the name of the moon
+    PE: Need for Swiftness
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/910425371730669568/IMG_1656.png)
+![](https://cdn.discordapp.com/attachments/880579570435227679/913689466860896296/IMG_1979.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
