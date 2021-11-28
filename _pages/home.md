@@ -27,6 +27,9 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
 	
 ![](https://media.tenor.co/videos/487b60a1f0a4b77a4413d5eb60fbcc15/mp4)  
+	
+from Soulis:
+![](https://cdn.discordapp.com/attachments/851566907920089128/914078547881128026/te_Strategy.png)  
 </details>
 
 <details  markdown="block">
