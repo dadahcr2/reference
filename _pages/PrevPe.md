@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+24th November 2021 | [**Need for Swiftness**](https://cdn.discordapp.com/attachments/884686604944437278/914691205034545172/IMG_2092.png) | 2km Time attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Need+for+Swiftness%22)
 17 Nov 21 | [**In the Name of the Moon**](https://cdn.discordapp.com/attachments/884686604944437278/909393855512735835/IMG_1538.png) | Moon Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%In+the+Name+of+the+Moon%22)      
 10 Nov 21 | [**Tachycardia**](https://cdn.discordapp.com/attachments/884686604944437278/909393855512735835/IMG_1538.png) | Time attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Tachycardia%22)
 3 Nov 21 | [**CC EV - GG WP EZ**](https://cdn.discordapp.com/attachments/884686604944437278/906913371411075093/IMG_1215.png) | CC-EV Wars | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22CC+EV+-+GG+WP+EZ%22)  
