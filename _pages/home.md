@@ -29,33 +29,21 @@ classes: wide
 ![](https://media.tenor.co/videos/487b60a1f0a4b77a4413d5eb60fbcc15/mp4)  
 	
 from Soulis:
-![](https://cdn.discordapp.com/attachments/851566907920089128/914078547881128026/te_Strategy.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/914078547881128026/te_Strategy.png) 
+	
+Virtual League
+
+Can you beat NORTH? Enter your scores to see:
+<https://docs.google.com/spreadsheets/d/1TrdG6Pfpjz-8PKp9zRcspK4JfvnCur8amJoKM7-zfCM/edit>
 </details>
 
-<details  markdown="block">
-  <summary>
-    TE: Gas Gas Gas
-  </summary>
-<br>
-![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
-
-![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
-![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
-	
-![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
- - soulis
-	
-### Virtual League:  <https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>  
-To see how you would compare with my team and others, enter your scores in a free column on the **Input** tab	
-
-</details>
 	
 <details  markdown="block">
   <summary>
-    PE: Need for Swiftness
+    PE: Express Delivery
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/880579570435227679/913689466860896296/IMG_1979.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
