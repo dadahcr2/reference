@@ -19,6 +19,20 @@ classes: wide
 ## Events & Updates
 <details  markdown="block">
   <summary>
+    TE: Beyond Speed
+  </summary>
+<br>
+
+![scooter2] ![sportscar2] ![rotator2] ![mono2] ![ev2]  
+![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
+
+![](https://tenor.com/view/speed-i-am-speed-meme-kid-gif-14031709)  
+</details>
+
+<details  markdown="block">
+  <summary>
     TE: Pedal + Metal
   </summary>
 <br>
