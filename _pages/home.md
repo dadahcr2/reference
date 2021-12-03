@@ -28,7 +28,7 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
 
-![](https://tenor.com/view/speed-i-am-speed-meme-kid-gif-14031709)  
+![](https://media.tenor.co/videos/740eb3676b7d949a202c1cfdd41eddf2/mp4)  
 </details>
 
 <details  markdown="block">
