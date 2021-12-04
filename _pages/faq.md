@@ -195,10 +195,11 @@ Rally        3s
 Formula      2+
 RacingTruck  ½s
 HotRod       3s
+CC-EV        0s (4+s RC10)
 Supercar     7s
 Moonlander   1s
 ```
-+ means “at least” (my roll-cage for that vehicle is not maxed)
+"+" means “at least” (my roll-cage for that vehicle is not maxed)
 
 ***
 
