@@ -70,30 +70,31 @@ For more information on Public Events, please feel free to join the Public Event
     TE Popular Parts
   </summary>
 Most popular vehicle at the too. Most popular part to the left
-	
-![hotrod] ![JS] ![LB] ![SB] ![WT] ![Ma] ![CB] ![Fuel]   
-![RT] ![AC] ![Fuel] ![LB] ![OT] ![SB] ![TH] ![JS] ![Ma] ![WT] ![AB] ![Fume] ![CB] ![WB] ![Wi]   
-![rotator] ![Fume] ![OT] ![TH] ![WB] ![Ma] ![SB] ![Wi] ![AB] ![CB]   
-![supercar] ![AC] ![Ma] ![Fume] ![JS] ![CB] ![SB] ![Fuel] ![Wi] ![OT] ![AB]   
-![Buggy] ![AC] ![Fume] ![WT] ![Ma] ![CB] ![WB] ![JS] ![LB] ![Wi]   
-![sportscar] ![Fuel] ![Fume] ![Ma] ![RC] ![CB] ![JS] ![LB] ![Wi] ![HW] ![WB] ![AB]   
-![Diesel] ![Fuel] ![Ma] ![SB] ![WB] ![Fume] ![LB] ![JS] ![TH] ![Wi]   
-![jeep] ![AB] ![AC] ![Fuel] ![Ma] ![SB] ![Wi] ![LB] ![JS]   
-![Monster] ![Fuel] ![RC] ![WB] ![WT] ![Wi] ![HW] ![CB] ![SB] ![AB]   
-![Rally] ![CB] ![JS] ![Ma] ![SB] ![WB] ![Fuel] ![HW] ![LB] ![TH] ![WT] ![Wi] ![AB]   
-![Sbike] ![WB] ![Flip] ![SB] ![Wi] ![AC] ![OT] ![WT] ![CB] ![AB]   
-![tank] ![AB] ![Fume] ![JS] ![SB] ![CB] ![TH] ![LB] ![Wi]   
-![chopper] ![Flip] ![Fume] ![Ma] ![AC] ![CB] ![TH] ![Fuel] ![LB] ![Wi]   
-![formula] ![LB] ![Ma] ![Fuel] ![Wi] ![CB] ![WT] ![AB]   
-![EV] ![JS] ![LB] ![WT] ![CB] ![WB] ![Wi]   
-![mk2] ![AB] ![CB] ![HW] ![SB] ![TH] ![JS] ![Wi] ![LB]   
-![Moto] ![AB] ![AC] ![Fuel] ![Ma] ![JS] ![TH] ![LB] ![Wi]   
+
+![hotrod] ![WT] ![Ma] ![CB] ![Fuel]   
+![RT] ![AB] ![Fume] ![CB] ![WB] ![Wi]   
+![rotator] ![Ma] ![SB] ![Wi] ![AB] ![CB]   
+![supercar] ![CB] ![SB] ![Fuel] ![Wi] ![OT] ![AB]   
+![Buggy] ![Ma] ![CB] ![WB] ![JS] ![LB] ![Wi]   
+![sportscar] ![CB] ![JS] ![LB] ![Wi] ![HW] ![WB] ![AB]   
+![Diesel] ![Fume] ![LB] ![JS] ![TH] ![Wi]   
+![jeep] ![SB] ![Wi] ![LB] ![JS]   
+![Monster] ![Wi] ![HW] ![CB] ![SB] ![AB]   
+![Rally] ![Fuel] ![HW] ![LB] ![TH] ![WT] ![Wi] ![AB]   
+![Sbike] ![Flip] ![SB] ![Wi] ![AC] ![OT] ![WT] ![CB] ![AB]   
+![tank] ![Fume] ![JS] ![SB] ![CB] ![TH] ![LB] ![Wi]   
+![chopper] ![AC] ![CB] ![TH] ![Fuel] ![LB] ![Wi]   
+![formula] ![Fuel] ![Wi] ![CB] ![WT] ![AB]   
+![EV] ![LB] ![WT] ![CB] ![WB] ![Wi]   
+![mk2] ![JS] ![Wi] ![LB]   
+![Moto] ![JS] ![TH] ![LB] ![Wi]   
 ![tractor] ![AB] ![Fume] ![WB] ![OT] ![WT] ![CB] ![Wi]   
-![bus] ![AB] ![CB] ![Fuel] ![SB] ![JS] ![TH] ![Wi]   
+![bus] ![JS] ![TH] ![Wi]   
 ![snowmobile] ![CB] ![OT] ![Fume] ![Wi]   
 ![moonlander] ![AB] ![WB] ![CB] ![Ma]   
 ![scooter] ![Fuel] ![RC] ![WB] ![JS] ![LB] ![Wi]   
 ![Mono] ![AB] ![CB] ![Fuel] ![TH] ![Wi] ![WT]   
+ 
 - with thanks to Soulis for the data
 	
 </details>
