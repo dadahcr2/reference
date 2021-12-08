@@ -65,7 +65,7 @@ For more information on Public Events, please feel free to join the Public Event
 </details>	
 	
 
-<T<details  markdown="block">
+<details  markdown="block">
   <summary>
     TE Popular Parts
   </summary>
