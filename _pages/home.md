@@ -69,33 +69,32 @@ For more information on Public Events, please feel free to join the Public Event
 Most popular part to the left.  Parts used more than five times are highlighted. Parts only used once are excluded
 
 Vehicle | Parts
--- | --
-![hotrod] | ![CBy] ![Fuely] ![May] ![WT] ![LB] ![SB]   
-![RT] | ![Wiy] ![WBy] ![CB] ![AB] ![Fume] ![JS] ![Ma] ![WT]   
-![rotator] | ![ABy] ![CBy] ![Wiy] ![Ma] ![SB]   
-![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuel] ![CB] ![SB] ![Fume] ![JS]   
-![Buggy] | ![Wiy] ![JSy] ![LBy] ![CB] ![WB] ![Ma]   
-![sportscar] | ![ABy] ![HW] ![WB] ![Wi] ![CB] ![JS] ![LB]   
-![Diesel] | ![Wiy] ![JSy] ![THy] ![LB] ![Fume]   
+-- | --  
+![hotrod] | ![CBy] ![Fuely] ![May] ![WTy] ![LB] ![SB]   
+![RT] | ![Wiy] ![WBy] ![CBy] ![ABy] ![Fumey] ![JS] ![Ma] ![WT]   
+![rotator] | ![ABy] ![CBy] ![Wiy] ![May] ![SBy]   
+![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuely] ![CBy] ![SBy] ![Fume] ![JS]   
+![Buggy] | ![Wiy] ![JSy] ![LBy] ![CBy] ![WBy] ![Ma]   
+![sportscar] | ![ABy] ![HWy] ![WBy] ![Wiy] ![CB] ![JS] ![LB]   
+![Diesel] | ![Wiy] ![JSy] ![THy] ![LBy] ![Fume]   
 ![jeep] | ![JSy] ![LBy] ![Wiy] ![SB]   
-![Monster] | ![ABy] ![SBy] ![CB] ![HW] ![Wi]   
-![Rally] | ![ABy] ![Wi] ![WT] ![Fuel] ![HW] ![LB] ![TH]   
-![Sbike] | ![ABy] ![CBy] ![AC] ![OT] ![WT] ![Flip] ![SB] ![Wi]   
-![tank] | ![Wiy] ![LBy] ![CB] ![TH] ![Fume] ![JS] ![SB]   
-![chopper] | ![Wiy] ![Fuel] ![LB] ![TH] ![AC] ![CB]   
-![formula] | ![ABy] ![CB] ![WT] ![Fuel] ![Wi]   
-![EV] | ![Wiy] ![CB] ![WB] ![LB] ![WT]   
-![mk2] | ![LBy] ![JS] ![Wi]   
-![Moto] | ![Wiy] ![LB] ![JS] ![TH]   
-![tractor] | ![CB] ![Wi] ![OT] ![WT] ![AB] ![Fume] ![WB]   
-![bus] | ![TH] ![Wi] ![JS]   
-![snowmobile] | ![Fumey] ![Wiy] ![OT] ![CB]   
-![moonlander] | ![Ma] ![CB]   
-![scooter] | ![JS] ![LB] ![Wi]   
+![Monster] | ![ABy] ![SBy] ![CBy] ![HWy] ![Wi]   
+![Rally] | ![ABy] ![Wiy] ![WTy] ![Fuel] ![HW] ![LB] ![TH]   
+![Sbike] | ![ABy] ![CBy] ![ACy] ![OTy] ![WTy] ![Flip] ![SB] ![Wi]   
+![tank] | ![Wiy] ![LBy] ![CBy] ![THy] ![Fume] ![JS] ![SB]   
+![chopper] | ![Wiy] ![Fuely] ![LBy] ![THy] ![AC] ![CB]   
+![formula] | ![ABy] ![CBy] ![WTy] ![Fuely] ![Wiy]   
+![EV] | ![Wiy] ![CBy] ![WBy] ![LB] ![WT]   
+![mk2] | ![LBy] ![JSy] ![Wiy]   
+![Moto] | ![Wiy] ![LBy] ![JSy] ![THy]   
+![tractor] | ![CBy] ![Wiy] ![OTy] ![WTy] ![AB] ![Fume] ![WB]   
+![bus] | ![THy] ![Wiy] ![JSy]   
+![snowmobile] | ![Fumey] ![Wiy] ![OTy] ![CB]   
+![moonlander] | ![May] ![CB]   
+![scooter] | ![JSy] ![LBy] ![Wiy]   
 ![Mono] | ![Wi]   
-
-
- -Data from Soulis: *Once More, With Feeling* to *Beyond Speed*
+	
+ -*Data from Soulis*: *”Once More, With Feeling"* to *"Beyond Speed"*
 	
 </details>
 
@@ -1227,9 +1226,9 @@ https://media.discordapp.net/attachments/831974892538560523/831975036528623677/a
 {: height="20px" width="20px" style="background-color:yellow"} 
 	
 [ACy]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 
 	
 [CBy]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png 
@@ -1239,15 +1238,15 @@ https://media.discordapp.net/attachments/831974892538560523/831975036528623677/a
 {: height="40px" width="40px"} 
 	
 [SBy]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
 {: height="20px" width="20px"} 
 [DFy]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [Dry]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [Flipy]: https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px" style="background-color:yellow"} 
 	
 [Fuely]:
 https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
@@ -1256,7 +1255,7 @@ https://media.discordapp.net/attachments/831974892538560523/831975181211533423/t
 [Fumey]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [HWy]: https://media.discordapp.net/attachments/831974892538560523/831975186663604234/weight.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [JSy]: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [LBy]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png 
@@ -1268,9 +1267,9 @@ https://media.discordapp.net/attachments/831974892538560523/831975181211533423/t
 [RCy]: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [SBy]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px"  style="background-color:yellow"} 
 [SWy]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
-{: height="20px" width="20px"} 
+{: height="20px" width="20px" style="background-color:yellow"} 
 [Thy]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [WBy]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png 
@@ -1280,7 +1279,7 @@ https://media.discordapp.net/attachments/831974892538560523/831975181211533423/t
 {: height="20px" width="20px" style="background-color:yellow"} 
 
 [Wi2]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png  
-{: height="40px" width="40px"}  
+{: height="40px" width="40px"} 
 	
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
