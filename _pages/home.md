@@ -153,8 +153,18 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary>
-   Top 10 Teams Ranked after Season 6
+   Top 10 Teams Ranked after Season 7
   </summary>
+	
+	
+![](https://cdn.discordapp.com/attachments/858336498159714324/915578260937642014/IMG_2328.png)  
+**Revised Dada Top 10 Ranking (Seasons 1-7)**
+- Top 3 remain the same
+- TNO’s top placing in Season 7 moves them up two places to 4th 
+- This was at GERMANY’s expense who dropped to 5th
+- Universe (7→6) leapfrogs LEGION (5→7)
+- The balance of the spots taken up by IMPERIO-H, RUSSIA (inactive), and ? (GReddit) who are back in the Top 10 despite being reset not too long ago
+- Talking about resets, TURKIYE’s reset means I zeroed all their points
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/904900396533817344/IMG_0931.png)  
 **Revised Top 10 Ranking (Seasons 1-6)**  
