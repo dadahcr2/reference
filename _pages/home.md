@@ -36,7 +36,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Beyond Speed
+    TE: Become Speed
   </summary>
 <br>
 
@@ -66,7 +66,7 @@ For more information on Public Events, please feel free to join the Public Event
     TE Popular Parts
   </summary>
 	
-Most popular part to the left.  Parts used more than five times are highlighted. Parts only used once are excluded
+Most popular part to the left.  Parts used three or more times are highlighted. Parts only used once are excluded
 
 Vehicle | Parts
 -- | --  
