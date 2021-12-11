@@ -1221,7 +1221,7 @@ We are an open team, so no password.  If there is a spot available and the below
 [AB2]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
 {: height="40px" width="40px"} 
 	
-[ABy]:
+[ABy]:  
 https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 	
@@ -1245,13 +1245,12 @@ https://media.discordapp.net/attachments/831974892538560523/831975036528623677/a
 {: height="20px" width="20px"  style="background-color:yellow"} 
 [Dry]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
 {: height="20px" width="20px"  style="background-color:yellow"} 
-[Flipy]: https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
-{: height="20px" width="20px" style="background-color:yellow"} 
-	
-[Fuely]:
+[Flipy]:   
+https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
+{: height="20px" width="20px" style="background-color:yellow"}
+[Fuely]:  
 https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
-	
 [Fumey]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [HWy]: https://media.discordapp.net/attachments/831974892538560523/831975186663604234/weight.png 
