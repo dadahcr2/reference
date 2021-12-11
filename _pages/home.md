@@ -211,62 +211,82 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats - Season 6/7
+   Leagues Stats - Season 7/8
   </summary>
-
-**Comparison with Division I and II**
-- Although no superteams in I and II, clearly relegated teams from  CC and I respectively are dominating in their new (lower) division with scores in the 3000-4000 range.   
-- Division I remains the best balanced with most matches in the 2000-2500 range, but not by as much as before
-- Doubly promoted teams from Div IV still resulting in a group of relatively weak teams in D2 with scores < 1500
-![](https://cdn.discordapp.com/attachments/858336498159714324/906160701775695914/IMG_1050.png)  
-						
-**D1 first match**
-- It really stands out how many close matches (2000-2500) there were in D1.
-- My team’s match included. 2261 vs 2259 (we won 😅)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/906164584862343229/IMG_1051.png)  
-
-**D2 first match**
-- A fairly flat distribution suggesting quite a bit of divergence in team strength
-![](https://cdn.discordapp.com/attachments/858336498159714324/906165243942699008/IMG_1052.png)	
-
-**CC Season 7 - First Match**
-- A fairly uniform distribution with thick tails.  Probably reflects the randomness of the matching as well as the enormous divergence in team strength resulting in the thick tails.
-- That there was more teams that scored >4000 than 3500-4000 indicates the shear strength of the super-teams!
-![](https://cdn.discordapp.com/attachments/858336498159714324/906123792965857330/IMG_1038.png)
 	
+**Most popular team event vehicle parts**
+So I put together the chart below.   Basically I took all Team Event Strategy Info from SoulisBot (thanks Soulis 👍) from about the last 6 months or so and counted how often  each vehicle part was mentioned.  I sorted the vehicles from most popular (Hotrod) to least popular (mono) as well as for each vehicle, which parts were used most -  which I listed from left to right (e.g. Coin Boost was the most popular for Hotrod).  I left  out any part that was used less than 15% of the time to shorten the list.  Overall, Wings was clearly the most popular part followed by a close competition between CoinBoost and Afterburners.
+![](https://cdn.discordapp.com/attachments/858336498159714324/918114027597602846/IMG_2501.png)  
 	
-**CC Season 6 Final Results Distribution**
-- Clearly 5-10 teams that really didn’t even try
-- interesting that there were fewer teams in 2000-2500 range than 1500-2000 and 2500-3000.  I think this represents not only the divergence between the Top 50 and Bottom 50, but also that teams were avoiding the promotion boundary by taking steps to ensure relegation (not playing, say) or avoid it by lining up an easy last match.
-![](https://cdn.discordapp.com/attachments/858336498159714324/906122349034758154/IMG_1037.png)
-	
-	
-	
-Here is the latest Pumpkin Juice Virtual League Spreadsheet.  Feel free to enter your team’s scores in a free column to see how you compare…
-<https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
-	
-**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 6)** 
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 7)** 
 (assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
-- Note due to a bug, it was not possible to record boundaries for Divisioms 5, 6 & 7. Accordingly numbers for these divisions are based on Season 5 with an adjustment for the extra match
-- The promotion boundary from Division 1 to CC dropped by 40 points as teams increasingly attempt to avoid promotion
-- It is still easier to enter Division 2 by being double-promoted from Division 4 (2378 average score) than to be single-promoted from Division  3 (2707 average score)
-- Estimated total scores for promotion and relegation in November are shown in the second table	
-![](https://cdn.discordapp.com/attachments/858336498159714324/905011185731108914/IMG_0936.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/905011186335109120/IMG_0938.png)  	
+- The promotion boundary from Division 1 to CC dropped by another 40 points as teams increasingly attempt to avoid promotion
+- It is still easier to enter Division 2 by being double-promoted from Division 4 (2529 average score) than to be single-promoted from Division  3 (2770 average score) but has narrowed a bit.  Similar story for entering Division 3 or 4.
+- Estimated total scores for promotion and relegation in December (Season 8) are shown in the second table  
+
+![](https://media.discordapp.net/attachments/858336498159714324/916041239114174555/IMG_2366.png)  
 	
-Here is a link to the spreadsheet if you are interested.  You should be able to input your player scores in columns D:AA (one column per team) ...
-<https://docs.google.com/spreadsheets/d/1uFH1-HRvjmFWrnwRnj4jg_iJnb_Zbn1AY__btsOw8sk/edit?usp=sharing>	
 	
-My team tried to line up a match with Thor’s Hammer - the only US flagged team ranked higher than us in our division, but it didn’t work.  Nevertheless, we are now running a virtual match where we each input our player scores into a spreadsheet and it tells us the virtual team score!  It is working pretty well (other than my team is behind). Current score:
-`Gas Brake Go          2132`
-`Thor's Hammer         2367`
-The spreadsheet can also handle more teams via two methods:
-1) Virtual League : Total score from all pairwise virtual matches
-2) Super Match : Single match with multiple teams participating
-Thought I would mention it here in case any teams out there are curious how they would do if they matched another team.  Note: it does require inputting the individual player scores.	
+**Did teams in CC & D1 around the #50 rank sandbag to avoid CC for Season 8?**
+
+The quick answer is not really for CC, but very much so for D1!
+
+I compared the increase in each rank’s score with the prior average.  Assuming teams played as normal, the two should not be that different, although the average should be more stable.  And that is exactly what we find in CC.
+
+However, in D1, the last match scores are substantially below that of the prior averages for teams ranked between 25 and 100.   The top 25 seemed content to be promoted or perhaps resigned to their fate as they played as normal.  However, below this, many teams either skipped their last match or did not put in a full effort.
+
+This was especially clear between ranks 35 and 60 where the increases were 2000 or less despite those positions having previously average about 3000 per match. The nadir was #41 which only increased 1000 suggesting that it was teams ranked around #40 or so that realized that they had to take extreme action to avoid promotion.
+
+![](https://cdn.discordapp.com/attachments/858336498159714324/915798605862936586/IMG_2349.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/915798606169145375/IMG_2350.png)
 	
-**Season Change in #Teams**		
-![](https://cdn.discordapp.com/attachments/858336498159714324/896682683986501692/image0.png)  
+**Pedal+Metal** Virtual League.  Enter your scores to see how you would compare against NORTH.
+<https://docs.google.com/spreadsheets/d/1TrdG6Pfpjz-8PKp9zRcspK4JfvnCur8amJoKM7-zfCM/edit>
+
+__**Team Leaderboard**__
+`NORTH                12010`
+`Greddit2              9205`
+`Op-1                  3850`
+`GBG-1                 2050`
+	
+A lot of strength at the top of ?.  2nd quartile of Germany appears stronger.  And the rest is very even. (The ones at the end don’t really count)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/914430502864314398/IMG_2069.png)  	
+
+`Greddit              53322`
+`Discord              52408`
+`Reddit2-2            42929`
+`GL                   40512`
+`Reddit2              39278`
+`GERMANY              38641`
+`Op-3                 26050`
+`Thor's Hammer-2      22240`
+`[F1]Formel1          19860`
+`Thor's Hammer-1      18605`
+`GBG-3                18426`
+`GBG-2                17157`
+`OP-1                 11497`
+`GBG-1                10656`
+
+**Gas Gas Gas** Virtual League
+<https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>
+	
+	
+I entered the ? ? And GERMANY scores into the Gas Gas Gas virtual league sheet.  I don’t know what is more impressive?  That both teams averaged 35k or that both had full teams with 100% participation!  Interestingly, Germany had a higher average score but still lost by 400 points, which really goes to show how important those top few places are (? ? Had the top 5 spots)
+<https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>
+Feel free to enter your team’s scores (on the input sheet) to see how you would have done against them.
+	
+GERMANY scores much more consistent. “? ?” Has some really strong players (alt’s from their first team ? ) but does not quite have the depth of players that GERMANY has.  Team scores in the chart below ↓  
+![](https://cdn.discordapp.com/attachments/858336498159714324/912009369468698675/IMG_1883.png)  	
+	
+	
+	
+**How much to teams improve between matches of the same event**
+On a separate note, based on a study of Div 1 teams, players increased their scores by an average of 1k for every new match of Squad Goals.
+	
+**Change in #Teams** since last season
+![](https://media.discordapp.net/attachments/858336498159714324/909259460248223754/IMG_1527.png)  
+	
+
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
