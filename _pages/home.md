@@ -296,7 +296,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
   <summary>
     Season 7 - Final Results
   </summary>	
-<br>
+#### By Division
   <details  markdown="block">
     <summary>
       - C.C.
