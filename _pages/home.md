@@ -63,7 +63,7 @@ For more information on Public Events, please feel free to join the Public Event
 
 <details  markdown="block">
   <summary>
-    TE Popular Parts
+    TE: Popular Parts
   </summary>
 <br>
 Parts ordered from most popular to less popluar.  Parts used four or more times are highlighted. Parts only used once are excluded.
@@ -100,7 +100,7 @@ Vehicle | Parts
 
 <details  markdown="block">
   <summary>
-    PE Setups & Previous Events
+    PE: Setups & Previous Events
   </summary>
 	
 ### Public Event Setups
@@ -1251,8 +1251,7 @@ We are an open team, so no password.  If there is a spot available and the below
 [AB2]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
 {: height="40px" width="40px"} 
 	
-[ABy]:  
-https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
+[ABy]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 	
 [ACy]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png 
@@ -1275,11 +1274,9 @@ https://media.discordapp.net/attachments/831974892538560523/831975036528623677/a
 {: height="20px" width="20px"  style="background-color:yellow"} 
 [Dry]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
 {: height="20px" width="20px"  style="background-color:yellow"} 
-[Flipy]:   
-https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
+[Flipy]: https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
 {: height="20px" width="20px" style="background-color:yellow"}
-[Fuely]:  
-https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
+[Fuely]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [Fumey]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
