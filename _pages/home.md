@@ -65,7 +65,7 @@ For more information on Public Events, please feel free to join the Public Event
   <summary>
     TE Popular Parts
   </summary>
-	
+<br>
 Most popular part to the left.  Parts used three or more times are highlighted. Parts only used once are excluded
 
 Vehicle | Parts
