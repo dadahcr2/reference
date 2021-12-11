@@ -298,9 +298,9 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
   </summary>	
 #### &nbsp;&nbsp;By Division  
 <details  markdown="block">
-    <summary>
-      - C.C.
-    </summary>		
+  <summary>
+    - C.C.
+  </summary>		
 ![](https://cdn.discordapp.com/attachments/847866414638432256/915531998901182504/incollage_save.jpg)
 <br>			
 </details>
@@ -320,9 +320,9 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 
 <details  markdown="block">
-    <summary>
-      - Div 2
-    </summary>
+  <summary>
+    - Div 2
+  </summary>
 	
 **November Top 1-205, 1197-1205, 1598-1606**  	
 
