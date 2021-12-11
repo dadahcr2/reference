@@ -66,32 +66,32 @@ For more information on Public Events, please feel free to join the Public Event
     TE Popular Parts
   </summary>
 <br>
-Most popular part to the left.  Parts used three or more times are highlighted. Parts only used once are excluded
+Parts ordered from most popular to less popluar.  Parts used four or more times are highlighted. Parts only used once are excluded.
 
 Vehicle | Parts
 -- | --  
-![hotrod] | ![CBy] ![Fuely] ![May] ![WTy] ![LB] ![SB]   
-![RT] | ![Wiy] ![WBy] ![CBy] ![ABy] ![Fumey] ![JS] ![Ma] ![WT]   
-![rotator] | ![ABy] ![CBy] ![Wiy] ![May] ![SBy]   
-![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuely] ![CBy] ![SBy] ![Fume] ![JS]   
+![hotrod] | ![CBy] ![Fuely] ![May] ![WT] ![LB] ![SB]   
+![RT] | ![Wiy] ![WBy] ![CBy] ![AB] ![Fume] ![JS] ![Ma] ![WT]   
+![rotator] | ![ABy] ![CBy] ![Wiy] ![Ma] ![SB]   
+![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuely] ![CB] ![SB] ![Fume] ![JS]   
 ![Buggy] | ![Wiy] ![JSy] ![LBy] ![CBy] ![WBy] ![Ma]   
-![sportscar] | ![ABy] ![HWy] ![WBy] ![Wiy] ![CB] ![JS] ![LB]   
-![Diesel] | ![Wiy] ![JSy] ![THy] ![LBy] ![Fume]   
+![sportscar] | ![ABy] ![HWy] ![WBy] ![Wi] ![CB] ![JS] ![LB]   
+![Diesel] | ![Wiy] ![JSy] ![THy] ![LB] ![Fume]   
 ![jeep] | ![JSy] ![LBy] ![Wiy] ![SB]   
-![Monster] | ![ABy] ![SBy] ![CBy] ![HWy] ![Wi]   
-![Rally] | ![ABy] ![Wiy] ![WTy] ![Fuel] ![HW] ![LB] ![TH]   
-![Sbike] | ![ABy] ![CBy] ![ACy] ![OTy] ![WTy] ![Flip] ![SB] ![Wi]   
-![tank] | ![Wiy] ![LBy] ![CBy] ![THy] ![Fume] ![JS] ![SB]   
-![chopper] | ![Wiy] ![Fuely] ![LBy] ![THy] ![AC] ![CB]   
-![formula] | ![ABy] ![CBy] ![WTy] ![Fuely] ![Wiy]   
+![Monster] | ![ABy] ![SBy] ![CBy] ![HW] ![Wi]   
+![Rally] | ![ABy] ![Wiy] ![WT] ![Fuel] ![HW] ![LB] ![TH]   
+![Sbike] | ![ABy] ![CBy] ![AC] ![OT] ![WT] ![Flip] ![SB] ![Wi]   
+![tank] | ![Wiy] ![LBy] ![CB] ![TH] ![Fume] ![JS] ![SB]   
+![chopper] | ![Wiy] ![Fuely] ![LBy] ![TH] ![AC] ![CB]   
+![formula] | ![ABy] ![CBy] ![WTy] ![Fuel] ![Wi]   
 ![EV] | ![Wiy] ![CBy] ![WBy] ![LB] ![WT]   
 ![mk2] | ![LBy] ![JSy] ![Wiy]   
-![Moto] | ![Wiy] ![LBy] ![JSy] ![THy]   
-![tractor] | ![CBy] ![Wiy] ![OTy] ![WTy] ![AB] ![Fume] ![WB]   
-![bus] | ![THy] ![Wiy] ![JSy]   
+![Moto] | ![Wiy] ![LBy] ![JS] ![TH]   
+![tractor] | ![CBy] ![Wiy] ![OT] ![WT] ![AB] ![Fume] ![WB]   
+![bus] | ![THy] ![Wiy] ![JS]   
 ![snowmobile] | ![Fumey] ![Wiy] ![OTy] ![CB]   
-![moonlander] | ![May] ![CB]   
-![scooter] | ![JSy] ![LBy] ![Wiy]   
+![moonlander] | ![Ma] ![CB]   
+![scooter] | ![JS] ![LB] ![Wi]   
 ![Mono] | ![Wi]   
 	
  -*Data from Soulis*: *”Once More, With Feeling"* to *"Beyond Speed"*
