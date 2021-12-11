@@ -16,7 +16,24 @@ classes: wide
 {:toc} 
 </details> -->  
 
-## Events & Updates
+## Events & Updates  
+<details markdown="block">
+  <summary>
+    TE: Running In The Canyons
+  </summary>
+<br>
+![bus2] ![chopper2] ![formula2] ![ev2] ![sbike2] 
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png)
+
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/918787267168976927/IMG_2541.png)
+
+![](https://cdn.discordapp.com/attachments/902174586047717386/917742496359014440/unknown.gif)
+	
+<br>
+</details>
+
 <details  markdown="block">
   <summary>
     TE: Beyond Speed
