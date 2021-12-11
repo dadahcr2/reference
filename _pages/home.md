@@ -94,7 +94,7 @@ Vehicle | Parts
 ![scooter] | ![JS] ![LB] ![Wi]   
 ![Mono] | ![Wi]   
 	
- -*Data from Soulis*: *”Once More, With Feeling"* to *"Beyond Speed"*
+ -Data from Soulis: *”Once More, With Feeling"* to *"Beyond Speed"*
 	
 </details>
 
