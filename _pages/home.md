@@ -294,22 +294,20 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - C.C.
-  </summary>		
+    Season 7 - Final Results
+  </summary>	
+	<br>
+  <details  markdown="block">
+    <summary>
+        Season 7 - C.C.
+    </summary>		
 ![](https://cdn.discordapp.com/attachments/847866414638432256/915531998901182504/incollage_save.jpg)
-
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results
-  </summary>	
-	
-<details  markdown="block">
-  <summary>
-    Season 7 - Final Results - Div 1
+      Season 7 - Div 1
   </summary>	
 	
 **Top 305 in November**
@@ -317,99 +315,82 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 ![](https://cdn.discordapp.com/attachments/847867054635876383/915555677974462464/incollage_save.jpg)    
 ![](https://media.discordapp.net/attachments/847867054635876383/915555678406447134/incollage_save.jpg)    
 ![](https://cdn.discordapp.com/attachments/847867054635876383/915555678960103474/incollage_save.jpg)    
-
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 
 
-<details  markdown="block">
-  <summary>
-    Season 7 - Final Results - Div 2
-  </summary>
+  <details  markdown="block">
+    <summary>
+      Season 7 - Div 2
+    </summary>
 	
 **November Top 1-205, 1197-1205, 1598-1606**  	
 
 ![](https://cdn.discordapp.com/attachments/847867127142154292/915559312045264896/incollage_save.jpg)
-![](https://cdn.discordapp.com/attachments/847867127142154292/915559312687005706/incollage_save.jpg)
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
+![](https://cdn.discordapp.com/attachments/847867127142154292/915559312687005706/incollage_save.jpg)  
 <br>			
 </details>
 	
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Div 3
+    &nbsp;Season 7 - Div 3
   </summary>
 	
 Tops teams
 ![](https://cdn.discordapp.com/attachments/847867258964279346/915894426038050816/div3s7top63.jpg)
 		
  – *Source: Apru*
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 	
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Div 4
+    &nbsp;&nbsp;Season 7 - Div 4
   </summary>
 	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867467228512306/915894559614042152/div4s7top63.jpg)
 	
  – *Source: Apru*
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 	
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Div 5
+    - Div 5
   </summary>
 	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867553116454932/915895570277761044/div5s7top63.jpg)  
 	
  – *Source: Apru*
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 	
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Div 6
+    &nbsp;&nbsp;Div 6
   </summary>
 
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867760162635819/915900420117921792/div6s7.jpg)
 	
  – *Source: Apru*
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
 </details>
 	
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Div 7
+    &nbsp;Div 7
   </summary>
 	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867868568879154/915895601508519966/div7s7top63.jpg)
 	
  – *Source: Apru*
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
-</details>
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
-<br>			
+</details>	
+#### [Previous League Seasons]({{site.url}}/seasons/)  			
 </details>
 	
 ##  Wikis & Tutorials
