@@ -215,7 +215,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
   </summary>
 	
 **Most popular team event vehicle parts**  
-So I put together the chart below.   Basically I took all Team Event Strategy Info from SoulisBot (thanks Soulis 👍) from about the last 6 months or so and counted how often  each vehicle part was mentioned.  I sorted the vehicles from most popular (Hotrod) to least popular (mono) as well as for each vehicle, which parts were used most -  which I listed from left to right (e.g. Coin Boost was the most popular for Hotrod).  I left  out any part that was used less than 15% of the time to shorten the list.  Overall, Wings was clearly the most popular part followed by a close competition between CoinBoost and Afterburners.
+So I put together the chart below.   Basically I took all Team Event Strategy Info from SoulisBot (thanks Soulis 👍) from about the last 6 months or so and counted how often  each vehicle part was mentioned.  I sorted the vehicles from most popular (Hotrod) to least popular (mono) as well as for each vehicle, which parts were used most -  which I listed from left to right (e.g. Coin Boost was the most popular for Hotrod).  I left  out any part that was used less than 15% of the time to shorten the list.  Overall, Wings was clearly the most popular part followed by a close competition between CoinBoost and Afterburners.  
 ![](https://cdn.discordapp.com/attachments/858336498159714324/918114027597602846/IMG_2501.png)  
 	
 **Average Team Scores per round at the boundaries for Promotion and Relegation (Season 7)**  
