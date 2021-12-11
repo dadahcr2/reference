@@ -296,10 +296,10 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
   <summary>
     Season 7 - Final Results
   </summary>	
-	<br>
+<br>
   <details  markdown="block">
     <summary>
-        Season 7 - C.C.
+      - C.C.
     </summary>		
 ![](https://cdn.discordapp.com/attachments/847866414638432256/915531998901182504/incollage_save.jpg)
 <br>			
@@ -307,7 +307,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-      Season 7 - Div 1
+    - Div 1
   </summary>	
 	
 **Top 305 in November**
@@ -321,7 +321,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
   <details  markdown="block">
     <summary>
-      Season 7 - Div 2
+      - Div 2
     </summary>
 	
 **November Top 1-205, 1197-1205, 1598-1606**  	
@@ -333,7 +333,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 	
 <details  markdown="block">
   <summary>
-    &nbsp;Season 7 - Div 3
+    - Div 3
   </summary>
 	
 Tops teams
@@ -345,7 +345,7 @@ Tops teams
 	
 <details  markdown="block">
   <summary>
-    &nbsp;&nbsp;Season 7 - Div 4
+    - Div 4
   </summary>
 	
 Top teams
@@ -369,7 +369,7 @@ Top teams
 	
 <details  markdown="block">
   <summary>
-    &nbsp;&nbsp;Div 6
+    - Div 6
   </summary>
 
 Top teams
@@ -381,7 +381,7 @@ Top teams
 	
 <details  markdown="block">
   <summary>
-    &nbsp;Div 7
+    - Div 7
   </summary>
 	
 Top teams
