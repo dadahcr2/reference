@@ -93,7 +93,7 @@ Vehicle | Parts
 ![moonlander] | ![Ma] ![CB]   
 ![scooter] | ![JS] ![LB] ![Wi]   
 ![Mono] | ![Wi]   
-<img width="108" alt="image" src="https://user-images.githubusercontent.com/73378503/145672646-addf0f68-1ef1-494e-9f54-e749723e6278.png">
+
 
  -Data from Soulis: *Once More, With Feeling* to *Beyond Speed*
 	
@@ -1145,7 +1145,6 @@ We are an open team, so no password.  If there is a spot available and the below
 [WT]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px"} 
 
-
 [Jeep]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
 {: height="20px" width="32px"}  
 	
@@ -1223,6 +1222,10 @@ We are an open team, so no password.  If there is a spot available and the below
 [AB2]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
 {: height="40px" width="40px"} 
 	
+[ABy]:
+https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png 
+{: height="20px" width="20px" style="background-color:yellow"} 
+	
 [ACy]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png 
 {: height="20px" width="20px"} 
 [Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
@@ -1245,6 +1248,11 @@ We are an open team, so no password.  If there is a spot available and the below
 {: height="20px" width="20px"} 
 [Flipy]: https://media.discordapp.net/attachments/831974892538560523/831975051628249188/flip-boost.png 
 {: height="20px" width="20px"} 
+	
+[Fuely]:
+https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png 
+{: height="20px" width="20px" style="background-color:yellow"} 
+	
 [Fumey]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
 [HWy]: https://media.discordapp.net/attachments/831974892538560523/831975186663604234/weight.png 
