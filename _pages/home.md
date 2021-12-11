@@ -50,31 +50,10 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    TE: Pedal + Metal
+    PE: Ferris Wheelie
   </summary>
 <br>
-![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
-	
-![](https://media.tenor.co/videos/487b60a1f0a4b77a4413d5eb60fbcc15/mp4)  
-	
-from Soulis:
-![](https://cdn.discordapp.com/attachments/851566907920089128/914078547881128026/te_Strategy.png) 
-	
-Virtual League
-
-Can you beat NORTH? Enter your scores to see:
-<https://docs.google.com/spreadsheets/d/1TrdG6Pfpjz-8PKp9zRcspK4JfvnCur8amJoKM7-zfCM/edit>
-</details>
-
-	
-<details  markdown="block">
-  <summary>
-    PE: Express Delivery
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/918639488337575946/IMG_2536.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
