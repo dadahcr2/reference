@@ -321,38 +321,83 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results - Other Divisions
+    Season 7 - Final Results - Div 2
   </summary>
 	
-#### Division 2
 **November Top 1-205, 1197-1205, 1598-1606**  	
 
 ![](https://cdn.discordapp.com/attachments/847867127142154292/915559312045264896/incollage_save.jpg)
 ![](https://cdn.discordapp.com/attachments/847867127142154292/915559312687005706/incollage_save.jpg)
 	
-#### Division 3
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
+<details  markdown="block">
+  <summary>
+    Season 7 - Final Results - Div 3
+  </summary>
 	
 Tops teams
 ![](https://cdn.discordapp.com/attachments/847867258964279346/915894426038050816/div3s7top63.jpg)
+		
+ – *Source: Apru*
 	
-#### Division 4
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
+<details  markdown="block">
+  <summary>
+    Season 7 - Final Results - Div 4
+  </summary>
 	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867467228512306/915894559614042152/div4s7top63.jpg)
 	
-#### Division 5
+ – *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
+<details  markdown="block">
+  <summary>
+    Season 7 - Final Results - Div 5
+  </summary>
 	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867553116454932/915895570277761044/div5s7top63.jpg)  
+	
+ – *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
+<details  markdown="block">
+  <summary>
+    Season 7 - Final Results - Div 6
+  </summary>
 
-#### Division 6  
+Top teams
 ![](https://cdn.discordapp.com/attachments/847867760162635819/915900420117921792/div6s7.jpg)
 	
-#### Division 7
+ – *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+	
+<details  markdown="block">
+  <summary>
+    Season 7 - Final Results - Div 7
+  </summary>
+	
 Top teams
 ![](https://cdn.discordapp.com/attachments/847867868568879154/915895601508519966/div7s7top63.jpg)
 	
-– *Source: Apru*
+ – *Source: Apru*
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
