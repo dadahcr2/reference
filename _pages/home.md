@@ -66,7 +66,7 @@ For more information on Public Events, please feel free to join the Public Event
     TE: Popular Parts
   </summary>
 <br>
-Parts ordered from most popular to less popluar.  Parts used four or more times are highlighted. Parts only used once are excluded.
+Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.
 
 Vehicle | Parts
 -- | --  
