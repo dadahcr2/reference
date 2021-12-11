@@ -214,11 +214,11 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
    Leagues Stats - Season 7/8
   </summary>
 	
-**Most popular team event vehicle parts**
+**Most popular team event vehicle parts**  
 So I put together the chart below.   Basically I took all Team Event Strategy Info from SoulisBot (thanks Soulis 👍) from about the last 6 months or so and counted how often  each vehicle part was mentioned.  I sorted the vehicles from most popular (Hotrod) to least popular (mono) as well as for each vehicle, which parts were used most -  which I listed from left to right (e.g. Coin Boost was the most popular for Hotrod).  I left  out any part that was used less than 15% of the time to shorten the list.  Overall, Wings was clearly the most popular part followed by a close competition between CoinBoost and Afterburners.
 ![](https://cdn.discordapp.com/attachments/858336498159714324/918114027597602846/IMG_2501.png)  
 	
-**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 7)** 
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 7)**  
 (assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
 - The promotion boundary from Division 1 to CC dropped by another 40 points as teams increasingly attempt to avoid promotion
 - It is still easier to enter Division 2 by being double-promoted from Division 4 (2529 average score) than to be single-promoted from Division  3 (2770 average score) but has narrowed a bit.  Similar story for entering Division 3 or 4.
@@ -294,13 +294,9 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 6 - Final Results - C.C.
+    Season 7 - Final Results - C.C.
   </summary>		
-![](https://cdn.discordapp.com/attachments/847866414638432256/904741343845302273/ccoct1.jpg)    
-![](https://cdn.discordapp.com/attachments/847866414638432256/904741344591900702/ccoct2.jpg)  
-![](https://cdn.discordapp.com/attachments/847866414638432256/904741344956788737/ccoct3.jpg)  
-![]()  
-– *Source: Apru* 
+![](https://cdn.discordapp.com/attachments/847866414638432256/915531998901182504/incollage_save.jpg)
 
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
@@ -308,13 +304,15 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 6 - Final Results - Div 1
-  </summary>		
-![](https://cdn.discordapp.com/attachments/847867054635876383/904744108021657660/div1octtop50.jpg)    
+    Season 7 - Final Results - Div 1
+  </summary>	
 	
-[Video of full results](https://youtu.be/6xcgbFu3Q04)  
-  
-– *Source: Apru*
+**Top 305 in November**
+![](https://cdn.discordapp.com/attachments/847867054635876383/915555677630496788/incollage_save.jpg)    
+![](https://cdn.discordapp.com/attachments/847867054635876383/915555677974462464/incollage_save.jpg)    
+![](https://media.discordapp.net/attachments/847867054635876383/915555678406447134/incollage_save.jpg)    
+![](https://cdn.discordapp.com/attachments/847867054635876383/915555678960103474/incollage_save.jpg)    
+
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
 <br>			
@@ -323,34 +321,36 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 6 - Final Results - Other Divisions
+    Season 7 - Final Results - Other Divisions
   </summary>
 	
 #### Division 2
-	
-Top 54
-![](https://cdn.discordapp.com/attachments/847867127142154292/904944220803039262/div2season6top54.jpg)  
+**November Top 1-205, 1197-1205, 1598-1606**  	
+
+![](https://cdn.discordapp.com/attachments/847867127142154292/915559312045264896/incollage_save.jpg)
+![](https://cdn.discordapp.com/attachments/847867127142154292/915559312687005706/incollage_save.jpg)
 	
 #### Division 3
 	
-Top 54
-![](https://cdn.discordapp.com/attachments/847867258964279346/904946961231274014/div3top54season6.jpg)
-	
+Tops teams
+![](https://cdn.discordapp.com/attachments/847867258964279346/915894426038050816/div3s7top63.jpg)
 	
 #### Division 4
 	
-Top 54
-![](https://cdn.discordapp.com/attachments/847867467228512306/904947076369096714/div4season6top54.jpg)
+Top teams
+![](https://cdn.discordapp.com/attachments/847867467228512306/915894559614042152/div4s7top63.jpg)
 	
 #### Division 5
 	
-Top 54
-![](https://cdn.discordapp.com/attachments/847867553116454932/904947187618820116/div5top54season6.jpg)  
+Top teams
+![](https://cdn.discordapp.com/attachments/847867553116454932/915895570277761044/div5s7top63.jpg)  
 
+#### Division 6  
+![](https://cdn.discordapp.com/attachments/847867760162635819/915900420117921792/div6s7.jpg)
 	
 #### Division 7
-Top 9
-![](https://cdn.discordapp.com/attachments/847867868568879154/904949120127615006/IMG_20211102_095409.jpg)
+Top teams
+![](https://cdn.discordapp.com/attachments/847867868568879154/915895601508519966/div7s7top63.jpg)
 	
 – *Source: Apru*
 	
