@@ -4,7 +4,142 @@ title: "Previous League Seasons"
 classes: wide
 ---  
 
+<details  markdown="block">
+  <summary>
+   Leagues Stats - Season 6/7
+  </summary>
+
+**Comparison with Division I and II**
+- Although no superteams in I and II, clearly relegated teams from  CC and I respectively are dominating in their new (lower) division with scores in the 3000-4000 range.   
+- Division I remains the best balanced with most matches in the 2000-2500 range, but not by as much as before
+- Doubly promoted teams from Div IV still resulting in a group of relatively weak teams in D2 with scores < 1500
+![](https://cdn.discordapp.com/attachments/858336498159714324/906160701775695914/IMG_1050.png)  
+						
+**D1 first match**
+- It really stands out how many close matches (2000-2500) there were in D1.
+- My team’s match included. 2261 vs 2259 (we won 😅)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/906164584862343229/IMG_1051.png)  
+
+**D2 first match**
+- A fairly flat distribution suggesting quite a bit of divergence in team strength
+![](https://cdn.discordapp.com/attachments/858336498159714324/906165243942699008/IMG_1052.png)	
+
+**CC Season 7 - First Match**
+- A fairly uniform distribution with thick tails.  Probably reflects the randomness of the matching as well as the enormous divergence in team strength resulting in the thick tails.
+- That there was more teams that scored >4000 than 3500-4000 indicates the shear strength of the super-teams!
+![](https://cdn.discordapp.com/attachments/858336498159714324/906123792965857330/IMG_1038.png)
 	
+	
+**CC Season 6 Final Results Distribution**
+- Clearly 5-10 teams that really didn’t even try
+- interesting that there were fewer teams in 2000-2500 range than 1500-2000 and 2500-3000.  I think this represents not only the divergence between the Top 50 and Bottom 50, but also that teams were avoiding the promotion boundary by taking steps to ensure relegation (not playing, say) or avoid it by lining up an easy last match.
+![](https://cdn.discordapp.com/attachments/858336498159714324/906122349034758154/IMG_1037.png)
+	
+	
+	
+Here is the latest Pumpkin Juice Virtual League Spreadsheet.  Feel free to enter your team’s scores in a free column to see how you compare…
+<https://docs.google.com/spreadsheets/d/1nI1-_3-H1uf-L7vzPZAcHgSVyw4MUiwPV2u4ezc3ZyM/edit>
+	
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 6)** 
+(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
+- Note due to a bug, it was not possible to record boundaries for Divisioms 5, 6 & 7. Accordingly numbers for these divisions are based on Season 5 with an adjustment for the extra match
+- The promotion boundary from Division 1 to CC dropped by 40 points as teams increasingly attempt to avoid promotion
+- It is still easier to enter Division 2 by being double-promoted from Division 4 (2378 average score) than to be single-promoted from Division  3 (2707 average score)
+- Estimated total scores for promotion and relegation in November are shown in the second table	
+![](https://cdn.discordapp.com/attachments/858336498159714324/905011185731108914/IMG_0936.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/905011186335109120/IMG_0938.png)  	
+	
+Here is a link to the spreadsheet if you are interested.  You should be able to input your player scores in columns D:AA (one column per team) ...
+<https://docs.google.com/spreadsheets/d/1uFH1-HRvjmFWrnwRnj4jg_iJnb_Zbn1AY__btsOw8sk/edit?usp=sharing>	
+	
+My team tried to line up a match with Thor’s Hammer - the only US flagged team ranked higher than us in our division, but it didn’t work.  Nevertheless, we are now running a virtual match where we each input our player scores into a spreadsheet and it tells us the virtual team score!  It is working pretty well (other than my team is behind). Current score:
+`Gas Brake Go          2132`
+`Thor's Hammer         2367`
+The spreadsheet can also handle more teams via two methods:
+1) Virtual League : Total score from all pairwise virtual matches
+2) Super Match : Single match with multiple teams participating
+Thought I would mention it here in case any teams out there are curious how they would do if they matched another team.  Note: it does require inputting the individual player scores.	
+	
+**Season Change in #Teams**		
+![](https://cdn.discordapp.com/attachments/858336498159714324/896682683986501692/image0.png)  
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+
+<details  markdown="block">
+  <summary>
+    Season 6 - Final Results - C.C.
+  </summary>		
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741343845302273/ccoct1.jpg)    
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741344591900702/ccoct2.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/904741344956788737/ccoct3.jpg)  
+![]()  
+– *Source: Apru* 
+
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+
+<details  markdown="block">
+  <summary>
+    Season 6 - Final Results - Div 1
+  </summary>		
+![](https://cdn.discordapp.com/attachments/847867054635876383/904744108021657660/div1octtop50.jpg)    
+	
+[Video of full results](https://youtu.be/6xcgbFu3Q04)  
+  
+– *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+
+
+<details  markdown="block">
+  <summary>
+    Season 6 - Final Results - Other Divisions
+  </summary>
+	
+#### Division 2
+	
+Top 54
+![](https://cdn.discordapp.com/attachments/847867127142154292/904944220803039262/div2season6top54.jpg)  
+	
+#### Division 3
+	
+Top 54
+![](https://cdn.discordapp.com/attachments/847867258964279346/904946961231274014/div3top54season6.jpg)
+	
+	
+#### Division 4
+	
+Top 54
+![](https://cdn.discordapp.com/attachments/847867467228512306/904947076369096714/div4season6top54.jpg)
+	
+#### Division 5
+	
+Top 54
+![](https://cdn.discordapp.com/attachments/847867553116454932/904947187618820116/div5top54season6.jpg)  
+
+	
+#### Division 7
+Top 9
+![](https://cdn.discordapp.com/attachments/847867868568879154/904949120127615006/IMG_20211102_095409.jpg)
+	
+– *Source: Apru*
+	
+#### [Previous League Seasons]({{site.url}}/seasons/)  
+<br>			
+</details>
+
+	
+<details  markdown="block">
+  <summary>
+    Season 4 - Final Results - Div 3+?
+  </summary>	
+	
+#### Division 3
 Top 52
 ![](https://cdn.discordapp.com/attachments/847867258964279346/894246730390974464/div3_season5.jpg)
 	
