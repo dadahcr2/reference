@@ -379,6 +379,7 @@ Top teams
 </details>	
 &nbsp;&nbsp;[**Previous League Seasons**]({{site.url}}/seasons/)  			
 </details>
+	
 ##  Wikis & Tutorials
 
 <details  markdown="block">
