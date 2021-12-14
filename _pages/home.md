@@ -34,19 +34,6 @@ classes: wide
 <br>
 </details>
 
-<details  markdown="block">
-  <summary>
-    TE: Become Speed
-  </summary>
-<br>
-
-![scooter2] ![sportscar2] ![rotator2] ![mono2] ![ev2]  
-![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
-
-![](https://media.tenor.co/videos/740eb3676b7d949a202c1cfdd41eddf2/mp4)  
-</details>
 
 <details  markdown="block">
   <summary>
@@ -692,77 +679,18 @@ Distance | Obstacle
 ## Cups
 <details  markdown="block">
   <summary>
-    No-Life November Tracks
+     Driftmas  Tracks
   </summary>
-Countryside
-- Challenger Cup
-- Hill Climb Cup
-- Big Air Cup
-- Sunday Champ
 
-Forest
-- Dirty Rally
-- Cup in the Woods
-- Bumpy Ride Cup 
-
-Bog
-- Boggy Road
-- Backwater Cup
-
-Mountain
-- Uphill Cup
-- Epic Hills
-- Death Mountain
-- Mountain Bridges
-- Rocky Road Cup
-- Mountain Cup
-
-Winter
-- First Snow
-- Winter Cup
-- Winter is Coming
-- Downhill Cup
-
-Glacier
-- Stormrider Cup
-- Glacier Cup
-- Frostfire Caverns
-
-Desert
-- Desert Mile
-- Desert Caves
-
-City
-- Finger GP
-- Cup of City Water
-- Forgotten Highway
-
-Beach
-- Travel Cup
-- Beach Cup
-- Paradise Bay
-
-Reef
-- Deep Diving
-
-Mines
-- Mine Shaft Cup
-- More Mines
-
-Plant
-- Factory Cup
-- Magnetic Circuit
-
-Gloomvale
-- Mystical Cup
+![](https://cdn.discordapp.com/attachments/884641147547422821/915570845294936074/incollage_save.jpg)
 
 </details>
 <details  markdown="block">
   <summary>
-    No-Life November Trophy Road
+    Driftmas December Trophy Road
   </summary>
 	
-![](https://images-ext-1.discordapp.net/external/AYRY_lAM98EGWrxwnCS5jq7WesTD20do29Pti40uCfM/https/i.imgur.com/PC09YTf.mp4)   
+![](https://media.discordapp.net/attachments/884641147547422821/915580831974699078/FullSizeRender-compressed.mov)   
 </details>
 
 	
