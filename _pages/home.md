@@ -894,14 +894,12 @@ I highly recommend these:
 
 **Circles**
 
-🇧🇷 Brazil | 🇧🇩 Bangladesh
-🇯🇵 Japan | 🇳🇪 Niger 
-🇰🇷 South Korea | 🇬🇱 Greenland
-🇧🇿 Belize | 🇱🇦 Laos 
-🇹🇳 Tunisia | 🇬🇵 Guadeloupe
-🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia  🇵🇼 Palau | 🇰🇮 Kiribati	
-| -- | -- |
-| &nbsp; |  | 
+🇧🇷 Brazil | 🇧🇩 Bangladesh | 🇯🇵 Japan
+🇳🇪 Niger | 🇰🇷 South Korea | 🇬🇱 Greenland
+🇧🇿 Belize | 🇱🇦 Laos | 🇹🇳 Tunisia   🇬🇵 Guadeloupe | 🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
+🇵🇼 Palau | 🇰🇮 Kiribati | 
+| -- | -- | -- |
+| &nbsp; |  |  |
 
 <!--
 **Diagonals**
