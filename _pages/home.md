@@ -858,9 +858,9 @@ I highly recommend these:
   </summary>
 <br>
 
-🇧🇷 Brazil<br>🇧🇩 Bangladesh<br>🇯🇵 Japan<br>🇳🇪 Niger<br>🇰🇷 South Korea<br>🇬🇱 Greenland<br>🇧🇿 Belize | 🇱🇦 Laos<br>🇹🇳 Tunisia<br>🇬🇵 Guadeloupe<br>🇰🇬 Kyrgyzstan<br>🇳🇨 New Caledonia<br>🇵🇼 Palau<br>🇰🇮 Kiribati
+| **Circles** | |
 | -- | -- |
-| &nbsp; |  |
+🇧🇷 Brazil<br>🇧🇩 Bangladesh<br>🇯🇵 Japan<br>🇳🇪 Niger<br>🇰🇷 South Korea<br>🇬🇱 Greenland<br>🇧🇿 Belize | 🇱🇦 Laos<br>🇹🇳 Tunisia<br>🇬🇵 Guadeloupe<br>🇰🇬 Kyrgyzstan<br>🇳🇨 New Caledonia<br>🇵🇼 Palau<br>🇰🇮 Kiribati
 
 🇧🇷 Brazil  
 🇧🇩 Bangladesh  
@@ -880,8 +880,8 @@ I highly recommend these:
 	
 ***
 
-**Circles**
-
+| **Circles** | |
+| -- | -- |
 🇧🇷 Brazil | 🇧🇩 Bangladesh
 🇯🇵 Japan | 🇳🇪 Niger 
 🇰🇷 South Korea | 🇬🇱 Greenland
@@ -889,9 +889,18 @@ I highly recommend these:
 🇹🇳 Tunisia | 🇬🇵 Guadeloupe
 🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
 🇵🇼 Palau | 🇰🇮 Kiribati
-| -- | -- |
-| &nbsp; |  |
 {: .notice}
+	
+| **Circles** | |
+| -- | -- |
+🇧🇷 Brazil | 🇧🇩 Bangladesh
+🇯🇵 Japan | 🇳🇪 Niger 
+🇰🇷 South Korea | 🇬🇱 Greenland
+🇧🇿 Belize | 🇱🇦 Laos
+🇹🇳 Tunisia | 🇬🇵 Guadeloupe
+🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
+🇵🇼 Palau | 🇰🇮 Kiribati
+
 	
 <!--
 **Diagonals**
