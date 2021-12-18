@@ -1403,10 +1403,11 @@ We are an open team, so no password.  If there is a spot available and the below
 [WB2]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png 
 {: height="40px" width="40px"} 
 [Wi2]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png 
-{: height="40px" width="40px"} 
+{: height="40px" width="40px"}  
 [WT2]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
-{: height="40px" width="40px"} 
-[fBR]:🇧🇷 
+{: height="40px" width="40px"}
+	
+[fBR]: 🇧🇷 
 {: style="font-size:300%"}
 	
 <a name="bottom"></a> 
