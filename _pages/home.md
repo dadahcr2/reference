@@ -19,17 +19,16 @@ classes: wide
 ## Events & Updates  
 <details markdown="block">
   <summary>
-    TE: Running In The Canyons
+    TE: Ice to meet you
   </summary>
 <br>
-![bus2] ![chopper2] ![formula2] ![ev2] ![sbike2] 
+![scooter2] ![moto2] ![mono2] ![snowmobile2] ![hotrod2] 
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png)
-
+![](https://media.discordapp.net/attachments/851566907920089128/921430049138307145/IMG_2728.jpg)
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/918787267168976927/IMG_2541.png)
-
-![](https://cdn.discordapp.com/attachments/902174586047717386/917742496359014440/unknown.gif)
+![](https://cdn.discordapp.com/attachments/858851529058418765/921297484825890836/2021-12-17_09h07_07.png)
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/921430193934061638/IMG_2727.png)  
 	
 <br>
 </details>
@@ -37,10 +36,16 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    PE: Ferris Wheelie
+    PE: Sleds have no Seatbelts
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/918639488337575946/IMG_2536.png)
+**Track Order**
+Down’n’Down
+Snow Time
+Downhill 25.733 sled
+Castle Crash
+Snow Tunnel
+Ice Cavern
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
