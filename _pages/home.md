@@ -871,10 +871,15 @@ I highly recommend these:
 | -- | -- |
 🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
 	
-| Horizontal Stripes - Varying Widths | |
-| -- | -- |
+| Horizontal Stripes - Varying Widths | |  
+| -- | -- |  
 🇨🇼Curaçao <be> 🇰🇭Cambodia <be> 🇰🇵North Korea  <be> 🇸🇿Swaziland <be> 🇵🇫French Polynesia | 🇱🇧Lebanon  <be> 🇪🇸Spain <be> 🇷🇼Rwanda <be> 🇨🇴Colombia  <be> 🇪🇨Ecuador
 
+	
+|  Two Horizontal Stripes | |  
+| -- | -- |  
+🇧🇫Burkina Faso<be>🇮🇩Indonesia <be> 🇲🇨Monaco <be> 🇵🇱Poland <be>🇸🇬Singapore<be>🇸🇲San<be>Marino<be>🇺🇦Ukraine<be>🇭🇹Haiti | 🇱🇮Liechtenstein<be>🇨🇱Chile<be>🇵🇦Panama<be>🇧🇯Benin🇬🇼Guinea-Bissau<be>🇲🇬Madagascar<be>🇧🇾Belarus<be>🇦🇴Angola
+	
 <!--
 **Horizontal Stripes - Varying Widths**
 
