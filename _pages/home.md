@@ -872,25 +872,29 @@ I highly recommend these:
 🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
 	
 | Horizontal Stripes - Varying Widths | |  
-| -- | -- |  
+-- | -- 
 🇨🇼Curaçao <be> 🇰🇭Cambodia <be> 🇰🇵North Korea  <be> 🇸🇿Swaziland <be> 🇵🇫French Polynesia | 🇱🇧Lebanon  <be> 🇪🇸Spain <be> 🇷🇼Rwanda <be> 🇨🇴Colombia  <be> 🇪🇨Ecuador
 
 	
 |  Two Horizontal Stripes | |  
-| -- | -- | 
+-- | --
 🇧🇫Burkina Faso<be>🇮🇩Indonesia <be> 🇲🇨Monaco <be> 🇵🇱Poland <be>🇸🇬Singapore<be>🇸🇲San<be>Marino<be>🇺🇦Ukraine<be>🇭🇹Haiti | 🇱🇮Liechtenstein<be>🇨🇱Chile<be>🇵🇦Panama<be>🇧🇯Benin🇬🇼Guinea-Bissau<be>🇲🇬Madagascar<be>🇧🇾Belarus<be>🇦🇴Angola
 	
 | Three Horizontal Stripes - White Middle | |    
-| -- | -- |  
+-- | --  
 🇦🇷Argentina<be>🇳🇮Nicaragua<be>🇺🇿Uzbekistan<be>🇸🇻El Salvador<be>🇭🇳Honduras<be>🇱🇸Lesotho<be>🇸🇱Sierra Leone<be>🇱🇻Latvia <be>🇮🇷Iran<be>🇰🇼Kuwait<be>🇾🇪Yemen<be>🇦🇪UAE | 🇱🇺Luxembourg<be>🇭🇷Croatia<be>🇳🇱Netherlands<be>🇵🇾Paraguay<be>🇭🇺Hungary<be>🇹🇯Tajikistan<be>🇦🇹Austria<be>🇪🇬Egypt<be>🇮🇶Iraq<be>🇸🇾Syria<be>🇮🇳India
 
 | Three Horizontal Stripes - Other Middle | |  
-| -- | -- |  
+-- | --
 🇷🇺Russia<be>🇷🇸Serbia<be>🇸🇰Slovakia<be>🇸🇮Slovenia<be>🇻🇪 Venezuela<be>🇧🇬Bulgaria<be>🇱🇹Lithuania<be>🇲🇲Myanmar <be>🇦🇿Azerbaijan<be>🇴🇲Oman | 🇲🇼Malawi<be>🇩🇪Germany <be>🇱🇾Libya<be>🇬🇦Gabon<be>🇪🇹Ethiopia<be>🇧🇴Bolivia <be>🇬🇭Ghana<be>🇦🇲Armenia<be>🇪🇪Estonia
 	
 | Four+ Horizontal Stripes | |  
 -- | --
-🇨🇫Central AfricanRep.<br>🇲🇺Mauritius <br> 🇬🇲Gambia <br> 🇹🇭Thailand<br>🇹🇬Togo<br>🇨🇻Cape Verde<br>🇨🇷Costa Rica<br><br>🇰🇪Kenya<br>🇸🇷 Suriname | 🇮🇱Israel<br>🇧🇼Botswana<br>🇺🇬Uganda<br>🇺🇾Uruguay<br>🇬🇷Greece<br>🇱🇷Liberia<br>🇲🇾Malaysia<br>🇺🇸United States   
+🇨🇫Central AfricanRep.<br>🇲🇺Mauritius <br> 🇬🇲Gambia <br> 🇹🇭Thailand<br>🇹🇬Togo<br>🇨🇻Cape Verde<br>🇨🇷Costa Rica<br>🇰🇪Kenya<br>🇸🇷 Suriname | 🇮🇱Israel<br>🇧🇼Botswana<br>🇺🇬Uganda<br>🇺🇾Uruguay<br>🇬🇷Greece<br>🇱🇷Liberia<br>🇲🇾Malaysia<br>🇺🇸United States   
+
+| Crosses | |  
+-- | --
+🇨🇭Switzerland<br>🇹🇴Tonga<br>🇦🇽Åland Islands<be>🇮🇸Iceland<br>🇸🇪Sweden<br>🇩🇰Denmark<br>🇳🇴Norway | 🇫🇴Faro Islands <br>🇫🇮Finland<br>🇩🇲Dominica<br>🇩🇴Dominican Republic<br>🇬🇪Georgia <br>🇬🇬Guernsey<br>🇲🇶Martinique
 	
 <!--
 **Horizontal Stripes - Varying Widths**
