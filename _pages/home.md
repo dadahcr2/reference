@@ -858,21 +858,9 @@ I highly recommend these:
   </summary>
 <br>
 
-🇧🇷 Brazil
-🇧🇩 Bangladesh
-🇯🇵 Japan
-🇳🇪 Niger 
-🇰🇷 South Korea
-🇬🇱 Greenland
-🇧🇿 Belize
-🇱🇦 Laos 
-🇹🇳 Tunisia
-🇬🇵 Guadeloupe
-🇰🇬 Kyrgyzstan
-🇳🇨 New Caledonia
-🇵🇼 Palau
-🇰🇮 Kiribati
-{: .notice}
+🇧🇷 Brazil<br>🇧🇩 Bangladesh<br>🇯🇵 Japan<br>🇳🇪 Niger<br>🇰🇷 South Korea | 🇬🇱 Greenland<br>🇧🇿 Belize<br>🇱🇦 Laos<br>🇹🇳 Tunisia<br>🇬🇵 Guadeloupe | 🇰🇬 Kyrgyzstan<br>🇳🇨 New Caledonia<br>🇵🇼 Palau<br>🇰🇮 Kiribati
+| -- | -- | -- |
+| &nbsp; |  |  |
 
 🇧🇷 Brazil  
 🇧🇩 Bangladesh  
@@ -896,7 +884,8 @@ I highly recommend these:
 
 🇧🇷 Brazil | 🇧🇩 Bangladesh | 🇯🇵 Japan
 🇳🇪 Niger | 🇰🇷 South Korea | 🇬🇱 Greenland
-🇧🇿 Belize | 🇱🇦 Laos | 🇹🇳 Tunisia   🇬🇵 Guadeloupe | 🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
+🇧🇿 Belize | 🇱🇦 Laos | 🇹🇳 Tunisia
+🇬🇵 Guadeloupe | 🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
 🇵🇼 Palau | 🇰🇮 Kiribati | 
 | -- | -- | -- |
 | &nbsp; |  |  |
