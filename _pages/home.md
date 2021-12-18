@@ -858,18 +858,23 @@ I highly recommend these:
   </summary>
 <br>
 
-<!--
+
 **Long press on a flag to see the country name**{: .notice}
 	
 ***
 
 **Circles**
 
-| [![# 🇧🇷](https://www.countryflags.io/BR/flat/64.png "Brazil")](https://duckduckgo.com/?q=Brazil+flag&ia=about)🇧🇩{: style="font-size:300%"} Bangladesh[![🇯🇵{: style="font-size:300%"}](https://www.countryflags.io/JP/flat/64.png "Japan")](https://duckduckgo.com/?q=Japan+flag&ia=about)[![🇳🇪](https://www.countryflags.io/NE/flat/64.png "Niger")](https://duckduckgo.com/?q=Niger+flag&ia=about)[![🇰🇷](https://www.countryflags.io/KR/flat/64.png "South Korea")](https://duckduckgo.com/?q=South+Korea+flag&ia=about)[![🇬🇱](https://www.countryflags.io/GL/flat/64.png "Greenland")](https://duckduckgo.com/?q=Greenland+flag&ia=about)[![🇧🇿](https://www.countryflags.io/BZ/flat/64.png "Belize")](https://duckduckgo.com/?q=Belize+flag&ia=about)[![🇱🇦](https://www.countryflags.io/LA/flat/64.png "Lao People's Dem. Republic")](https://duckduckgo.com/?q=Lao+People's+Dem.+Republic+flag&ia=about)[![🇹🇳](https://www.countryflags.io/TN/flat/64.png "Tunisia")](https://duckduckgo.com/?q=Tunisia+flag&ia=about)[![🇬🇵](https://www.countryflags.io/GP/flat/64.png "Guadeloupe")](https://duckduckgo.com/?q=Guadeloupe+flag&ia=about)[![🇰🇬](https://www.countryflags.io/KG/flat/64.png "Kyrgyzstan")](https://duckduckgo.com/?q=Kyrgyzstan+flag&ia=about)[![🇳🇨](https://www.countryflags.io/NC/flat/64.png "New Caledonia")](https://duckduckgo.com/?q=New+Caledonia+flag&ia=about)[![🇵🇼](https://www.countryflags.io/PW/flat/64.png "Palau")](https://duckduckgo.com/?q=Palau+flag&ia=about)[![🇰🇮](https://www.countryflags.io/KI/flat/64.png "Kiribati")](https://duckduckgo.com/?q=Kiribati+flag&ia=about) |	
-| -- |   
-| &nbsp; |      
+🇧🇷 Brazil | 🇧🇩 Bangladesh
+🇯🇵 Japan | 🇳🇪 Niger 
+🇰🇷 South Korea | 🇬🇱 Greenland
+🇧🇿 Belize | 🇱🇦 Laos 
+🇹🇳 Tunisia | 🇬🇵 Guadeloupe
+🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia  🇵🇼 Palau | 🇰🇮 Kiribati	
+| -- | -- |
+| &nbsp; |  | 
 
-
+<!--
 **Diagonals**
 
 | [![🇧🇹](https://www.countryflags.io/BT/flat/64.png "Bhutan")](https://duckduckgo.com/?q=Bhutan+flag&ia=about)[![🇨🇩](https://www.countryflags.io/CD/flat/64.png "Congo")](https://duckduckgo.com/?q=Congo+flag&ia=about)[![🇨🇬](https://www.countryflags.io/CG/flat/64.png "Congo")](https://duckduckgo.com/?q=Congo+flag&ia=about)[![🇲🇭](https://www.countryflags.io/MH/flat/64.png "Marshall Islands")](https://duckduckgo.com/?q=Marshall+Islands+flag&ia=about)[![🇳🇦](https://www.countryflags.io/NA/flat/64.png "Namibia")](https://duckduckgo.com/?q=Namibia+flag&ia=about)[![🇰🇳](https://www.countryflags.io/KN/flat/64.png "Saint Kitts and Nevis")](https://duckduckgo.com/?q=Saint+Kitts+and+Nevis+flag&ia=about)[![🇸🇧](https://www.countryflags.io/SB/flat/64.png "Solomon Islands")](https://duckduckgo.com/?q=Solomon+Islands+flag&ia=about)[![🇹🇿](https://www.countryflags.io/TZ/flat/64.png "Tanzania")](https://duckduckgo.com/?q=Tanzania+flag&ia=about)[![🇹🇰](https://www.countryflags.io/TK/flat/64.png "Tokelau")](https://duckduckgo.com/?q=Tokelau+flag&ia=about)[![🇧🇦](https://www.countryflags.io/BA/flat/64.png "Bosnia and Herzegovina")](https://duckduckgo.com/?q=Bosnia+and+Herzegovina+flag&ia=about)[![🇧🇳](https://www.countryflags.io/BN/flat/64.png "Brunei Darussalam")](https://duckduckgo.com/?q=Brunei+Darussalam+flag&ia=about)[![🇨🇽](https://www.countryflags.io/CX/flat/64.png "Christmas Island")](https://duckduckgo.com/?q=Christmas+Island+flag&ia=about)[![🇬🇫](https://www.countryflags.io/GF/flat/64.png "French Guiana")](https://duckduckgo.com/?q=French+Guiana+flag&ia=about)[![🇵🇬](https://www.countryflags.io/PG/flat/64.png "Papua New Guinea")](https://duckduckgo.com/?q=Papua+New+Guinea+flag&ia=about)[![🇹🇹](https://www.countryflags.io/TT/flat/64.png "Trinidad and Tobago")](https://duckduckgo.com/?q=Trinidad+and+Tobago+flag&ia=about) |  
@@ -944,7 +949,7 @@ I highly recommend these:
 -->
 ## Circles
 	
-![[fBR]](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩{: font-size="300%"}](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | [🇯🇵{: font-size="300%"}](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
+![[fBR]](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩{: font-size="50px"}](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | [🇯🇵](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 ![🇰🇷](https://www.countryflags.io/KR/flat/64.png)<br>South Korea | 🇬🇱{: font-size="300%"}<br>Greenland | ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)<br>Belize | ![🇱🇦](https://www.countryflags.io/LA/flat/64.png)<br>Laos  
 ![🇹🇳](https://www.countryflags.io/TN/flat/64.png)<br>Tunisia | ![🇬🇵](https://www.countryflags.io/GP/flat/64.png)<br>Guadeloupe | ![🇰🇬](https://www.countryflags.io/KG/flat/64.png)<br>Kyrgyzstan | ![🇳🇨](https://www.countryflags.io/NC/flat/64.png)<br>New Caledonia
 ![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati | | 
