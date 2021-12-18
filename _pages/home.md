@@ -892,9 +892,14 @@ I highly recommend these:
 -- | --
 🇨🇫Central AfricanRep.<br>🇲🇺Mauritius <br> 🇬🇲Gambia <br> 🇹🇭Thailand<br>🇹🇬Togo<br>🇨🇻Cape Verde<br>🇨🇷Costa Rica<br>🇰🇪Kenya<br>🇸🇷 Suriname | 🇮🇱Israel<br>🇧🇼Botswana<br>🇺🇬Uganda<br>🇺🇾Uruguay<br>🇬🇷Greece<br>🇱🇷Liberia<br>🇲🇾Malaysia<br>🇺🇸United States   
 
-| Crosses | |  
+| Crosses | |   
 -- | --
 🇨🇭Switzerland<br>🇹🇴Tonga<br>🇦🇽Åland Islands<be>🇮🇸Iceland<br>🇸🇪Sweden<br>🇩🇰Denmark<br>🇳🇴Norway | 🇫🇴Faro Islands <br>🇫🇮Finland<br>🇩🇲Dominica<br>🇩🇴Dominican Republic<br>🇬🇪Georgia <br>🇬🇬Guernsey<br>🇲🇶Martinique
+
+	
+| Mostly One Color | |    
+-- | --  
+🇨🇨Cocos Islands<br>🇲🇻Maldives<br>🇵🇰Pakistan<br>🇹🇷Turkey <br>🇲🇷Mauritania<br>🇲🇴Macao<br>🇸🇦Saudi Arabia<br>🇹🇲Turkmenistan <br>🇰🇿Kazakhstan<br>🇫🇲Micronesia<br>🇵🇲St. Pierre& Miquelon<br>🇸🇴Somalia <br>🇦🇶Antarctica<br>🇦🇼Aruba<br>🇬🇺Guam<br>🇳🇷Nauru | 🇲🇵NorthernMariana Isl…<br>🇿🇲Zambia<br>🇦🇱Albania<br>🇨🇳China <br>🇭🇰Hong Kong<br>🇮🇲Isle of Man<br>🇲🇪Montenegro<br>🇲🇦Morocco <br>🇼🇸Samoa<br>🇹🇼Taiwan<br>🇻🇳Viet Nam<br>🇨🇾Cyprus <br>🇾🇹Mayotte<br>🇧🇱St. Barthélemy<br>🇻🇮U.S. Virgin Islands<br>🇬🇮Gibraltar
 	
 <!--
 **Horizontal Stripes - Varying Widths**
