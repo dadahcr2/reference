@@ -860,67 +860,16 @@ I highly recommend these:
 
 | **Circles** | |
 | -- | -- |
-🇧🇷 Brazil<br>🇧🇩 Bangladesh<br>🇯🇵 Japan<br>🇳🇪 Niger<br>🇰🇷 South Korea<br>🇬🇱 Greenland<br>🇧🇿 Belize | 🇱🇦 Laos<br>🇹🇳 Tunisia<br>🇬🇵 Guadeloupe<br>🇰🇬 Kyrgyzstan<br>🇳🇨 New Caledonia<br>🇵🇼 Palau<br>🇰🇮 Kiribati
+🇧🇷 Brazil<br>🇧🇩 Bangladesh<br>🇯🇵 Japan<br>🇳🇪 Niger<br>🇰🇷 South Korea<br>🇬🇱 Greenland<br>🇧🇿 Belize | 🇱🇦 Laos<br>🇹🇳 Tunisia<br>🇬🇵 Guadeloupe<br>🇰🇬 Kyrgyzstan<br>🇳🇨 New Caledonia<br>🇵🇼 Palau<br>🇰🇮 Kiribati	
 
-🇧🇷 Brazil  
-🇧🇩 Bangladesh  
-🇯🇵 Japan  
-🇳🇪 Niger  
-🇰🇷 South Korea  
-🇬🇱 Greenland  
-🇧🇿 Belize  
-🇱🇦 Laos  
-🇹🇳 Tunisia  
-🇬🇵 Guadeloupe  
-🇰🇬 Kyrgyzstan  
-🇳🇨 New Caledonia  
-🇵🇼 Palau  
-🇰🇮 Kiribati  
-{: .notice}
-	
-***
-
-| **Circles** | |
+| **Diagonals** | |
 | -- | -- |
-🇧🇷 Brazil | 🇧🇩 Bangladesh
-🇯🇵 Japan | 🇳🇪 Niger 
-🇰🇷 South Korea | 🇬🇱 Greenland
-🇧🇿 Belize | 🇱🇦 Laos
-🇹🇳 Tunisia | 🇬🇵 Guadeloupe
-🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
-🇵🇼 Palau | 🇰🇮 Kiribati
-{: .notice}
-	
-| **Circles** | |
-| -- | -- |
-🇧🇷 Brazil | 🇧🇩 Bangladesh
-🇯🇵 Japan | 🇳🇪 Niger 
-🇰🇷 South Korea | 🇬🇱 Greenland
-🇧🇿 Belize | 🇱🇦 Laos
-🇹🇳 Tunisia | 🇬🇵 Guadeloupe
-🇰🇬 Kyrgyzstan | 🇳🇨 New Caledonia
-🇵🇼 Palau | 🇰🇮 Kiribati
-
+## Diagonals
+🇧🇹Bhutan<br>🇨🇩Dem.Rep.of Congo<br>🇨🇬Congo<br>🇲🇭Marshall Islands<br>
+🇳🇦Namibia<br>🇰🇳St. Kitts & Nevis  <br>🇸🇧SolomonIslands<br>🇹🇿Tanzania | 🇹🇰Tokelau<br>🇧🇦Bosnia& Herzegovina<br>🇧🇳Brunei<br>🇨🇽ChristmasIsland<br>
+🇬🇫FrenchGuiana<br>🇵🇬PapuaNew Guinea<br>🇹🇹Trinidad & Tobago
 	
 <!--
-**Diagonals**
-
-| [![🇧🇹](https://www.countryflags.io/BT/flat/64.png "Bhutan")](https://duckduckgo.com/?q=Bhutan+flag&ia=about)[![🇨🇩](https://www.countryflags.io/CD/flat/64.png "Congo")](https://duckduckgo.com/?q=Congo+flag&ia=about)[![🇨🇬](https://www.countryflags.io/CG/flat/64.png "Congo")](https://duckduckgo.com/?q=Congo+flag&ia=about)[![🇲🇭](https://www.countryflags.io/MH/flat/64.png "Marshall Islands")](https://duckduckgo.com/?q=Marshall+Islands+flag&ia=about)[![🇳🇦](https://www.countryflags.io/NA/flat/64.png "Namibia")](https://duckduckgo.com/?q=Namibia+flag&ia=about)[![🇰🇳](https://www.countryflags.io/KN/flat/64.png "Saint Kitts and Nevis")](https://duckduckgo.com/?q=Saint+Kitts+and+Nevis+flag&ia=about)[![🇸🇧](https://www.countryflags.io/SB/flat/64.png "Solomon Islands")](https://duckduckgo.com/?q=Solomon+Islands+flag&ia=about)[![🇹🇿](https://www.countryflags.io/TZ/flat/64.png "Tanzania")](https://duckduckgo.com/?q=Tanzania+flag&ia=about)[![🇹🇰](https://www.countryflags.io/TK/flat/64.png "Tokelau")](https://duckduckgo.com/?q=Tokelau+flag&ia=about)[![🇧🇦](https://www.countryflags.io/BA/flat/64.png "Bosnia and Herzegovina")](https://duckduckgo.com/?q=Bosnia+and+Herzegovina+flag&ia=about)[![🇧🇳](https://www.countryflags.io/BN/flat/64.png "Brunei Darussalam")](https://duckduckgo.com/?q=Brunei+Darussalam+flag&ia=about)[![🇨🇽](https://www.countryflags.io/CX/flat/64.png "Christmas Island")](https://duckduckgo.com/?q=Christmas+Island+flag&ia=about)[![🇬🇫](https://www.countryflags.io/GF/flat/64.png "French Guiana")](https://duckduckgo.com/?q=French+Guiana+flag&ia=about)[![🇵🇬](https://www.countryflags.io/PG/flat/64.png "Papua New Guinea")](https://duckduckgo.com/?q=Papua+New+Guinea+flag&ia=about)[![🇹🇹](https://www.countryflags.io/TT/flat/64.png "Trinidad and Tobago")](https://duckduckgo.com/?q=Trinidad+and+Tobago+flag&ia=about) |  
-| --  |  
-| &nbsp;   | 	
-
-**Union Jack**
-
-| [![🇬🇧](https://www.countryflags.io/GB/flat/64.png ""United Kingdom"")](https://duckduckgo.com/?q=United+Kingdom+flag&ia=about)[![🇫🇯](https://www.countryflags.io/FJ/flat/64.png ""Fiji"")](https://duckduckgo.com/?q=Fiji+flag&ia=about)[![🇹🇻](https://www.countryflags.io/TV/flat/64.png ""Tuvalu"")](https://duckduckgo.com/?q=Tuvalu+flag&ia=about)[![🇧🇲](https://www.countryflags.io/BM/flat/64.png ""Bermuda"")](https://duckduckgo.com/?q=Bermuda+flag&ia=about)[![🇨🇰](https://www.countryflags.io/CK/flat/64.png ""Cook Islands"")](https://duckduckgo.com/?q=Cook+Islands+flag&ia=about)[![🇦🇮](https://www.countryflags.io/AI/flat/64.png ""Anguilla"")](https://duckduckgo.com/?q=Anguilla+flag&ia=about)[![🇰🇾](https://www.countryflags.io/KY/flat/64.png ""Cayman Islands"")](https://duckduckgo.com/?q=Cayman+Islands+flag&ia=about)[![🇫🇰](https://www.countryflags.io/FK/flat/64.png ""Falkland Islands"")](https://duckduckgo.com/?q=Falkland+Islands+flag&ia=about)[![🇲🇸](https://www.countryflags.io/MS/flat/64.png ""Montserrat"")](https://duckduckgo.com/?q=Montserrat+flag&ia=about)[![🇵🇳](https://www.countryflags.io/PN/flat/64.png ""Pitcairn"")](https://duckduckgo.com/?q=Pitcairn+flag&ia=about)[![🇸🇭](https://www.countryflags.io/SH/flat/64.png ""Saint Helena, Ascension,  …"")](https://duckduckgo.com/?q=Saint+Helena,+Ascension,++…+flag&ia=about)[![🇬🇸](https://www.countryflags.io/GS/flat/64.png ""South Georgia"")](https://duckduckgo.com/?q=South+Georgia+flag&ia=about)[![🇹🇨](https://www.countryflags.io/TC/flat/64.png ""Turks and Caicos Islands"")](https://duckduckgo.com/?q=Turks+and+Caicos+Islands+flag&ia=about)[![🇻🇬](https://www.countryflags.io/VG/flat/64.png ""Virgin Islands, British"")](https://duckduckgo.com/?q=Virgin+Islands,+British+flag&ia=about)[![🇦🇺](https://www.countryflags.io/AU/flat/64.png ""Australia"")](https://duckduckgo.com/?q=Australia+flag&ia=about)[![🇳🇿](https://www.countryflags.io/NZ/flat/64.png ""New Zealand"")](https://duckduckgo.com/?q=New+Zealand+flag&ia=about)[![🇮🇴](https://www.countryflags.io/IO/flat/64.png ""British Indian OceanTerritory "")](https://duckduckgo.com/?q=British+Indian+OceanTerritory++flag&ia=about)[![🇳🇺](https://www.countryflags.io/NU/flat/64.png ""Niue"")](https://duckduckgo.com/?q=Niue+flag&ia=about) | 
-| -- |  
-| &nbsp;  |  	
-	
-**X**	
-
-| [![🇧🇮](https://www.countryflags.io/BI/flat/64.png ""Burundi"")](https://duckduckgo.com/?q=Burundi+flag&ia=about)[![🇬🇩](https://www.countryflags.io/GD/flat/64.png ""Grenada"")](https://duckduckgo.com/?q=Grenada+flag&ia=about)[![🇯🇲](https://www.countryflags.io/JM/flat/64.png ""Jamaica"")](https://duckduckgo.com/?q=Jamaica+flag&ia=about)[![🇯🇪](https://www.countryflags.io/JE/flat/64.png ""Jersey"")](https://duckduckgo.com/?q=Jersey+flag&ia=about)[![🇲🇰](https://www.countryflags.io/MK/flat/64.png ""Macedonia"")](https://duckduckgo.com/?q=Macedonia+flag&ia=about)[![🇷🇪](https://www.countryflags.io/RE/flat/64.png ""Réunion"")](https://duckduckgo.com/?q=Réunion+flag&ia=about) |  
-| --- |  
-| &nbsp;  | 
-	
 **Horizontal Stripes - Varying Widths**
 
 | [![🇰🇭](https://www.countryflags.io/KH/flat/64.png "Cambodia")](https://duckduckgo.com/?q=Cambodia+flag&ia=about)[![🇰🇵](https://www.countryflags.io/KP/flat/64.png "North Korea")](https://duckduckgo.com/?q=North+Korea+flag&ia=about)[![🇸🇿](https://www.countryflags.io/SZ/flat/64.png "Swaziland")](https://duckduckgo.com/?q=Swaziland+flag&ia=about)[![🇵🇫](https://www.countryflags.io/PF/flat/64.png "French Polynesia")](https://duckduckgo.com/?q=French+Polynesia+flag&ia=about)[![🇱🇧](https://www.countryflags.io/LB/flat/64.png "Lebanon")](https://duckduckgo.com/?q=Lebanon+flag&ia=about)[![🇪🇸](https://www.countryflags.io/ES/flat/64.png "Spain")](https://duckduckgo.com/?q=Spain+flag&ia=about)[![🇷🇼](https://www.countryflags.io/RW/flat/64.png "Rwanda")](https://duckduckgo.com/?q=Rwanda+flag&ia=about)[![🇨🇼](https://www.countryflags.io/CW/flat/64.png "Curaçao")](https://duckduckgo.com/?q=Curaçao+flag&ia=about)[![🇨🇴](https://www.countryflags.io/CO/flat/64.png "Colombia")](https://duckduckgo.com/?q=Colombia+flag&ia=about)[![🇪🇨](https://www.countryflags.io/EC/flat/64.png "Ecuador")](https://duckduckgo.com/?q=Ecuador+flag&ia=about)  |  
