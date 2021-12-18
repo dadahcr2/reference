@@ -888,6 +888,9 @@ I highly recommend these:
 | -- | -- |  
 🇷🇺Russia<be>🇷🇸Serbia<be>🇸🇰Slovakia<be>🇸🇮Slovenia<be>🇻🇪 Venezuela<be>🇧🇬Bulgaria<be>🇱🇹Lithuania<be>🇲🇲Myanmar <be>🇦🇿Azerbaijan<be>🇴🇲Oman | 🇲🇼Malawi<be>🇩🇪Germany <be>🇱🇾Libya<be>🇬🇦Gabon<be>🇪🇹Ethiopia<be>🇧🇴Bolivia <be>🇬🇭Ghana<be>🇦🇲Armenia<be>🇪🇪Estonia
 	
+| Four+ Horizontal Stripes | |  
+-- | --
+🇨🇫Central AfricanRep.<br>🇲🇺Mauritius <br> 🇬🇲Gambia <br> 🇹🇭Thailand<br>🇹🇬Togo<br>🇨🇻Cape Verde<br>🇨🇷Costa Rica<br><br>🇰🇪Kenya<br>🇸🇷 Suriname | 🇮🇱Israel<br>🇧🇼Botswana<br>🇺🇬Uganda<br>🇺🇾Uruguay<br>🇬🇷Greece<br>🇱🇷Liberia<br>🇲🇾Malaysia<br>🇺🇸United States   
 	
 <!--
 **Horizontal Stripes - Varying Widths**
