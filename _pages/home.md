@@ -39,13 +39,13 @@ classes: wide
     PE: Sleds have no Seatbelts
   </summary>
 <br>
-**Track Order**
-Down’n’Down
-Snow Time
-Downhill 25.733 sled
-Castle Crash
-Snow Tunnel
-Ice Cavern
+**Track Order**  
+Down’n’Down  
+Snow Time  
+Downhill 25.733 sled  
+Castle Crash  
+Snow Tunnel  
+Ice Cavern  
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
