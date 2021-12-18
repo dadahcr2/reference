@@ -858,8 +858,37 @@ I highly recommend these:
   </summary>
 <br>
 
+🇧🇷 Brazil
+🇧🇩 Bangladesh
+🇯🇵 Japan
+🇳🇪 Niger 
+🇰🇷 South Korea
+🇬🇱 Greenland
+🇧🇿 Belize
+🇱🇦 Laos 
+🇹🇳 Tunisia
+🇬🇵 Guadeloupe
+🇰🇬 Kyrgyzstan
+🇳🇨 New Caledonia
+🇵🇼 Palau
+🇰🇮 Kiribati
+{: .notice}
 
-**Long press on a flag to see the country name**{: .notice}
+🇧🇷 Brazil  
+🇧🇩 Bangladesh  
+🇯🇵 Japan  
+🇳🇪 Niger  
+🇰🇷 South Korea  
+🇬🇱 Greenland  
+🇧🇿 Belize  
+🇱🇦 Laos  
+🇹🇳 Tunisia  
+🇬🇵 Guadeloupe  
+🇰🇬 Kyrgyzstan  
+🇳🇨 New Caledonia  
+🇵🇼 Palau  
+🇰🇮 Kiribati  
+{: .notice}
 	
 ***
 
