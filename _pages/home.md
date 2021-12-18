@@ -944,7 +944,7 @@ I highly recommend these:
 -->
 ## Circles
 	
-![[fBR]](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩{: style="font-size:300%"}](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | [🇯🇵{: style="font-size:300%"}](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
+![[fBR]](https://www.countryflags.io/BR/flat/64.png)<br>Brazil | ![🇧🇩{: style=font-size="300%"}](https://www.countryflags.io/BD/flat/64.png)<br>Bangladesh | [🇯🇵{: style=font-size="300%"}](https://www.countryflags.io/JP/flat/64.png "Japan")<br>Japan | ![🇳🇪](https://www.countryflags.io/NE/flat/64.png)<br>Niger  
 ![🇰🇷](https://www.countryflags.io/KR/flat/64.png)<br>South Korea | 🇬🇱{: style="font-size:300%"}<br>Greenland | ![🇧🇿](https://www.countryflags.io/BZ/flat/64.png)<br>Belize | ![🇱🇦](https://www.countryflags.io/LA/flat/64.png)<br>Laos  
 ![🇹🇳](https://www.countryflags.io/TN/flat/64.png)<br>Tunisia | ![🇬🇵](https://www.countryflags.io/GP/flat/64.png)<br>Guadeloupe | ![🇰🇬](https://www.countryflags.io/KG/flat/64.png)<br>Kyrgyzstan | ![🇳🇨](https://www.countryflags.io/NC/flat/64.png)<br>New Caledonia
 ![🇵🇼](https://www.countryflags.io/PW/flat/64.png)<br>Palau | ![🇰🇮](https://www.countryflags.io/KI/flat/64.png)<br>Kiribati | | 
@@ -1407,7 +1407,7 @@ We are an open team, so no password.  If there is a spot available and the below
 [WT2]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="40px" width="40px"}
 	
-[fBR]: 🇧🇷 
-{: style="font-size:300%"}
+[fBR]: 🇧🇷 "Brazil"
+{: font-size="300%"}
 	
 <a name="bottom"></a> 
