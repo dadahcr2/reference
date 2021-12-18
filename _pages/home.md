@@ -864,10 +864,13 @@ I highly recommend these:
 
 | **Diagonals** | |
 | -- | -- |
-## Diagonals
 🇧🇹Bhutan<br>🇨🇩Dem.Rep.of Congo<br>🇨🇬Congo<br>🇲🇭Marshall Islands<br>
 🇳🇦Namibia<br>🇰🇳St. Kitts & Nevis  <br>🇸🇧SolomonIslands<br>🇹🇿Tanzania | 🇹🇰Tokelau<br>🇧🇦Bosnia& Herzegovina<br>🇧🇳Brunei<br>🇨🇽ChristmasIsland<br>
 🇬🇫FrenchGuiana<br>🇵🇬PapuaNew Guinea<br>🇹🇹Trinidad & Tobago
+
+| Union Jack & Similar | |
+| -- | -- |
+🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion  <br>
 	
 <!--
 **Horizontal Stripes - Varying Widths**
