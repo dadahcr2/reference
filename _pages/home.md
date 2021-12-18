@@ -872,12 +872,12 @@ I highly recommend these:
 🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
 	
 | Horizontal Stripes - Varying Widths | |  
--- | -- 
+-- | --  
 🇨🇼Curaçao <be> 🇰🇭Cambodia <be> 🇰🇵North Korea  <be> 🇸🇿Swaziland <be> 🇵🇫French Polynesia | 🇱🇧Lebanon  <be> 🇪🇸Spain <be> 🇷🇼Rwanda <be> 🇨🇴Colombia  <be> 🇪🇨Ecuador
 
 	
-|  Two Horizontal Stripes | |  
--- | --
+| Two Horizontal Stripes | |  
+-- | --  
 🇧🇫Burkina Faso<be>🇮🇩Indonesia <be> 🇲🇨Monaco <be> 🇵🇱Poland <be>🇸🇬Singapore<be>🇸🇲San<be>Marino<be>🇺🇦Ukraine<be>🇭🇹Haiti | 🇱🇮Liechtenstein<be>🇨🇱Chile<be>🇵🇦Panama<be>🇧🇯Benin🇬🇼Guinea-Bissau<be>🇲🇬Madagascar<be>🇧🇾Belarus<be>🇦🇴Angola
 	
 | Three Horizontal Stripes - White Middle | |    
@@ -885,7 +885,7 @@ I highly recommend these:
 🇦🇷Argentina<be>🇳🇮Nicaragua<be>🇺🇿Uzbekistan<be>🇸🇻El Salvador<be>🇭🇳Honduras<be>🇱🇸Lesotho<be>🇸🇱Sierra Leone<be>🇱🇻Latvia <be>🇮🇷Iran<be>🇰🇼Kuwait<be>🇾🇪Yemen<be>🇦🇪UAE | 🇱🇺Luxembourg<be>🇭🇷Croatia<be>🇳🇱Netherlands<be>🇵🇾Paraguay<be>🇭🇺Hungary<be>🇹🇯Tajikistan<be>🇦🇹Austria<be>🇪🇬Egypt<be>🇮🇶Iraq<be>🇸🇾Syria<be>🇮🇳India
 
 | Three Horizontal Stripes - Other Middle | |  
--- | --
+-- | --  
 🇷🇺Russia<be>🇷🇸Serbia<be>🇸🇰Slovakia<be>🇸🇮Slovenia<be>🇻🇪 Venezuela<be>🇧🇬Bulgaria<be>🇱🇹Lithuania<be>🇲🇲Myanmar <be>🇦🇿Azerbaijan<be>🇴🇲Oman | 🇲🇼Malawi<be>🇩🇪Germany <be>🇱🇾Libya<be>🇬🇦Gabon<be>🇪🇹Ethiopia<be>🇧🇴Bolivia <be>🇬🇭Ghana<be>🇦🇲Armenia<be>🇪🇪Estonia
 	
 | Four+ Horizontal Stripes | |  
@@ -900,6 +900,10 @@ I highly recommend these:
 | Mostly One Color | |    
 -- | --  
 🇨🇨Cocos Islands<br>🇲🇻Maldives<br>🇵🇰Pakistan<br>🇹🇷Turkey <br>🇲🇷Mauritania<br>🇲🇴Macao<br>🇸🇦Saudi Arabia<br>🇹🇲Turkmenistan <br>🇰🇿Kazakhstan<br>🇫🇲Micronesia<br>🇵🇲St. Pierre& Miquelon<br>🇸🇴Somalia <br>🇦🇶Antarctica<br>🇦🇼Aruba<br>🇬🇺Guam<br>🇳🇷Nauru | 🇲🇵NorthernMariana Isl…<br>🇿🇲Zambia<br>🇦🇱Albania<br>🇨🇳China <br>🇭🇰Hong Kong<br>🇮🇲Isle of Man<br>🇲🇪Montenegro<br>🇲🇦Morocco <br>🇼🇸Samoa<br>🇹🇼Taiwan<br>🇻🇳Viet Nam<br>🇨🇾Cyprus <br>🇾🇹Mayotte<br>🇧🇱St. Barthélemy<br>🇻🇮U.S. Virgin Islands<br>🇬🇮Gibraltar
+
+| Triangles | |  
+-- | --
+🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique🇧🇸Bahamas🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe<br>
 	
 <!--
 **Horizontal Stripes - Varying Widths**
