@@ -869,7 +869,7 @@ I highly recommend these:
 	
 | Union Jack & Similar | |
 | -- | -- |
-🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
+🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
 	
 <!--
 **Horizontal Stripes - Varying Widths**
