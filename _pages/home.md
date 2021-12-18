@@ -873,20 +873,20 @@ I highly recommend these:
 	
 | Horizontal Stripes - Varying Widths | |  
 -- | --  
-🇨🇼Curaçao <be> 🇰🇭Cambodia <be> 🇰🇵North Korea  <be> 🇸🇿Swaziland <be> 🇵🇫French Polynesia | 🇱🇧Lebanon  <be> 🇪🇸Spain <be> 🇷🇼Rwanda <be> 🇨🇴Colombia  <be> 🇪🇨Ecuador
+🇨🇼Curaçao <br> 🇰🇭Cambodia <br> 🇰🇵North Korea  <br> 🇸🇿Swaziland <br> 🇵🇫French Polynesia | 🇱🇧Lebanon  <br> 🇪🇸Spain <br> 🇷🇼Rwanda <br> 🇨🇴Colombia  <br> 🇪🇨Ecuador
 
 	
 | Two Horizontal Stripes | |  
 -- | --  
-🇧🇫Burkina Faso<be>🇮🇩Indonesia <be> 🇲🇨Monaco <be> 🇵🇱Poland <be>🇸🇬Singapore<be>🇸🇲San<be>Marino<be>🇺🇦Ukraine<be>🇭🇹Haiti | 🇱🇮Liechtenstein<be>🇨🇱Chile<be>🇵🇦Panama<be>🇧🇯Benin🇬🇼Guinea-Bissau<be>🇲🇬Madagascar<be>🇧🇾Belarus<be>🇦🇴Angola
+🇧🇫Burkina Faso<br>🇮🇩Indonesia <br> 🇲🇨Monaco <br> 🇵🇱Poland <br>🇸🇬Singapore<br>🇸🇲San<br>Marino<br>🇺🇦Ukraine<br>🇭🇹Haiti | 🇱🇮Liechtenstein<br>🇨🇱Chile<br>🇵🇦Panama<br>🇧🇯Benin🇬🇼Guinea-Bissau<br>🇲🇬Madagascar<br>🇧🇾Belarus<br>🇦🇴Angola
 	
 | Three Horizontal Stripes - White Middle | |    
 -- | --  
-🇦🇷Argentina<be>🇳🇮Nicaragua<be>🇺🇿Uzbekistan<be>🇸🇻El Salvador<be>🇭🇳Honduras<be>🇱🇸Lesotho<be>🇸🇱Sierra Leone<be>🇱🇻Latvia <be>🇮🇷Iran<be>🇰🇼Kuwait<be>🇾🇪Yemen<be>🇦🇪UAE | 🇱🇺Luxembourg<be>🇭🇷Croatia<be>🇳🇱Netherlands<be>🇵🇾Paraguay<be>🇭🇺Hungary<be>🇹🇯Tajikistan<be>🇦🇹Austria<be>🇪🇬Egypt<be>🇮🇶Iraq<be>🇸🇾Syria<be>🇮🇳India
+🇦🇷Argentina<be>🇳🇮Nicaragua<be>🇺🇿Uzbekistan<be>🇸🇻El Salvador<be>🇭🇳Honduras<be>🇱🇸Lesotho<be>🇸🇱Sierra Leone<be>🇱🇻Latvia <be>🇮🇷Iran<be>🇰🇼Kuwait<be>🇾🇪Yemen<be>🇦🇪UAE | 🇱🇺Luxembourg<br>🇭🇷Croatia<br>🇳🇱Netherlands<br>🇵🇾Paraguay<br>🇭🇺Hungary<br>🇹🇯Tajikistan<br>🇦🇹Austria<br>🇪🇬Egypt<br>🇮🇶Iraq<br>🇸🇾Syria<br>🇮🇳India
 
 | Three Horizontal Stripes - Other Middle | |  
 -- | --  
-🇷🇺Russia<be>🇷🇸Serbia<be>🇸🇰Slovakia<be>🇸🇮Slovenia<be>🇻🇪 Venezuela<be>🇧🇬Bulgaria<be>🇱🇹Lithuania<be>🇲🇲Myanmar <be>🇦🇿Azerbaijan<be>🇴🇲Oman | 🇲🇼Malawi<be>🇩🇪Germany <be>🇱🇾Libya<be>🇬🇦Gabon<be>🇪🇹Ethiopia<be>🇧🇴Bolivia <be>🇬🇭Ghana<be>🇦🇲Armenia<be>🇪🇪Estonia
+🇷🇺Russia<br>🇷🇸Serbia<br>🇸🇰Slovakia<br>🇸🇮Slovenia<br>🇻🇪 Venezuela<br>🇧🇬Bulgaria<br>🇱🇹Lithuania<br>🇲🇲Myanmar <br>🇦🇿Azerbaijan<br>🇴🇲Oman | 🇲🇼Malawi<br>🇩🇪Germany <br>🇱🇾Libya<br>🇬🇦Gabon<br>🇪🇹Ethiopia<br>🇧🇴Bolivia <br>🇬🇭Ghana<br>🇦🇲Armenia<br>🇪🇪Estonia
 	
 | Four+ Horizontal Stripes | |  
 -- | --
@@ -903,11 +903,11 @@ I highly recommend these:
 
 | Triangles | |  
 -- | --
-🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique🇧🇸Bahamas🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe
+🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸<br>PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique<br>🇧🇸Bahamas<br>🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe
 	
 | Vertical Stripes | |  
 -- | --
-🇧🇭Bahrain<br>🇶🇦Qatar<br>🇲🇹Malta<br>🇵🇹Portugal <br>🇻🇦Vatican City<br>🇩🇿Algeria<br>🇲🇳Mongolia<br>🇨🇲Cameroon <br>🇦🇫  Afghanistan🇬🇹Guatemala🇫🇷France🇹🇫French S. Territories <br>🇼🇫Wallis and Futuna<br>🇳🇬Nigeria<br>🇳🇫Norfolk Island<br>🇮🇪Ireland | 🇮🇹Italy<br>🇲🇽Mexico<br>🇨🇮 Côte D'Ivoire<br>🇨🇦Canada <br>🇵🇪Peru🇧🇧Barbados🇹🇩Chad🇻🇨St. Vincent& the Grenadines <br>🇦🇩Andorra<br>🇲🇩Moldova<br>🇷🇴Romania<br>🇲🇱Mali <br>🇸🇳Senegal<br>🇬🇳Guinea<br>🇧🇪Belgium<br>🇱🇰Sri Lanka
+🇧🇭Bahrain<br>🇶🇦Qatar<br>🇲🇹Malta<br>🇵🇹Portugal <br>🇻🇦Vatican City<br>🇩🇿Algeria<br>🇲🇳Mongolia<br>🇨🇲Cameroon <br>🇦🇫  Afghanistan<br>🇬🇹Guatemala<br>🇫🇷France<br>🇹🇫French S. Territories <br>🇼🇫Wallis and Futuna<br>🇳🇬Nigeria<br>🇳🇫Norfolk Island<br>🇮🇪Ireland | 🇮🇹Italy<br>🇲🇽Mexico<br>🇨🇮 Côte D'Ivoire<br>🇨🇦Canada <br>🇵🇪Peru🇧🇧Barbados🇹🇩Chad🇻🇨St. Vincent& the Grenadines <br>🇦🇩Andorra<br>🇲🇩Moldova<br>🇷🇴Romania<br>🇲🇱Mali <br>🇸🇳Senegal<br>🇬🇳Guinea<br>🇧🇪Belgium<br>🇱🇰Sri Lanka
 	
 <!--
 **Horizontal Stripes - Varying Widths**
