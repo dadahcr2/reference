@@ -877,12 +877,17 @@ I highly recommend these:
 
 	
 |  Two Horizontal Stripes | |  
-| -- | -- |  
+| -- | -- | 
 🇧🇫Burkina Faso<be>🇮🇩Indonesia <be> 🇲🇨Monaco <be> 🇵🇱Poland <be>🇸🇬Singapore<be>🇸🇲San<be>Marino<be>🇺🇦Ukraine<be>🇭🇹Haiti | 🇱🇮Liechtenstein<be>🇨🇱Chile<be>🇵🇦Panama<be>🇧🇯Benin🇬🇼Guinea-Bissau<be>🇲🇬Madagascar<be>🇧🇾Belarus<be>🇦🇴Angola
 	
 | Three Horizontal Stripes - White Middle | |    
 | -- | -- |  
 🇦🇷Argentina<be>🇳🇮Nicaragua<be>🇺🇿Uzbekistan<be>🇸🇻El Salvador<be>🇭🇳Honduras<be>🇱🇸Lesotho<be>🇸🇱Sierra Leone<be>🇱🇻Latvia <be>🇮🇷Iran<be>🇰🇼Kuwait<be>🇾🇪Yemen<be>🇦🇪UAE | 🇱🇺Luxembourg<be>🇭🇷Croatia<be>🇳🇱Netherlands<be>🇵🇾Paraguay<be>🇭🇺Hungary<be>🇹🇯Tajikistan<be>🇦🇹Austria<be>🇪🇬Egypt<be>🇮🇶Iraq<be>🇸🇾Syria<be>🇮🇳India
+
+| Three Horizontal Stripes - Other Middle | |  
+| -- | -- |  
+🇷🇺Russia<be>🇷🇸Serbia<be>🇸🇰Slovakia<be>🇸🇮Slovenia<be>🇻🇪 Venezuela<be>🇧🇬Bulgaria<be>🇱🇹Lithuania<be>🇲🇲Myanmar <be>🇦🇿Azerbaijan<be>🇴🇲Oman | 🇲🇼Malawi<be>🇩🇪Germany <be>🇱🇾Libya<be>🇬🇦Gabon<be>🇪🇹Ethiopia<be>🇧🇴Bolivia <be>🇬🇭Ghana<be>🇦🇲Armenia<be>🇪🇪Estonia
+	
 	
 <!--
 **Horizontal Stripes - Varying Widths**
