@@ -903,7 +903,11 @@ I highly recommend these:
 
 | Triangles | |  
 -- | --
-🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique🇧🇸Bahamas🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe<br>
+🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique🇧🇸Bahamas🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe
+	
+| Vertical Stripes | |  
+-- | --
+🇧🇭Bahrain<br>🇶🇦Qatar<br>🇲🇹Malta<br>🇵🇹Portugal <br>🇻🇦Vatican City<br>🇩🇿Algeria<br>🇲🇳Mongolia<br>🇨🇲Cameroon <br>🇦🇫  Afghanistan🇬🇹Guatemala🇫🇷France🇹🇫French S. Territories <br>🇼🇫Wallis and Futuna<br>🇳🇬Nigeria<br>🇳🇫Norfolk Island<br>🇮🇪Ireland | 🇮🇹Italy<br>🇲🇽Mexico<br>🇨🇮 Côte D'Ivoire<br>🇨🇦Canada <br>🇵🇪Peru🇧🇧Barbados🇹🇩Chad🇻🇨St. Vincent& the Grenadines <br>🇦🇩Andorra<br>🇲🇩Moldova<br>🇷🇴Romania<br>🇲🇱Mali <br>🇸🇳Senegal<br>🇬🇳Guinea<br>🇧🇪Belgium<br>🇱🇰Sri Lanka
 	
 <!--
 **Horizontal Stripes - Varying Widths**
