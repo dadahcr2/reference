@@ -7,6 +7,8 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+15th December 2021 | [**Sleds Have No Seatbelts**](https://cdn.discordapp.com/attachments/884686604944437278/922094981357895710/IMG_2794.png) | Sledding | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Sleds+Have+No+Seatbelts%22)
+8th December 2021 | [**FERRIS-WHEELIE**](https://cdn.discordapp.com/attachments/884686604944437278/922094981139820594/IMG_2793.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22FERRIS-WHEELIE%22)
 1st December 2021 | [**Express Delivery**](https://cdn.discordapp.com/attachments/884686604944437278/917533254523949126/IMG_2455.png) | Cargo | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Express+Delivery%22)
 24th November 2021 | [**Need for Swiftness**](https://cdn.discordapp.com/attachments/884686604944437278/914691205034545172/IMG_2092.png) | 2km Time attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Need+for+Swiftness%22)
 17th November 2021 | [**In the Name of the Moon**](https://cdn.discordapp.com/attachments/884686604944437278/909393855512735835/IMG_1538.png) | Moon Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%In+the+Name+of+the+Moon%22)      
