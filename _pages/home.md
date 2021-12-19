@@ -878,7 +878,7 @@ I highly recommend these:
 	
 | Two Horizontal Stripes | |  
 -- | --  
-🇧🇫Burkina Faso<br>🇮🇩Indonesia <br> 🇲🇨Monaco <br> 🇵🇱Poland <br>🇸🇬Singapore<br>🇸🇲San<br>Marino<br>🇺🇦Ukraine<br>🇭🇹Haiti | 🇱🇮Liechtenstein<br>🇨🇱Chile<br>🇵🇦Panama<br>🇧🇯Benin🇬🇼Guinea-Bissau<br>🇲🇬Madagascar<br>🇧🇾Belarus<br>🇦🇴Angola
+🇧🇫Burkina Faso<br>🇮🇩Indonesia <br> 🇲🇨Monaco <br> 🇵🇱Poland <br>🇸🇬Singapore<br>🇸🇲San Marino<br>🇺🇦Ukraine<br>🇭🇹Haiti | 🇱🇮Liechtenstein<br>🇨🇱Chile<br>🇵🇦Panama<br>🇧🇯Benin<br>🇬🇼Guinea-Bissau<br>🇲🇬Madagascar<br>🇧🇾Belarus<br>🇦🇴Angola
 	
 | Three Horizontal Stripes - White Middle | |    
 -- | --  
@@ -894,7 +894,7 @@ I highly recommend these:
 
 | Crosses | |   
 -- | --
-🇨🇭Switzerland<br>🇹🇴Tonga<br>🇦🇽Åland Islands<be>🇮🇸Iceland<br>🇸🇪Sweden<br>🇩🇰Denmark<br>🇳🇴Norway | 🇫🇴Faro Islands <br>🇫🇮Finland<br>🇩🇲Dominica<br>🇩🇴Dominican Republic<br>🇬🇪Georgia <br>🇬🇬Guernsey<br>🇲🇶Martinique
+🇨🇭Switzerland<br>🇹🇴Tonga<br>🇦🇽Åland Islands<br>🇮🇸Iceland<br>🇸🇪Sweden<br>🇩🇰Denmark<br>🇳🇴Norway | 🇫🇴Faro Islands <br>🇫🇮Finland<br>🇩🇲Dominica<br>🇩🇴Dominican Republic<br>🇬🇪Georgia <br>🇬🇬Guernsey<br>🇲🇶Martinique
 
 	
 | Mostly One Color | |    
@@ -903,7 +903,7 @@ I highly recommend these:
 
 | Triangles | |  
 -- | --
-🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan🇵🇸<br>PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique<br>🇧🇸Bahamas<br>🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe
+🇦🇬Antigua & Barbuda<br>🇪🇷Eritrea<br>🇬🇾Guyana<br>🇸🇨Seychelles <br>🇨🇿 Czech Republic<br>🇩🇯Djibouti<br>🇵🇭Philippines<br>🇸🇽St. Maarten <br>🇬🇶EquatorialGuinea<br>🇯🇴Jordan<br>🇵🇸PalestinianTerritory<br>🇸🇩Sudan | 🇪🇭WesternSahara<br>🇲🇿Mozambique<br>🇧🇸Bahamas<br>🇸🇹Sao Tome& Principe <br>🇰🇲Comoros<br>🇨🇺Cuba<br>🇵🇷Puerto Rico<br>🇿🇦South Africa <br>🇸🇸South Sudan<br>🇻🇺Vanuatu<br>🇿🇼Zimbabwe
 	
 | Vertical Stripes | |  
 -- | --
