@@ -288,7 +288,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
   <summary>
     Season 7 - Final Results
   </summary>	
-&nbsp;&nbsp;**By Division**  
+
 <details  markdown="block">
   <summary>
     - C.C.
@@ -382,7 +382,7 @@ Top teams
  – *Source: Apru*
 <br>			
 </details>	
-&nbsp;&nbsp;[**Previous League Seasons**]({{site.url}}/seasons/)  			
+[ - Previous League Seasons]({{site.url}}/seasons/)  			
 </details>
 	
 ##  Wikis & Tutorials
