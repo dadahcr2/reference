@@ -871,7 +871,7 @@ I highly recommend these:
 | -- | -- |
 🇬🇧United Kingdom<br>🇫🇯Fiji <br>🇹🇻Tuvalu<br>🇧🇲Bermuda <br>🇻🇬BVI <br> 🇨🇰Cook Islands <br> 🇦🇮Anguilla<br>🇰🇾Cayman Islands <br>🇫🇰Falkland Islands <br> 🇲🇸Montserrat <br> 🇵🇳Pitcairn <br> 🇸🇭St. Helena | 🇬🇸South Georgia <br> 🇹🇨Turks & Caicos <br> 🇦🇺Australia <br> 🇳🇿New Zealand <br>🇮🇴British Indian Ocean Territory <br> 🇳🇺Niue <br> 🇧🇮Burundi <br> 🇬🇩Grenada <br>🇯🇲Jamaica <br> 🇯🇪Jersey <br> 🇲🇰Macedonia <br> 🇷🇪Réunion
 	
-| Horizontal Stripes | Varying Widths |  
+| Horizontal Stripes | (Varying Widths) |  
 -- | --  
 🇨🇼Curaçao <br> 🇰🇭Cambodia <br> 🇰🇵North Korea  <br> 🇸🇿Swaziland <br> 🇵🇫French Polynesia | 🇱🇧Lebanon  <br> 🇪🇸Spain <br> 🇷🇼Rwanda <br> 🇨🇴Colombia  <br> 🇪🇨Ecuador
 
@@ -880,11 +880,11 @@ I highly recommend these:
 -- | --  
 🇧🇫Burkina Faso<br>🇮🇩Indonesia <br> 🇲🇨Monaco <br> 🇵🇱Poland <br>🇸🇬Singapore<br>🇸🇲San Marino<br>🇺🇦Ukraine<br>🇭🇹Haiti | 🇱🇮Liechtenstein<br>🇨🇱Chile<br>🇵🇦Panama<br>🇧🇯Benin<br>🇬🇼Guinea-Bissau<br>🇲🇬Madagascar<br>🇧🇾Belarus<br>🇦🇴Angola
 	
-| 3 Horiz. Stripes | White Middle |    
+| 3 Horiz. Stripes | (White Middle) |    
 -- | --  
 🇦🇷Argentina<br>🇳🇮Nicaragua<br>🇺🇿Uzbekistan<br>🇸🇻El Salvador<br>🇭🇳Honduras<br>🇱🇸Lesotho<br>🇸🇱Sierra Leone<br>🇱🇻Latvia <br>🇮🇷Iran<br>🇰🇼Kuwait<br>🇾🇪Yemen<br>🇦🇪UAE | 🇱🇺Luxembourg<br>🇭🇷Croatia<br>🇳🇱Netherlands<br>🇵🇾Paraguay<br>🇭🇺Hungary<br>🇹🇯Tajikistan<br>🇦🇹Austria<br>🇪🇬Egypt<br>🇮🇶Iraq<br>🇸🇾Syria<br>🇮🇳India
 
-| 3 Horiz. Stripes |  Other Middle |  
+| 3 Horiz. Stripes |  (Other Middle) |  
 -- | --  
 🇷🇺Russia<br>🇷🇸Serbia<br>🇸🇰Slovakia<br>🇸🇮Slovenia<br>🇻🇪 Venezuela<br>🇧🇬Bulgaria<br>🇱🇹Lithuania<br>🇲🇲Myanmar <br>🇦🇿Azerbaijan<br>🇴🇲Oman | 🇲🇼Malawi<br>🇩🇪Germany <br>🇱🇾Libya<br>🇬🇦Gabon<br>🇪🇹Ethiopia<br>🇧🇴Bolivia <br>🇬🇭Ghana<br>🇦🇲Armenia<br>🇪🇪Estonia
 	
