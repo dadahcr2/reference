@@ -50,16 +50,10 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    PE: Sleds have no Seatbelts
+    PE: Nutcrackers & Neckflips
   </summary>
 <br>
-**Track Order**  
-Down’n’Down  
-Snow Time  
-Downhill 25.733 sled  
-Castle Crash  
-Snow Tunnel  
-Ice Cavern  
+![](https://cdn.discordapp.com/attachments/852315313286545448/923548301821894666/IMG_2858.png)  	
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
