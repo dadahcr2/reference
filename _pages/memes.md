@@ -7,6 +7,10 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+December 25
+
+![](https://imgur.com/dPSEmmO)
+
 October 11
 
 ![](https://cdn.discordapp.com/attachments/795615515917418496/897052427184918538/Screenshot_20210310-234430_Meme_Generator_Free.jpg)
