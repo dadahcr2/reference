@@ -9,7 +9,7 @@ classes: wide
 
 December 25
 
-![](https://imgur.com/dPSEmmO)
+![](https://images-ext-2.discordapp.net/external/lQ0PWa2kH57ZpoNtHq5_XwoaZzWs8ao6jH-8E7Z7BXg/https/i.imgur.com/dPSEmmO.png)
 
 October 11
 
