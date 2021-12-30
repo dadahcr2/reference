@@ -31,29 +31,14 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/921752418654502912/923997213472985088/IMG_2911.png)  
 <br>
 </details>
-<details markdown="block">
-  <summary>
-    TE: Ice to meet you
-  </summary>
-<br>
-![scooter2] ![moto2] ![mono2] ![snowmobile2] ![hotrod2] 
-	
-![](https://media.discordapp.net/attachments/851566907920089128/921430049138307145/IMG_2728.jpg)
-	
-![](https://cdn.discordapp.com/attachments/858851529058418765/921297484825890836/2021-12-17_09h07_07.png)
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/921430193934061638/IMG_2727.png)  
-	
-<br>
-</details>
 
 
 <details  markdown="block">
   <summary>
-    PE: Nutcrackers & Neckflips
+    PE: Going the Distance
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/852315313286545448/923548301821894666/IMG_2858.png)  	
+![](https://cdn.discordapp.com/attachments/852315313286545448/925964005544181770/IMG_3096.png)  	
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
