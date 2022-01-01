@@ -687,14 +687,7 @@ Distance | Obstacle
 </details>	
 	
 ## Cups
-<details  markdown="block">
-  <summary>
-     Driftmas  Tracks
-  </summary>
 
-![](https://cdn.discordapp.com/attachments/884641147547422821/915570845294936074/incollage_save.jpg)
-
-</details>
 <details  markdown="block">
   <summary>
     Jump into January: Tracks and Trophy Road
