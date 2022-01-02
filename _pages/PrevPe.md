@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+29th December 2021 | [**Going the Distance**](https://cdn.discordapp.com/attachments/884686604944437278/927177553733644298/IMG_3210.png) | Uphill Distance | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Going+the+Distance%22)
 22nd December 2021 | [**Nutcrackers & Neckflips**](https://cdn.discordapp.com/attachments/884686604944437278/924477586585829406/IMG_3035.png) | Gift Smash | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Nutcrackers+and+Neckflips%22)
 15th December 2021 | [**Sleds Have No Seatbelts**](https://cdn.discordapp.com/attachments/884686604944437278/922094981357895710/IMG_2794.png) | Sledding | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Sleds+Have+No+Seatbelts%22)
 8th December 2021 | [**FERRIS-WHEELIE**](https://cdn.discordapp.com/attachments/884686604944437278/922094981139820594/IMG_2793.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22FERRIS-WHEELIE%22)
