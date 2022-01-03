@@ -13,6 +13,7 @@ PR Global Community HCR2  | <https://discord.gg/PaXsSDJPxX>
 HCR 2 - World | <https://discord.gg/UkfkMDapgc>  
 Norsemen | <https://discord.gg/fA4QpzFfHp>  
 AUSNZ HCR2 | <https://discord.gg/T648qRWksd>  
+Discord Drivers (Discord team)' | <https://discord.gg/hcr2>  
 HCR2 Community Loung | <https://discord.gg/JbdAzEfE5k>  
 Climb Canyon League HCR2 | <https://discord.gg/c7Bz3UxsQu>  
 The HCR2 Link Database | <https://discord.gg/X6ZDzMH34V>  
@@ -141,7 +142,6 @@ PRIDE - Hill Climb Racing Team | <https://discord.gg/WZEvcPn3F2>
 RR \| WARRIORS | <https://discord.gg/RnBHMSa6Wh>  
 [RB] Rentnerbrigade / [JB} Juniorbrigade | <https://discord.gg/4rNDjeu>  
 Critical X HCR Community | <https://discord.gg/xDGBF7AYfy>  
-Discord Drivers (Discord team) | <https://discord.gg/hcr2> '
 Team T2 SINGH | <https://discord.gg/vtndJqs9hX>  
 Server von Power-Ladys | <https://discord.gg/QHFGyXchdM>  
 The Fun Racer 1 & 2 | <https://discord.gg/mjzuNUScjd>  
