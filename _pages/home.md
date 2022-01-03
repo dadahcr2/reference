@@ -149,9 +149,13 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary>
-   Top 10 Teams Ranked after Season 7
+   Top 10 Teams Ranked after Season 8
   </summary>
 	
+![](https://cdn.discordapp.com/attachments/858336498159714324/927561776982278214/IMG_3246.png)   
+**Dada Top 10 Ranking (Seasons 1-8)**
+- TNO joins PL National in 3rd place
+- IMPERIO~H (8→6) and **?** (10→7) leapfrog UNIVERSE (6→8) and LEGION (7→9)
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/915578260937642014/IMG_2328.png)  
 **Revised Dada Top 10 Ranking (Seasons 1-7)**
