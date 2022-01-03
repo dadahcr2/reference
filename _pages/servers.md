@@ -141,6 +141,7 @@ PRIDE - Hill Climb Racing Team | <https://discord.gg/WZEvcPn3F2>
 RR \| WARRIORS | <https://discord.gg/RnBHMSa6Wh>  
 [RB] Rentnerbrigade / [JB} Juniorbrigade | <https://discord.gg/4rNDjeu>  
 Critical X HCR Community | <https://discord.gg/xDGBF7AYfy>  
+Discord Drivers (Discord team) | <https://discord.gg/hcr2> '
 Team T2 SINGH | <https://discord.gg/vtndJqs9hX>  
 Server von Power-Ladys | <https://discord.gg/QHFGyXchdM>  
 The Fun Racer 1 & 2 | <https://discord.gg/mjzuNUScjd>  
@@ -155,3 +156,4 @@ HCR1 Assets | <https://discord.gg/3UsWqKySXQ>
 Hill Climb Racing 1 Community | <https://discord.gg/89sW7UEQfu>  
 
 *Source: **HCR Server Link Hub** (a truly excellent discord server) - Aug 21, 2021*
+' (with a few manual additions)
