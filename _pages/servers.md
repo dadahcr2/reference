@@ -14,7 +14,7 @@ HCR 2 - World | <https://discord.gg/UkfkMDapgc>
 Norsemen | <https://discord.gg/fA4QpzFfHp>  
 AUSNZ HCR2 | <https://discord.gg/T648qRWksd>  
 Discord Drivers (Discord team)' | <https://discord.gg/hcr2>  
-HCR2 Community Loung | <https://discord.gg/JbdAzEfE5k>  
+HCR2 Community Lounge | <https://discord.gg/JbdAzEfE5k>  
 Climb Canyon League HCR2 | <https://discord.gg/c7Bz3UxsQu>  
 The HCR2 Link Database | <https://discord.gg/X6ZDzMH34V>  
 Wild Turbo Community | <https://discord.gg/MskQchbyrJ>  
