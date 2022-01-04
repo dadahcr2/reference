@@ -12,7 +12,7 @@ toc_sticky: true
 
 ***
 -->
-![General Advice](https://cdn.discordapp.com/attachments/620194322855493632/843947192045666314/image0.png)  
+![General Advice](https://cdn.discordapp.com/attachments/617353655468687390/926909427825647667/IMG_3197.png)  
 
 ### Getting started
 #### Introduction
