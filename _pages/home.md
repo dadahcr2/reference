@@ -420,9 +420,9 @@ Top teams
 	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)  
-- [How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)
+- [How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)  
 	[![](http://img.youtube.com/vi/etd0UTGpOdM/0.jpg)](http://www.youtube.com/watch?v=etd0UTGpOdM)
-- [How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)
+- [How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
 	[![](http://img.youtube.com/vi/YizwyYSie1A/0.jpg)](http://www.youtube.com/watch?v=YizwyYSie1A)
 	
 </details>	
