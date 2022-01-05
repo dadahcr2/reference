@@ -17,20 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates  
-<details markdown="block">
-  <summary>
-    TE: The Gift of Winning
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/923891224497233930/IMG_2871.jpg)  
-![jeep2] ![monster2] ![rally2] ![rt2] ![ev2]  
-![](https://cdn.discordapp.com/attachments/851566907920089128/923891448980574239/IMG_2870.png)  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/924001762699006003/te_Strategy.png) 
-	
-![](https://cdn.discordapp.com/attachments/921752418654502912/923997213472985088/IMG_2911.png)  
-<br>
-</details>
+
 <details markdown="block">
   <summary>
     TE: Tick Tock
@@ -46,10 +33,10 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    PE: Going the Distance
+    PE: Garage Power, Make Up!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/926755795335540786/IMG_3172.png)  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/928274193638887454/IMG_3278.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
