@@ -36,7 +36,7 @@ classes: wide
     PE: Garage Power, Make Up!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/928274193638887454/IMG_3278.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/928798321819140167/Untitled_93.png)
 	
 For more information on Public Events, please feel free to join the Public Event Discord Server
 <https://discord.gg/FZPnQbxZTQ>
