@@ -20,6 +20,19 @@ classes: wide
 
 <details markdown="block">
   <summary>
+    TE: Eyes on the Clock
+  </summary>
+<br>
+![](https://media.tenor.co/videos/e7575a4bb1bba7dd52de1f8d6fdccf0d/mp4)
+	
+![](https://cdn.discordapp.com/attachments/894901600974430268/929000307139166239/IMG_3324.png)  
+
+![](https://cdn.discordapp.com/attachments/817854010161758238/928999621714378782/te_strategy.png)  
+<br>
+</details>
+
+<details markdown="block">
+  <summary>
     TE: Tick Tock
   </summary>
 <br>
