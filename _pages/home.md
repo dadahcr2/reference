@@ -718,7 +718,8 @@ Uphill Cup
 Dirty Rally  
 Spring City  
 Sunday Champ  
-
+Mystical Cup
+	
 </details>	
 	
 <details  markdown="block">
