@@ -442,7 +442,6 @@ Top teams
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
 	
 **HCR2 Parts Costs**  
-{: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 	
 ### Fuel duration
@@ -479,8 +478,13 @@ Hot Rod | LandingBoost CoinBoost FuelBoost / Magnet LandingBoost CoinBoost / Fum
 Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / OverchargedTurbo Afterburner CoinBoost
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
-
-### Least-used Parts
+	
+</details>  
+	
+<details  markdown="block">
+  <summary>
+    Least-used Parts
+  </summary>
 	
 These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
 
