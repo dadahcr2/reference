@@ -696,7 +696,13 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
+</details>	
 	
+<details  markdown="block">
+  <summary>
+    Gloomvale sign order
+  </summary>
+![](https://cdn.discordapp.com/attachments/617353655468687390/931526876780986388/FB_IMG_1624479864960.jpg)
 </details>	
 	
 ## Cups
