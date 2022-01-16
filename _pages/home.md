@@ -216,81 +216,25 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 	
 <details  markdown="block">
   <summary>
-   Leagues Stats - Season 7/8
+   Leagues Stats - Season 8/9
   </summary>
+
+**#Active Teams - Season 9**	
+![](https://cdn.discordapp.com/attachments/858336498159714324/932151754848632862/IMG_3559.png)  	
 	
-**Most popular team event vehicle parts**  
-So I put together the chart below.   Basically I took all Team Event Strategy Info from SoulisBot (thanks Soulis 👍) from about the last 6 months or so and counted how often  each vehicle part was mentioned.  I sorted the vehicles from most popular (Hotrod) to least popular (mono) as well as for each vehicle, which parts were used most -  which I listed from left to right (e.g. Coin Boost was the most popular for Hotrod).  I left  out any part that was used less than 15% of the time to shorten the list.  Overall, Wings was clearly the most popular part followed by a close competition between CoinBoost and Afterburners.  
-![](https://cdn.discordapp.com/attachments/858336498159714324/918114027597602846/IMG_2501.png)  
-	
-**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 7)**  
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 8)** 
 (assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
-- The promotion boundary from Division 1 to CC dropped by another 40 points as teams increasingly attempt to avoid promotion
-- It is still easier to enter Division 2 by being double-promoted from Division 4 (2529 average score) than to be single-promoted from Division  3 (2770 average score) but has narrowed a bit.  Similar story for entering Division 3 or 4.
-- Estimated total scores for promotion and relegation in December (Season 8) are shown in the second table  
-
-![](https://media.discordapp.net/attachments/858336498159714324/916041239114174555/IMG_2366.png)  
+- The promotion boundary from Division 1 to CC dropped by another 20 points as teams continue to attempt to avoid promotion. Interesting the promotion boundary for 2→3 and 3→4 also dropped. 
+- Much lower averages for the bottom divisions - partially reflecting that teams are not full, but mostly due to inactivity
+- Estimated total scores for promotion and relegation in January (Season 9) are shown in the second table  
+![](https://cdn.discordapp.com/attachments/858336498159714324/928028630297243668/IMG_3263.png)  	
+![](https://cdn.discordapp.com/attachments/858336498159714324/928028630574059570/IMG_3264.png)  
+		
+![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png)  
+Average coins are divided by 200 as this is how much scrap coins can be converted to if used to buy common or rare parts in the shop
 	
-	
-**Did teams in CC & D1 around the #50 rank sandbag to avoid CC for Season 8?**
-
-The quick answer is not really for CC, but very much so for D1!
-
-I compared the increase in each rank’s score with the prior average.  Assuming teams played as normal, the two should not be that different, although the average should be more stable.  And that is exactly what we find in CC.
-
-However, in D1, the last match scores are substantially below that of the prior averages for teams ranked between 25 and 100.   The top 25 seemed content to be promoted or perhaps resigned to their fate as they played as normal.  However, below this, many teams either skipped their last match or did not put in a full effort.
-
-This was especially clear between ranks 35 and 60 where the increases were 2000 or less despite those positions having previously average about 3000 per match. The nadir was #41 which only increased 1000 suggesting that it was teams ranked around #40 or so that realized that they had to take extreme action to avoid promotion.
-
-![](https://cdn.discordapp.com/attachments/858336498159714324/915798605862936586/IMG_2349.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/915798606169145375/IMG_2350.png)
-	
-**Pedal+Metal** Virtual League.  Enter your scores to see how you would compare against NORTH.
-<https://docs.google.com/spreadsheets/d/1TrdG6Pfpjz-8PKp9zRcspK4JfvnCur8amJoKM7-zfCM/edit>
-
-__**Team Leaderboard**__
-`NORTH                12010`
-`Greddit2              9205`
-`Op-1                  3850`
-`GBG-1                 2050`
-	
-A lot of strength at the top of ?.  2nd quartile of Germany appears stronger.  And the rest is very even. (The ones at the end don’t really count)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/914430502864314398/IMG_2069.png)  	
-
-`Greddit              53322`
-`Discord              52408`
-`Reddit2-2            42929`
-`GL                   40512`
-`Reddit2              39278`
-`GERMANY              38641`
-`Op-3                 26050`
-`Thor's Hammer-2      22240`
-`[F1]Formel1          19860`
-`Thor's Hammer-1      18605`
-`GBG-3                18426`
-`GBG-2                17157`
-`OP-1                 11497`
-`GBG-1                10656`
-
-**Gas Gas Gas** Virtual League
-<https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>
-	
-	
-I entered the ? ? And GERMANY scores into the Gas Gas Gas virtual league sheet.  I don’t know what is more impressive?  That both teams averaged 35k or that both had full teams with 100% participation!  Interestingly, Germany had a higher average score but still lost by 400 points, which really goes to show how important those top few places are (? ? Had the top 5 spots)
-<https://docs.google.com/spreadsheets/d/1qZY05571CFfh-V6oy4RXw-3cIYozHryl4Y75dkV1ZDg/edit>
-Feel free to enter your team’s scores (on the input sheet) to see how you would have done against them.
-	
-GERMANY scores much more consistent. “? ?” Has some really strong players (alt’s from their first team ? ) but does not quite have the depth of players that GERMANY has.  Team scores in the chart below ↓  
-![](https://cdn.discordapp.com/attachments/858336498159714324/912009369468698675/IMG_1883.png)  	
-	
-	
-	
-**How much to teams improve between matches of the same event**
-On a separate note, based on a study of Div 1 teams, players increased their scores by an average of 1k for every new match of Squad Goals.
-	
-**Change in #Teams** since last season
-![](https://media.discordapp.net/attachments/858336498159714324/909259460248223754/IMG_1527.png)  
-	
+**# Active Team Update - Season 8**  
+![](https://cdn.discordapp.com/attachments/858336498159714324/921938560720973884/IMG_2786.png)  
 
 	
 #### [Previous League Seasons]({{site.url}}/seasons/)  
