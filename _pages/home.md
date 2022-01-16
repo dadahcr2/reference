@@ -299,14 +299,16 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
 
 <details  markdown="block">
   <summary>
-    Season 7 - Final Results
+    Season 8 - Final Results
   </summary>	
 
 <details  markdown="block">
   <summary>
     - C.C.
   </summary>		
-![](https://cdn.discordapp.com/attachments/847866414638432256/915531998901182504/incollage_save.jpg)
+![](https://cdn.discordapp.com/attachments/847866414638432256/927542299418837042/ccs9page1.jpg)  
+![](https://cdn.discordapp.com/attachments/847866414638432256/927542300052193290/ccs9page2.jpg)   
+![](https://cdn.discordapp.com/attachments/847866414638432256/927542300815544320/ccs9page3.jpg)  
 <br>			
 </details>
 
@@ -315,11 +317,9 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
     - Div 1
   </summary>	
 	
-**Top 305 in November**
-![](https://cdn.discordapp.com/attachments/847867054635876383/915555677630496788/incollage_save.jpg)    
-![](https://cdn.discordapp.com/attachments/847867054635876383/915555677974462464/incollage_save.jpg)    
-![](https://media.discordapp.net/attachments/847867054635876383/915555678406447134/incollage_save.jpg)    
-![](https://cdn.discordapp.com/attachments/847867054635876383/915555678960103474/incollage_save.jpg)    
+**Top 153 in December**
+![](https://cdn.discordapp.com/attachments/847867054635876383/927538976607338556/div1top72.jpg)    
+![](https://cdn.discordapp.com/attachments/847867054635876383/927538977228066826/div1top153s8.jpg)      
 <br>			
 </details>
 
@@ -329,10 +329,9 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
     - Div 2
   </summary>
 	
-**November Top 1-205, 1197-1205, 1598-1606**  	
+Top teams	
 
-![](https://cdn.discordapp.com/attachments/847867127142154292/915559312045264896/incollage_save.jpg)
-![](https://cdn.discordapp.com/attachments/847867127142154292/915559312687005706/incollage_save.jpg)  
+![](https://cdn.discordapp.com/attachments/847867127142154292/928221013781671966/div2tops8.jpg)
 <br>			
 </details>
 	
@@ -342,7 +341,7 @@ On a separate note, based on a study of Div 1 teams, players increased their sco
   </summary>
 	
 Tops teams
-![](https://cdn.discordapp.com/attachments/847867258964279346/915894426038050816/div3s7top63.jpg)
+![](https://cdn.discordapp.com/attachments/847867258964279346/928220953891201044/div3tops8.jpg)
 		
  – *Source: Apru*
 <br>			
@@ -354,7 +353,7 @@ Tops teams
   </summary>
 	
 Top teams
-![](https://cdn.discordapp.com/attachments/847867467228512306/915894559614042152/div4s7top63.jpg)
+![](https://cdn.discordapp.com/attachments/847867467228512306/928220884282523668/div4top_teamss8.jpg)
 	
  – *Source: Apru*
 <br>			
@@ -366,7 +365,7 @@ Top teams
   </summary>
 	
 Top teams
-![](https://cdn.discordapp.com/attachments/847867553116454932/915895570277761044/div5s7top63.jpg)  
+![](https://cdn.discordapp.com/attachments/847867553116454932/928220802023833600/div5tops8.jpg)  
 	
  – *Source: Apru*
 <br>			
@@ -378,7 +377,7 @@ Top teams
   </summary>
 
 Top teams
-![](https://cdn.discordapp.com/attachments/847867760162635819/915900420117921792/div6s7.jpg)
+![](https://cdn.discordapp.com/attachments/847867760162635819/928220726765441034/div6tops8.jpg)
 	
  – *Source: Apru*
 <br>			
@@ -390,7 +389,7 @@ Top teams
   </summary>
 	
 Top teams
-![](https://cdn.discordapp.com/attachments/847867868568879154/915895601508519966/div7s7top63.jpg)
+![](https://cdn.discordapp.com/attachments/847867868568879154/928220664014438450/div7s8top.jpg)
 	
  – *Source: Apru*
 <br>			
