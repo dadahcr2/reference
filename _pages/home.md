@@ -32,7 +32,7 @@ classes: wide
 ![](https://media.discordapp.net/attachments/851566907920089128/931542236993323058/te_Strategy.png)
 
 </details>
-	
+<!--	
 <details markdown="block">
   <summary>
     TE: Eyes on the Clock
@@ -45,7 +45,7 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/817854010161758238/928999621714378782/te_strategy.png)  
 <br>
 </details>
-
+-->
 <details  markdown="block">
   <summary>
     PE: We Can't Stop!
