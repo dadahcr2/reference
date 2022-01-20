@@ -385,7 +385,7 @@ Top teams
 2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet. Feel free to clear/overwrite the example teams. Please enter a unique name in the top row, and individual scores below that.  
 
 3. Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
-[__HCR2 Virtual League.xlsx__](https://raw.githubusercontent.com/dadahcr2/reference/master/HCR2%20Virtual%20League.xlsx)
+[HCR2 Virtual League.xlsx](https://raw.githubusercontent.com/dadahcr2/reference/master/HCR2%20Virtual%20League.xlsx)
 
 **Aero's updated Spreadsheet**
 - Helps keep track of player progress in the game
@@ -398,6 +398,7 @@ ego1138 (on Reddit)
 > Download link is below . . and it's only the Excel version with macros, so you will need to enable content to use it.  
 > <https://www.mediafire.com/file/s7ge6lmve6712l1/HCR2_Empty_Spreadsheet.xlsm/file>
 
+**I have not checked this spreadsheet - use at own risk!**
 
 </details>	
 	
