@@ -372,6 +372,8 @@ Top teams
   <summary>
     Spreadsheets
   </summary>		
+
+  
 	
 **Virtual League Spreadsheet**
 	
@@ -383,9 +385,10 @@ Top teams
 2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet. Feel free to clear/overwrite the example teams. Please enter a unique name in the top row, and individual scores below that.  
 
 3. Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
-[HCR2 Virtual League.slsx](https://raw.githubusercontent.com/dadahcr2/reference/master/HCR2%20Virtual%20League.xlsx)
+[__HCR2 Virtual League.xlsx__](https://raw.githubusercontent.com/dadahcr2/reference/master/HCR2%20Virtual%20League.xlsx)
 
 **Aero's updated Spreadsheet**
+- Helps keep track of player progress in the game
 	
 ego1138 (on Reddit)
 > First off, I just want to clarify, this was cleared by the mods and Aerobiere.  
