@@ -334,7 +334,7 @@ Top teams
 &nbsp;&nbsp;- [Previous League Seasons]({{site.url}}/seasons/)  			
 </details>
 	
-##  Wikis & Tutorials
+##  Wikis, Tutorials & Spreadsheets
 
 <details  markdown="block">
   <summary>
@@ -366,6 +366,36 @@ Top teams
 - [How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
 	[![](http://img.youtube.com/vi/YizwyYSie1A/0.jpg)](http://www.youtube.com/watch?v=YizwyYSie1A)
 	
+</details>	
+	
+<details  markdown="block">
+  <summary>
+    Spreadsheets
+  </summary>		
+	
+**Virtual League Spreadsheet**
+	
+1. The idea is that teams can compete against each other (virtually) and see how they would do.
+    - **Virtual Match** : One-on-one vs. another team (select teams via dropdown)
+    - **Virtual League** : Teams ranked based on the total of all pairwise match scores
+    - **Super Match** : Results from one very large match that includes all teams
+
+2. Just have to enter your individual scores in a free column of the “Input” tab of the latest version of the sheet. Feel free to clear/overwrite the example teams. Please enter a unique name in the top row, and individual scores below that.
+
+3. Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
+<placeholder for link>
+
+**Aero's updated Spreadsheet**
+	
+ego1138 (on Reddit)
+> First off, I just want to clarify, this was cleared by the mods and Aerobiere.
+> So it seems like everyone has discovered, there was an issue with Aerobiere's spreadsheet when adding in the new vehicle. It didn't have the correct data validation for the parts, and the GP calculation was incorrect. (only on the hidden "additional" columns - not on the main sheet).
+> So with all due respect to Aerobiere and his great work, I've cracked into the spreadsheet and fixed up the formulas, and also added in the Gloomyvale adventure track as well. I've made no other changes. I've not added in any additional columns for future expansion, etc.
+> This is his spreadsheet, and his to update. I'm only posting this after getting it cleared, as he doesn't have the time right now to correct the sheet. So this will hopefully tide everyone over until he returns. :)
+> Download link is below . . and it's only the Excel version with macros, so you will need to enable content to use it.
+> <https://www.mediafire.com/file/s7ge6lmve6712l1/HCR2_Empty_Spreadsheet.xlsm/file>
+
+
 </details>	
 	
 ## Vehicles
