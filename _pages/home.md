@@ -20,18 +20,25 @@ classes: wide
 
 <details markdown="block">
   <summary>
-    TE: Down with the Quickness
+    TE: Bill's Excellent Adventure
   </summary>
-<br>
+<br> 
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/931519917021339688/A07A9547-3852-4385-8B69-0A56A93F2174.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/933950727397728366/IMG_3671.jpg)  
+		
+![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
 	
-	
-![mk22] ![Monster2] ![Tank2] ![RT2] ![Supercar2]   
-![](https://cdn.discordapp.com/attachments/858851529058418765/931523248271790120/IMG_3480.png)
-![](https://media.discordapp.net/attachments/851566907920089128/931542236993323058/te_Strategy.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
 
-</details>
+![](https://cdn.discordapp.com/attachments/921752418654502912/933892229154603068/wipbeachjump.jpg)  
+
+Beach Downhill  
+![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/934140837527441408/te_Strategy.png)
+
+</details>	
+ 
 <!--	
 <details markdown="block">
   <summary>
