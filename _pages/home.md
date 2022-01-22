@@ -58,7 +58,7 @@ Beach Downhill
     PE: Aerial Automobiles
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/933421549699104878/IMG_3622.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/934488868361760888/IMG_3721.png)  
 	  	
 </details>	
 
