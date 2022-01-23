@@ -41,7 +41,7 @@ These numbers may be updated as more data is collected.  The underlying data is 
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/723882517739864084/image0.png)
 
-This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1 Champion(24h) Chest
+> This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1 Champion(24h) Chest
 
 #### Relative Value of Cup Chests
 
