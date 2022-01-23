@@ -31,7 +31,7 @@ Video | 1432.5 (1125-4500) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3
 VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 60 (60)
 10 Wins | 5490 (4500-9000) |  33.8 (29-38) | 4.17 (2-10) | 0.6 (0-6) | 0.05 (0-3) | 3.33 (2-5)
 
-\* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
+> Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
 These numbers may be updated as more data is collected.  The underlying data is available [here](/chestdata/)
 
