@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+17th January 2022 | [**Aerial Automobiles**](https://cdn.discordapp.com/attachments/884686604944437278/934700847403790336/IMG_3768.png) | Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Aerial+Automobiles%22)  
 12th January 2022 | [**WE CAN’T STOP**](https://cdn.discordapp.com/attachments/884686604944437278/932155626669355008/IMG_3560.png) | Downhill | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22WE+CAN’T+STOP%22)
 5th January 2022 | [**Garage Power, Make Up!**](https://cdn.discordapp.com/attachments/884686604944437278/931039027455467570/IMG_3465.png) | Moon Time-attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Garage+Power,+Make+Up!%22)  
 29th December 2021 | [**Going the Distance**](https://cdn.discordapp.com/attachments/884686604944437278/927177553733644298/IMG_3210.png) | Uphill Distance | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Going+the+Distance%22)
