@@ -7,6 +7,10 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+January 24
+
+![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png)  
+
 January 13
 
 ![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png)
