@@ -913,7 +913,7 @@ I highly recommend these:
 	- Fair Play: <https://discord.gg/mnSmNU9XMr>  
 	- Art Gallery: <https://discord.gg/tr4jWzvbrB>  
 	- Climb Canyon League: <https://discord.gg/gE8xh925V6>  
-	- HCR2 Cupboard: <https://discord.gg/g3aKuuNHNA>  
+	- HCR2 CupBoard: <https://discord.gg/g3aKuuNHNA>  
 	- Server Link Hub: <https://discord.gg/RcpT9dyrN5>  
 	
 - [HCR2 Friend Links](/friends/)
