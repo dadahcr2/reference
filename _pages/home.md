@@ -828,7 +828,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   </summary>
 	
 I highly recommend these:
-- Tractor  Wars : <http://tw.hcr2.info> (daily on a break)  
+- Tractor  Wars : <http://tw.hcr2.info>  
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
@@ -906,7 +906,7 @@ I highly recommend these:
   </summary>
 	
 - [Discord Server Invites](/servers/)  
-	These are some of my favorites:  
+	> These are some of my favorites:  
 	- Public Events: <https://dsc.gg/hcr2pe>  
 	- HCR Maps: <https://dsc.gg/hcrmaps>  
 	- FS Server: <https://discord.gg/fingersoft>  
