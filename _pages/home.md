@@ -905,16 +905,16 @@ I highly recommend these:
     Server & Friend Invites
   </summary>
 	
-- [Discord Server Invites](/servers/)
-	These are some of my favorites:
-	- Public Events: <https://dsc.gg/hcr2pe>
-	- HCR Maps: <https://dsc.gg/hcrmaps>
-	- FS Server: <https://discord.gg/fingersoft>
-	- Fair Play: <https://discord.gg/mnSmNU9XMr>
-	- Art Gallery: <https://discord.gg/tr4jWzvbrB>
-	- Climb Canyon League: <https://discord.gg/gE8xh925V6>
-	- The Cupboard: <https://discord.gg/g3aKuuNHNA>
-	- Server Link Hub: <https://discord.gg/RcpT9dyrN5>
+- [Discord Server Invites](/servers/)  
+	These are some of my favorites:  
+	- Public Events: <https://dsc.gg/hcr2pe>  
+	- HCR Maps: <https://dsc.gg/hcrmaps>  
+	- FS Server: <https://discord.gg/fingersoft>  
+	- Fair Play: <https://discord.gg/mnSmNU9XMr>  
+	- Art Gallery: <https://discord.gg/tr4jWzvbrB>  
+	- Climb Canyon League: <https://discord.gg/gE8xh925V6>  
+	- The Cupboard: <https://discord.gg/g3aKuuNHNA>  
+	- Server Link Hub: <https://discord.gg/RcpT9dyrN5>  
 	
 - [HCR2 Friend Links](/friends/)
 	
