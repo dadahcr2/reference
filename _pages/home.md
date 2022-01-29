@@ -906,6 +906,15 @@ I highly recommend these:
   </summary>
 	
 - [Discord Server Invites](/servers/)
+	These are some of my favorites:
+	- Public Events: <https://dsc.gg/hcr2pe>
+	- HCR Maps: <https://dsc.gg/hcrmaps>
+	- FS Server
+	- Fair Play
+	- Art Gallery
+	- Climb Canyon League
+	- The Cupboard
+	
 - [HCR2 Friend Links](/friends/)
 	
 	
