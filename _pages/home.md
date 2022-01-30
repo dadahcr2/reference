@@ -30,27 +30,6 @@ classes: wide
 ![](https://cdn.discordapp.com/attachments/851566907920089128/937073414399754290/te_Strategy.png)    
 	
 </details>
-
-<details markdown="block">
-  <summary>
-    TE: Bill's Excellent Adventure
-  </summary>
-<br> 
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/933950727397728366/IMG_3671.jpg)  
-		
-![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
-
-![](https://cdn.discordapp.com/attachments/921752418654502912/933892229154603068/wipbeachjump.jpg)  
-
-Beach Downhill  
-![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/934140837527441408/te_Strategy.png)
-
-</details>	
  
 <!--	
 <details markdown="block">
@@ -920,14 +899,14 @@ I highly recommend these:
 	
 - [Discord Server Invites](/servers/)  
 	> These are some of my favorites:  
-	- Public Events: <https://dsc.gg/hcr2pe>  
-	- HCR Maps: <https://dsc.gg/hcrmaps>  
-	- FS Server: <https://discord.gg/fingersoft>  
-	- Fair Play: <https://discord.gg/mnSmNU9XMr>  
-	- Art Gallery: <https://discord.gg/tr4jWzvbrB>  
-	- Climb Canyon League: <https://discord.gg/gE8xh925V6>  
-	- HCR2 CupBoard: <https://discord.gg/g3aKuuNHNA>  
-	- Server Link Hub: <https://discord.gg/RcpT9dyrN5>  
+	> - Public Events: <https://dsc.gg/hcr2pe>  
+	> - HCR Maps: <https://dsc.gg/hcrmaps>  
+	> - FS Server: <https://discord.gg/fingersoft>  
+	> - Fair Play: <https://discord.gg/mnSmNU9XMr>  
+	> - Art Gallery: <https://discord.gg/tr4jWzvbrB>  
+	> - Climb Canyon League: <https://discord.gg/gE8xh925V6>  
+	> - HCR2 CupBoard: <https://discord.gg/g3aKuuNHNA>  
+	> - Server Link Hub: <https://discord.gg/RcpT9dyrN5>  
 	
 - [HCR2 Friend Links](/friends/)
 	
