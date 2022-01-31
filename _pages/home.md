@@ -479,6 +479,7 @@ Rally Car | FlipBoost AirControl
 Formula | FlipBoost RollCage
 Racing Truck | FlipBoost LandingBoost
 Hot Rod | -
+CC-EV | FlipBoost
 Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
