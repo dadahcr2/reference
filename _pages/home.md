@@ -444,6 +444,7 @@ Rally Car | OverchargedTurbo Afterburner Wings / OverchargedTurbo Wings CoinBoos
 Formula | Wings JumpShocks LandingBoost / OverchargedTurbo FuelBoost CoinBoost / StartBoost JumpShocks LandingBoost
 Racing Truck | WheelieBoost CoinBoost Wings / CoinBoost FumeBoost WheelieBoost
 Hot Rod | LandingBoost CoinBoost FuelBoost / Magnet LandingBoost CoinBoost / FumeBoost CoinBoost LandingBoost
+CC-EV | Wings LandingBoost CoinBoost
 Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / OverchargedTurbo Afterburner CoinBoost
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
