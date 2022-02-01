@@ -415,7 +415,7 @@ Top teams
 	
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)  
-CC-EV : 45 Seconds  
+	> CC-EV : 45 Seconds  
 </details>	
 		
 <details  markdown="block">
