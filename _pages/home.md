@@ -414,8 +414,8 @@ Top teams
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 	
 ### Fuel duration
-![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
-
+![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)  
+CC-EV : 45 Seconds  
 </details>	
 		
 <details  markdown="block">
