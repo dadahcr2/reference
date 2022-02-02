@@ -7,6 +7,7 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+24th January 2022 | [**Servo Scramble**](https://cdn.discordapp.com/attachments/884686604944437278/938259064297754654/IMG_4073.png) | Multi Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Servo+Scramble%22)
 17th January 2022 | [**Aerial Automobiles**](https://cdn.discordapp.com/attachments/884686604944437278/934700847403790336/IMG_3768.png) | Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Aerial+Automobiles%22)  
 12th January 2022 | [**WE CAN’T STOP**](https://cdn.discordapp.com/attachments/884686604944437278/932155626669355008/IMG_3560.png) | Downhill | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22WE+CAN’T+STOP%22)
 5th January 2022 | [**Garage Power, Make Up!**](https://cdn.discordapp.com/attachments/884686604944437278/931039027455467570/IMG_3465.png) | Moon Time-attack | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Garage+Power,+Make+Up!%22)  
