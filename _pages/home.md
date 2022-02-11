@@ -39,19 +39,7 @@ classes: wide
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/939200761391357992/te_Strategy.png)  
 </details>
-<details markdown="block">
-  <summary>
-    TE: Abrupt Automobiles 
-  </summary>
-<br> 
 
-![Jeep2] ![Buggy2] ![Diesel2] ![Chopper2] ![Hotrod2]  
-![](https://cdn.discordapp.com/attachments/851566907920089128/936481739604393994/IMG_3923.png)  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/937073414399754290/te_Strategy.png)    
-	
-</details>
- 
 <!--	
 <details markdown="block">
   <summary>
