@@ -7,6 +7,9 @@ classes: wide
 
 Start Date | Event Name | Type | YT
 :--: | :-- | :-- | :--
+16th February 2022 | [**Steady Hands**](https://cdn.discordapp.com/attachments/884686604944437278/945154679418011748/IMG_4575.png) | Wheelie | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Steady+Hands%22)
+9th February 2022 | [**Fractured Romance**](https://cdn.discordapp.com/attachments/884686604944437278/945154673034272829/IMG_4574.png) | Multi Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Fractured+Romance%22)
+2nd February 2022 | [**Lug-Nuts & Laid Rubber**](https://cdn.discordapp.com/attachments/884686604944437278/945154666059157554/IMG_4573.png) | Nian Chase | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Lug-Nuts+&+Laid+Rubber%22)
 24th January 2022 | [**Servo Scramble**](https://cdn.discordapp.com/attachments/884686604944437278/938259064297754654/IMG_4073.png) | Multi Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Servo+Scramble%22)
 17th January 2022 | [**Aerial Automobiles**](https://cdn.discordapp.com/attachments/884686604944437278/934700847403790336/IMG_3768.png) | Long Jump | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22Aerial+Automobiles%22)  
 12th January 2022 | [**WE CAN’T STOP**](https://cdn.discordapp.com/attachments/884686604944437278/932155626669355008/IMG_3560.png) | Downhill | [🎦](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22WE+CAN’T+STOP%22)
