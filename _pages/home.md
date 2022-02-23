@@ -30,45 +30,17 @@ classes: wide
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/944399339944570930/te_Strategy.png)  
 
-	
-</details>
-<details markdown="block">
-  <summary>
-    TE: The Friendzone
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/858094235446411264/941852454352470036/IMG_4386.png)  
-	
-![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
-![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/941697502258794516/te_Strategy.png)  
-	
-</details>
+</details>	
 
-<!--	
-<details markdown="block">
-  <summary>
-    TE: Eyes on the Clock
-  </summary>
-<br>
-![](https://media.tenor.co/videos/e7575a4bb1bba7dd52de1f8d6fdccf0d/mp4)
-	
-![](https://cdn.discordapp.com/attachments/894901600974430268/929000307139166239/IMG_3324.png)  
 
-![](https://cdn.discordapp.com/attachments/817854010161758238/928999621714378782/te_strategy.png)  
-<br>
-</details>
--->
 <details  markdown="block">
   <summary>
-    PE: Steady Hands
+    PE: Sailor Sky Rock
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/944587560041189386/Untitled_162.png)  
-	  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/946011448461639680/Untitled_163.png)  
+	
 </details>	
-		
 
 <details  markdown="block">
   <summary>
