@@ -38,7 +38,7 @@ classes: wide
     PE: Sailor Sky Rock
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/946011448461639680/Untitled_163.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/946833565415505931/Untitled_168.png)  
 	
 </details>	
 
