@@ -32,21 +32,6 @@ classes: wide
 	
 </details>  
 
-<details markdown="block">
-  <summary>
-    TE: Impatience
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/944204415735328778/IMG_4487.jpg)  
-	
-![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
-![](https://cdn.discordapp.com/attachments/851566907920089128/944200086647365682/IMG_4486.png)  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/944399339944570930/te_Strategy.png)  
-
-</details>	
-
-
 <details  markdown="block">
   <summary>
     PE: Sailor Sky Rock
