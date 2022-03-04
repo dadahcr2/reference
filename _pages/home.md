@@ -24,9 +24,11 @@ classes: wide
   </summary>
 <br>
 ![](https://media.discordapp.net/attachments/851566907920089128/949036640511332442/IMG_4723.jpg) 
-	
+
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
 ![](https://cdn.discordapp.com/attachments/851566907920089128/946637731633692732/IMG_4636.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hJMaBYyEgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/946834678831255562/te_Strategy.png)  
 	
