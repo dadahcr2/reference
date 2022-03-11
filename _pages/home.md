@@ -20,6 +20,22 @@ classes: wide
 
 <details markdown="block">
   <summary>
+    TE: Deja Vu Drive
+  </summary>
+<br>
+![](https://media.discordapp.net/attachments/894901600974430268/951902693675372544/20220311_130053.gif)  
+	
+
+![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
+![](https://media.discordapp.net/attachments/858851529058418765/951894376357953626/IMG_4923.png)  
+
+	
+	
+![](https://images-ext-1.discordapp.net/external/tKbZYeFVsCSgaezXyKnS3B78N1gjoO0FAfpf4scEgII/https/media.discordapp.net/attachments/817854010161758238/951849617379696670/te_strategy.png)  
+
+</details>
+<details markdown="block">
+  <summary>
     TE: Overseasoned
   </summary>
 <br>
