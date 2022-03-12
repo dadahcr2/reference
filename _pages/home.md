@@ -52,7 +52,7 @@ classes: wide
     PE: Newton's Law
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/951136220208054332/Untitled_182.png)  
+![](https://media.discordapp.net/attachments/850232585707323402/952128889600213062/Untitled_188.png)  
 </details>	
 
 <details  markdown="block">
