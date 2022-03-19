@@ -675,7 +675,7 @@ Distance | Obstacle
   <summary>
     Gloomvale sign order
   </summary>
-![](https://cdn.discordapp.com/attachments/617353655468687390/931526876780986388/FB_IMG_1624479864960.jpg)
+![](https://imgur.com/zGO9M1F)
 </details>	
 	
 ## Cups
