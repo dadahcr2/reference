@@ -148,9 +148,24 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 </details>
 
 <details  markdown="block">
-  <summary>
-   Top 10 Teams Ranked after Season 8
+  <summary> 
+   Top 10 Teams Ranked after Season 10
   </summary>
+
+![](https://media.discordapp.net/attachments/858336498159714324/948441928087769159/IMG_4707.png)  
+**Dada Top 10 Ranking (Seasons 1-10)**
+- TNO, ?, Legion teams have been reset - accordingly removed from rankings
+- NORTH closing in on Discord
+- Project GER joins PL NATIONAL in 3rd
+- RUS NATIONAL jumps into 5th
+- The team resets allows Racing Legends, TRAXION and IND🤝BD into spots 8-10 based purely on their last season performance
+	
+	
+![](https://media.discordapp.net/attachments/858336498159714324/942193233772027944/IMG_4407.png)  
+**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 9)** 
+(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
+- in general, average scores were higher in the top divisions (CC-5) reflecting better participation and fuller teams. However this was not the case in the bottom two divisions,
+- Estimated total scores for promotion and relegation in February (Season 10) are shown in the second table
 	
 ![](https://cdn.discordapp.com/attachments/858336498159714324/927561776982278214/IMG_3246.png)   
 **Dada Top 10 Ranking (Seasons 1-8)**
