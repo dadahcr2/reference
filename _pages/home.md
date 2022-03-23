@@ -31,30 +31,14 @@ classes: wide
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Deja Vu Drive
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/894901600974430268/951902693675372544/20220311_130053.gif)  
-	
 
-![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
-![](https://media.discordapp.net/attachments/858851529058418765/951894376357953626/IMG_4923.png)  
-
-	
-	
-![](https://images-ext-1.discordapp.net/external/tKbZYeFVsCSgaezXyKnS3B78N1gjoO0FAfpf4scEgII/https/media.discordapp.net/attachments/817854010161758238/951849617379696670/te_strategy.png)  
-
-</details>
 
 <details  markdown="block">
   <summary>
-    PE: The Sky is Lava
+    PE: NO AIR and NO CARES
   </summary>
 <br>
-![](https://images-ext-2.discordapp.net/external/NzSwWm-eDVq7HlaEZcr0hZ3KT2K8jMqrP2tMkofcARM/https/media.discordapp.net/attachments/850232585707323402/953724866442461244/Untitled_189.png)  
-![](https://images-ext-2.discordapp.net/external/efd3ebVxMTUf76Ht79XhTdx_AUj9-Z-zbNDydT7j1yY/https/media.discordapp.net/attachments/864520500007927819/873016114664321064/image0.jpg)  
+![](https://media.discordapp.net/attachments/731162975854919690/956252047919939614/Untitled_198)  
 </details>	
 
 <details  markdown="block">
