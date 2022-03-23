@@ -38,7 +38,7 @@ classes: wide
     PE: NO AIR and NO CARES
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/731162975854919690/956252047919939614/Untitled_198)  
+![](https://media.discordapp.net/attachments/731162975854919690/956253758025789500/Untitled_199.png)  
 </details>	
 
 <details  markdown="block">
