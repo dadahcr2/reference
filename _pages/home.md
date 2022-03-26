@@ -17,6 +17,23 @@ classes: wide
 </details> -->  
 
 ## Events & Updates  
+
+<details markdown="block">
+  <summary>
+    TE: Confidence
+  </summary>
+<br>
+	
+!()[https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg]  
+
+![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
+!()[https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png]  
+	
+!()[https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png]  
+	
+	
+</details>
+	
 <details markdown="block">
   <summary>
     TE: Edge of Someday
