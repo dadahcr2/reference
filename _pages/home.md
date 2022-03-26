@@ -24,7 +24,7 @@ classes: wide
   </summary>
 <br>
 	
-![](https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg)  
+![](https://blog.irisconnect.com/hs-fs/hubfs/Stock%20images/Confidence%20sign%20with%20a%20beautiful%20day.jpeg?width=1978&height=1222&name=Confidence%20sign%20with%20a%20beautiful%20day.jpeg)  
 
 ![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
 ![](https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png)  
