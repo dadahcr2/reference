@@ -29,7 +29,7 @@ classes: wide
 ![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
 ![](https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png)  
 	
-![]([https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png)  
 	
 	
 </details>
