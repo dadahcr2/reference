@@ -34,28 +34,16 @@ classes: wide
 	
 </details>
 	
-<details markdown="block">
-  <summary>
-    TE: Edge of Someday
-  </summary>
-<br>
-![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
-![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
 
-![](https://media.discordapp.net/attachments/851566907920089128/954263388060524584/te_Strategy.png)  
-	
-![](https://f4.bcbits.com/img/a3610117532_10.jpg)
-	
-</details>
 
 
 
 <details  markdown="block">
   <summary>
-    PE: NO AIR and NO CARES
+    PE: HIIIIIIIIL RACER!
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/956259305559060511/Untitled_200.png)  
+![](https://images-ext-1.discordapp.net/external/bw3OE6OKPmjbflgqFWG_H12wI_KSHsVtNLm7FOiwOfY/https/media.discordapp.net/attachments/850232585707323402/958908673504215070/Untitled_204.png)  
 </details>	
 
 <details  markdown="block">
