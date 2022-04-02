@@ -141,5 +141,6 @@ atom_feed:
 analytics:
   provider      : "google-gtag"  
   google:
-    measurement_id     : "G-F5WVET3319"
-    anonymize_ip    : # true, false (default)
+    tracking_id: "G-F5WVET3319"
+    measurement_id: "G-F5WVET3319"
+    anonymize_ip: # true, false (default)
