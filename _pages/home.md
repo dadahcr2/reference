@@ -31,7 +31,7 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
 	
-![](https://media.discordapp.net/attachments/851566907920089128/959323135923068928/te_Strategy.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/959770123634368552/te_Strategy.png)  
 	
 </details>
 <details markdown="block">
