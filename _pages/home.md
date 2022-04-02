@@ -154,9 +154,17 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 10
+   Top 10 Teams Ranked after Season 11
   </summary>
 
+![](https://media.discordapp.net/attachments/847863985381965854/959860818449690624/IMG_5205.png)  
+**Dada Top 10 Ranking (Seasons 1-11)**
+- Discord slightly extended their lead over NORTH
+- Project GER took 3rd all to themselves
+- IMPERIO-H flipped places with RUS NATIONAL
+- Not ? and Unity made it into the Top 10 at 7th and 8th respectively
+- A number of teams are tied at 9th
+	
 ![](https://media.discordapp.net/attachments/858336498159714324/948441928087769159/IMG_4707.png)  
 **Dada Top 10 Ranking (Seasons 1-10)**
 - TNO, ?, Legion teams have been reset - accordingly removed from rankings
