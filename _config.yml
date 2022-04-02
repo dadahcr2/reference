@@ -136,3 +136,10 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+# Analytics
+analytics:
+  provider      : "google-gtag"  
+  google:
+    measurement_id     : "G-F5WVET3319"
+    anonymize_ip    : # true, false (default)
