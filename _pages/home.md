@@ -932,8 +932,8 @@ I highly recommend these:
 	
 - [Discord Server Invites](/servers/)  
 	> These are some of my favorites:  
-	> - Public Events: <https://dsc.gg/hcr2pe>  
-	> - HCR Maps: <https://dsc.gg/hcrmaps>  
+	> - Public Events: <https://discord.gg/gZhdXJEj8T>  
+	> - HCR Maps: <https://discord.gg/dWhDEEmxB7>  
 	> - FS Server: <https://discord.gg/fingersoft>  
 	> - Fair Play: <https://discord.gg/mnSmNU9XMr>  
 	> - Art Gallery: <https://discord.gg/tr4jWzvbrB>  
