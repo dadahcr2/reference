@@ -713,7 +713,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 | -- |  
 | 190… 290… 370… 570… 720… 870… 1,020… 1,170… 1,370… 1,570… 1,800… 2,000… 2,210… 2,420… 2,540… 2,790… 3,040… 3,290… 3,350… 3,360… 3,540… 3,840 |  
 	
-*Source: [**Wiki**](http://wiki.hcr2.info) / [Fuel Guide Server](https://discord.gg/GCsj8WXzfc) - 4 April 2022*  
+(*Source: [**Wiki**](http://wiki.hcr2.info) / [Fuel Guide Server](https://discord.gg/GCsj8WXzfc) - 4 April 2022*)  
 </details>	
 	
 <details  markdown="block">
