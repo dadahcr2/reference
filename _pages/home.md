@@ -651,7 +651,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 	
 | Countryside |  
 | -- |  
-| 150… 300… 450… 600… 800… 1,000… 1,200… 1,450(bridge)… 1,700… 1,950… 2,250… 2,550… 2,850… 3,150(bridge)… 3,500… 3,850(barn)… 4,200(after barn)… 4,600… 5,000(before barn)… 5,400(bridge)… 5,850(bridge)… 6,300(after a downhill)… 6,750(climbing)… 7,200(climbing)… 7,700(climbing)… 8,200(bridge)… 8,700(downhill)… 9,250(downhill)… 9,800(climbing)… 10,350(climbing)… 10,950(after barn)… 11,550(bridge)… 12,150(after abridge; climbing)… 12,750… 13,400(downhill)… 14,050(climbing)… 14,700(climbing)… 15,400(bridge)… 16,100(after a bridge)  |  
+| 150… 300… 450… 600… 800… 1,000… 1,200… 1,450(bridge)… 1,700… 1,950… 2,250… 2,550… 2,850… 3,150(bridge)… 3,500… 3,850(barn)… 4,200(after barn)… 4,600… 5,000(before barn)… 5,400(bridge)… 5,850(bridge)… 6,300(after a downhill)… 6,750(climbing)… 7,200(climbing)… 7,700(climbing)… 8,200(bridge)… 8,700(downhill)… 9,250(downhill)… 9,800(climbing)… 10,350(climbing)… 10,950(after barn)… 11,550(bridge)… 12,150(after a bridge; climbing)… 12,750… 13,400(downhill)… 14,050(climbing)… 14,700(climbing)… 15,400(bridge)… 16,100(after a bridge)  |  
 
 | Forest |  
 | -- |  
