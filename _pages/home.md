@@ -655,11 +655,11 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 
 | Forest |  
 | -- |  
-| 170… 290… 410… 530… 660… 780(downhill)… 900… 1,080(downhill)… 1,260… 1,440… 1,620(log zone;at the bottom)… 1,800(climbing)… 2,000… 2,180(climbing)… 2,420… 2,660… 2,910(downhill)… 3,150(log zone;at the bottom)… 3,390… 3,640… 3,910(log zone)… 4,240… 4,540(downhill)… 4,830(log zone;slow down!)… 5,150… 5,450(downhill)… 5,750(downhill)… 6,110… 6,480… 6,830… 7,180… 7,560… 7,910… 8,290… 8,690… 9,140… 9,510… 9,980… 10,390… 10,810… 11,300… 11,780… 12,280… 12,780… 13,250… 13,740… 14,210… 14,780… 15,320… 15,860… 16,400… 16,950… 17,520… 18,050… 18,660… 19,270… 19,880… 20,450… 21,080… 21,670… 22,330… 22,980… 23,650… 24,320… 24,970… 25,650… 26,310… 27,030… 27,730… 28,470… 29,200… 29,930… 30,670… 31,400… 32,170… 32,950… 33,700… 34,520… 35,300… 36,080… 36,870… 37,730… 38,570… 39,400… 40,250… 41,090… 41,930… 42,840 |  
+| 170… 290… 410… 530… 660… 780(downhill)… 900… 1,080(downhill)… 1,260… 1,440… 1,620(log zone;at the bottom)… 1,800(climbing)… 2,000… 2,180(climbing)… 2,420… 2,660… 2,910(downhill)… 3,150(log zone;at the bottom)… 3,390… 3,640… 3,910(log zone)… 4,240… 4,540(downhill)… 4,830(log zone;slow down!)… 5,150… 5,450(downhill)… 5,750(downhill)… 6,110… 6,480… 6,830… 7,180… 7,560… 7,910… 8,290… 8,690… 9,140… 9,510… 9,980… 10,390… 10,810… 11,300… 11,780… 12,280… 12,780… 13,250… 13,740… 14,210… 14,780… 15,320… 15,860… 16,400… 16,950… 17,520… 18,050… 18,660… 19,270… 19,880… 20,450… 21,080… 21,670… 22,330… 22,980… 23,650… 24,320… 24,970… 25,650… 26,310… 27,030… 27,730… 28,470… 29,200… 29,930… 30,670… 31,400… 32,170… 32,950… 33,700… 34,520… 35,300… 36,080… 36,870… 37,730… 38,570… 39,400… 40,250… 41,090… 41,930… 42,840… 43,740 |  
 
 | City |  
 | -- |  
-| 300… 420… 530… 650… 740… 890… 1,050… 1,270… 1,430… 1,620… 1,790… 1,980… 2,160… 2,420… 2,630(on a hanging container over water)… 2,920… 3,180… 3,390(inside of a hanging container)… 3,690(very left edge of an iron beam hanging on 1 rope)… 4,000… 4,300(right above water, and inbetween the edge and a hanging container)… 4,580… 4,880… 5,190… 5,480… 5,800… 6,180(second hanging iron beam with 2 ropes)… 6,520… 6,920(very left edge of a hanging container)… 7,270(in a very tricky spot, inbetween a hanging container, and a hanging iron bean)… 7,650… 8,000(inside a hanging container)… 8,370(right above water, and inbetween the edge and a hanging container)… 8,790… 9,210(right above water, and inbetween the edge and a hanging container)… 9,660… 10,080… 10,480(inside a hanging container)… 10,900… 11,420(at the edge of a water pit)… 11,900… 12,380… 12,840… 13,380… 13,860… 14,340… 14,850… 15,370(inside the 3rd hanging container)… 15,980… 16,520… 17,080… 17,610… 18,150… 18,730… 19,370… 19,940… 20,590 |  
+| 160… 300… 420… 530… 650… 740… 890… 1,050… 1,270… 1,430… 1,620… 1,790… 1,980… 2,160… 2,420… 2,630(on a hanging container over water)… 2,920… 3,180… 3,390(inside of a hanging container)… 3,690(very left edge of an iron beam hanging on 1 rope)… 4,000… 4,300(right above water, and inbetween the edge and a hanging container)… 4,580… 4,880… 5,190… 5,480… 5,800… 6,180(second hanging iron beam with 2 ropes)… 6,520… 6,920(very left edge of a hanging container)… 7,270(in a very tricky spot, inbetween a hanging container, and a hanging iron bean)… 7,650… 8,000(inside a hanging container)… 8,370(right above water, and inbetween the edge and a hanging container)… 8,790… 9,210(right above water, and inbetween the edge and a hanging container)… 9,660… 10,080… 10,480(inside a hanging container)… 10,900… 11,420(at the edge of a water pit)… 11,900… 12,380… 12,840… 13,380… 13,860… 14,340… 14,850… 15,370(inside the 3rd hanging container)… 15,980… 16,520… 17,080… 17,610… 18,150… 18,730… 19,370… 19,940… 20,590 |  
 
 | Mountain |  
 | -- |  
@@ -675,11 +675,11 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 
 | Mines |  
 | -- |  
-| 170… 410… 650… 890… 1,130… 1,370(upper path)… 1,610… 1,840(lower path)… 2,100… 2,400… 2,700… 2,990(on top of a giant wheel)… 3,120… 3,330… 3,610… 3,880… 4,200… 4,510… 4,870… 5,240… 5,600… 5,990… 6,370… 6,720(before a ditch)… 7,090(after a series of uphills)… 7,440… 7,840… 8,250(on a hanging ladder outside)… 8,690(after a giant lava pit)… 9,090(in between 2 lava pits)… 9,580… 10,010(after a steep, tight uphill with lava at the center of the hills)… 10,400(before an up-down wheel that could crush a vehicle)… 10,860(before a series of see-saw ladders above a giant lava pit)… 11,280… 11,730… 12,250… 12,760… 13,230… 13,730… 14,200(after a rolling wheel inside a ditch where the wheel will get stuck in)… 14,670… 15,160… 15,740… 16,260… 16,770… 17,310… 17,890… 18,460… 19,000… 19,540… 20,070… 20,680 |  
+| 170… 410… 650… 890… 1,130… 1,370(upper path)… 1,610… 1,840(lower path)… 2,100… 2,400… 2,700… 2,990(on top of a giant wheel)… 3,120… 3,330… 3,610… 3,880… 4,200… 4,510… 4,870… 5,240… 5,600… 5,990… 6,370… 6,720(before a ditch)… 7,090(after a series of uphills)… 7,440… 7,840… 8,250(on a hanging ladder outside)… 8,690(after a giant lava pit)… 9,090(in between 2 lava pits)… 9,580… 10,010(after a steep, tight uphill with lava at the center of the hills)… 10,400(before an up-down wheel that could crush a vehicle)… 10,860(before a series of see-saw ladders above a giant lava pit)… 11,280… 11,730… 12,250… 12,760… 13,230… 13,730… 14,200(after a rolling wheel inside a ditch where the wheel will get stuck in)… 14,670… 15,160… 15,740… 16,260… 16,770… 17,310… 17,890… 18,460… 19,000… 19,540… 20,070… 20,680… 21,940 |  
 
 | Desert Valley |  
 | -- |  
-| 150… 251… 353… 450… 602… 751… 916… 1,157… 1,360… 1,562… 1,799… 2,075… 2,335… 2,583… 2,890… 3,224… 3,556… 3,906(before a stop-log)… 4,301… 4,672… 5,102(in a cave)… 5,536(climbing)… 5,996(climbing)… 6,422(on a rock)… 6,780(steep downhill)… 7,320(in a cave on the bottom)… 7,773… 8,353(after a stop-log)… 8,867(in a cave at the bottom)… 9,378(under a rock)… 9,977… 11,136(downhill)… 11,701… 12,301… 12,887… 13,517(steep downhill)… 14,207… 14,870… 15,569(climbing)… 16,304(floating over a mud pool)… 17,064… 17,796… 18,564(downhill)… 19,324… 20,133… 20,963… 20,963… 22,645… 23,473… 24,376 |  
+| 150… 251… 353… 450… 602… 751… 916… 1,157… 1,360… 1,562… 1,799… 2,075… 2,335… 2,583… 2,890… 3,224… 3,556… 3,906(before a stop-log)… 4,301… 4,672… 5,102(in a cave)… 5,536(climbing)… 5,996(climbing)… 6,422(on a rock)… 6,780(steep downhill)… 7,320(in a cave on the bottom)… 7,773… 8,353(after a stop-log)… 8,867(in a cave at the bottom)… 9,378(under a rock)… 9,977… 11,136(downhill)… 11,701… 12,301… 12,887… 13,517(steep downhill)… 14,207… 14,870… 15,569(climbing)… 16,304(floating over a mud pool)… 17,064… 17,796… 18,564(downhill)… 19,324… 20,133… 20,963… 20,963… 22,645… 23,473… 24,376… 25,225… 26,151(climbing)… 27,088… 28,011… 28,914(steep downhill)… 29,858… 30,871… 31,910(downhill)… 32,875… 33,852(on top of a hill)… 34,886… 35,929… 36,977(climbing)… 38,067… 40,266… 41,453… 42,556… 43,721… 44,928… 46,117… 47,343… 48,564… 49,799… 51,093… 52,409… 53,687… 55,064… 56,399… 57,723… 59,157… 60,513… 61,886… 63,351… 64,757… 66,165… 67,664… 69,227… 70,709… 72,172… 73,660… 75,285… 76,778… 78,315… 80,000… 81,546… 83,220… 84,884… 86,488 |  
 
 | Beach |  
 | -- |  
@@ -699,20 +699,20 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 
 | Skyrock Outpost |  
 | -- |  
-| 300… 300… 450… 600… 800… 1,000… 1,200… 1,450… 1,550… 1,700… 1,950… 2,250… 2,600… 2,950… 3,050… 3,300… 3,750… 4,100… 4,250… 4,480… 4,720… 4,900… 5,290… 5,610… 6,010… 6,470… 6,900… 7,070… 7,370… 7,440… 7,880… 7,970… 8,370… 8,970… 9,470… 10,010… 10,220… 10,580… 11,170… 11,760… 12,370… 14,280… 14,950… 15,690… 16,390… 17,090… 17,880… 18,690… 19,680… 20,730… 22,450 |  
+| 150… 300… 450… 600… 800… 1,000… 1,200… 1,450… 1,550… 1,700… 1,950… 2,250… 2,600… 2,950… 3,050… 3,300… 3,750… 4,100… 4,250… 4,480… 4,720… 4,900… 5,290… 5,610… 6,010… 6,470… 6,900… 7,070… 7,370… 7,440… 7,880… 7,970… 8,370… 8,970… 9,470… 10,010… 10,220… 10,580… 11,170… 11,760… 12,370… 14,280… 14,950… 15,690… 16,390… 17,090… 17,880… 18,690… 19,680… 20,730… 22,450 |  
 
 | Forest Trial |  
 | -- |  
-| 300… 350… 540… 810… 1,070… 1,370… 1,740… 2,080… 2,440… 2,840… 3,320… 3,770… 4,240… 4,740 |  
+| 160… 350… 540… 810… 1,070… 1,370… 1,740… 2,080… 2,440… 2,840… 3,320… 3,770… 4,240… 4,740 |  
 
 | Intense City |  
 | -- |  
-| 300… 300… 420… 540… 650… 760… 890… 1,150… 1,250… 1,430… 1,520… 1,610… 1,780… 1,970… 2,160… 2,370… 2,390… 2,640… 2,810… 2,870… 2,980… 3,110… 3,350… 3,590… 3,780… 3,880… 3,960… 4,190… 4,490… 4,800 |  
+| 170… 300… 420(bottom route)… 540… 650… 760… 890… 1,150(loop)… 1,250(bottom route)… 1,430… 1,520(upper route)… 1,610… 1,780… 1,970… 2,160… 2,370(upper route)… 2,390(bottom route)… 2,640… 2,810(bottom route)… 2,870(upper route)… 2,980(upper route)… 3,110… 3,350… 3,590… 3,780… 3,880… 3,960… 4,190… 4,490… 4,800 |  
 
 | Raging Winter |  
 | -- |  
-| 300… 290… 370… 570… 720… 870… 1,020… 1,170… 1,370… 1,570… 1,800… 2,000… 2,210… 2,420… 2,540… 2,790… 3,040… 3,290… 3,350… 3,360… 3,540… 3,840 |  
-	
+| 190… 290… 370… 570… 720… 870… 1,020… 1,170… 1,370… 1,570… 1,800… 2,000… 2,210… 2,420(inside the castle, wait until the blizzard activates)… 2,540… 2,790… 3,040… 3,290… 3,350(inside the ice wall, wait until the blizzard activates)… 3,360(wait until the blizzard activates)… 3,540… 3,840 |  
+
 (*Source: [**Wiki**](http://wiki.hcr2.info) & [Fuel Guide Server](https://discord.gg/GCsj8WXzfc) - 4 April 2022*)  
 </details>	
 	
