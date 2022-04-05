@@ -651,15 +651,15 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 	
 | Countryside |  
 | -- |  
-| 150… 300… 450… 600… 800… 1,000… 1,200… 1,450… 1,700… 1,950… 2,250… 2,550… 2,850… 3,150… 3,500… 3,850… 4,200… 4,600… 5,000… 5,400… 5,850… 6,300… 6,750… 7,200… 7,700… 8,200… 8,700… 9,250… 9,800… 10,350… 10,950… 11,550… 12,150… 12,750… 13,400… 14,050… 14,700… 15,400… 16,100 |  
+| 150… 300… 450… 600… 800… 1,000… 1,200… 1,450 (bridge)… 1,700… 1,950… 2,250… 2,550… 2,850… 3,150 (bridge)… 3,500… 3,850 (barn)… 4,200 (after barn)… 4,600… 5,000 (before barn)… 5,400 (bridge)… 5,850 (bridge)… 6,300 (after adownhill)… 6,750(climbing)… 7,200 (climbing)… 7,700 (climbing)… 8,200 (bridge)… 8,700 (downhill)… 9,250 (downhill)… 9,800 (climbing)… 10,350 (climbing)… 10,950 (after barn)… 11,550 (bridge)… 12,150 (after abridge; climbing)… 12,750… 13,400 (downhill)… 14,050 (climbing)… 14,700 (climbing)… 15,400 (bridge)… 16,100(after a bridge) |  
 
 | Forest |  
 | -- |  
-| 170… 290… 410… 530… 660… 780… 900… 1,080… 1,260… 1,440… 1,620… 1,800… 2,000… 2,180… 2,420… 2,660… 2,910… 3,150… 3,390… 3,640… 3,910… 4,240… 4,540… 4,830… 5,150… 5,450… 5,750… 6,110… 6,480… 6,830… 7,180… 7,560… 7,910… 8,290… 8,690… 9,140… 9,510… 9,980… 10,390… 10,810… 11,300… 11,780… 12,280… 12,780… 13,250… 13,740… 14,210… 14,780… 15,320… 15,860 |  
+| 170… 290… 410… 530… 660… 780 (downhill)… 900… 1,080 (downhill)… 1,260… 1,440… 1,620 (log zone;at the bottom)… 1,800 (climbing)… 2,000… 2,180 (climbing)… 2,420… 2,660… 2,910 (downhill)… 3,150 (log zone;at the bottom)… 3,390… 3,640… 3,910 (log zone)… 4,240… 4,540 (downhill)… 4,830 (log zone;slow down!)… 5,150… 5,450 (downhill)… 5,750 (downhill)… 6,110… 6,480… 6,830… 7,180… 7,560… 7,910… 8,290… 8,690… 9,140… 9,510… 9,980… 10,390… 10,810… 11,300… 11,780… 12,280… 12,780… 13,250… 13,740… 14,210… 14,780… 15,320… 15,860… 16,400… 16,950… 17,520… 18,050… 18,660… 19,270… 19,880… 20,450… 21,080… 21,670… 22,330… 22,980… 23,650… 24,320… 24,970… 25,650… 26,310… 27,030… 27,730… 28,470… 29,200… 29,930… 30,670… 31,400… 32,170… 32,950… 33,700… 34,520… 35,300… 36,080… 36,870… 37,730… 38,570… 39,400… 40,250… 41,090… 41,930… 42,840 |  
 
 | City |  
 | -- |  
-| 160… 300… 420… 530… 650… 740… 890… 1,050… 1,270… 1,430… 1,620… 1,790… 1,980… 2,160… 2,420… 2,630… 2,920… 3,180… 3,390… 3,690… 4,000… 4,300… 4,580… 4,880… 5,190… 5,480… 5,800… 6,180… 6,520… 6,920… 7,270… 7,650… 8,000… 8,370… 8,790… 9,210… 9,660… 10,080… 10,480… 10,900… 11,420… 11,900… 12,380… 12,840… 13,380… 13,860… 14,340… 14,850… 15,370… 15,980… 16,520… 17,080… 17,610… 18,150… 18,730… 19,370 |  
+| 300… 420… 530… 650… 740… 890… 1,050… 1,270… 1,430… 1,620… 1,790… 1,980… 2,160… 2,420… 2,630 (⚠️ Located on a hanging container over water )… 2,920… 3,180… 3,390 (⚠️Located inside of a hanging container )… 3,690 (⚠️ Located on the very left edge of an iron beam hanging on 1 rope )… 4,000… 4,300 (⚠️ Located right above water, and inbetween the edge and a hanging container )… 4,580… 4,880… 5,190… 5,480… 5,800… 6,180 (⚠️ Located on the second hanging iron beam with 2 ropes )… 6,520… 6,920 (⚠️ Located on the very left edge of a hanging container )… 7,270 (⚠️ Located in a very tricky spot, inbetween a hanging container, and a hanging iron bean )… 7,650… 8,000 (⚠️ Located inside a hanging container )… 8,370 (⚠️ Located right above water, and inbetween the edge and a hanging container )… 8,790… 9,210 (⚠️ Located right above water, and inbetween the edge and a hanging container )… 9,660… 10,080… 10,480 (⚠️ Located inside a hanging container)… 10,900… 11,420 (⚠️ Located at the edge of a water pit)… 11,900… 12,380… 12,840… 13,380… 13,860… 14,340… 14,850… 15,370 (⚠️ Located inside the 3rd hanging container)… 15,980… 16,520… 17,080… 17,610… 18,150… 18,730… 19,370… 19,940… 20,590 |  
 
 | Mountain |  
 | -- |  
@@ -713,7 +713,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 | -- |  
 | 190… 290… 370… 570… 720… 870… 1,020… 1,170… 1,370… 1,570… 1,800… 2,000… 2,210… 2,420… 2,540… 2,790… 3,040… 3,290… 3,350… 3,360… 3,540… 3,840 |  
 	
-*Source: [Fuel Guide Server](https://discord.gg/GCsj8WXzfc) - 4 April 2022*  
+*Source: **Wiki** - 5 April 2022 / [Fuel Guide Server](https://discord.gg/GCsj8WXzfc) - 4 April 2022*  
 </details>	
 	
 <details  markdown="block">
