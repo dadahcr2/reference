@@ -913,7 +913,7 @@ I highly recommend these:
 
 ## FS-GP Results
 	
-| ![](https://pbs.twimg.com/media/FGo6lHEWYAgrA4q.jpg:small) | ![](https://pbs.twimg.com/media/EkcPczSWMAAd5O-.jpg:small) | ![](https://cds.discordapp.com/attachments/477025765100093440/699573814039674950/gp-winners-announcement-fb.jpg) |  
+| ![](https://pbs.twimg.com/media/FGo6lHEWYAgrA4q.jpg:small) | ![](https://pbs.twimg.com/media/EkcPczSWMAAd5O-.jpg:small) | ![](https://media.discordapp.net/attachments/477025765100093440/699573814039674950/gp-winners-announcement-fb.jpg) |  
 | -- | -- | -- |  
 | | | |  	
 	
