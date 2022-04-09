@@ -54,7 +54,7 @@ Percent | Minimum number of common chests
 75% | at least 3 common chests  
 50% | at least 4 common chests  
 37.5% | at least 5 common chests  
-4% | of the time 6 common chests  
+4% | 6 common chests  
 
 #### Relative Value of Cup Chests
 
