@@ -49,7 +49,7 @@ This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1
 In terms of consecutive common chests, percentages as follows:  
 
 Percent | Minimum number of common chests
--- | :--
+:--: | :--
 96% | at least 2 common chests  
 75% | at least 3 common chests  
 50% | at least 4 common chests  
