@@ -33,19 +33,19 @@ classes: wide
 
 <details markdown="block">
   <summary>
-    TE: Torqued
+    TE: Perfect Poise
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/851566907920089128/959320203903254578/IMG_5182.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/964421322824384552/9CB349F4-F001-4815-9699-E59E458C13D1.png)  
 {: style="text-align: center;"}
 	
-![tractor2] ![rotator2] ![diesel2] ![formula2] ![sbike2]  
+![bus2] ![mk22] ![moto2] ![sportscar2] ![RT2]  
 
-![](https://images-ext-1.discordapp.net/external/sbR3rjkLUKg8KF3Q5U-flWwS7FGeEHATdc_W3hQOAXw/https/media.discordapp.net/attachments/851566907920089128/959320470220603413/IMG_5180.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/964421774961934366/IMG_5338.png)  
 
-![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/964421872680857620/te_Strategy.png)  
 	
-![](https://media.discordapp.net/attachments/851566907920089128/959770123634368552/te_Strategy.png)  
+![](https://media.discordapp.net/attachments/921752418654502912/934064668937449492/artflow_202201202308.jpg)  
 	
 </details>
 
