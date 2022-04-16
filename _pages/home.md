@@ -137,8 +137,9 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 <details  markdown="block">
   <summary>
    New Vehicle Teaser
-  </summary>
-![](https://pbs.twimg.com/media/FQT006bVcAkKOS5.jpg]
+  </summary>  
+<br>  
+![](https://pbs.twimg.com/media/FQT006bVcAkKOS5.jpg)  
 </details>
 
 ## Leagues	
