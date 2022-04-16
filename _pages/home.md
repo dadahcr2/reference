@@ -105,7 +105,7 @@ Event | Suggested Vehicle and Parts
 :-- | :--	
 2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]
 Breaking | ![rally] ![hw] ![wt] ![ab]
-Cargo | ![sbike]/![Monster] ![wi] ![ab] ![cb]  
+Cargo | ![sbike]/![Monster]/![rotator] ![wi] ![ab] ![cb]  
 Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
 Downhill | ![rally] ![WT] ![SB] ![AB] 
 Dribble Distance | ![Bus] ![JS] ![Fume] ![CB]
