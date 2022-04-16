@@ -134,9 +134,13 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
 </details>
-	
+<details  markdown="block">
+  <summary>
+   New Vehicle Teaser
+  </summary>
+![](https://pbs.twimg.com/media/FQT006bVcAkKOS5.jpg]
+</details>
 
-	
 ## Leagues	
 <details  markdown="block">
   <summary>
