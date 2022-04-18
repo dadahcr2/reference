@@ -75,6 +75,8 @@ classes: wide
   </summary>
 <br>
 ![](https://media.discordapp.net/attachments/898321008031858708/963355597246459934/eng.png)  
+	
+![](https://media.discordapp.net/attachments/850233265306468372/965611119597211668/Screenshot_2022-04-18-09-51-55-1-1.jpg)  
 </details>
 	
 <details  markdown="block">
