@@ -59,6 +59,14 @@ classes: wide
 
 <details  markdown="block">
   <summary>
+    Warning: ⚠️Spoilers⚠️
+  </summary>
+<br>
+![](https://media.discordapp.net/attachments/898321008031858708/963355597246459934/eng.png)  
+</details>
+	
+<details  markdown="block">
+  <summary>
     TE: Popular Parts
   </summary>
 <br>
