@@ -71,7 +71,7 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-    Warning ⚠️Spoilers⚠️
+    ⚠️Spoilers⚠️
   </summary>
 <br>
 ![](https://media.discordapp.net/attachments/898321008031858708/963355597246459934/eng.png)  
