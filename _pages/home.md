@@ -48,25 +48,12 @@ classes: wide
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Temperance
-  </summary>
-<br>
-![](https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg) 
-	
-![jeep2] ![scooter2] ![chopper2] ![rally2] ![hotrod2]  
-![](https://media.discordapp.net/attachments/851566907920089128/961852908553515008/IMG_5258.png)  
-
-![](https://media.discordapp.net/attachments/851566907920089128/961854818761183252/te_Strategy.png)  
-</details>
-
 <details  markdown="block">
   <summary>
-   PE: HOW EGGS-HAUSTING
+   PE: Masochistic Mountaineering
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/964532892988497970/Untitled_211.png)  
+![](https://media.discordapp.net/attachments/850232585707323402/966695923902189618/Untitled_220.png)    
 </details>	
 
 <details  markdown="block">
