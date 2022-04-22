@@ -442,8 +442,8 @@ Top teams
 **Tournament Results Spreadsheet**
 	
 - Based on individual player times, this spreadsheet will build a leaderboard
-- Handles up to 15 "days" and 100 players (let me know if you need more and I can expand i
-- Enter your individual name and scores in a columns on the left. Feel free to clear/overwrite the examples. Make sure to consistently spell player names followed by a single "space" and then the time (or distance if applicable)
+- Handles up to 15 "days" and 100 players (let me know if you need more and I can expand it)
+- Enter your individual name and scores in a columns on the left. Feel free to clear/overwrite the examples. Make sure to consistently spell player names followed by a single "space" and then the time (or distance)
 - Points per position are on the "Points" tab
 - Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
 [TournamentResults.xlsx](https://raw.githubusercontent.com/dadahcr2/reference/master/TournamentResults.xlsx)
