@@ -439,7 +439,17 @@ Top teams
 3. Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
 [HCR2 Virtual League.xlsx](https://raw.githubusercontent.com/dadahcr2/reference/master/HCR2%20Virtual%20League.xlsx)
 
+**Tournament Results Spreadsheet**
+	
+- Based on individual player times, this spreadsheet will build a leaderboard
+- Handles up to 15 "days" and 100 players (let me know if you need more and I can expand i
+- Enter your individual name and scores in a columns on the left. Feel free to clear/overwrite the examples. Make sure to consistently spell player names followed by a single "space" and then the time (or distance if applicable)
+- Points per position are on the "Points" tab
+- Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
+[TournamentResults.xlsx](https://raw.githubusercontent.com/dadahcr2/reference/master/TournamentResults.xlsx)
+
 **Aero's updated Spreadsheet**
+	
 - Helps keep track of player progress in the game
 	
 - ego1138 (on Reddit)  
