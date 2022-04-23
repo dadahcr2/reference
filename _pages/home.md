@@ -88,8 +88,6 @@ T3 vokope | T4 vokope
     ⚠️Spoilers⚠️
   </summary>
 <br>
-
-![](https://media.discordapp.net/attachments/898321008031858708/966275784253800468/eng.png)
 	
 Next event: lowridersprint - 27/04/2022  
 ![](https://media.discordapp.net/attachments/898321008031858708/966681546557894686/rus.png)  
