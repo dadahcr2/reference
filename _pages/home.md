@@ -30,6 +30,23 @@ classes: wide
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/967089442839990302/te_Strategy.png)  
 	
+T1 Map  
+![]() 
+	
+T2 Map  
+![](https://media.discordapp.net/attachments/858017329509171201/967449875249762335/unknown.png)  
+	
+T4 Map  
+![https://media.discordapp.net/attachments/858017263989948447/967449942048251964/unknown.png](https://media.discordapp.net/attachments/858017616181461022/967450101347909692/unknown.png)  
+	
+T1 vokope  | T2 vokope
+-- | --
+![](https://media.discordapp.net/attachments/858017263989948447/967449047642284112/t1e.png)  | ![](https://media.discordapp.net/attachments/858017329509171201/967449231948410920/t2e.png)  
+	
+T3 vokope | T4 vokope   
+--|--
+![](https://media.discordapp.net/attachments/858017412174577716/967449349468586104/t3e.png)  |  ![](https://media.discordapp.net/attachments/858017616181461022/967449499817627698/t4e.png)  
+	
 </details>
 
 <details markdown="block">
