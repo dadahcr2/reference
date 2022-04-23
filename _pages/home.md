@@ -31,7 +31,7 @@ classes: wide
 ![](https://media.discordapp.net/attachments/851566907920089128/967089442839990302/te_Strategy.png)  
 	
 T1 Map  
-![]() 
+![](https://media.discordapp.net/attachments/858017263989948447/967449942048251964/unknown.png) 
 	
 T2 Map  
 ![](https://media.discordapp.net/attachments/858017329509171201/967449875249762335/unknown.png)  
