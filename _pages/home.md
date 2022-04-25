@@ -49,32 +49,6 @@ T3 vokope | T4 vokope
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Perfect Poise
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/851566907920089128/964421322824384552/9CB349F4-F001-4815-9699-E59E458C13D1.png)  
-{: style="text-align: center;"}
-	
-![bus2] ![mk22] ![moto2] ![sportscar2] ![RT2]  
-
-![](https://media.discordapp.net/attachments/851566907920089128/964421774961934366/IMG_5338.png)  
-
-![](https://media.discordapp.net/attachments/851566907920089128/964421872680857620/te_Strategy.png)  
-	
-![](https://media.discordapp.net/attachments/921752418654502912/934064668937449492/artflow_202201202308.jpg)  
-	
-**T1 Vokope**  |  **T2 Vokope**
--- | --
-![](https://media.discordapp.net/attachments/858017263989948447/965326383297466458/incollage_save.jpg)  |  ![](https://media.discordapp.net/attachments/858017329509171201/965326461240225802/incollage_save.jpg)  
-	
-**T3 Vokope**  | **T4 Vokope**  
--- | --
-![](https://media.discordapp.net/attachments/858017412174577716/965326489933471764/incollage_save.jpg) |  ![](https://media.discordapp.net/attachments/858017616181461022/965326509906747543/incollage_save.jpg)  
-	
-</details>
-
 <details  markdown="block">
   <summary>
    PE: Masochistic Mountaineering
