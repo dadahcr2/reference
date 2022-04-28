@@ -248,7 +248,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
   -11  ┃  1
 ```
 </details>
-	
+<!--
 <details  markdown="block">
   <summary>
    Leagues Stats - Season 8/9
@@ -375,6 +375,7 @@ Top teams
 </details>	
 &nbsp;&nbsp;- [Previous League Seasons]({{site.url}}/seasons/)  			
 </details>
+-->
 	
 ##  Wikis, Tutorials & Spreadsheets
 
