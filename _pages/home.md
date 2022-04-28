@@ -51,10 +51,10 @@ T3 vokope | T4 vokope
 
 <details  markdown="block">
   <summary>
-   PE: Masochistic Mountaineering
+   PE: Queen of the Bay
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/966695923902189618/Untitled_220.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/969057329108615178/Untitled_227.png)    
 </details>	
 
 <details  markdown="block">
