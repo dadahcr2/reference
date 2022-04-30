@@ -61,6 +61,8 @@ Percent | Minimum number of common chests
 ![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png)  
 > Average coins earned are divided by 200 as this is the amount of scrap coins can be converted to if used to buy common or rare parts in the shop  
 
+![](https://media.discordapp.net/attachments/894901600974430268/969958700775268442/IMG_5555.png)  
+
 ####  Adventure Chests
 
 The gems, coins, and parts vary based on the level of the chest. The level of the chest depends in the distance travelled. For normal maps, Level 1 Is reached at 500m, and increases by 1 for every additional 500m.  For the hard maps (Intense City, Forest Trials, and Raging Winter), Level 1 is reached at 100m and increases by 1 for every additional 100m.
