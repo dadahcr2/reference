@@ -20,6 +20,19 @@ classes: wide
 
 <details markdown="block">
   <summary>
+    TE: Car Kata
+  </summary>
+<br>
+![](https://media.discordapp.net/attachments/851566907920089128/969577661343100999/image0.jpg)  
+
+![tractor2] ![buggy2] ![rotator2] ![diesel2] ![sbike2]  
+![](https://media.discordapp.net/attachments/851566907920089128/969577915366907934/IMG_4659.png)  
+
+![](https://media.discordapp.net/attachments/851566907920089128/969583221153103912/te_Strategy.png)  
+</details>
+
+<details markdown="block">
+  <summary>
     TE: No I in Team
   </summary>
 <br>
