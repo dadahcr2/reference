@@ -31,37 +31,6 @@ classes: wide
 ![](https://media.discordapp.net/attachments/851566907920089128/969583221153103912/te_Strategy.png)  
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: No I in Team
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/851566907920089128/967088758392504370/IMG_5489.jpg)  
-	
-![jeep2] ![monster2] ![snowmobile2] ![ev2] ![supercar2]   
-![](https://media.discordapp.net/attachments/851566907920089128/967089364414902333/IMG_5488.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/967089442839990302/te_Strategy.png)  
-	
-T1 Map  
-![](https://media.discordapp.net/attachments/858017263989948447/967449942048251964/unknown.png) 
-	
-T2 Map  
-![](https://media.discordapp.net/attachments/858017329509171201/967449875249762335/unknown.png)  
-	
-T4 Map  
-![https://media.discordapp.net/attachments/858017263989948447/967449942048251964/unknown.png](https://media.discordapp.net/attachments/858017616181461022/967450101347909692/unknown.png)  
-	
-T1 vokope  | T2 vokope
--- | --
-![](https://media.discordapp.net/attachments/858017263989948447/967449047642284112/t1e.png)  | ![](https://media.discordapp.net/attachments/858017329509171201/967449231948410920/t2e.png)  
-	
-T3 vokope | T4 vokope   
---|--
-![](https://media.discordapp.net/attachments/858017412174577716/967449349468586104/t3e.png)  |  ![](https://media.discordapp.net/attachments/858017616181461022/967449499817627698/t4e.png)  
-	
-</details>
-
 <details  markdown="block">
   <summary>
    PE: Queen of the Bay
