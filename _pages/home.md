@@ -33,10 +33,10 @@ classes: wide
 
 <details  markdown="block">
   <summary>
-   PE: Queen of the Bay
+   PE: Don't Spill the Tofu
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/969057329108615178/Untitled_227.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/971640312822894642/IMG_5584.png)    
 </details>	
 
 <details  markdown="block">
@@ -47,8 +47,6 @@ classes: wide
 	
 ![](https://images-ext-1.discordapp.net/external/o4aq9473ts5E6UcHNRaG8WtPZKIApe0VBEZcS61F1C0/https/media.discordapp.net/attachments/898321008031858708/971023233371492392/eng1.png)  
 	
-Next events: amusementwheelie - 04/05/2022
-![](https://media.discordapp.net/attachments/898321008031858708/968127112399716462/eng.png)  
 
 Next events: moontack - 11/05/2022
 ![](https://images-ext-2.discordapp.net/external/Y7PK0BxvYbmD21fOR7-AryFx3y4lblAErEGQWKYDc0E/https/media.discordapp.net/attachments/898321008031858708/971023100625977395/eng.png)  
