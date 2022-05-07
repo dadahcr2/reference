@@ -415,18 +415,12 @@ Top teams
 - Please note that this spreadsheet will only work in Google Sheets.  Download link below:  
 [TournamentResults.xlsx](https://raw.githubusercontent.com/dadahcr2/reference/master/TournamentResults.xlsx)
 
-**Aero's updated Spreadsheet**
+**Player Progress Spreadsheet**
 	
 - Helps keep track of player progress in the game
-	
-- ego1138 (on Reddit)  
-> First off, I just want to clarify, this was cleared by the mods and Aerobiere.  
-> So it seems like everyone has discovered, there was an issue with Aerobiere's spreadsheet when adding in the new vehicle. It didn't have the correct data validation for the parts, and the GP calculation was incorrect. (only on the hidden "additional" columns - not on the main sheet).  
-> So with all due respect to Aerobiere and his great work, I've cracked into the spreadsheet and fixed up the formulas, and also added in the Gloomyvale adventure track as well. I've made no other changes. I've not added in any additional columns for future expansion, etc.  
-> This is his spreadsheet, and his to update. I'm only posting this after getting it cleared, as he doesn't have the time right now to correct the sheet. So this will hopefully tide everyone over until he returns. :)  
-> Download link is below . . and it's only the Excel version with macros, so you will need to enable content to use it.  
-> <https://www.mediafire.com/file/s7ge6lmve6712l1/HCR2_Empty_Spreadsheet.xlsm/file>  
+> <https://www.mediafire.com/file/ownc45yh4y24kf2/hcr2_template_5.xlsm/file>  
 - **I have not checked this spreadsheet - use at own risk!**
+- For more details, see reddit: <https://www.reddit.com/r/HillClimbRacing/comments/ud1upy/new_spreadsheet_contains_lowrider_and_adventure/>
 
 </details>	
 	
