@@ -24,17 +24,20 @@ classes: wide
   </summary>
 <br>
 ![scooter2] ![moto2] ![mono2] ![rally2] ![ev2]  
-![]()  
+![](https://media.discordapp.net/attachments/851566907920089128/971985161740771358/IMG_5589.png)  
 	
-![]()  
+![](https://media.discordapp.net/attachments/851566907920089128/972007727364706314/te_Strategy.png)  
 	
 T1 | T2
 -- | --
-![]() | ![]() 
+![](https://media.discordapp.net/attachments/858017263989948447/972933341718397048/t1f.png)  
+![](https://media.discordapp.net/attachments/858017263989948447/972933558836527154/t11f.png) | ![](https://media.discordapp.net/attachments/858017329509171201/972933781164019712/t2f.png)  
+![](https://media.discordapp.net/attachments/858017329509171201/972933880082489454/t22f.png)
 	
 T3 | T4
 -- | --
-![]() | ![]() 
+![](https://media.discordapp.net/attachments/858017412174577716/972933967428845628/t3f.png) | ![](https://media.discordapp.net/attachments/858017616181461022/972934126766272602/t44f.png)  
+![]()
 	
 </details>
 
