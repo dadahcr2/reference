@@ -34,7 +34,7 @@ T1 | T2
 	
 T3 | T4  
 -- | --
-![](https://media.discordapp.net/attachments/858017412174577716/972933967428845628/t3f.png) | ![](https://media.discordapp.net/attachments/858017616181461022/972934126766272602/t44f.png)  
+![](https://media.discordapp.net/attachments/858017412174577716/972933967428845628/t3f.png) | ![](https://media.discordapp.net/attachments/858017616181461022/972934126766272602/t44f.png) {: style="vertical-align: top;"} 
 	
 </details>
 
