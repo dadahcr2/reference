@@ -30,7 +30,7 @@ classes: wide
 	
 T1 | T2  
 -- | --
-![](https://media.discordapp.net/attachments/858017263989948447/972933341718397048/t1f.png) ![](https://media.discordapp.net/attachments/858017263989948447/972933558836527154/t11f.png) | ![](https://media.discordapp.net/attachments/858017329509171201/972933781164019712/t2f.png) ![](https://media.discordapp.net/attachments/858017329509171201/972933880082489454/t22f.png)
+![](https://media.discordapp.net/attachments/858017263989948447/972933341718397048/t1f.png) ![](https://media.discordapp.net/attachments/858017263989948447/972933558836527154/t11f.png) | ![](https://media.discordapp.net/attachments/858017329509171201/972933781164019712/t2f.png) ![](https://media.discordapp.net/attachments/858017329509171201/972933880082489454/t22f.png) {: style="text-align: center;"}
 	
 T3 | T4  
 -- | --
