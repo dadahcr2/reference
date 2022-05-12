@@ -55,8 +55,8 @@ T3 | T4
 ![](https://media.discordapp.net/attachments/898321008031858708/973913084869623818/eng1.png)  
 	
 
-Next events: 18/05/2022
-![](https://media.discordapp.net/attachments/898321008031858708/973913084869623818/eng1.png)  
+Next public event: 18/05/2022
+![](https://media.discordapp.net/attachments/898321008031858708/973913208337342484/eng.png)  
 </details>
 	
 <details  markdown="block">
