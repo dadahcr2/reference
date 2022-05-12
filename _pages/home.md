@@ -40,10 +40,10 @@ T3 | T4
 
 <details  markdown="block">
   <summary>
-   PE: Don't Spill the Tofu
+   PE: Satellite Sprimte
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/971640312822894642/IMG_5584.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/928274193638887454/IMG_3278.png)    
 </details>	
 
 <details  markdown="block">
