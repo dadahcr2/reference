@@ -29,6 +29,15 @@ classes: wide
 
 **Tutorial**
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/mTRz1DxTb0w?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	
+T1 | T2  
+-- | --
+![](https://media.discordapp.net/attachments/858017263989948447/975046523257770004/t111.png) | ![](https://media.discordapp.net/attachments/858017329509171201/975046654094868570/t222.png)  
+	
+T3 | T4   
+-- | --
+![](https://media.discordapp.net/attachments/858017412174577716/975046766766469150/t333.png) | ![](https://media.discordapp.net/attachments/858017616181461022/975046868998455386/t444.png) 
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/974556815889145876/IMG_5645.png)  
 	
