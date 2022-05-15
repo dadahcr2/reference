@@ -176,7 +176,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 11
+   Top 10 Teams Ranked after Season 12
   </summary>
 
 ![](https://media.discordapp.net/attachments/847863985381965854/972011192568664094/IMG_5590.png)  
