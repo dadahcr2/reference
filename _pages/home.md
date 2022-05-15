@@ -190,10 +190,10 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 - Going forward rankings will be based on a 12-month rolling period
 - So Discord is the first 12-month winner
 - Can another team overtake their 64 points to demonstrate even greater dominance?	
-
-![](https://cdn.discordapp.com/attachments/847866414638432256/873449549887324160/image0.png)  
 	
-One season of 15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
+***
+	
+One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
 - **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
 - **Previous season**: 1st=11 points, 2nd=10 points, 3rd=9points, … 11th = 1 point
 - **Two seasons ago**: 1st=10 points, 2nd=9 points, 3rd=8points, … 10th = 1 point
