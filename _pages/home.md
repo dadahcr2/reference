@@ -179,6 +179,18 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
    Top 10 Teams Ranked after Season 11
   </summary>
 
+![](https://media.discordapp.net/attachments/847863985381965854/972011192568664094/IMG_5590.png)  
+- Results from the first full year
+- Discord ended the year in the #1 spot with 64 points
+- NORTH hot on their heels with 61
+- Project GER in 3rd but a way back
+- IMPERIO-H merged and renamed ATLANTIS~
+- UNITY showed some strength and leapfrogged S.MARIOJUANA/Not? into 6th
+- STORMO ITALIA up into 8th
+- Going forward rankings will be based on a 12-month rolling period
+- So Discord is the first 12-month winner
+- Can another team overtake their 64 points to demonstrate even greater dominance?	
+
 ![](https://media.discordapp.net/attachments/847863985381965854/959860818449690624/IMG_5205.png)  
 **Dada Top 10 Ranking (Seasons 1-11)**
 - Discord slightly extended their lead over NORTH
