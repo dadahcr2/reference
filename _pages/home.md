@@ -59,7 +59,7 @@ T3 | T4
   </summary>
 <br>
 	
-![](https://media.discordapp.net/attachments/850232585707323402/976663369685819462/IMG_5707.png)  
+![](https://media.discordapp.net/attachments/898321008031858708/976124471486316664/eng.png)  
 	
 
 Next public event: lowgravity - 25/05/2022
