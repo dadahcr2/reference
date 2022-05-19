@@ -45,32 +45,12 @@ T3 | T4
 
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: BIll's Cruel Thesis
-  </summary>
-<br>
-![scooter2] ![moto2] ![mono2] ![rally2] ![ev2]  
-![](https://media.discordapp.net/attachments/851566907920089128/971985161740771358/IMG_5589.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/972007727364706314/te_Strategy.png)  
-	
-T1 | T2  
--- | --
-![](https://media.discordapp.net/attachments/858017263989948447/972933341718397048/t1f.png) ![](https://media.discordapp.net/attachments/858017263989948447/972933558836527154/t11f.png) | ![](https://media.discordapp.net/attachments/858017329509171201/972933781164019712/t2f.png) ![](https://media.discordapp.net/attachments/858017329509171201/972933880082489454/t22f.png)
-	
-T3 | T4  
--- | --
-![](https://media.discordapp.net/attachments/858017412174577716/972933967428845628/t3f.png) | ![](https://media.discordapp.net/attachments/858017616181461022/972934126766272602/t44f.png)  
-	
-</details>
-
 <details  markdown="block">
   <summary>
-   PE: Satellite Sprint
+   PE: Downforce Dilemma
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/928274193638887454/IMG_3278.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/976663369685819462/IMG_5707.png)    
 </details>	
 
 <details  markdown="block">
@@ -79,11 +59,11 @@ T3 | T4
   </summary>
 <br>
 	
-![](https://media.discordapp.net/attachments/898321008031858708/973913084869623818/eng1.png)  
+![](https://media.discordapp.net/attachments/850232585707323402/976663369685819462/IMG_5707.png)  
 	
 
-Next public event: 18/05/2022
-![](https://media.discordapp.net/attachments/898321008031858708/973913208337342484/eng.png)  
+Next public event: lowgravity - 25/05/2022
+![](https://media.discordapp.net/attachments/898321008031858708/976090171617460274/eng.png)  
 </details>
 	
 <details  markdown="block">
