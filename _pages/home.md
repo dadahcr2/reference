@@ -19,7 +19,7 @@ classes: wide
 ## Events & Updates  
 
 <summary>
-    TE: It's a Rental
+    TE: Torque of the Town
   </summary>
 <br>
 ![](https://media.discordapp.net/attachments/851566907920089128/977250376183062578/maxresdefault.jpg)  
