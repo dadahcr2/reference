@@ -17,7 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates  
-
+<details  markdown="block">
 <summary>
     TE: Torque of the Town
   </summary>
