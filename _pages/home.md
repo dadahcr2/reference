@@ -18,31 +18,22 @@ classes: wide
 
 ## Events & Updates  
 
-<details markdown="block">
-  <summary>
+<summary>
     TE: It's a Rental
   </summary>
 <br>
+![](https://media.discordapp.net/attachments/851566907920089128/977250376183062578/maxresdefault.jpg)  
 
-![mk22] ![sportscar2] ![chopper2] ![formula2] ![moonlander2]  
-	
+![](https://images-ext-1.discordapp.net/external/IOH538NkJ8LQEz-dsuhWCUfu793LszBw5-HNxp6tF2U/https/media.discordapp.net/attachments/858851529058418765/977840462381608990/IMG_5725.png)
 
-**Tutorial**
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/mTRz1DxTb0w?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://media.discordapp.net/attachments/851566907920089128/977248122629664778/te_Strategy.png)
 
+<iframe width="560" height="15" src="https://www.youtube.com/embed/amRT61NAh_M?start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details markdown="block">
 	
-T1 | T2  
--- | --
-![](https://media.discordapp.net/attachments/858017263989948447/975046523257770004/t111.png) | ![](https://media.discordapp.net/attachments/858017329509171201/975046654094868570/t222.png)  
+![](https://images-ext-1.discordapp.net/external/qq0juvBmpZvESglGEMZCfQy1ZiPP8_Ga1_8c7HKbh1s/https/media.discordapp.net/attachments/927186801658064946/934799039571050506/AddText_01-23-05.16.13.jpg)
 	
-T3 | T4   
--- | --
-![](https://media.discordapp.net/attachments/858017412174577716/975046766766469150/t333.png) | ![](https://media.discordapp.net/attachments/858017616181461022/975046868998455386/t444.png) 
 	
-![](https://media.discordapp.net/attachments/851566907920089128/974556815889145876/IMG_5645.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/974556879906828288/te_Strategy.png)  
-
 </details>
 
 <details  markdown="block">
