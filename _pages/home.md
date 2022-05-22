@@ -735,7 +735,7 @@ Distance | Obstacle
 </details>	
 	
 ## Cups
-
+<!--
 <details  markdown="block">
   <summary>
     April Fuel's Day Season Tracks and Trophy Road
@@ -745,7 +745,7 @@ Distance | Obstacle
 	
 </details>
 
-	
+-->	
 <details  markdown="block">
   <summary>
     Two and Four Track Cups
