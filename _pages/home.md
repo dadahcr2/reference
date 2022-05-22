@@ -28,7 +28,7 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/851566907920089128/977248122629664778/te_Strategy.png)
 
-<iframe width="560" height="15" src="https://www.youtube.com/embed/amRT61NAh_M?start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amRT61NAh_M?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![](https://images-ext-1.discordapp.net/external/qq0juvBmpZvESglGEMZCfQy1ZiPP8_Ga1_8c7HKbh1s/https/media.discordapp.net/attachments/927186801658064946/934799039571050506/AddText_01-23-05.16.13.jpg)
 	
