@@ -32,6 +32,7 @@ classes: wide
 	
 ![](https://images-ext-1.discordapp.net/external/qq0juvBmpZvESglGEMZCfQy1ZiPP8_Ga1_8c7HKbh1s/https/media.discordapp.net/attachments/927186801658064946/934799039571050506/AddText_01-23-05.16.13.jpg)
 	
+![](https://media.discordapp.net/attachments/921752448614416395/978056853600751667/IMG_20220522_150448.png)  
 	
 </details>
 
