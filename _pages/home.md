@@ -49,12 +49,13 @@ classes: wide
     ⚠️Spoilers⚠️
   </summary>
 <br>
-	
-![](https://media.discordapp.net/attachments/898321008031858708/976124471486316664/eng.png)  
-	
+		
 
 Next public event: lowgravity - 25/05/2022
 ![](https://media.discordapp.net/attachments/898321008031858708/976090171617460274/eng.png)  
+
+![](https://images-ext-1.discordapp.net/external/z639ZQiVPsz1L00HGYYzpEpmFu_fCob0UGsdu3jVU2E/https/media.discordapp.net/attachments/898321008031858708/978604485884657684/eng.png)
+
 </details>
 	
 <details  markdown="block">
