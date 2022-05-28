@@ -19,29 +19,31 @@ classes: wide
 ## Events & Updates  
 <details  markdown="block">
 <summary>
-    TE: Torque of the Town
+    TE: Trials and Tribulations
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/851566907920089128/977250376183062578/maxresdefault.jpg)  
+![](https://i3.ytimg.com/vi/PTYTZQNE8CI/0.jpg)  
 
-![](https://images-ext-1.discordapp.net/external/IOH538NkJ8LQEz-dsuhWCUfu793LszBw5-HNxp6tF2U/https/media.discordapp.net/attachments/858851529058418765/977840462381608990/IMG_5725.png)
+![](https://media.discordapp.net/attachments/851566907920089128/979724538365501450/IMG_4737.png)
 
-![](https://media.discordapp.net/attachments/851566907920089128/977248122629664778/te_Strategy.png)
+![](https://media.discordapp.net/attachments/851566907920089128/979977075521912852/te_Strategy.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/amRT61NAh_M?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+T2
+![](https://media.discordapp.net/attachments/961020813203632188/961020890521427968/artflow_202204051450.png)
+
+T3
+![](https://media.discordapp.net/attachments/921752418654502912/940155258716422144/IMG_4252.png)  
 	
-![](https://images-ext-1.discordapp.net/external/qq0juvBmpZvESglGEMZCfQy1ZiPP8_Ga1_8c7HKbh1s/https/media.discordapp.net/attachments/927186801658064946/934799039571050506/AddText_01-23-05.16.13.jpg)
-	
-![](https://media.discordapp.net/attachments/921752448614416395/978056853600751667/IMG_20220522_150448.png)  
-	
+
 </details>
 
 <details  markdown="block">
   <summary>
-   PE: Downforce Dilemma
+   PE: 
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/976663369685819462/IMG_5707.png)    
+![]()    
 </details>	
 
 <details  markdown="block">
@@ -52,9 +54,9 @@ classes: wide
 		
 
 Next public event: lowgravity - 25/05/2022
-![](https://media.discordapp.net/attachments/898321008031858708/976090171617460274/eng.png)  
+![]()  
 
-![](https://images-ext-1.discordapp.net/external/z639ZQiVPsz1L00HGYYzpEpmFu_fCob0UGsdu3jVU2E/https/media.discordapp.net/attachments/898321008031858708/978604485884657684/eng.png)
+![]()
 
 </details>
 	
