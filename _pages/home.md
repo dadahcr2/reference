@@ -40,10 +40,10 @@ T3
 
 <details  markdown="block">
   <summary>
-   PE: 
+   PE: Spinus Discus Ejectus
   </summary>
 <br>
-![]()    
+![](https://media.discordapp.net/attachments/850232585707323402/979192443582947328/Untitled_230.png)    
 </details>	
 
 <details  markdown="block">
