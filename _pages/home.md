@@ -53,8 +53,8 @@ T3
 <br>
 		
 
-Next public event: lowgravity - 25/05/2022
-![]()  
+Next events: multijump - 01/06/2022
+![](https://media.discordapp.net/attachments/898321008031858708/978942361537220629/eng.png)  
 
 ![]()
 
