@@ -19,21 +19,20 @@ classes: wide
 ## Events & Updates  
 <details  markdown="block">
 <summary>
-    TE: Trials and Tribulations
+    TE: Giant Enemy Clock
   </summary>
 <br>
-![](https://i3.ytimg.com/vi/PTYTZQNE8CI/0.jpg)  
+![](https://media.tenor.com/_Xj_pcAdBEAAAAPo/time-change-daylight-savings.mp4)  
 
-![](https://media.discordapp.net/attachments/851566907920089128/979724538365501450/IMG_4737.png)
+![](https://media.discordapp.net/attachments/851566907920089128/982293716180017172/IMG_5776.png)
 
-![](https://media.discordapp.net/attachments/851566907920089128/979977075521912852/te_Strategy.png)
+![](https://media.discordapp.net/attachments/851566907920089128/982293819640930364/te_Strategy.png)
 
 
 T2
-![](https://media.discordapp.net/attachments/961020813203632188/961020890521427968/artflow_202204051450.png)
+![](https://media.discordapp.net/attachments/880712810542297148/880712846344871956/image0.jpg)
 
-T3
-![](https://media.discordapp.net/attachments/921752418654502912/940155258716422144/IMG_4252.png)  
+![]()  
 	
 
 </details>
