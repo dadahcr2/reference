@@ -42,10 +42,10 @@ T2
 
 <details  markdown="block">
   <summary>
-   PE: Spinus Discus Ejectus
+   PE: Sequential Springing
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/979192443582947328/Untitled_230.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/962109528495755284/Untitled_207.png)    
 </details>	
 
 <details  markdown="block">
