@@ -58,7 +58,9 @@ T2
 Next events: moon stunts
 ![](https://media.discordapp.net/attachments/898321008031858708/981101913842024488/eng.png)  
 
-![]()
+![](https://cdn.discordapp.com/attachments/898321008031858708/983357250653536316/eng.png)
+
+![](https://media.discordapp.net/attachments/898321008031858708/983365302941270086/eng.png)
 
 </details>
 	
