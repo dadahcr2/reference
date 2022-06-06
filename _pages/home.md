@@ -152,20 +152,18 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 12
+   Top 10 Teams Ranked after Season 13
   </summary>
 
-![](https://media.discordapp.net/attachments/847863985381965854/972011192568664094/IMG_5590.png)  
-- Results from the first full year
-- Discord ended the year in the #1 spot with 64 points
-- NORTH hot on their heels with 61
-- Project GER in 3rd but a way back
-- IMPERIO-H merged and renamed ATLANTIS~
-- UNITY showed some strength and leapfrogged S.MARIOJUANA/Not? into 6th
-- STORMO ITALIA up into 8th
-- Going forward rankings will be based on a 12-month rolling period
-- So Discord is the first 12-month winner
-- Can another team overtake their 64 points to demonstrate even greater dominance?	
+![](https://media.discordapp.net/attachments/858336498159714324/982672221489209354/IMG_5779.png)  
+
+- Rankings based on the past year
+- Discord remains in #1 but drops 1 point to 63
+- NORTH holds #2 still with 61
+- Unity jumps two spots to #4
+- Merged team ASYLUM in #5
+- ATLANTIS and PL NATIONAL both drop two spots to 6/7
+- N&FRIENDS and United Arab break into the Top 10  
 	
 ***
 	
