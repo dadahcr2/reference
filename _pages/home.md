@@ -29,7 +29,8 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/851566907920089128/985237232426319922/te_Strategy.png)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bI8EAnxWSjk?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 T3
 ![](https://media.discordapp.net/attachments/864520500007927819/872446852287582269/image0.jpg)
 
