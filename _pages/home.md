@@ -17,7 +17,7 @@ classes: wide
 </details> -->  
 
 ## Events & Updates  
-<details  markdown="block">
+<!-- <details  markdown="block">
 <summary>
     TE: Carboy Bebop
   </summary>
@@ -57,7 +57,7 @@ TE
 ![](https://media.discordapp.net/attachments/898321008031858708/985935855329873960/eng.png)
 
 </details>
-	
+-->	
 <details  markdown="block">
   <summary>
     TE: Popular Parts
@@ -97,7 +97,7 @@ Vehicle | Parts
 
 <details  markdown="block">
   <summary>
-    PE: Setups & Previous Events
+    PE: Setups
   </summary>
 	
 ### Public Event Setups
