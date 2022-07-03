@@ -18,6 +18,7 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/858851529058418765/992395764955357285/IMG_5946.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xVNz-vHCWt4?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Events & Updates  
 
