@@ -20,6 +20,7 @@ classes: wide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xVNz-vHCWt4?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![](https://cdn.discordapp.com/attachments/851566907920089128/993036628492824596/te_Strategy.png)
 ## Events & Updates  
 
 <!-- <details  markdown="block">
