@@ -387,9 +387,9 @@ Top teams
 **Player Progress Spreadsheet**
 	
 - Helps keep track of player progress in the game
-> <https://www.mediafire.com/file/ownc45yh4y24kf2/hcr2_template_5.xlsm/file>  
+> [https://www.mediafire.com/file/ownc45yh4y24kf2/hcr2_template_5.xlsm/file](https://www.mediafire.com/file/ownc45yh4y24kf2/hcr2_template_5.xlsm/file)
 - **I have not checked this spreadsheet - use at own risk!**
-- For more details, see reddit: <https://www.reddit.com/r/HillClimbRacing/comments/ud1upy/new_spreadsheet_contains_lowrider_and_adventure/>
+- For more details, see reddit: [https://www.reddit.com/r/HillClimbRacing/comments/ud1upy/new_spreadsheet_contains_lowrider_and_adventure/](https://www.reddit.com/r/HillClimbRacing/comments/ud1upy/new_spreadsheet_contains_lowrider_and_adventure/)
 
 </details>	
 	
