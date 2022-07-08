@@ -16,11 +16,9 @@ classes: wide
 {:toc} 
 </details> -->  
 
-![](https://media.discordapp.net/attachments/858851529058418765/992395764955357285/IMG_5946.png)
+![](https://media.discordapp.net/attachments/858851529058418765/994825383423778897/IMG_5993.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xVNz-vHCWt4?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/993036628492824596/te_Strategy.png)
 ## Events & Updates  
 
 <!-- <details  markdown="block">
@@ -154,18 +152,16 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 13
+   Top 10 Teams Ranked after Season 14
   </summary>
 
-![](https://media.discordapp.net/attachments/858336498159714324/982672221489209354/IMG_5779.png)  
+![](https://media.discordapp.net/attachments/847863985381965854/994818586843553852/IMG_5992.png)  
 
 - Rankings based on the past year
-- Discord remains in #1 but drops 1 point to 63
-- NORTH holds #2 still with 61
-- Unity jumps two spots to #4
-- Merged team ASYLUM in #5
-- ATLANTIS and PL NATIONAL both drop two spots to 6/7
-- N&FRIENDS and United Arab break into the Top 10  
+- Discord remains in #1 but only have 1 point more than North
+- Strong performance by Unity, but not strong enough to prevent team ASYLUM from joining them in #4
+-  United Arab jumps from #10 to #7
+- TRAXION brakes in the Too 10, joining STORMO ITALIA and N&FRIENDS in 8th spot
 	
 ***
 	
