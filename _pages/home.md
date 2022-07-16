@@ -16,9 +16,9 @@ classes: wide
 {:toc} 
 </details> -->  
 
-![](https://media.discordapp.net/attachments/858851529058418765/994825383423778897/IMG_5993.png)
+![](https://media.discordapp.net/attachments/858851529058418765/997485978451202100/IMG_5056.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCnhvBt6TZg?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![]( https://media.discordapp.net/attachments/851566907920089128/997707707169648691/te_Strategy.png)
 
 ## Events & Updates  
 
