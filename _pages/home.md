@@ -22,7 +22,7 @@ classes: wide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF2fVscrnnE?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Events & Updates  
+## Events  
 
 <!-- <details  markdown="block">
 <summary>
