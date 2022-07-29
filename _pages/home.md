@@ -16,14 +16,9 @@ classes: wide
 {:toc} 
 </details> -->  
 
-![](https://media.discordapp.net/attachments/851566907920089128/1000000811398610964/IMG_6087.png)
+![](https://media.discordapp.net/attachments/858851529058418765/1002548000121442424/IMG_6176.png)
 
-![]( https://media.discordapp.net/attachments/851566907920089128/1000006803167379476/te_Strategy.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YF2fVscrnnE?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-T1 Map  
-![](https://media.discordapp.net/attachments/927186717167992892/1001667407212982352/IMG_6174.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/1002548379903070259/te_Strategy.png)
 
 ## Events  
 
