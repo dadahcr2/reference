@@ -18,7 +18,7 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1002548000121442424/IMG_6176.png)
 
-![](https://media.discordapp.net/attachments/851566907920089128/1002548379903070259/te_Strategy.png)
+![](https://media.discordapp.net/attachments/851566907920089128/1002704075495841844/te_Strategy.png)
 
 ## Events  
 
