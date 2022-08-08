@@ -16,7 +16,7 @@ classes: wide
 {:toc} 
 </details> -->  
 
-![](https://media.discordapp.net/attachments/858851529058418765/1005233175305396415/IMG_6269.png)
+![](https://media.discordapp.net/attachments/858851529058418765/1006295844670148699/IMG_6314.png)
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1005233736792682647/te_Strategy.png)
 
