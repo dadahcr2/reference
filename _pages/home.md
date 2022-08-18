@@ -157,13 +157,15 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
    Top 10 Teams Ranked after Season 14
   </summary>
 
-![](https://media.discordapp.net/attachments/847863985381965854/994818586843553852/IMG_5992.png)  
+![](https://media.discordapp.net/attachments/858336498159714324/1004166755574370395/IMG_6256.png)  
 
+**Dada Top 10 Ranking (Season 15)**
 - Rankings based on the past year
-- Discord remains in #1 but only have 1 point more than North
-- Strong performance by Unity, but not strong enough to prevent team ASYLUM from joining them in #4
--  United Arab jumps from #10 to #7
-- TRAXION brakes in the Too 10, joining STORMO ITALIA and N&FRIENDS in 8th spot
+- Discord remains in #1 with only North nearby
+- Project GER, Unity & ASYLUM in #3-#5 but it’s tight
+- STORMO ITALIA captured the #8 spot for itself
+- But TRAXION still, in Top 10 in #9 
+- RUS NATIONAL finally back in the Top 10
 	
 ***
 	
