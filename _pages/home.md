@@ -18,6 +18,10 @@ classes: wide
 
 ## News
 
+![](https://media.discordapp.net/attachments/894901600974430268/1012696460812370030/IMG_6381.png)
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/1012713589943058482/te_Strategy.png)
+
 ![](https://media.discordapp.net/attachments/850232435579813938/1011284927427379260/unknown.png)
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1010123412078858282/IMG_6348.png)
