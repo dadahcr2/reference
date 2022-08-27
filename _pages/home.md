@@ -22,13 +22,7 @@ classes: wide
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1012713589943058482/te_Strategy.png)
 
-![](https://media.discordapp.net/attachments/850232435579813938/1011284927427379260/unknown.png)
-
-![](https://media.discordapp.net/attachments/858851529058418765/1010123412078858282/IMG_6348.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/1010124381474799656/te_Strategy.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bX-k-MhHlIA?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3kLjIIfuPxY?start=389" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Events  
