@@ -157,18 +157,19 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 15
+   Top 10 Teams Ranked after Season 16
   </summary>
 
-![](https://media.discordapp.net/attachments/858336498159714324/1004166755574370395/IMG_6256.png)  
+![](https://media.discordapp.net/attachments/858336498159714324/1014899282899374120/IMG_6526.png)  
 
-**Dada Top 10 Ranking (Season 15)**
+**Dada Top 10 Ranking (Season 16)**
 - Rankings based on the past year
-- Discord remains in #1 with only North nearby
-- Project GER, Unity & ASYLUM in #3-#5 but it’s tight
-- STORMO ITALIA captured the #8 spot for itself
-- But TRAXION still, in Top 10 in #9 
-- RUS NATIONAL finally back in the Top 10
+- Strong performance by Discord consolidating their #1 with a new all-time points total (65)
+- Discord has been on the Top 3 podium for all 16 seasons other than two (positions #4 and #5)
+- Also impressive is that North has never placed worse than #4 in any single season
+- North remains in #2, but Unity and Asylum leapfrogged Project GER, for #3-#5
+- United Arab, and STORMO ITALIA jumped over ATLANTIS for #6-#8
+- TRAXION remained in #9, but SYNDICATE broke into the Top 10 displacing Rus National
 	
 ***
 	
