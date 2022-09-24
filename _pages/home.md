@@ -18,11 +18,11 @@ classes: wide
 
 ## News
 
-![](https://media.discordapp.net/attachments/858851529058418765/1020297337106599936/IMG_6592.png)
+![](https://media.discordapp.net/attachments/894901600974430268/1022849304676814919/IMG_5617.png)
 
-![](https://media.discordapp.net/attachments/851566907920089128/1020297671195512882/te_Strategy.png)
+![](https://media.discordapp.net/attachments/851566907920089128/1022849676455710740/te_Strategy.png)
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/02fo7KOQMog?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6pi5DYzFjvQ?start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## Events  
 
