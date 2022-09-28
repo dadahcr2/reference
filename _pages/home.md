@@ -890,7 +890,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     Being a good teammate
   </summary>
 	
-*With thanks to ℹ🅰Ⓜ#3420
+
+*With thanks to ℹ🅰Ⓜ#3420*
 	
 1. Be a good human being. Respect each and everyone. Treat everyone the same way you expect to be treated.
 2. no spamming when applying or otherwise.
