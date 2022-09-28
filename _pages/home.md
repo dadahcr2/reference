@@ -894,7 +894,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 *With thanks to ℹ🅰Ⓜ#3420*
 	
 1. Be a good human being. Respect each and everyone. Treat everyone the same way you expect to be treated.
-2. no spamming when applying or otherwise.
+2. No spamming when applying or otherwise.
 3. Never, ever ask for coleader post. You will get it when the team leader feels that you are worthy of it.
 4. No misuse of authority when you are a co. Be responsible and dutiful.
 5. Don't ask for teams that may go over your capacity. Like for eg, you may only score 10k in a team event and you ask for a team which asks for 37k scores.
