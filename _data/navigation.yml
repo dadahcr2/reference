@@ -5,8 +5,8 @@ main:
     url: /chests/
   - title: "Memes"
     url: /memes/
-  - title: "Prior PEs"
-    url: /PrevPe/
+  - title: "Friends List"
+    url: /friends/
   - title: "GM"
     url: /gm/
   - title: "FAQ"
