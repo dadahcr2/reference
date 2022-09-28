@@ -910,9 +910,9 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
     Tournaments
   </summary>
 	
-I highly recommend these:
+I highly recommend:
 - Tractor  Wars : <http://tw.hcr2.info>  
-- Friendly Wars: <http://fw.hcr2.info>
+- Friendly Wars: <http://fw.hcr2.info> (no longer organized but daily track and vehicle is still generatrd)
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
 
@@ -998,6 +998,7 @@ I highly recommend these:
 	> - HCR Maps: <https://discord.gg/dWhDEEmxB7>  
 	> - FS Server: <https://discord.gg/fingersoft>  
 	> - Fair Play: <https://discord.gg/mnSmNU9XMr>  
+	> - Tractor Wars: <https://discord.gg/ND6avWY>
 	> - Art Gallery: <https://discord.gg/tr4jWzvbrB>  
 	> - Climb Canyon League: <https://discord.gg/gE8xh925V6>  
 	> - HCR2 CupBoard: <https://discord.gg/g3aKuuNHNA>  
