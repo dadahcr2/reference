@@ -887,7 +887,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 <details  markdown="block">
   <summary>
-    Being a Good Teammate
+    Be a Good Teammate
   </summary>
 	
 
