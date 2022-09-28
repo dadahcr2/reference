@@ -1,12 +1,14 @@
 main:
   - title: "Tips"
     url: /tips/
+  - title: "Friends"
+    url: /friends/
+  - title: "Servers"
+    url: /servers/
   - title: "Chests"
     url: /chests/
   - title: "Memes"
     url: /memes/
-  - title: "Friends"
-    url: /friends/
   - title: "GM"
     url: /gm/
   - title: "FAQ"
