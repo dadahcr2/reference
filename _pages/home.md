@@ -18,13 +18,9 @@ classes: wide
 
 ## News
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HCsCrmgBFBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://media.discordapp.net/attachments/858851529058418765/1025259183827861576/IMG_6734.png)
 
-![](https://media.discordapp.net/attachments/894901600974430268/1022849304676814919/IMG_5617.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/1022849676455710740/te_Strategy.png)
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6pi5DYzFjvQ?start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://media.discordapp.net/attachments/851566907920089128/1025372770193920021/te_Strategy.png)
  
 ## Events  
 
@@ -135,7 +131,8 @@ No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]
 Pitstop | ![Supercar] ![fume] ![OT]
 Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]
 Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	
-Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]
+Superbike Wars | ![SBike] ![Ab] 
+![WB]/![cb]/![Wi]/![sb]
 Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
 Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
 Uphill Climb | ![rt] ![wi] ![fume] ![wb]
