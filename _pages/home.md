@@ -74,7 +74,7 @@ TE
 <br>
 Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.
 
-Vehicle | Parts
+Vehicle | Parts  
 -- | --  
 ![hotrod] | ![CBy] ![Fuely] ![May] ![WT] ![LB] ![SB]   
 ![RT] | ![Wiy] ![WBy] ![CBy] ![AB] ![Fume] ![JS] ![Ma] ![WT]   
@@ -113,37 +113,36 @@ Vehicle | Parts
 
 Event | Suggested Vehicle and Parts
 :-- | :--	
-2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]
-Breaking | ![rally] ![hw] ![wt] ![ab]
-Cargo | ![sbike]/![Monster]/![rotator] ![wi] ![ab] ![cb]  
+2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]  
+Breaking | ![rally] ![hw] ![wt] ![ab]  
+Cargo | ![sbike]/![Monster]/![rotator] ![wi] ![ab] ![cb]   
 Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
-Downhill | ![rally] ![WT] ![SB] ![AB] 
-Dribble Distance | ![Bus] ![JS] ![Fume] ![CB]
-Flip Bonus | ![sbike] ![AC] ![Flip] ![WT] 
-Long Jump | ![bus] ![Wi] ![Th] ![JS]/![Ma]
-Long Kick | ![Rally] ![ac] ![js] ![th]
-Mono Wars | ![Mono] ![wi] ![th] ![Fuel]
-Moon Cargo | ![Bus] ![SB] ![JS] ![th]
-Moon Jump | ![Bus] ![th] ![wi] ![ma]/![js]
-Moon Stunts | ![Buggy] ![AC] ![WT] ![Ma]
-Moon Timed | ![Moonlander]![Ma]![AB]![CB] / ![Bus]![Th]![JS]![Wi]/![Ma]
-Multi Jump | ![Diesel]/![Jeep] ![wi] ![js] ![lb]
-Nian Chase |  ![Rally] ![wt] ![wi] ![cb]
-No Air | ![Formula] ![WT] ![AB] ![CB]   
-No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]
-Pitstop | ![Supercar] ![fume] ![OT]
-Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]
-Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	
-Superbike Wars | ![SBike] ![Ab] 
-![WB]/![cb]/![Wi]/![sb]
-Target Jump | ![Bus] ![wi] ![js] ![Th]
-Time-attack | ![SBike] ![Wi] ![Ab] ![cb]
-Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]
-Uphill Climb | ![rt] ![wi] ![fume] ![wb]
-Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]
-Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]
-Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
-<http://hcr2.info> | <https://discord.gg/FZPnQbxZTQ>
+Downhill | ![rally] ![WT] ![SB] ![AB]  
+Dribble Distance | ![Bus] ![JS] ![Fume] ![CB]  
+Flip Bonus | ![sbike] ![AC] ![Flip] ![WT]  
+Long Jump | ![bus] ![Wi] ![Th] ![JS]/![Ma]  
+Long Kick | ![Rally] ![ac] ![js] ![th]  
+Mono Wars | ![Mono] ![wi] ![th] ![Fuel]  
+Moon Cargo | ![Bus] ![SB] ![JS] ![th]  
+Moon Jump | ![Bus] ![th] ![wi] ![ma]/![js]  
+Moon Stunts | ![Buggy] ![AC] ![WT] ![Ma]    
+Moon Timed | ![Moonlander]![Ma]![AB]![CB] / ![Bus]![Th]![JS]![Wi]/![Ma]  
+Multi Jump | ![Diesel]/![Jeep] ![wi] ![js] ![lb]  
+Nian Chase |  ![Rally] ![wt] ![wi] ![cb]  
+No Air | ![Formula] ![WT] ![AB] ![CB]     
+No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]  
+Pitstop | ![Supercar] ![fume] ![OT]  
+Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]  
+Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	 
+Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]  
+Target Jump | ![Bus] ![wi] ![js] ![Th]  
+Time-attack | ![SBike] ![Wi] ![Ab] ![cb]  
+Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]  
+Uphill Climb | ![rt] ![wi] ![fume] ![wb]  
+Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]  
+Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]  
+Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]  
+<http://hcr2.info> | <https://discord.gg/FZPnQbxZTQ>  
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
