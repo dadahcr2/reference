@@ -8,6 +8,34 @@ toc_sticky: true
 ![Formula] ![SB] ![JS] ![LB]   
 20/20/10/1 green skin  
 20/20/13/1 green skin  
+### A Storm of Stumps  
+![Sbike] ![AB] ![WB] ![CB]   
+20/20/17/3-4  
+20/20/12/1 hat + cap  
+![buggy] ![JS] ![Th] ![LB]   
+20/20/20/20  
+![Hotrod] ![JS] ![LB] ![fuel]   
+### Access to Enjoyment  
+![Rotator] ![OT] ![Wi] ![AB]   
+20/20/20/19 hat and sword  
+20/20/20/10   
+  
+### Approaching Dread  
+![Rotator] ![OT] ![SB] ![AB]   
+20/20/11/1  
+20/20/10/1  
+20/20/20/1  
+  
+### Backwash Dash  
+![ev] ![Wi] ![JS] ![LB]   
+20/20/20/20  
+![Formula] ![OT]  ![AB] ![fuel]   
+Default Paint for all the tunes  
+20/20/8/18   
+20/20/7/20  
+20/20/9/17  
+20/20/11/20  
+  
 ### Balmers Peak  
 ![Sbike] ![Wi] ![AB] ![CB]   
 20/20/10-11/1-2 hat  
@@ -17,6 +45,12 @@ toc_sticky: true
 20/20/2-6/20  
 ![Diesel] ![JS] ![fume] ![Th]   
 20/20/20/20  
+  
+### Base Camp  
+![Diesel] ![SB] ![AB] ![Th]   
+20/20/20/20  
+![Rotator] ![SB] ![Th] ![AB]   
+20/19/12/3 no hat wait 2-3 sec  
   
 ### Base Jump  
 ![Sbike] ![OT] ![WB] ![AB]   
@@ -97,6 +131,16 @@ toc_sticky: true
 20/20/20/6-8 hat   
 20/20/19/11 hat + beard  
   
+### Bumps in the Water  
+![Sbike] ![Wi] ![AB] ![CB]   
+20/20/14/1 + wait 3sec and hat  
+20/20/15/1 + wait 3sec and hat  
+  
+### Bumpy Ride  
+![Sbike] ![SB] ![AB] ![CB]   
+20/20/13-15/1 + start at the bottom half of green area  
+20/19/13/1 hat and beard  
+  
 ### Cactus Hill  
 ![ev] ![SB] ![JS] ![LB]   
 20/20/20/20  
@@ -127,14 +171,50 @@ toc_sticky: true
 20/20/1-2/20 hat  
 20/17/1/20 hat + scarf  
   
+### Coconut Cove  
+![Diesel] ![SB] ![JS] ![Wi]   
+20/20/20/20  
+### Commence Fright  
+![Rotator] ![Ma] ![AB] ![CB]   
+20/20/20/20  
+20/20/17/20   
+  
 ### Cool Descent  
 ![Diesel] ![Wi] ![SB] ![JS]   
 20/20/20/20  
   
+### Coral Quarrel  
+![ev] ![Wi] ![WB] ![LB]   
+20/18/20/20  
+20/20/20/20  
+![buggy] ![Wi] ![JS]  ![LB]   
+20/20/20/20  
+![jeep] ![Wi] ![JS] ![LB]   
+20/20/20/20  
+![Sbike] ![Wi] ![AB] ![CB]   
+20/20/18/20  
+20/20/16/17  
+20/20/16/19  
+20/20/16/5   
+  
+### Cottage Road  
+![Formula] ![SB] ![JS] ![LB]   
+20/20/6/1 hat  
+20/20/10/1 hat  
+![Supercar] ![OT] ![SB] ![AB]   
+20/20/1/20 hat /no hat +leaf/no leaf   
+  
+### Crazy Climb  
+![Diesel] ![JS] ![Wi] ![Th]   
+20/20/20/20  
 ### Crossroads  
 ![Formula] ![SB] ![JS] ![LB]   
 20/20/5-6/1  
 20/20/7/1 hat + leaf  
+  
+### Danger Ahead  
+![Diesel] ![JS] ![Wi] ![Th]   
+20/20/20/20  
   
 ### Danger Zone  
 ![Supercar] ![OT] ![AB] ![WT]   
@@ -163,11 +243,31 @@ toc_sticky: true
 20/20/20/20  
 ![Sportscar] ![JS] ![LB] ![fuel]   
 20/20/20/20  
+### Dirt Road  
+![Diesel] ![SB] ![JS] ![Wi]   
+20/20/20/20  
+  
 ### Docked out  
 ![Sbike] ![AB] ![WB] ![CB]   
 20/20/15/7-10 Hat  
 ![Diesel] ![SB] ![LB] ![JS]   
 20/20/20/20 Hat  
+  
+### Don't Dive  
+![Sbike] ![OT] ![AB] ![WB]   
+20/11/19/10 no hat and no item + start in the white line  
+20/11/16/14 no hat cape  afterburner level 6- use any skin till flame paints  
+19/11/17/14 no hat wait 6sec + AB6  
+### Down the Tube  
+![Supercar] ![SB] ![Wi] ![JS]   
+20/20/5/20 hat + skeleton leg  
+20/20/7/20  
+  
+### Downtown Madness  
+![Sbike] ![AB] ![WB] ![CB]  
+20/11/12/17 hat  
+20/18/15/14 headphones and leaf  
+20/11/19/8  
   
 ### Drive Through  
 ![Rotator] ![AB] ![OT] ![CB]   
@@ -225,273 +325,6 @@ toc_sticky: true
 20/20/15/6  
 20/20/17/1  
   
-⭐ Logs and Rocks️  ⭐  
-![Supercar] ![OT] ![Wi] ![fuel]   
-20/12/1/18 hat scarf  
-20/12/1/19 hat scarf  
-853300016889331753,"Synix#8789","02-Jun-22 06:25 AM","⭐ Rock Pit  ⭐  
-![Supercar] ![OT] ![SB] ![Wi]   
-20/18/1/20  
-20/20/1/19  
-![Supercar] ![Wi] ![SB] ![JS]   
-20/18/5/20  
-20/20/4-5/20  
-![Rotator] ![OT] ![AB] ![CB]   
-20/20/20/1  
-20/19/2/1   
-  
-⭐ Flying Log  ⭐  
-![Diesel] ![SB] ![JS] ![fuel]   
-20/20/20/20 + wait 5-6s before the start  
-![Lowrider] ![SB] ![LB] ![fuel]   
-20/20/20/20 + wait 5-6s before the start  
-  
-⭐ Paradise Bay  ⭐  
-![Rotator] ![OT] ![AB] ![CB]   
-20/20/20/1  
-20/20/1/1  
-![bus] ![Wi] ![Th] ![fuel]   
-20/11/9/20  
-20/11/9/17  
-  
-⭐ Base Camp  ⭐  
-![Diesel] ![SB] ![AB] ![Th]   
-20/20/20/20  
-![Rotator] ![SB] ![Th] ![AB]   
-20/19/12/3 no hat wait 2-3 sec  
-  
-⭐ Crazy Climb  ⭐  
-![Diesel] ![JS] ![Wi] ![Th]   
-20/20/20/20  
-853300016889331753,"Synix#8789","02-Jun-22 06:25 AM","⭐ Top of the World  ⭐  
-![Diesel] ![SB] ![Wi] ![Th]   
-20/20/20/20  
-![Chopper] ![SB] ![Wi] ![Th]   
-20/20/1/20  
-  
-⭐ Bumpy Ride  ⭐  
-![Sbike] ![SB] ![AB] ![CB]   
-20/20/13-15/1 + start at the bottom half of green area  
-20/19/13/1 hat and beard  
-  
-⭐ Rough Road  ⭐  
-![Supercar] ![OT] ![SB] ![AB]   
-20/17/1/20  
-![Sbike] ![OT] ![SB] ![AB]   
-20/20/16/1 + start under the white line   
-  
-⭐ Under the Cliff  ⭐  
-![Hotrod] ![SB] ![JS] ![CB]   
-20/20/5/20 + scarf (normal paint is better)  
-![Sbike] ![AB] ![WB] ![CB]   
-20/20/16/19  
-![Supercar] ![SB] ![JS] ![AB]   
-20/20/20/20   
-  
-⭐ Nowhere Road  ⭐  
-![Diesel] ![SB] ![JS] ![Wi]   
-20/20/20/20  
-  
-⭐ Coconut Cove  ⭐  
-![Diesel] ![SB] ![JS] ![Wi]   
-20/20/20/20  
-853300016889331753,"Synix#8789","02-Jun-22 06:26 AM","⭐ Downtown Madness  ⭐  
-![Sbike] ![AB] ![WB] ![CB]  
-20/11/12/17 hat  
-20/18/15/14 headphones and leaf  
-20/11/19/8  
-  
-⭐ Backwash Dash  ⭐  
-![ev] ![Wi] ![JS] ![LB]   
-20/20/20/20  
-![Formula] ![OT]  ![AB] ![fuel]   
-Default Paint for all the tunes  
-20/20/8/18   
-20/20/7/20  
-20/20/9/17  
-20/20/11/20  
-  
-⭐ Coral Quarrel  ⭐  
-![ev] ![Wi] ![WB] ![LB]   
-20/18/20/20  
-20/20/20/20  
-![buggy] ![Wi] ![JS]  ![LB]   
-20/20/20/20  
-![jeep] ![Wi] ![JS] ![LB]   
-20/20/20/20  
-![Sbike] ![Wi] ![AB] ![CB]   
-20/20/18/20  
-20/20/16/17  
-20/20/16/19  
-20/20/16/5   
-  
-⭐ Thalassophobia  ⭐  
-![Formula] ![OT] ![SB] ![AB]   
-Default Paint for all the tunes  
-20/16/8/19  
-20/20/8/19  
-20/16/6/19  
-  
-⭐ Living on the Edge  ⭐  
-![Lowrider] ![OT] ![SB] ![AB]   
-20/20/20/20  
-![Sportscar] ![SB] ![JS] ![LB]   
-20/20/20/20  
-![Sbike] ![SB] ![AB] ![WT]   
-20/20/12/5  
-![Supercar] ![SB] ![JS] ![AB]   
-20/20/10-15/20  
-853300016889331753,"Synix#8789","02-Jun-22 06:26 AM","⭐ Over the Cliff  ⭐  
-![Sbike] ![AB] ![WB] ![CB]   
-20/17/12/5 ( + no hat and beard work better)  
-20/20/12/12  
-20/20/10/8  
-20/20/20/1   
-  
-⭐ Steep Downhill Cliff  ⭐  
-![Supercar] ![SB] ![Wi] ![WT]   
-20/20/1/20 hat sword/scarf + winter tyre level 14  
-20/16/1/10 hat sword/scarf + max winter tyre  
-![Sbike] ![SB] ![Wi] ![WT]   
-20/20/1/13  
-20/20/2/2  
-  
-⭐ Get Soaked  ⭐  
-![Formula] ![OT] ![AB] ![CB]   
-20/20/13-14/20 hat beard  
-20/20/16/19-20 hat beard  
-20/20/10/19 hat beard  
-  
-⭐ Watery Tunnel  ⭐  
-![Diesel] ![SB] ![JS] ![Wi]   
-20/20/20/20 (you can lower the suspension until 17 for a better start)  
-20/20/12/20  
-![Sbike] ![OT] ![AB] ![WB]   
-20/11/17/2  
-20/11/18/11  
-20/19/18/19  
-  
-⭐ Don't Dive  ⭐  
-![Sbike] ![OT] ![AB] ![WB]   
-20/11/19/10 no hat and no item + start in the white line  
-20/11/16/14 no hat cape  afterburner level 6- use any skin till flame paints  
-19/11/17/14 no hat wait 6sec + AB6  
-853300016889331753,"Synix#8789","02-Jun-22 06:26 AM","⭐ Dirt Road  ⭐  
-![Diesel] ![SB] ![JS] ![Wi]   
-20/20/20/20  
-  
-⭐ Danger Ahead  ⭐  
-![Diesel] ![JS] ![Wi] ![Th]   
-20/20/20/20  
-  
-⭐ Highs and Lows  ⭐  
-![Diesel] ![JS] ![Wi] ![Th]   
-20/20/20/20  
-  
-⭐ Parking Trailers  ⭐  
-![Sbike] ![OT] ![AB] ![WB]   
-20/19/13/1 wait 3sec + hat  
-  
-⭐ Snappy Swamps  ⭐  
-![Diesel] ![SB] ![JS] ![Wi]   
-20/20/20/20  
-![Supercar] ![OT] ![Wi] ![AB]   
-19/10/1/18 hat + scarf   
-  
-⭐ Bumps in the Water  ⭐  
-![Sbike] ![Wi] ![AB] ![CB]   
-20/20/14/1 + wait 3sec and hat  
-20/20/15/1 + wait 3sec and hat  
-  
-⭐ Muddy Road  ⭐  
-![Rotator] ![OT] ![AB] ![CB]   
-20/20/15/1 hat leaf  
-20/20/20/1  
-20/20/17/2  
-20/19/11/5  
-20/20/16/4  
-  
-⭐ Cottage Road  ⭐  
-![Formula] ![SB] ![JS] ![LB]   
-20/20/6/1 hat  
-20/20/10/1 hat  
-![Supercar] ![OT] ![SB] ![AB]   
-20/20/1/20 hat /no hat +leaf/no leaf   
-  
-⭐ Lonely Camper  ⭐  
-![Sbike] ![OT] ![AB] ![WB]   
-19/17/13/2 no hat and no item + AB6 + wait 3sec (it work only with violet and police paint)  
-19/17/12/2 hat, ab6, wait 3 seconds  
-853300016889331753,"Synix#8789","02-Jun-22 06:27 AM","⭐ Access to Enjoyment  ⭐  
-![Rotator] ![OT] ![Wi] ![AB]   
-20/20/20/19 hat and sword  
-20/20/20/10   
-  
-⭐ Liability Free Fun  ⭐  
-![Rotator] ![OT] ![Wi] ![AB]   
-20/20/17/20  
-20/20/20/20  
-  
-⭐ Generate Delight  ⭐  
-![Diesel] ![SB] ![Wi] ![JS]   
-20/20/20/20  
-  
-⭐ Approaching Dread  ⭐  
-![Rotator] ![OT] ![SB] ![AB]   
-20/20/11/1  
-20/20/10/1  
-20/20/20/1  
-  
-⭐ Commence Fright  ⭐  
-![Rotator] ![Ma] ![AB] ![CB]   
-20/20/20/20  
-20/20/17/20   
-  
-⭐ Spook on, Spook off  ⭐  
-![Lowrider] ![OT] ![AB] ![flip]   
-20/20/20/20  
-![Diesel] ![JS] ![Wi] ![WB]   
-20/20/20/20  
-853300016889331753,"Synix#8789","02-Jun-22 06:28 AM","⭐ The Ruins  ⭐  
-![Formula] ![SB] ![JS] ![LB]   
-20/20/16/20 hat+ sword  
-20/20/12-14/20 hat  
-  
-⭐ Tumbling Down  ⭐  
-![ev] ![SB] ![JS] ![LB]   
-20/20/20/20  
-![Diesel] ![SB] ![Wi] ![JS]   
-20/20/20/20  
-  
-⭐ Down the Tube  ⭐  
-![Supercar] ![SB] ![Wi] ![JS]   
-20/20/5/20 hat + skeleton leg  
-20/20/7/20  
-  
-⭐ You shall not jump  ⭐  
-![Sbike] ![AB] ![WB] ![CB]   
-20/19/20/12 hat  
-20/19/13/3 leaf and hat  
-  
-⭐ The princess Drive  ⭐  
-![Sbike] ![AB] ![WB] ![CB]   
-20/20/14/3  
-20/19/14/2  
-  
-⭐ Puddle Bender  ⭐  
-![Sbike] ![AB] ![WB] ![CB]  
-19/20/12/1 hat (with leaf its better) tapbreak  
-20/19/13/1 hat   
-20/19/13/2 no hat, no item Start above the white line  
-  
-  
-⭐ A Storm of Stumps  ⭐  
-![Sbike] ![AB] ![WB] ![CB]   
-20/20/17/3-4  
-20/20/12/1 hat + cap  
-![buggy] ![JS] ![Th] ![LB]   
-20/20/20/20  
-![Hotrod] ![JS] ![LB] ![fuel]   
 ### Fingerwoods  
 ![Rotator] ![OT] ![AB] ![CB]   
 20/20/11/4  
@@ -509,6 +342,12 @@ Default Paint for all the tunes
 ### Flip A Switch  
 ![Formula] ![JS] ![SB] ![LB]   
 20/20/14-15/1 green skin  
+### Flying Log  
+![Diesel] ![SB] ![JS] ![fuel]   
+20/20/20/20 + wait 5-6s before the start  
+![Lowrider] ![SB] ![LB] ![fuel]   
+20/20/20/20 + wait 5-6s before the start  
+  
 ### Forbidden Forest  
 ![Diesel] ![JS] ![SB] ![LB]   
 20/20/20/20  
@@ -541,9 +380,19 @@ Default Paint for all the tunes
 ![Diesel] ![JS] ![fume] ![Th]   
 20/20/20/20 Hat  
   
+### Generate Delight  
+![Diesel] ![SB] ![Wi] ![JS]   
+20/20/20/20  
+  
 ### Gentle Escalation  
 ![Diesel] ![Wi] ![fume] ![Th]   
 20/20/20/20  
+  
+### Get Soaked  
+![Formula] ![OT] ![AB] ![CB]   
+20/20/13-14/20 hat beard  
+20/20/16/19-20 hat beard  
+20/20/10/19 hat beard  
   
 ### Grill Bill  
 ![Supercar] ![Wi] ![SB] ![OT]   
@@ -582,6 +431,10 @@ Default Paint for all the tunes
 ![ev] ![Th] ![JS] ![LB]   
 20/20/20/20  
 ![Diesel] ![JS] ![Wi] ![LB]   
+20/20/20/20  
+  
+### Highs and Lows  
+![Diesel] ![JS] ![Wi] ![Th]   
 20/20/20/20  
   
 ### Hills Ahead  
@@ -633,10 +486,32 @@ Default Paint for all the tunes
 20/19/19/18 no hat + sword  
 20/19/18/17 no hat + scarf  
   
+### Liability Free Fun  
+![Rotator] ![OT] ![Wi] ![AB]   
+20/20/17/20  
+20/20/20/20  
+  
 ### Like a Hawk  
 ![Diesel] ![SB] ![JS] ![Wi]   
 20/20/20/20 wait around 3 times for the antena touch the super diesel  
   
+### Living on the Edge  
+![Lowrider] ![OT] ![SB] ![AB]   
+20/20/20/20  
+![Sportscar] ![SB] ![JS] ![LB]   
+20/20/20/20  
+![Sbike] ![SB] ![AB] ![WT]   
+20/20/12/5  
+![Supercar] ![SB] ![JS] ![AB]   
+20/20/10-15/20  
+### Logs and Rocks️  
+![Supercar] ![OT] ![Wi] ![fuel]   
+20/12/1/18 hat scarf  
+20/12/1/19 hat scarf  
+### Lonely Camper  
+![Sbike] ![OT] ![AB] ![WB]   
+19/17/13/2 no hat and no item + AB6 + wait 3sec (it work only with violet and police paint)  
+19/17/12/2 hat, ab6, wait 3 seconds  
 ### Long Road Down  
 ![ev] ![JS] ![LB] ![Wi]   
 20/20/20/20  
@@ -663,6 +538,14 @@ Default Paint for all the tunes
 20/19/14/5 hat + backpack  
 20/18/14/3 hat   
 20/19/17/5 hat + scarf  
+### Muddy Road  
+![Rotator] ![OT] ![AB] ![CB]   
+20/20/15/1 hat leaf  
+20/20/20/1  
+20/20/17/2  
+20/19/11/5  
+20/20/16/4  
+  
 ### No Skidding  
   
 ![Supercar] ![OT] ![SB] ![AB]   
@@ -688,16 +571,46 @@ Default Paint for all the tunes
 20/20/12-14/20  
 20/20/8/20  
   
+### Nowhere Road  
+![Diesel] ![SB] ![JS] ![Wi]   
+20/20/20/20  
+  
 ### On the Rocks  
 ![Chopper] ![fuel]  ![Th] ![LB]   
 20/20/1-7/20  
 19/20/11/20 + scarf  
+  
+### Over the Cliff  
+![Sbike] ![AB] ![WB] ![CB]   
+20/17/12/5 ( + no hat and beard work better)  
+20/20/12/12  
+20/20/10/8  
+20/20/20/1   
   
 ### Overtakers  
 ![Sbike] ![WB] ![AB] ![CB]   
 20/20/16/20 hat + wait 3 seconds  
 ![Supercar] ![Wi] ![JS] ![SB]   
 20/20/1/20  
+  
+### Paradise Bay  
+![Rotator] ![OT] ![AB] ![CB]   
+20/20/20/1  
+20/20/1/1  
+![bus] ![Wi] ![Th] ![fuel]   
+20/11/9/20  
+20/11/9/17  
+  
+### Parking Trailers  
+![Sbike] ![OT] ![AB] ![WB]   
+20/19/13/1 wait 3sec + hat  
+  
+### Puddle Bender  
+![Sbike] ![AB] ![WB] ![CB]  
+19/20/12/1 hat (with leaf its better) tapbreak  
+20/19/13/1 hat   
+20/19/13/2 no hat, no item Start above the white line  
+  
   
 ### Reef Grief  
 ![ev] ![JS] ![SB] ![LB]   
@@ -718,11 +631,28 @@ Default Paint for all the tunes
 20/20/1-9/15 dragon formula  
 20/20/1/20 default formula  
   
+### Rock Pit  
+![Supercar] ![OT] ![SB] ![Wi]   
+20/18/1/20  
+20/20/1/19  
+![Supercar] ![Wi] ![SB] ![JS]   
+20/18/5/20  
+20/20/4-5/20  
+![Rotator] ![OT] ![AB] ![CB]   
+20/20/20/1  
+20/19/2/1   
+  
 ### Roll With It  
 ![Diesel] ![JS] ![WB] ![AB]   
 20/20/20/20  
 ![Rotator] ![OT] ![AB] ![CB]   
 20/20/20/20  
+  
+### Rough Road  
+![Supercar] ![OT] ![SB] ![AB]   
+20/17/1/20  
+![Sbike] ![OT] ![SB] ![AB]   
+20/20/16/1 + start under the white line   
   
 ### Rubberist  
 ![Formula] ![JS] ![fuel] ![LB]   
@@ -793,6 +723,12 @@ Default Paint for all the tunes
 20/20/6/20 hat  
 20/20/7/19 hat  
 20/18/1/19 sword  
+### Snappy Swamps  
+![Diesel] ![SB] ![JS] ![Wi]   
+20/20/20/20  
+![Supercar] ![OT] ![Wi] ![AB]   
+19/10/1/18 hat + scarf   
+  
 ### Snow Castle  
 ![Sportscar] ![Wi] ![JS] ![LB]   
 20/20/20/20  
@@ -804,6 +740,19 @@ Default Paint for all the tunes
 20/20/20/20  
 ![jeep] ![LB] ![JS] ![Wi]   
 20/20/20/20  
+  
+### Spook on, Spook off  
+![Lowrider] ![OT] ![AB] ![flip]   
+20/20/20/20  
+![Diesel] ![JS] ![Wi] ![WB]   
+20/20/20/20  
+### Steep Downhill Cliff  
+![Supercar] ![SB] ![Wi] ![WT]   
+20/20/1/20 hat sword/scarf + winter tyre level 14  
+20/16/1/10 hat sword/scarf + max winter tyre  
+![Sbike] ![SB] ![Wi] ![WT]   
+20/20/1/13  
+20/20/2/2  
   
 ### Sunburnt  
 ![Sportscar] ![SB] ![JS] ![LB]   
@@ -828,6 +777,13 @@ Default Paint for all the tunes
 ### Take Off  
 ![Supercar] ![OT] ![JS] ![AB]   
 20/20/2/20  
+  
+### Thalassophobia  
+![Formula] ![OT] ![SB] ![AB]   
+Default Paint for all the tunes  
+20/16/8/19  
+20/20/8/19  
+20/16/6/19  
   
 ### The Big Dunes  
 ![Sbike] ![Wi] ![WB] ![AB]   
@@ -873,6 +829,11 @@ Default Paint for all the tunes
 ![Sbike] ![WT] ![Wi] ![SB]   
 20/20/7/8 hat  
   
+### The princess Drive  
+![Sbike] ![AB] ![WB] ![CB]   
+20/20/14/3  
+20/19/14/2  
+  
 ### The Quarry  
 ![Formula] ![JS] ![SB] ![LB]   
 20/20/6/1   
@@ -880,6 +841,11 @@ Default Paint for all the tunes
 20/20/10/1  
 ![Diesel] ![JS] ![SB] ![LB]   
 20/20/20/20  
+### The Ruins  
+![Formula] ![SB] ![JS] ![LB]   
+20/20/16/20 hat+ sword  
+20/20/12-14/20 hat  
+  
 ### The Trench  
 ![ev] ![JS] ![SB] ![LB]   
 20/20/20/20  
@@ -900,6 +866,12 @@ Default Paint for all the tunes
 ### Tired Alligators  
 ![Sbike] ![Wi] ![AB] ![CB]   
 20/20/6/4  
+### Top of the World  
+![Diesel] ![SB] ![Wi] ![Th]   
+20/20/20/20  
+![Chopper] ![SB] ![Wi] ![Th]   
+20/20/1/20  
+  
 ### Topsy Turvy  
 ![Rotator] ![OT] ![fuel] ![AB]   
 20/20/11/20  
@@ -949,6 +921,12 @@ Or
 ![Diesel] ![SB] ![JS] ![Wi]   
 20/20/20/20 hat  
   
+### Tumbling Down  
+![ev] ![SB] ![JS] ![LB]   
+20/20/20/20  
+![Diesel] ![SB] ![Wi] ![JS]   
+20/20/20/20  
+  
 ### Tunnel Dive  
 ![Diesel] ![Wi] ![JS] ![Th]   
 20/20/20/20  
@@ -967,11 +945,28 @@ Or
 ![Sbike] ![Wi] ![AB] ![WB]   
 20/18/14/5 no hat (it work better with nikita paint)  
 20/19/20/15 hat + supervillian violet cape and wait 2s  
+### Under the Cliff  
+![Hotrod] ![SB] ![JS] ![CB]   
+20/20/5/20 + scarf (normal paint is better)  
+![Sbike] ![AB] ![WB] ![CB]   
+20/20/16/19  
+![Supercar] ![SB] ![JS] ![AB]   
+20/20/20/20   
+  
 ### Visions Of Victory  
 ![Diesel] ![Wi] ![JS] ![SB]   
 20/20/20/20  
 ![Supercar] ![WT] ![AB] ![OT]   
 19/18/1/17-20  
+  
+### Watery Tunnel  
+![Diesel] ![SB] ![JS] ![Wi]   
+20/20/20/20 (you can lower the suspension until 17 for a better start)  
+20/20/12/20  
+![Sbike] ![OT] ![AB] ![WB]   
+20/11/17/2  
+20/11/18/11  
+20/19/18/19  
   
 ### Wheeler  
 ![Sbike] ![AB] ![WB] ![CB]   
@@ -993,3 +988,9 @@ Or
 ![Supercar] ![OT] ![SB] ![AB]   
 20/20/1/20 Afterburner lvl 6 Hat+Guitar Hand item  
 20/20/20/20 Hat  
+### You shall not jump  
+![Sbike] ![AB] ![WB] ![CB]   
+20/19/20/12 hat  
+20/19/13/3 leaf and hat  
+  
+![image](https://user-images.githubusercontent.com/73378503/193491844-66f6061c-37c1-45cd-8517-763f170464f0.png)
