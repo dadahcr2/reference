@@ -748,10 +748,15 @@ Distance | Obstacle
 <!--
 <details  markdown="block">
   <summary>
-    April Fuel's Day Season Tracks and Trophy Road
+    Best Vehicle Setups
   </summary>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wRAkwyAqRDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Best setups for the individual tracks: [](/tunes/)
+
+With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)  
+
+For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)  
+ 
 	
 </details>
 
@@ -887,7 +892,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 <details  markdown="block">
   <summary>
-    Be a Good Teammate
+    Being a Teammate
   </summary>
 	
 
