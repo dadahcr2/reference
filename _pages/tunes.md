@@ -1302,5 +1302,9 @@ Or
 {: height="40px" width="40px"}  
 [WT2]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="40px" width="40px"}
+
+[Lowrider2]: https://media.discordapp.net/attachments/837815798630318151/969001514540601354/icon-vehicle-lowrider.png
+{: height="40px" width="64px"} 
+	
 	
 <a name="bottom"></a> 
