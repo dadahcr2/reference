@@ -748,19 +748,17 @@ Distance | Obstacle
 
 <details  markdown="block">
   <summary>
-    Best Vehicle Setups
+    Setups
   </summary>
 
-Best setups for the individual tracks: [](/tunes/)
+Best setups for the individual tracks: [](/tunes/)  
 
 With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)  
 
 For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)  
- 
 	
 </details>
-
--->	
+	
 <details  markdown="block">
   <summary>
     Two and Four Track Cups
