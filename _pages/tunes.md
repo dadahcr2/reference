@@ -993,4 +993,3 @@ Or
 20/19/20/12 hat  
 20/19/13/3 leaf and hat  
   
-![image](https://user-images.githubusercontent.com/73378503/193491844-66f6061c-37c1-45cd-8517-763f170464f0.png)
