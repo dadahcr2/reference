@@ -1,6 +1,8 @@
 main:
   - title: "Tips"
     url: /tips/
+  - title: "Tunes"
+    url: /tips/
   - title: "Friends"
     url: /friends/
   - title: "Servers"
