@@ -751,7 +751,7 @@ Distance | Obstacle
     Setups
   </summary>
 
-Best setups for the individual tracks: [](/tunes/)  
+[Best setups for the individual tracks]({{site.url}}/tunes/)  
 
 With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)  
 
