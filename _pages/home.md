@@ -18,6 +18,9 @@ classes: wide
 
 ## News
 
+[**Best vehicle parts and tuning have been added for the individual cup tracks**]({{site.url}}/tunes/)  
+
+
 ![](https://media.discordapp.net/attachments/858851529058418765/1025259183827861576/IMG_6734.png)
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1025372770193920021/te_Strategy.png)
