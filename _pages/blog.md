@@ -11,7 +11,7 @@ Changes now recorded on the Discord PE Server hcr2.info change-log channel <http
 17 April 2022 - 8 October 2022  
 ![](https://media.discordapp.net/attachments/850222262295855144/1028432062887243826/IMG_6891.png)  
 
-12 September 2021 - 4 April 2022 (stopped logging the weekly event updates)  
+12 September 2021 - 4 April 2022 (stopped logging the weekly event / season updates)  
 ![](https://media.discordapp.net/attachments/850222262295855144/1028432062589452308/IMG_6890.png)  
 
 3 August - 11 September 2021
