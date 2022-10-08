@@ -1,6 +1,6 @@
 ---
 permalink: /chests/weekly/
-title: "Chest Screenshots"
+title: "Weekly Chest Screenshots"
 classes: wide
 ---  
 
