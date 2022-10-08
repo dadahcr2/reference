@@ -168,11 +168,11 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 #### Data  
 
 [Chest Data](/chestdata/)  
-[Chest Screenshots (Epic and better)](/chestpics/)
-> [Epic Screenshots](/chests/epic/)
-> [Champion Screenshots](/chests/champion/)
-> [Legendary Screenshots](/chests/legendary/)
-> [Monthly Screenshots](/chests/monthly/)
-> [Weekly Screenshots](/chests/weekly/)
+[Chest Screenshots (Epic and better)](/chestpics/)  
+- [Epic Screenshots](/chests/epic/)  
+- [Champion Screenshots](/chests/champion/)  
+- [Legendary Screenshots](/chests/legendary/)  
+- [Monthly Screenshots](/chests/monthly/)  
+- [Weekly Screenshots](/chests/weekly/)  
 
 <a name="bottom"></a>  
