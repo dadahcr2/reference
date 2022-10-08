@@ -5,7 +5,7 @@ classes: wide
 ---  
 
 Tap on thumbnail to see fullsize image
-
+<figure markdown="1">  
 [![](https://media.discordapp.net/attachments/826525665116553228/828439500291702784/image3.png?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/828439500291702784/image3.png)
 [![](https://media.discordapp.net/attachments/826525665116553228/835731161807323166/IMG_3401.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/835731161807323166/IMG_3401.PNG)
 [![](https://media.discordapp.net/attachments/826525665116553228/835731730722979850/IMG_3491.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/826525665116553228/835731730722979850/IMG_3491.PNG)
@@ -64,4 +64,4 @@ Tap on thumbnail to see fullsize image
 [![](https://media.discordapp.net/attachments/898566235908878366/1024589741020151838/IMG_6609.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/898566235908878366/1024589741020151838/IMG_6609.PNG)
 [![](https://media.discordapp.net/attachments/898566235908878366/1024589839972175894/IMG_6691.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/898566235908878366/1024589839972175894/IMG_6691.PNG)
 [![](https://media.discordapp.net/attachments/898566235908878366/1028380464622350437/IMG_6802.PNG?width=199&height=139)](https://cdn.discordapp.com/attachments/898566235908878366/1028380464622350437/IMG_6802.PNG)
-{: style="text-align: center;"}
+</figure>{: style="text-align: center;"}
