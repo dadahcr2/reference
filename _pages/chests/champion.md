@@ -1,6 +1,6 @@
 ---
 permalink: /chests/champion/
-title: "Chest Screenshots"
+title: "Champion Chest Screenshots"
 classes: wide
 ---  
 
