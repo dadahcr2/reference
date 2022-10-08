@@ -18,14 +18,15 @@ classes: wide
 
 ## News
 
-[**Best vehicle parts and tuning have been added for the individual cup tracks**]({{site.url}}/tunes/) : <https://reference.hcr2info.com/tunes/>
-
 
 ![](https://media.discordapp.net/attachments/850222164065648680/1027912151458906163/IMG_5645.png)
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1028125375974346762/te_Strategy.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUMciZhu8So?start=196" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[**Best vehicle parts and tuning have been added for the individual cup tracks**]({{site.url}}/tunes/) : <https://reference.hcr2info.com/tunes/>
 
 ## Events  
 
