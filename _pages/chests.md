@@ -152,7 +152,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-#### Screenshots
+#### Type Screenshots
 
 Chest | At least  | Info
 :--: | :--: | :--:
@@ -165,7 +165,7 @@ Legendary | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598
 VIP | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480649788/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg)
 Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg)
 
-#### Data  
+#### Data and Chest Screenshots 
 
 [Chest Data](/chestdata/)  
 [Chest Screenshots (Epic and better)](/chestpics/)  
