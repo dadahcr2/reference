@@ -1,6 +1,6 @@
 ---
 permalink: /chests/epic/
-title: "Chest Screenshots"
+title: "Epic Chest Screenshots"
 classes: wide
 ---  
 
