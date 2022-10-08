@@ -23,7 +23,7 @@ footerthree: Portions of the materials used are trademarks and/or copyrighted wo
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/4C035FA1-738A-4AA3-AD37-E81B96BD5967.jpeg"
-title: "HCR2 INFO HOME"
+title: "HCR2INFO.COM"
 email: dadahcr2@gmail.com
 description: "HCR2 Reference Information"
 twitter_username: 
