@@ -1,6 +1,6 @@
 ---
 permalink: /chests/legendary/
-title: "Chest Screenshots"
+title: "Legendary Chest Screenshots"
 classes: wide
 ---  
 
