@@ -8,26 +8,18 @@ classes: wide
 
 Changes now recorded on the Discord PE Server hcr2.info change-log channel <https://discord.gg/FZPnQbxZTQ>
 
-17 April 2022 - 8 October 2022  
+7 June 2021 - 8 October 2022  
+![](https://media.discordapp.net/attachments/850222262295855144/1028432135717126214/IMG_6884.png)  
+![](https://media.discordapp.net/attachments/850222262295855144/1028434429590388766/IMG_6886.png)  
+![](https://media.discordapp.net/attachments/850222262295855144/1028432061679288380/IMG_6887.png)  
+![](https://media.discordapp.net/attachments/850222262295855144/1028432061993852968/IMG_6888.png)  
+![](https://media.discordapp.net/attachments/850222262295855144/1028432062258094110/IMG_6889.png)  
+![](https://media.discordapp.net/attachments/850222262295855144/1028432062589452308/IMG_6890.png)  
 ![](https://media.discordapp.net/attachments/850222262295855144/1028432062887243826/IMG_6891.png)  
 
-12 September 2021 - 4 April 2022 (stopped logging the weekly event / season updates)  
-![](https://media.discordapp.net/attachments/850222262295855144/1028432062589452308/IMG_6890.png)  
+- stopped logging the weekly event / season updates at some point 
+- timing may not quite tie out with previous posts)  
 
-3 August - 11 September 2021
-![](https://media.discordapp.net/attachments/850222262295855144/1028432062258094110/IMG_6889.png)  
- 
-3 July - 1 August 2021  
-![](https://media.discordapp.net/attachments/850222262295855144/1028432061993852968/IMG_6888.png)  
-
-16 June - 2 July 2021  
-![](https://media.discordapp.net/attachments/850222262295855144/1028432061679288380/IMG_6887.png)  
-
-13 June 2021  
-![](https://media.discordapp.net/attachments/850222262295855144/1028434429590388766/IMG_6886.png)  
-
-7-12 June 2021 (timing may not quite tie out with previous posts)  
-![](https://media.discordapp.net/attachments/850222262295855144/1028432135717126214/IMG_6884.png)  
 
 19 July  
 : +last cup race strategy  
