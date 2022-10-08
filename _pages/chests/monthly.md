@@ -1,6 +1,6 @@
 ---
 permalink: /chests/monthly/
-title: "Chest Screenshots"
+title: "Monthly Chest Screenshots"
 classes: wide
 ---  
 
