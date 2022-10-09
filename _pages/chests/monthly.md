@@ -1,6 +1,6 @@
 ---
 permalink: /chests/monthly/
-title: "Monthly Chest Screenshots"
+title: "Monthly Season Chests"
 classes: wide
 ---  
 
