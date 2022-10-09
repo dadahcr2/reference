@@ -1,6 +1,6 @@
 ---
 permalink: /chests/weekly/
-title: "Weekly Team Chest Screenshots"
+title: "Weekly Team Chests"
 classes: wide
 ---  
 
