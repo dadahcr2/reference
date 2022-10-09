@@ -7,6 +7,10 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+October 9
+
+![](https://images-ext-1.discordapp.net/external/ugb-yfzFL9Iheoq9qOoi76iKp2Kl0D9mG7nc0OD3TIs/https/i.imgflip.com/6oywdv.jpg)
+
 March 28
 
 ![](https://media.discordapp.net/attachments/750874271022317678/958063242880635031/IMG_8636.jpg)  
