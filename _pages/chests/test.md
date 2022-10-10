@@ -1,9 +1,9 @@
 ---
 permalink: /chests/test/
-title: "Test Chests"
+title: "Test2 Chests"
 classes: wide
 ---  
-![](https://media.discordapp.net/attachments/826525665116553228/827368664105484318/image0.png)
+![![](https://media.discordapp.net/attachments/826525665116553228/827368664105484318/image0.png)](https://media.discordapp.net/attachments/826525665116553228/827368664105484318/image0.png)
 ![](https://media.discordapp.net/attachments/826525665116553228/862197122257518622/IMG_4606.PNG)
 ![](https://media.discordapp.net/attachments/898566235908878366/915679347795460117/IMG_2275.PNG)
 ![](https://media.discordapp.net/attachments/898566235908878366/950861153762955414/IMG_4364.PNG)
