@@ -161,7 +161,7 @@ At least  | Info
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598187681316894/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598188067979313/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368229720074/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368438779924/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589467066388/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589714268250/image1.jpg)
-| ![](https://cdn.discordapp.com/attachments/806343355264401478/818598717581426698/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598718071767060/image1.jpg)
+![](https://cdn.discordapp.com/attachments/806343355264401478/818598717581426698/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598718071767060/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480649788/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg)
 
