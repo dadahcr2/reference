@@ -23,6 +23,7 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1030452090738311188/te_Strategy.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzP1Pya627w?start=200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Events  
 
