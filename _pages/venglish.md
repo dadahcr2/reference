@@ -33,8 +33,8 @@ The Canyon Job
 - "the most important first jump" -> "the first jump is the most important"
 - "improve your jump shocks" - this is ok but "upgrade your jump shocks" would be even better
 - "point of landing" -> "landing point" sounds better
-- "memorize the relief of the track" - "relief" is not commonly used.  Maybe "surface shape"?
-- "the essense of the route -> "in essence" is suffient
+- "memorize the relief of the track" - "relief" is not commonly used.  Maybe "memorize the shape of the track surface"?
+- "the essense of the route ..."-> "in essence..." is suffient
 - "land on the descent of the slide" -> "land on the downslope" 
 - similarly "downhill side of the slide" -> "downslope"
 - "landing with while accelerating" -> "landing while accelerating" (no "with")
