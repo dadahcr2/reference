@@ -25,4 +25,15 @@ The English was pretty good this week 👍 - a few very minor points
 - for CC-EV it is called “boost” and not “momentum” in the game
 - “step on two pedals” → “step on both pedals” - “two” is ok but might imply that there are more than two in total.
 
-
+The Canyon Job 
+- fly forward "on a given trajectory" -> "along the given trajectory" or  "in the showm direction"
+- "the most important first jump" -> "the first jump is the most important"
+- "improve your jump shocks" - this is ok but "upgrade your jump shocks" would be even better
+- "point of landing" -> "landing point" sounds better
+- "memorize the relief of the track" - "relief" is not a commonly used.  Maybe "surface shape"?
+- "the essense of the route -> "in essence" is suffient
+- "land on the descent of the slide" -> "land on the downslope" 
+- similarly "downhill side of the slide" -> "downslope"
+- "landing with while accelerating" -> "landing while accelerating" (no "with")
+- "land here from the LB" -> "land here and trigger the LB"
+- "mini-tramp" -> "small ramp" :-)
