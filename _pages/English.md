@@ -1,9 +1,7 @@
 Is it ok for me to make a few English suggestions for you to keep in mind for your tutorials.  The words you use make sense but there are sometimes other words that would be used more commonly?
 
 - Rather than “obligatory”, use “necessary”
-
 - “Penultimate” → “second best” or  “second highest”
-
 - “clamp” → “step on”
 
 Was definitely an improvement this week especially not using “clamp” 👍
