@@ -40,3 +40,4 @@ The Canyon Job
 - "landing with while accelerating" -> "landing while accelerating" (no "with")
 - "land here from the LB" -> "land here and trigger the LB"
 - "mini-tramp" -> "small ramp" :-)
+- "understated parts" -> "downgraded parts"
