@@ -27,7 +27,6 @@ PATCH NOTES: HCR2 V1.53.0
 - Added new cup: Canyon Grand Prix
 - Trophy Road Premium Pass now unlocks three extra daily task slots (included in VIP subscriptions)
 - Performance and useability in the garage have been significantly improved
-- "You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)"
 - Significant buff to birthday cheer
 - Global spookiness optimisation adjustments
 - Added a fast pop-up menu for vehicle selection
@@ -35,6 +34,7 @@ PATCH NOTES: HCR2 V1.53.0
 - Added a filter for scrapping items based on their rarities
 - Global and Local Leaderboards now require Legendary rank before your scores will be recorded on them
 - Re-added the ability to ban players who have already left the team (sorry…)
+- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1030331422487101440/IMG_6913.png)
 
