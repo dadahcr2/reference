@@ -41,3 +41,12 @@ The Canyon Job
 - "land here from the LB" -> "land here and trigger the LB"
 - "mini-tramp" -> "small ramp" :-)
 - "understated parts" -> "downgraded parts"
+
+A decade of driving
+- “Catch the Turbo” → “**Trigger** the Turbo”
+- “use WB and need maximum acceleration” → “Use WB and **accelerate to the max**”.  “need maximum acceleration” might be ok in another sentence but in this context, a strong action word was required to be consistent with the rest of the sentence.
+- “Absolutely similar route” → “**Same** route”
+- “and help the thruster” → “and help **with** the thrusters” or “and **use** the thrusters”
+- “Catch/catching the LB” → “**Trigger/triggering** the LB”
+- “You can faster” → “you can **go** faster”
+- “in flight” → “in-flight”  (needs a hyphen)
