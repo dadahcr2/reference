@@ -22,6 +22,8 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1033181775721148506/te_Strategy.png)  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1VpBZepBXQ?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 PATCH NOTES: HCR2 V1.53.0
 
 > The newest update for Hill Climb Racing 2 is rolling out now on all supported platforms. This huge update features a new vehicle, a new tune part, a new cup theme, Halloween & Anniversary events and much much more!  
