@@ -20,6 +20,8 @@ classes: wide
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1032882564685369394/IMG_7006.png)
 
+![](https://media.discordapp.net/attachments/851566907920089128/1033181775721148506/te_Strategy.png)  
+
 PATCH NOTES: HCR2 V1.53.0
 
 > The newest update for Hill Climb Racing 2 is rolling out now on all supported platforms. This huge update features a new vehicle, a new tune part, a new cup theme, Halloween & Anniversary events and much much more!  
@@ -37,12 +39,6 @@ PATCH NOTES: HCR2 V1.53.0
 - Global and Local Leaderboards now require Legendary rank before your scores will be recorded on them
 - Re-added the ability to ban players who have already left the team (sorry…)
 - You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)
-
-![](https://media.discordapp.net/attachments/851566907920089128/1030331422487101440/IMG_6913.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/1030452090738311188/te_Strategy.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzP1Pya627w?start=200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Events  
 
