@@ -18,11 +18,7 @@ classes: wide
 
 ## News
 
-![](https://media.discordapp.net/attachments/858851529058418765/1032882564685369394/IMG_7006.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/1033181775721148506/te_Strategy.png)  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h1VpBZepBXQ?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+![](https://media.discordapp.net/attachments/858851529058418765/1035522038825242706/IMG_7043.png)
 
 PATCH NOTES: HCR2 V1.53.0
 
