@@ -7,7 +7,7 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
-Otober 29  
+October 29  
 
 ![](https://media.discordapp.net/attachments/818873983603572777/1036008186731315301/9LTCBUK.png)  
 
