@@ -27,7 +27,7 @@ slideShow:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Wl7HgxDYiQ?start=250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Setups**  
+### **Setups**  
 {% include slideShow.html images=page.slideShow %}
 
 PATCH NOTES: HCR2 V1.53.0
