@@ -3,6 +3,11 @@ permalink: /
 tocQ: false
 toc_sticky: false
 classes: wide
+slideShow
+- https://media.discordapp.net/attachments/858017263989948447/1035939862404149268/IMG_7050.png  
+- https://media.discordapp.net/attachments/858017329509171201/1035940311718973490/IMG_7052.png
+- https://media.discordapp.net/attachments/858017412174577716/1035940558998360155/IMG_7053.png
+- https://media.discordapp.net/attachments/858017616181461022/1035940665135210536/IMG_7054.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -22,7 +27,7 @@ classes: wide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Wl7HgxDYiQ?start=250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](https://media.discordapp.net/attachments/851566907920089128/1036304382179942410/incollage_save.jpg)  
+{% include slideShow.html images=page.slideShow %}
 
 PATCH NOTES: HCR2 V1.53.0
 
