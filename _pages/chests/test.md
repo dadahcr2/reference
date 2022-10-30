@@ -1,6 +1,6 @@
 ---
 permalink: /chests/test/
-title: "Test4 Chests"
+title: "Test5 Chests"
 classes: wide
 slideShow: 
 - https://cdn.discordapp.com/attachments/826525665116553228/827368700528033812/image0.png
