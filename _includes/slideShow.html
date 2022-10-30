@@ -1,7 +1,7 @@
 <div id="gallery"><button onclick="plusDivs(-1)">❮</button> 
 <button onclick="plusDivs(1)">❯</button>
 {% for image in include.images %} 
-<button onclick="plusDivs(-1)">❮</button><img class="mySlides" src="{{ image }}">{% endfor %}<button onclick="plusDivs(1)">❯</button> 
+<img class="mySlides" src="{{ image }}">{% endfor %} 
 </div> 
 <script> 
 var slideIndex = 1;showDivs(slideIndex); 
