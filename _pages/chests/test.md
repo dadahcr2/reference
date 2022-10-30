@@ -98,7 +98,6 @@ slideShow:
 - https://cdn.discordapp.com/attachments/898566235908878366/1028380185252352030/IMG_6743.PNG
 - https://cdn.discordapp.com/attachments/898566235908878366/1028380190398750760/IMG_6718.PNG
 - https://cdn.discordapp.com/attachments/898566235908878366/1028380191355056158/IMG_6841.PNG
-
 ---  
 
 {% include slideShow.html images=page.slideShow %}
