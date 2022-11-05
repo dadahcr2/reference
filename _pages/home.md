@@ -25,6 +25,8 @@ slideShow:
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1037942364557283429/IMG_7087.png)  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMXMME3OPhY?start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://media.discordapp.net/attachments/858851529058418765/1035522038825242706/IMG_7043.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Wl7HgxDYiQ?start=250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
