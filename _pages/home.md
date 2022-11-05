@@ -35,7 +35,7 @@ slideShow:
 {% include slideShow.html images=page.slideShow %}
 
 
-PATCH NOTES: HCR2 V1.53.0
+### PATCH NOTES: HCR2 V1.53.0
 
 > The newest update for Hill Climb Racing 2 is rolling out now on all supported platforms. This huge update features a new vehicle, a new tune part, a new cup theme, Halloween & Anniversary events and much much more!  
 - Added new vehicle: The Beast
