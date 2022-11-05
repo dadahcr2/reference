@@ -190,16 +190,18 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 17
+   Top 10 Teams Ranked after Season 18
   </summary>
 
-![](https://media.discordapp.net/attachments/850222262295855144/1026268034295406592/IMG_6801.png)  
-
-**Dada Top 10 Ranking (Season 17)**
+![](https://media.discordapp.net/attachments/858336498159714324/1038320349579853865/IMG_7092.png)  
+	
+**Dada Top 10 Ranking (Season 18)**
 - Rankings based on the past year
-- STORMO ITALIA (7→ 6) joined United Arab in 6th place
-- MADE !N POLAND entered into the Top 10 at the expense of SYNDICATE
-- No other changes to the rankings
+- Discord and NORTH remain in the top 2 positions and are still the only teams to ever have more than 60 points
+- However ASYLUM (3) and Ünity (4) have been catching up and became the only other teams to score over 50 points - an achievement that requires multiple podium placements. ASYLUM’s strong performance in Season 18 allowed them to switch places with Ünity
+- Project GER is still in 5th
+- ATLANTIS~ and TRAXION jumped over STORMO ITALIA and United Arab and are now tied in 6th
+- XTREME is 10th again
 	
 ***
 	
