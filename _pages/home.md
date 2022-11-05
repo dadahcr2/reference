@@ -34,8 +34,6 @@ slideShow:
 
 {% include slideShow.html images=page.slideShow %}
 
-![](https://media.discordapp.net/attachments/851566907920089128/1038487874380775454/te_Strategy.png)   
-
 
 PATCH NOTES: HCR2 V1.53.0
 
