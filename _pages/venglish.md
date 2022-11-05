@@ -50,3 +50,12 @@ A decade of driving
 - “Catch/catching the LB” → “**Trigger/triggering** the LB”
 - “You can faster” → “you can **go** faster”
 - “in flight” → “in-flight”  (needs a hyphen)
+
+**Rocket Team**
+- “on the down of the hill,, not on the up uphill” → “on the downhill, not on the uphill”
+- “gain maximum accelerate” → “gain maximum acceleration” (accelerate is a verb, acceleration is the noun)
+- “Jump Shocks release in advance” → “release Jump Shocks in advance”
+- I liked “activate the boost” 👍.  Maybe even better than engage or trigger in general!
+- “Immediately press the accelerate” → “immediately accelerate” (accelerate is a verb)
+- “to the mark 750m” → “to the 750m mark”
+
