@@ -4,7 +4,7 @@ title: "Previous Public Events"
 classes: wide
 ---  
 
-**I no longer update this page as I now keep the history on the PE Server.  Click on the following link to go there: <https://discord.gg/DTuZTaD2w6> **  
+**I no longer update this page as I now keep the history on the PE Server.  Click on the following link to go there: <https://discord.gg/DTuZTaD2w6>**  
 
 
 *I also used to add historical PE info to the [Wiki](https://hillclimbracing2.fandom.com/wiki/Public_Events_Archive) so feel free to look there too*  
