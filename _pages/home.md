@@ -21,7 +21,7 @@ slideShow:
 {:toc} 
 </details> -->  
 
-### Score Table
+### Scores
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1037942364557283429/IMG_7087.png)  
 
