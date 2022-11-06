@@ -1,8 +1,8 @@
----
-permalink: /vicons/
-title: "Vehicle Icons"
-classes: wide
-gallery:
+---  
+permalink: /vicons/  
+title: "Vehicle Icons"  
+classes: wide  
+gallery:  
  - url: https://media.discordapp.net/attachments/837815798630318151/837816281607831562/icon-vehicle-jeep.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816370410160158/icon-vehicle-scooter.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816249861144596/icon-vehicle-bus.png
@@ -30,7 +30,7 @@ gallery:
  - url: https://media.discordapp.net/attachments/837815798630318151/837816319109627914/icon-vehicle-moonlander.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816379080048660/icon-vehicle-sled.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816452105895986/icon-vehicle-tube.png
- - url: https://media.discordapp.net/attachments/837815798630318151/837816388218912775/icon-vehicle-snowboard.png
+ - url: https://media.discordapp.net/attachments/837815798630318151/837816388218912775/icon-vehicle-snowboard.png  
  ---  
 
 
