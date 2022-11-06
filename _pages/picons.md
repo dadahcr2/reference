@@ -1,9 +1,9 @@
----
-permalink: /picons/
-title: "Parts Icons"
-classes: wide
-gallery:
- - url: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png
+---  
+permalink: /picons/  
+title: "Parts Icons"  
+classes: wide  
+gallery:  
+ - url: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png  
  - url: https://media.discordapp.net/attachments/831974892538560523/831975186663604234/weight.png
  - url: https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png
  - url: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png
