@@ -1,4 +1,4 @@
----  
+---
 permalink: /picons/  
 title: "Parts Icons"  
 classes: wide  
@@ -21,7 +21,7 @@ gallery:
  - url: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png
  - url: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png
  - url: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png
- ---  
+---
 
 
 {% include gallery %}
