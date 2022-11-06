@@ -31,7 +31,7 @@ gallery:
  - url: https://media.discordapp.net/attachments/837815798630318151/837816379080048660/icon-vehicle-sled.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816452105895986/icon-vehicle-tube.png
  - url: https://media.discordapp.net/attachments/837815798630318151/837816388218912775/icon-vehicle-snowboard.png  
- ---  
+---  
 
 
 {% include gallery %}
