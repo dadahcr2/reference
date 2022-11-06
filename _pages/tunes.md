@@ -753,13 +753,13 @@ Default Paint for all the tunes
 20/20/20/20  
 
 ### Special Stage Two
-![EV2] ![Wi2] ![JS2] ![LB2] 
+![EV2] ![Wi2] ![JS2] ![LB2]  
 20/20/20/20  
-![Sbike2] ![Wi2] ![WB2] ![AB2]  
+![Sbike2] ![Wi2] ![WB2] ![AB2]   
 20/13/16/1 Wait 3.5s  
 
-### Special Stage Three
-![Scooter2] ![JS2] ![LB2] ![Th2] 
+### Special Stage Three  
+![Scooter2] ![JS2] ![LB2] ![Th2]  
 20/20/20/20 
 
 ### Spook on, Spook off  
@@ -954,6 +954,7 @@ Or
 20/20/20/20  
 ![Sbike2] ![Wi2] ![OT2] ![AB2]   
 20/13-14/18/1  
+
 ### Tunnel Vision  
 ![ev2] ![JS2] ![LB2] ![Th2]   
 20/20/20/20  
