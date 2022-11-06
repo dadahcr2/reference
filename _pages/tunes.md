@@ -747,12 +747,27 @@ Default Paint for all the tunes
 20/20/20/20  
 ![jeep2] ![LB2] ![JS2] ![Wi2]   
 20/20/20/20  
-  
+
+### Special Stage One  
+![Sportscar2] ![LB2] ![SB2] ![JS2]  
+20/20/20/20  
+
+### Special Stage Two
+![EV2] ![Wi2] ![JS2] ![LB2] 
+20/20/20/20  
+![Sbike2] ![Wi2] ![WB2] ![AB2]  
+20/13/16/1 Wait 3.5s  
+
+### Special Stage Three
+![Scooter2] ![JS2] ![LB2] ![Th2] 
+20/20/20/20 
+
 ### Spook on, Spook off  
 ![Lowrider2] ![OT2] ![AB2] ![flip2]   
 20/20/20/20  
 ![Diesel2] ![JS2] ![Wi2] ![WB2]   
-20/20/20/20  
+20/20/20/20 
+
 ### Steep Downhill Cliff  
 ![Supercar2] ![SB2] ![Wi2] ![WT2]   
 20/20/1/20 hat sword/scarf + winter tyre level 14  
