@@ -518,8 +518,10 @@ Moonlander | LandingBoost
   <summary>
     Icons
   </summary>
-[**Vehicle Icons**]({{site.url}}/vicons/)  
-[**Parts Icons**]({{site.url}}/picons/)  	
+
+- [**Vehicles**]({{site.url}}/vicons/) 
+- [**Parts**]({{site.url}}/picons/)  
+	
 </details>  
 	
 ## Adventures  	
