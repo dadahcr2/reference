@@ -11,8 +11,5 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/898566235908878366/950862814350802984/IMG_4063.PNG?width=398&height=278
  - image_path: https://media.discordapp.net/attachments/898566235908878366/1024589319064785006/IMG_6233.PNG?width=398&height=278
 ---  
-
-
-
 {% include gallery %}
 
