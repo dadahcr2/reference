@@ -62,8 +62,6 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/898566235908878366/1024589839972175894/IMG_6691.PNG?width=398&height=278
  - image_path: https://media.discordapp.net/attachments/898566235908878366/1028380464622350437/IMG_6802.PNG?width=398&height=278
 ---  
-
-
 {% include gallery %}
 
 
