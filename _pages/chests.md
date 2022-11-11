@@ -165,9 +165,7 @@ At least  | Info
 
 #### Data and Chest Screenshots 
 
-[Chest Data](/chestdata/)  
-  
-[Chest Screenshots (Epic and better)](/chestpics/)  
+- [Chest Data](/chestdata/)   
 - [Epic Screenshots](/chests/epic/)    
 - [Champion Screenshots](/chests/champion/)    
 - [Legendary Screenshots](/chests/legendary/)  
