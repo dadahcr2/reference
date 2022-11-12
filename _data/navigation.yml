@@ -17,7 +17,7 @@ main:
     url: /faq/
  
 docs:
-  - title: 
+  - title: Reference
     children:
     - title: "Events"
       url: /#events
