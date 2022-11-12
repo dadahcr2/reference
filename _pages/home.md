@@ -716,7 +716,7 @@ Note: Distances are within 1m or so
   </summary>
   
 	
-**Requires premium pass**{: .notice}
+**Requires premium pass**
 
 Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Legendary
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
