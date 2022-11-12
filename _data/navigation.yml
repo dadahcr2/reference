@@ -19,7 +19,7 @@ main:
     url: /faq/
  
 docs:
-  - title: Reference
+  - title: Page Sections
     children:
     - title: "Events"
       url: /#events
@@ -34,7 +34,7 @@ docs:
     - title: "Lists"
       url: /#lists
 
-  - title: More
+  - title: More Pages
     children:
       - title: "Tips"
         url: /tips/
