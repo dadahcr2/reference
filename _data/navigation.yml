@@ -19,7 +19,7 @@ main:
     url: /faq/
  
 docs:
-  - title: Page Sections
+  - title: Sections
     children:
     - title: "Events"
       url: /#events
