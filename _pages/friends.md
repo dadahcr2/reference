@@ -3,6 +3,8 @@ permalink: /friends/
 title: "HCR2 Friend Links"
 classes: wide
 ---
+![](https://cdn.discordapp.com/attachments/1026376840610316328/1040873188617355295/cooltext423295108531053_2.png)  
+
 Search | **Ctrl-f**
 --: | :--
 Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then **Find on Page**  
