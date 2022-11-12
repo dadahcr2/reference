@@ -1,4 +1,6 @@
 main:
+  - Title: "Info"
+  - url: /
   - title: "Tips"
     url: /tips/
   - title: "Tunes"
