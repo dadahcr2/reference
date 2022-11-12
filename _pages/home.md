@@ -196,7 +196,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 	
 
 	
-##  Wikis, Tutorials & Spreadsheets
+##  Websites, Tutorials & Spreadsheets
 
 <details  markdown="block">
   <summary>
@@ -207,6 +207,9 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 - [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
 - [Getting started tips](/tips/)  
 - [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
+- [FS News](https://fingersoft.com/news/)
+- [FS Tweets](https://mobile.twitter.com/HCR_Official_)
+- [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)
 
 </details>
 
