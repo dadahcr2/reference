@@ -182,7 +182,6 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 	
 </details>
 
-## Leagues	
 <details  markdown="block">
   <summary>
    Season Rewards
