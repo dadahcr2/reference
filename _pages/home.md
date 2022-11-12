@@ -117,7 +117,6 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
   <summary>
     TE: Popular Parts
   </summary>
-<br>
   
 Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
 {: .notice}
