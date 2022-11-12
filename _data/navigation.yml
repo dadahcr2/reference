@@ -21,6 +21,14 @@ main:
 docs:
   - title: Info Sections
     children:
+    - title: "Scores"
+      url: /#scores
+    - title: "Tutorial"
+      url: /#tutorial
+    - title: "Setups"
+      url: /#setups
+    - title: "Patch Notes"
+      url: /#patch-notes
     - title: "Events"
       url: /#events
     - title: "Sites,Tutorials,Sheets"
