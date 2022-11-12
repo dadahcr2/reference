@@ -44,7 +44,7 @@ slideShow:
 ### Patch Notes
 
 {% capture notice-2 %}
-HCR2 V1.53.0  
+**HCR2 V1.53.0**  
 - Added new vehicle: The Beast
 - Added new tuning part: Spoiler
 - Added new cup theme: Climb Canyon Arena
@@ -329,7 +329,7 @@ Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost
     Least-used Parts
   </summary>
 	
-These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
+These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.{: .notice}
 
 Vehicle | Parts
 :-- | :--
@@ -440,7 +440,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Rustbucket Reef | Ve
 	
 ### Best Map Setups
 	
-Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses. (Latest version on <http://www.hcr2.info>)
+Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses.{: .notice}
 
 Map | Vehicle and Parts
 :-- | :--
@@ -463,7 +463,7 @@ Intense City | ![Rally] ![Wi] ![WT] ![JS]
 Raging Winter | ![Rally] ![Wi] ![WT] ![CB]	
 	
 **Forest Adventure 10k Vehicle Parts**
-10K setups as follows:
+10K setups as follows:{: .notice}
 
 Vehicle | Parts 
 :-- | :-- 
@@ -648,7 +648,7 @@ Distance | Obstacle
     Two and Four Track Cups
   </summary>
 	
-I can remember the single track cups but not the others so I put together lists of the two and four track cups:
+I can remember the single track cups but not the others so I put together lists of the two and four track cups:{: .notice}
 
 **Two tracks**  
 Glacier Cup  
@@ -668,7 +668,7 @@ Mystical Cup
     Tracks by Type & Distance
   </summary>
 			
-This may be helpful in identifying event tracks  
+This may be helpful in identifying event tracks{: .notice}  
 	
 Map Type | Tracks  
 :--: | :--  
@@ -688,7 +688,7 @@ Map Type | Tracks
 **Reef** | **`490m`:** **Coral Quarrel** (Deep Driving) , **`500m`:** **Backwash Dash** (Deep Driving) ,  **The Trench** (I Hate Water) , **`520m`:** **Thalassophobia** (Deep Driving) , **`530m`:** **Deeper End** (I Hate Water) , **`600m`:** **Reef Grief** (I Hate Water) , **`1000m`:** **Deepest End** (Deep Diving) 
 **Winter** | **`275m`:** **Icicle Race** (Winter Cup) , **`315m`:** **Sledhammer** (Winter Cup) , **`380m`:** **Down the Tube** (Downhill Cup) , **`385m`:** **Yellow Snow** (Winter Cup) , **`400m`:** **The Ruins** (Downhill Cup) ,  **Let it Snow** (First Snow) , **`420m`:** **Tumbling Down** (Downhill Cup)  
 
-Note: Distances are within 1m or so
+Note: Distances are within 1m or so{: .notice}
 
 
 </details>	
@@ -697,7 +697,7 @@ Note: Distances are within 1m or so
     Last Race Strategy
   </summary>
 <br>
-**It is not necessary to always win the last race of a cup to win the cup**   
+**It is not necessary to always win the last race of a cup to win the cup**{: .notice}   
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/866800968086978590/image0.png)  
 	
@@ -708,7 +708,7 @@ Note: Distances are within 1m or so
     Season Bonus Chest
   </summary>
 	
-**Requires premium pass**
+**Requires premium pass**{: .notice}
 
 Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Legendary
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
