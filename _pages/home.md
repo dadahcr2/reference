@@ -3,6 +3,8 @@ permalink: /
 tocQ: false
 toc_sticky: false
 classes: wide
+sidebar:
+  nav: "docs"
 slideShow:
 - https://media.discordapp.net/attachments/858017263989948447/1038491916234408046/IMG_7094.png 
 - https://media.discordapp.net/attachments/858017329509171201/1038506277904588831/IMG_7140.png
