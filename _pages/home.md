@@ -715,6 +715,7 @@ Note: Distances are within 1m or so
     Season Bonus Chest
   </summary>
   
+	
 **Requires premium pass**{: .notice}
 
 Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Legendary
