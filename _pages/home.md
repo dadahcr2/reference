@@ -118,7 +118,8 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
     TE: Popular Parts
   </summary>
 <br>
-Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.
+Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
+{: .notice}
 
 Vehicle | Parts  
 -- | --  
@@ -326,8 +327,9 @@ Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost
     Least-used Parts
   </summary>
 	
-These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.{: .notice}
-
+These parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.  
+{: .notice}
+	
 Vehicle | Parts
 :-- | :--
 Hill Climber | Heavyweight
@@ -437,7 +439,8 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Rustbucket Reef | Ve
 	
 ### Best Map Setups
 	
-Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses.{: .notice}
+Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses.  
+{: .notice}
 
 Map | Vehicle and Parts
 :-- | :--
@@ -460,7 +463,8 @@ Intense City | ![Rally] ![Wi] ![WT] ![JS]
 Raging Winter | ![Rally] ![Wi] ![WT] ![CB]	
 	
 **Forest Adventure 10k Vehicle Parts**
-10K setups as follows:{: .notice}
+10K setups as follows:  
+{: .notice}
 
 Vehicle | Parts 
 :-- | :-- 
@@ -636,7 +640,8 @@ Distance | Obstacle
 
 - [**Best setups for the individual tracks**]({{site.url}}/tunes/)  
 > *With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)*  
-> *For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)*  
+*For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)*  
+{: .notice}
 	
 </details>
 	
@@ -645,7 +650,8 @@ Distance | Obstacle
     Two and Four Track Cups
   </summary>
 	
-I can remember the single track cups but not the others so I put together lists of the two and four track cups:{: .notice}
+I can remember the single track cups but not the others so I put together lists of the two and four track cups:  
+{: .notice}
 
 **Two tracks**  
 Glacier Cup  
@@ -665,7 +671,8 @@ Mystical Cup
     Tracks by Type & Distance
   </summary>
 			
-This may be helpful in identifying event tracks{: .notice}  
+This may be helpful in identifying event tracks  
+{: .notice}  
 	
 Map Type | Tracks  
 :--: | :--  
@@ -694,7 +701,8 @@ Note: Distances are within 1m or so{: .notice}
     Last Race Strategy
   </summary>
 <br>
-**It is not necessary to always win the last race of a cup to win the cup**{: .notice}   
+**It is not necessary to always win the last race of a cup to win the cup**  
+{: .notice}   
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/866800968086978590/image0.png)  
 	
@@ -901,6 +909,7 @@ I highly recommend:
 	
 ## Gas Brake Go
 We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join - or feel free to join our even more relaxed team: **Gas Brake Go²**
+{: .notice}
 
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
