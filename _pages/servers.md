@@ -3,6 +3,7 @@ permalink: /servers/
 title: "HCR Discord Server Invites"
 classes: wide
 ---
+![](https://cdn.discordapp.com/attachments/1026376840610316328/1040873122380922910/cooltext423295149298469.png)  
 
 Server | Link  
 -- | --  
