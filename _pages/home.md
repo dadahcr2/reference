@@ -651,7 +651,7 @@ Distance | Obstacle
     Two and Four Track Cups
   </summary>
 	
-I can remember the single track cups but not the others so I put together lists of the two and four track cups:  
+**I can remember the single track cups but not the others so I put together lists of the two and four track cups:**  
 {: .notice}
 
 **Two tracks**  
@@ -672,7 +672,7 @@ Mystical Cup
     Tracks by Type & Distance
   </summary>
 			
-This may be helpful in identifying event tracks  
+**This may be helpful in identifying event tracks**  
 {: .notice}  
 	
 Map Type | Tracks  
@@ -693,7 +693,8 @@ Map Type | Tracks
 **Reef** | **`490m`:** **Coral Quarrel** (Deep Driving) , **`500m`:** **Backwash Dash** (Deep Driving) ,  **The Trench** (I Hate Water) , **`520m`:** **Thalassophobia** (Deep Driving) , **`530m`:** **Deeper End** (I Hate Water) , **`600m`:** **Reef Grief** (I Hate Water) , **`1000m`:** **Deepest End** (Deep Diving) 
 **Winter** | **`275m`:** **Icicle Race** (Winter Cup) , **`315m`:** **Sledhammer** (Winter Cup) , **`380m`:** **Down the Tube** (Downhill Cup) , **`385m`:** **Yellow Snow** (Winter Cup) , **`400m`:** **The Ruins** (Downhill Cup) ,  **Let it Snow** (First Snow) , **`420m`:** **Tumbling Down** (Downhill Cup)  
 
-Note: Distances are within 1m or so{: .notice}
+Note: Distances are within 1m or so  
+{: .notice}
 
 
 </details>	
