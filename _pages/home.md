@@ -42,22 +42,16 @@ slideShow:
 {% include slideShow.html images=page.slideShow %}
 
 
-### PATCH NOTES: HCR2 V1.53.0
+### Patch Notes
 
-> The newest update for Hill Climb Racing 2 is rolling out now on all supported platforms. This huge update features a new vehicle, a new tune part, a new cup theme, Halloween & Anniversary events and much much more!  
+HCR2 V1.53.0  
 - Added new vehicle: The Beast
 - Added new tuning part: Spoiler
 - Added new cup theme: Climb Canyon Arena
 - Added new cup: Canyon Grand Prix
 - Trophy Road Premium Pass now unlocks three extra daily task slots (included in VIP subscriptions)
-- Performance and useability in the garage have been significantly improved
-- Significant buff to birthday cheer
-- Global spookiness optimisation adjustments
 - Added a fast pop-up menu for vehicle selection
-- Added new event types
 - Added a filter for scrapping items based on their rarities
-- Global and Local Leaderboards now require Legendary rank before your scores will be recorded on them
-- Re-added the ability to ban players who have already left the team (sorry…)
 - You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)
 
 ## Events  
