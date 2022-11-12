@@ -118,6 +118,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
     TE: Popular Parts
   </summary>
 <br>
+  
 Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
 {: .notice}
 
@@ -363,6 +364,7 @@ Moonlander | LandingBoost
     Icons
   </summary>
 
+Select the following links for the corresponding images:
 - [**Vehicles**]({{site.url}}/vicons/) 
 - [**Parts**]({{site.url}}/picons/)  
 	
@@ -408,7 +410,8 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Vehicle | Rustbucket
 :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==: | :==:  
 **Vehicle** | **Countryside** | **ForestAdv** | **CityAdven** | **Mountains** | **Vehicle** | **Rustbucket Reef** | **WinterAdv** | **MineAdven** | **BeachAdv** | **Vehicle** | **DesertValley** | **Backwater Bog** | **Racier GlacierAdv** | **Patchwork Plant** | **Vehicle** | **SkyRockOut** | **ForestTrials** | **IntenseCity** | **RagingWint** | **Vehicle**  
 
-<mark>Best for Map</mark>, ®️ =Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR - Latest version on <http://www.hcr2.info>
+<mark>Best for Map</mark>, ®️ =Remove, 🦘 =(![JS]![LB]![Wi]), Br=Brain, DF=Downforce, Dr=Drag, SW=SkiWax  - Sources: Map Rankings, Zorro (HCR2 Adventure Setup Server), NikoRei (Adventure Guide Server), BaDAtHcR  
+{: .notice}
 
 #### Setups from Zorro Server (incl. Gloomvale)
 
@@ -439,7 +442,7 @@ Vehicle | Countryside | ForestAdv | CityAdven | Mountains | Rustbucket Reef | Ve
 	
 ### Best Map Setups
 	
-Popular vehicles and parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses.  
+**Popular vehicles and parts at the top of the rankings for each adventure map**  These may assist with obtaining distance bonuses.  
 {: .notice}
 
 Map | Vehicle and Parts
@@ -639,7 +642,8 @@ Distance | Obstacle
   </summary>
 
 - [**Best setups for the individual tracks**]({{site.url}}/tunes/)  
-> *With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)*  
+> *With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)*   
+
 *For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)*  
 {: .notice}
 	
@@ -701,6 +705,7 @@ Note: Distances are within 1m or so{: .notice}
     Last Race Strategy
   </summary>
 <br>
+  
 **It is not necessary to always win the last race of a cup to win the cup**  
 {: .notice}   
 
