@@ -43,6 +43,7 @@ slideShow:
 
 ### Patch Notes
 
+{% capture notice-2 %}
 HCR2 V1.53.0  
 - Added new vehicle: The Beast
 - Added new tuning part: Spoiler
@@ -51,8 +52,10 @@ HCR2 V1.53.0
 - Trophy Road Premium Pass now unlocks three extra daily task slots (included in VIP subscriptions)
 - Added a fast pop-up menu for vehicle selection
 - Added a filter for scrapping items based on their rarities
-- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)  
-{: .notice}
+- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps 
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
 
 ## Events  
 
@@ -214,21 +217,21 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 - [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 <!--	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)  -->
-	{% include video id="GzSkfF3lwX0" provider="youtube" %}
+{% include video id="GzSkfF3lwX0" provider="youtube" %}
 <!-- - [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
 	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  -->
 - [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-	{% include video id="GzSkfF3lwX0" provider="youtube" %}
+{% include video id="GzSkfF3lwX0" provider="youtube" %}
 <!--[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  -->
 
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
-	{% include video id="tXbQgs6c_fI" provider="youtube" %}
+{% include video id="tXbQgs6c_fI" provider="youtube" %}
 <!--[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)  -->
 - [How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)  
-	{% include video id="etd0UTGpOdM" provider="youtube" %}
+{% include video id="etd0UTGpOdM" provider="youtube" %}
 <!--[![](http://img.youtube.com/vi/etd0UTGpOdM/0.jpg)](http://www.youtube.com/watch?v=etd0UTGpOdM)-->
 - [How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
-        {% include video id="YizwyYSie1A" provider="youtube" %}
+{% include video id="YizwyYSie1A" provider="youtube" %}
 <!--[![](http://img.youtube.com/vi/YizwyYSie1A/0.jpg)](http://www.youtube.com/watch?v=YizwyYSie1A) -->
 	
 </details>	
