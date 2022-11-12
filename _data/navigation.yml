@@ -16,3 +16,37 @@ main:
   - title: "FAQ"
     url: /faq/
  
+docs:
+  - title: This Page
+    children:
+      - title: "Events"
+        url: /#Events
+      - title: "Wikis,Tutorials,Spreadsheets"
+        url: /#wikis-tutorials--spreadsheets
+      - title: "Vehicles"
+        url: /#vehicles
+      - title: "Adventures"
+        url: /#adventures
+      - title: "Cups"
+        url: /#cups
+      - title: "Lists"
+        url: /#Lists
+
+  - title: Other Pages
+    children:
+      - title: "Tips"
+        url: /tips/
+      - title: "Tunes"
+        url: /tunes/
+      - title: "Friends"
+        url: /friends/
+      - title: "Servers"
+        url: /servers/
+      - title: "Chests"
+        url: /chests/
+      - title: "Memes"
+        url: /memes/
+      - title: "GM"
+        url: /gm/
+      - title: "FAQ"
+        url: /faq/
