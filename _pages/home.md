@@ -51,7 +51,8 @@ HCR2 V1.53.0
 - Trophy Road Premium Pass now unlocks three extra daily task slots (included in VIP subscriptions)
 - Added a fast pop-up menu for vehicle selection
 - Added a filter for scrapping items based on their rarities
-- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)
+- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps anymore)  
+{: .notice}
 
 ## Events  
 
