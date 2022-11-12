@@ -1,6 +1,6 @@
 ---
 permalink: /
-toc: true
+toc: false
 toc_sticky: true
 classes: wide
 sidebar:
