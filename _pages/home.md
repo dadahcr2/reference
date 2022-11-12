@@ -701,7 +701,6 @@ Note: Distances are within 1m or so{: .notice}
   <summary>
     Last Race Strategy
   </summary>
-<br>
   
 **It is not necessary to always win the last race of a cup to win the cup**  
 {: .notice}   
@@ -714,7 +713,7 @@ Note: Distances are within 1m or so{: .notice}
   <summary>
     Season Bonus Chest
   </summary>
-	
+  
 **Requires premium pass**{: .notice}
 
 Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Legendary
