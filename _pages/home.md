@@ -33,7 +33,7 @@ slideShow:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QMXMME3OPhY?start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+{% include video id="QMXMME3OPhY" provider="youtube" %}
 ### Setups
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1040806223332782140/te_Strategy.png)  
