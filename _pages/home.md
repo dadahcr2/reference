@@ -1,7 +1,7 @@
 ---
 permalink: /
-tocQ: false
-toc_sticky: false
+toc: true
+toc_sticky: true
 classes: wide
 sidebar:
   nav: "docs"
@@ -219,14 +219,11 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
   </summary>	  
 
 - [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
-<!--	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)  -->
-{% include video id="GzSkfF3lwX0" provider="youtube" %}
-<!-- - [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
-	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  -->
+	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)  
+- [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)  
+	[![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)  
 - [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-{% include video id="GzSkfF3lwX0" provider="youtube" %}
-<!--[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  -->
-
+	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)  
 - [How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)  
