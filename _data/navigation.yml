@@ -28,7 +28,7 @@ docs:
   - title: "Cups"
     url: /#cups
   - title: "Lists"
-    url: /#Lists
+    url: /#lists
 
   - title: More
     children:
