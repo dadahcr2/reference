@@ -60,47 +60,57 @@ slideShow:
 
 ## Events  
 
-<!-- <details  markdown="block">
-<summary>
-    TE: Carboy Bebop
+<details  markdown="block">
+  <summary> 
+   Top 10 Teams Ranked after Season 18
   </summary>
-<br>
-![](https://media.discordapp.net/attachments/642394941074702366/985238707667877958/IMG_5808.png)  
 
-
-![](https://media.discordapp.net/attachments/642394941074702366/985238707957297242/IMG_5801.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/985237232426319922/te_Strategy.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI8EAnxWSjk?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://media.discordapp.net/attachments/858336498159714324/1038320349579853865/IMG_7092.png)  
 	
-T3
-![](https://media.discordapp.net/attachments/864520500007927819/872446852287582269/image0.jpg)
-
-![]()  
+**Dada Top 10 Ranking (Season 18)**
+- Rankings based on the past year
+- Discord and NORTH remain in the top 2 positions and are still the only teams to ever have more than 60 points
+- However ASYLUM (3) and Ünity (4) have been catching up and became the only other teams to score over 50 points - an achievement that requires multiple podium placements. ASYLUM’s strong performance in Season 18 allowed them to switch places with Ünity
+- Project GER is still in 5th
+- ATLANTIS~ and TRAXION jumped over STORMO ITALIA and United Arab and are now tied in 6th
+- XTREME is 10th again
 	
+***
+	
+One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
+- **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
+- **Previous season**: 1st=11 points, 2nd=10 points, 3rd=9points, … 11th = 1 point
+- **Two seasons ago**: 1st=10 points, 2nd=9 points, 3rd=8points, … 10th = 1 point
+I.e. reducing by 1 point the value of each placement for every previous season.  Accordingly, seasons played more this a year ago will not count.
+	
+In table format: Points awarded according to final placement in previous seasons, where 0 was the final ranks in the last full season,  -1 is one season before, etc. 
+```
+Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
+━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   0   ┃ 12 11 10  9  8  7  6  5  4  3  2  1
+  -1   ┃ 11 10  9  8  7  6  5  4  3  2  1
+  -2   ┃ 10  9  8  7  6  5  4  3  2  1
+  -3   ┃  9  8  7  6  5  4  3  2  1
+  -4   ┃  8  7  6  5  4  3  2  1
+  -5   ┃  7  6  5  4  3  2  1
+  -6   ┃  6  5  4  3  2  1
+  -7   ┃  5  4  3  2  1
+  -8   ┃  4  3  2  1
+  -9   ┃  3  2  1
+  -10  ┃  2  1
+  -11  ┃  1
+```
+</details>
+	
+<details  markdown="block">
+  <summary>
+   Season Rewards
+  </summary>
+	
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
 </details>
 
-<details  markdown="block">
-  <summary>
-   PE: Physics need not apply
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/850232585707323402/947164953150910494/Untitled_169.png)    
-</details>	
-
-<details  markdown="block">
-  <summary>
-    ⚠️Spoilers⚠️
-  </summary>
-<br>
-		
-TE  
-![](https://media.discordapp.net/attachments/898321008031858708/985935855329873960/eng.png)
-
-</details>
--->	
 <details  markdown="block">
   <summary>
     TE: Popular Parts
@@ -181,185 +191,8 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
 </details>
+	
 
-<details  markdown="block">
-  <summary>
-   Season Rewards
-  </summary>
-	
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
-
-</details>
-
-<details  markdown="block">
-  <summary> 
-   Top 10 Teams Ranked after Season 18
-  </summary>
-
-![](https://media.discordapp.net/attachments/858336498159714324/1038320349579853865/IMG_7092.png)  
-	
-**Dada Top 10 Ranking (Season 18)**
-- Rankings based on the past year
-- Discord and NORTH remain in the top 2 positions and are still the only teams to ever have more than 60 points
-- However ASYLUM (3) and Ünity (4) have been catching up and became the only other teams to score over 50 points - an achievement that requires multiple podium placements. ASYLUM’s strong performance in Season 18 allowed them to switch places with Ünity
-- Project GER is still in 5th
-- ATLANTIS~ and TRAXION jumped over STORMO ITALIA and United Arab and are now tied in 6th
-- XTREME is 10th again
-	
-***
-	
-One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
-- **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
-- **Previous season**: 1st=11 points, 2nd=10 points, 3rd=9points, … 11th = 1 point
-- **Two seasons ago**: 1st=10 points, 2nd=9 points, 3rd=8points, … 10th = 1 point
-I.e. reducing by 1 point the value of each placement for every previous season.  Accordingly, seasons played more this a year ago will not count.
-	
-In table format: Points awarded according to final placement in previous seasons, where 0 was the final ranks in the last full season,  -1 is one season before, etc. 
-```
-Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
-━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   0   ┃ 12 11 10  9  8  7  6  5  4  3  2  1
-  -1   ┃ 11 10  9  8  7  6  5  4  3  2  1
-  -2   ┃ 10  9  8  7  6  5  4  3  2  1
-  -3   ┃  9  8  7  6  5  4  3  2  1
-  -4   ┃  8  7  6  5  4  3  2  1
-  -5   ┃  7  6  5  4  3  2  1
-  -6   ┃  6  5  4  3  2  1
-  -7   ┃  5  4  3  2  1
-  -8   ┃  4  3  2  1
-  -9   ┃  3  2  1
-  -10  ┃  2  1
-  -11  ┃  1
-```
-</details>
-<!--
-<details  markdown="block">
-  <summary>
-   Leagues Stats - Season 8/9
-  </summary>
-
-**#Active Teams - Season 9**	
-![](https://cdn.discordapp.com/attachments/858336498159714324/932151754848632862/IMG_3559.png)  	
-	
-**Average Team Scores per round at the boundaries for Promotion and Relegation (Season 8)** 
-(assuming all matches played - *Thanks to Apru for taking snapshots of the final rankings*)
-- The promotion boundary from Division 1 to CC dropped by another 20 points as teams continue to attempt to avoid promotion. Interesting the promotion boundary for 2→3 and 3→4 also dropped. 
-- Much lower averages for the bottom divisions - partially reflecting that teams are not full, but mostly due to inactivity
-- Estimated total scores for promotion and relegation in January (Season 9) are shown in the second table  
-![](https://cdn.discordapp.com/attachments/858336498159714324/928028630297243668/IMG_3263.png)  	
-![](https://cdn.discordapp.com/attachments/858336498159714324/928028630574059570/IMG_3264.png)  
-		
-![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png)  
-Average coins are divided by 200 as this is how much scrap coins can be converted to if used to buy common or rare parts in the shop
-	
-**# Active Team Update - Season 8**  
-![](https://cdn.discordapp.com/attachments/858336498159714324/921938560720973884/IMG_2786.png)  
-
-	
-#### [Previous League Seasons]({{site.url}}/seasons/)  
-<br>			
-</details>
-
-<details  markdown="block">
-  <summary>
-    Season 8 - Final Results
-  </summary>	
-
-<details  markdown="block">
-  <summary>
-    - C.C.
-  </summary>		
-![](https://cdn.discordapp.com/attachments/847866414638432256/927542299418837042/ccs9page1.jpg)  
-![](https://cdn.discordapp.com/attachments/847866414638432256/927542300052193290/ccs9page2.jpg)   
-![](https://cdn.discordapp.com/attachments/847866414638432256/927542300815544320/ccs9page3.jpg)  
-<br>			
-</details>
-
-<details  markdown="block">
-  <summary>
-    - Div 1
-  </summary>	
-	
-**Top 153 in December**
-![](https://cdn.discordapp.com/attachments/847867054635876383/927538976607338556/div1top72.jpg)    
-![](https://cdn.discordapp.com/attachments/847867054635876383/927538977228066826/div1top153s8.jpg)      
-<br>			
-</details>
-
-
-<details  markdown="block">
-  <summary>
-    - Div 2
-  </summary>
-	
-Top teams	
-
-![](https://cdn.discordapp.com/attachments/847867127142154292/928221013781671966/div2tops8.jpg)
-<br>			
-</details>
-	
-<details  markdown="block">
-  <summary>
-    - Div 3
-  </summary>
-	
-Tops teams
-![](https://cdn.discordapp.com/attachments/847867258964279346/928220953891201044/div3tops8.jpg)
-		
- – *Source: Apru*
-<br>			
-</details>
-	
-<details  markdown="block">
-  <summary>
-    - Div 4
-  </summary>
-	
-Top teams
-![](https://cdn.discordapp.com/attachments/847867467228512306/928220884282523668/div4top_teamss8.jpg)
-	
- – *Source: Apru*
-<br>			
-</details>
-	
-<details  markdown="block">
-  <summary>
-    - Div 5
-  </summary>
-	
-Top teams
-![](https://cdn.discordapp.com/attachments/847867553116454932/928220802023833600/div5tops8.jpg)  
-	
- – *Source: Apru*
-<br>			
-</details>
-	
-<details  markdown="block">
-  <summary>
-    - Div 6
-  </summary>
-
-Top teams
-![](https://cdn.discordapp.com/attachments/847867760162635819/928220726765441034/div6tops8.jpg)
-	
- – *Source: Apru*
-<br>			
-</details>
-	
-<details  markdown="block">
-  <summary>
-    - Div 7
-  </summary>
-	
-Top teams
-![](https://cdn.discordapp.com/attachments/847867868568879154/928220664014438450/div7s8top.jpg)
-	
- – *Source: Apru*
-<br>			
-</details>	
-&nbsp;&nbsp;- [Previous League Seasons]({{site.url}}/seasons/)  			
-</details>
--->
 	
 ##  Wikis, Tutorials & Spreadsheets
 
