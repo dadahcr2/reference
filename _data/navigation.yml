@@ -17,18 +17,19 @@ main:
     url: /faq/
  
 docs:
-  - title: "Events"
-    url: /#events
-  - title: "Web,Tut,Sheets"
-    url: /#wikis-tutorials--spreadsheets
-  - title: "Vehicles"
-    url: /#vehicles
-  - title: "Adventures"
-    url: /#adventures
-  - title: "Cups"
-    url: /#cups
-  - title: "Lists"
-    url: /#lists
+  children:
+    - title: "Events"
+      url: /#events
+    - title: "Web,Tut,Sheets"
+      url: /#wikis-tutorials--spreadsheets
+    - title: "Vehicles"
+      url: /#vehicles
+    - title: "Adventures"
+      url: /#adventures
+    - title: "Cups"
+      url: /#cups
+    - title: "Lists"
+      url: /#lists
 
   - title: More
     children:
