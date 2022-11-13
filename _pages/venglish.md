@@ -61,7 +61,7 @@ A decade of driving
 
 **Live and Learn**
 - “We release the acceleration” → “we stop accelerating”
-- “We step on the acceleration” → “we step on the accelerator”
+- “We step on the accelera**tion**” → “we step on the accelera**tor**”
 - “Land down on the canister” → “land on the canister”
 - “A difficult but passable track” → “a difficult but doable track”
 - “Get into this isthmus” → maybe “hole”.  Not sure if isthmus makes sense here, and it is not a common word
