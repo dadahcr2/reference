@@ -6,10 +6,10 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://media.discordapp.net/attachments/858017263989948447/1038491916234408046/IMG_7094.png 
-- https://media.discordapp.net/attachments/858017329509171201/1038506277904588831/IMG_7140.png
-- https://media.discordapp.net/attachments/858017412174577716/1038492187161272400/IMG_7109.png
-- https://media.discordapp.net/attachments/858017616181461022/1038492248976937020/IMG_7112.png
+- https://media.discordapp.net/attachments/858017263989948447/1041152045534687362/IMG_7204.png
+- https://media.discordapp.net/attachments/858017329509171201/1041152175298056193/IMG_7212.png
+- https://media.discordapp.net/attachments/858017412174577716/1041152418999709838/IMG_7219.png
+- https://media.discordapp.net/attachments/858017616181461022/1041152707441987615/IMG_7230.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -37,7 +37,7 @@ slideShow:
 ![](https://media.discordapp.net/attachments/851566907920089128/1040806223332782140/te_Strategy.png)  
 
 
-<!-- {% include slideShow.html images=page.slideShow %} -->
+{% include slideShow.html images=page.slideShow %}
 
 
 ### Patch Notes
