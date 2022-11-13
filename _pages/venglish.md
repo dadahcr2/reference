@@ -28,7 +28,7 @@ The English was pretty good this week 👍 - a few very minor points
 - for CC-EV it is called “boost” and not “momentum” in the game
 - “step on two pedals” → “step on both pedals” - “two” is ok but might imply that there are more than two in total.
 
-The Canyon Job 
+**The Canyon Job** 
 - fly forward "on a given trajectory" -> "along the given trajectory" or  "in the shown direction"
 - "the most important first jump" -> "the first jump is the most important"
 - "improve your jump shocks" - this is ok but "upgrade your jump shocks" would be even better
@@ -42,7 +42,7 @@ The Canyon Job
 - "mini-tramp" -> "small ramp" :-)
 - "understated parts" -> "downgraded parts"
 
-A decade of driving
+**A decade of driving**
 - “Catch the Turbo” → “**Trigger** the Turbo”
 - “use WB and need maximum acceleration” → “Use WB and **accelerate to the max**”.  “need maximum acceleration” might be ok in another sentence but in this context, a strong action word was required to be consistent with the rest of the sentence.
 - “Absolutely similar route” → “**Same** route”
