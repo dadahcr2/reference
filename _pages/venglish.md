@@ -59,3 +59,12 @@ A decade of driving
 - “Immediately press the accelerate” → “immediately accelerate” (accelerate is a verb)
 - “to the mark 750m” → “to the 750m mark”
 
+**Live and Learn**
+- “We release the acceleration” → “we stop accelerating”
+- “We step on the acceleration” → “we step on the accelerator”
+- “Land down on the canister” → “land on the canister”
+- “A difficult but passable track” → “a difficult but doable track”
+- “Get into this isthmus” → maybe “hole”.  Not sure if isthmus makes sense here, and it is not a common word
+- “NOT trigger a perfect start and just keep the acceleration” → “Don’t do a perfect start, and just keep accelerating”
+- “release the accelera**tion** or apply the brake” → “release the accelera**tor** or …”
+
