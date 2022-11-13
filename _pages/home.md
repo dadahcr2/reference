@@ -27,18 +27,17 @@ slideShow:
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1040638168019521666/IMG_7169.png)  
 
-![](https://media.discordapp.net/attachments/858851529058418765/1037942364557283429/IMG_7087.png)  
-
 ### Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMXMME3OPhY?start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wgp_7bNY-1o?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Setups
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1040806223332782140/te_Strategy.png)  
 
 
-{% include slideShow.html images=page.slideShow %}
+<!-- {% include slideShow.html images=page.slideShow %} -->
 
 
 ### Patch Notes
