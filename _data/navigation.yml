@@ -20,6 +20,7 @@ main:
  
 docs:
   - title: Info Sections
+    url: /
     children:
     - title: "Scores"
       url: /#scores
