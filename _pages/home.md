@@ -359,12 +359,12 @@ Moonlander | LandingBoost
 
 <details  markdown="block">
   <summary>
-    Icons
+    Icon Images
   </summary>
 
 Select the following links for the corresponding images:
-- [**Vehicles**]({{site.url}}/vicons/) 
-- [**Parts**]({{site.url}}/picons/)  
+- [**Vehicle Icons**]({{site.url}}/vicons/) 
+- [**Parts Icons**]({{site.url}}/picons/)  
 	
 </details>  
 	
