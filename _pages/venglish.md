@@ -68,3 +68,8 @@ The English was pretty good this week 👍 - a few very minor points
 - “NOT trigger a perfect start and just keep the acceleration” → “Don’t do a perfect start, and just keep accelerating”
 - “release the accelera**tion** or apply the brake” → “release the accelera**tor** or …”
 
+**Hypersonic Hillclimbers**
+-  “Step on the acceleration pedal in advance to trigger the turbo” - maybe “early” would be better than “in advance” in general
+- “To fly uphill, you need to improve your wings → “… to have upgraded wings”
+- “make a jump at the top of the hill”  → “jump at the top of the hill”
+- “Not cling” - “not get stuck”
