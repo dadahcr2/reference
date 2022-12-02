@@ -36,7 +36,7 @@ slideShow:
 
 ### Setups
 
-![](https://media.discordapp.net/attachments/851566907920089128/1045700488244494387/te_Strategy.png)
+![](https://media.discordapp.net/attachments/851566907920089128/1048381000142561280/te_Strategy.png)
 
 {% include slideShow.html images=page.slideShow %}
 
