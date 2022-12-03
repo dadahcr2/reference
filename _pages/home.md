@@ -64,15 +64,15 @@ slideShow:
    Top 10 Teams Ranked after Season 18
   </summary>
 
-![](https://media.discordapp.net/attachments/858336498159714324/1038320349579853865/IMG_7092.png)  
+![](https://cdn.discordapp.com/attachments/847863985381965854/1048427018099904652/IMG_7506.png)  
 	
-**Dada Top 10 Ranking (Season 18)**
+**Dada Top 10 Ranking (Season 19)**
 - Rankings based on the past year
-- Discord and NORTH remain in the top 2 positions and are still the only teams to ever have more than 60 points
-- However ASYLUM (3) and Ünity (4) have been catching up and became the only other teams to score over 50 points - an achievement that requires multiple podium placements. ASYLUM’s strong performance in Season 18 allowed them to switch places with Ünity
-- Project GER is still in 5th
-- ATLANTIS~ and TRAXION jumped over STORMO ITALIA and United Arab and are now tied in 6th
-- XTREME is 10th again
+- Discord finally lost the pole position, and we have a new rankings leader in NORTH!
+- However ASYLUM has been racing up the rankings and is breathing down their knecks
+- Ünity and  Project GER retain their 4th and 5th positions
+- Union~H (previously called Atlantis) pipped TRAXION for 6th
+- Global Legion broke into the Top 10 and is tied with Stormo Italia & United Arab for 8th	
 	
 ***
 {% capture notice-3 %}	
