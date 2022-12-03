@@ -61,15 +61,17 @@ slideShow:
    Top 10 Teams Ranked after Season 19
   </summary>
 
-![](https://cdn.discordapp.com/attachments/847863985381965854/1048427018099904652/IMG_7506.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1048670806751850556/IMG_7548.png)  
 	
-**Dada Top 10 Ranking (Season 19)**
+**Dada Top 10 Ranking (Season 19)** - corrected
 - Rankings based on the past year
-- Discord finally lost the pole position, and we have a new rankings leader in NORTH!
-- However ASYLUM has been racing up the rankings and is breathing down their knecks
-- Ünity and  Project GER retain their 4th and 5th positions
-- Union~H (previously called Atlantis) pipped TRAXION for 6th
-- Global Legion broke into the Top 10 and is tied with Stormo Italia & United Arab for 8th	
+- After relentless consistent performance NORTH finally reaches the #1 spot but still has to share it with Discord
+- But both now have ASYLUM breathing down their necks
+- Unity and Project GER retain 4th and 5th respectively
+- United Arab up into #6
+- UNION~H (prev, ATLANTIS~) and TRAXION dropping back one spot to tied #7
+ (joined by RATZ)
+- Lastly, SYNDICATE (#10) also break into the Top 10 list  
 	
 ***
 {% capture notice-3 %}	
