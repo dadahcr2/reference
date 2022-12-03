@@ -79,7 +79,7 @@ One season of ~15 matches is just not enough to determine the best HCR2 team.  S
 - **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
 - **Previous season**: 1st=11 points, 2nd=10 points, 3rd=9points, … 11th = 1 point
 - **Two seasons ago**: 1st=10 points, 2nd=9 points, 3rd=8points, … 10th = 1 point
-I.e. reducing by 1 point the value of each placement for every previous season.  Accordingly, seasons played more this a year ago will not count.
+I.e. reducing by 1 point the value of each placement for every previous season.  Accordingly, seasons played more than a year ago will not count.
 	
 In table format: Points awarded according to final placement in previous seasons, where 0 was the final ranks in the last full season,  -1 is one season before, etc. 
 ```
