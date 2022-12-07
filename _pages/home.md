@@ -41,15 +41,12 @@ slideShow:
 ### Patch Notes
 
 {% capture notice-2 %}
-**HCR2 V1.53.0**  
-- Added new vehicle: The Beast
-- Added new tuning part: Spoiler
-- Added new cup theme: Climb Canyon Arena
-- Added new cup: Canyon Grand Prix
-- Trophy Road Premium Pass now unlocks three extra daily task slots (included in VIP subscriptions)
-- Added a fast pop-up menu for vehicle selection
-- Added a filter for scrapping items based on their rarities
-- You can now tap 'n hold to tune (downgrade/upgrade) vehicle upgrades (So going from lvl 20 to lvl 1 doesn't require 19 individual taps 
+**HCR2 V1.54.0**  
+- New adventure level: The Climb Canyon Arena. Test yourself in the ancient arena of vehicular combat, filled with boobytraps, pitfalls and other exciting environmental hazards!
+- Significant increases to season cheer
+- Added a new adventure token currency that you can use for unlocking adventure levels at your own pace (Now all your precious coins can be spent on vehicles and upgrades, where they belong!)
+- Implemented Driftmas theme and upcoming events
+- Tweaked gameplay for the Beast vehicle, including several significant buffs and a change to how the final damage phase plays out 
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
