@@ -79,5 +79,5 @@ The English was pretty good this week 👍 - a few very minor points
 - “…and NOT make the jump” → “… and DO NOT make the jump”
 - “Release a little early Jump Shocks…” → “release Jump Shocks a little early…"
 - “To give acceleration” → “to gain speed”
-- - “the higher the speed, the harder it is to drive” - bus cannot “drive” in the air - maybe “use thrusters” instead?
+- “the higher the speed, the harder it is to drive” - bus cannot “drive” in the air - maybe “use thrusters” instead?
 - “Make a hook for the rest of the fuel” → “turn before using the rest of the fuel”
