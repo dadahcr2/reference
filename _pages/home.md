@@ -6,10 +6,10 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://media.discordapp.net/attachments/858017263989948447/1053792621782380564/IMG_7707.png
-- https://media.discordapp.net/attachments/858017329509171201/1053792723905290330/IMG_7716.png
-- https://media.discordapp.net/attachments/858017412174577716/1053792817442455553/IMG_7723.png
-- https://media.discordapp.net/attachments/858017616181461022/1053792871414771712/IMG_7731.png
+- https://media.discordapp.net/attachments/858017263989948447/1056342898125316116/IMG_7793.png
+- https://media.discordapp.net/attachments/858017329509171201/1056343290607304744/IMG_7798.png
+- https://media.discordapp.net/attachments/858017412174577716/1056343328523812904/IMG_7812.png
+- https://media.discordapp.net/attachments/858017616181461022/1056343462255013888/IMG_7817.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -26,19 +26,14 @@ slideShow:
 ### Scores
 
 ![](https://media.discordapp.net/attachments/858851529058418765/1055880489178775652/IMG_7790.png)  
-![](https://media.discordapp.net/attachments/851566907920089128/1053197812583637124/IMG_7693.png)  
   
 ### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQI5NEG5enE?start=202" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6QgHm1fHsc?start=381" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Setups
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1055880757819740240/te_Strategy.png)  
-
-![](https://media.discordapp.net/attachments/750874271022317678/1053664927933546556/te_Strategy.png)
 
 {% include slideShow.html images=page.slideShow %}
 
