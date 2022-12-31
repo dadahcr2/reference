@@ -34,11 +34,9 @@ slideShow:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XI1uVOLzz6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sQI5NEG5enE?start=202" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Setups
 
-![](https://media.discordapp.net/attachments/851566907920089128/1055880757819740240/te_Strategy.png)  
+![](https://media.discordapp.net/attachments/851566907920089128/1058880954829131837/te_Strategy.png)  
 
 {% include slideShow.html images=page.slideShow %}
 
