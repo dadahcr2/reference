@@ -6,11 +6,11 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://media.discordapp.net/attachments/858017263989948447/1059489149909991484/IMG_7914.png
-- https://media.discordapp.net/attachments/858017329509171201/1059489291929125004/IMG_7923.png
-- https://media.discordapp.net/attachments/858017412174577716/1059489387634765925/IMG_7928.png
-- https://media.discordapp.net/attachments/858017616181461022/1059489457939681340/IMG_7932.png
-- https://media.discordapp.net/attachments/858017681420189696/1059489548456964157/IMG_7939.png
+- https://cdn.discordapp.com/attachments/858017263989948447/1061390897142571018/IMG_8061.png
+- https://cdn.discordapp.com/attachments/858017329509171201/1061391176818769952/IMG_8066.png
+- https://cdn.discordapp.com/attachments/858017412174577716/1061391293240053881/IMG_8071.png
+- https://cdn.discordapp.com/attachments/858017616181461022/1061391391109955615/IMG_8080.png
+- https://cdn.discordapp.com/attachments/858017681420189696/1061391441454178456/IMG_8087.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -27,22 +27,14 @@ slideShow:
 ### Scores
 
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1061208562631712808/IMG_8056.png)  
-
-![](https://media.discordapp.net/attachments/858851529058418765/1058417871501398127/IMG_7881.png)  
-
   
 ### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJDdG1YRzHk?start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WKESb8-ZJQ?start=191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ### Setups
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1061383526181777458/te_Strategy.png)  
-
-![](https://media.discordapp.net/attachments/851566907920089128/1058880954829131837/te_Strategy.png)  
 
 {% include slideShow.html images=page.slideShow %}
 
@@ -67,17 +59,16 @@ slideShow:
    Top 10 Teams Ranked after Season 19
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1048670806751850556/IMG_7548.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1061215203435499590/IMG_8057.png)  
 	
-**Dada Top 10 Ranking (Season 19)** - corrected
+**Dada Top 10 Ranking (Season 20)**
 - Rankings based on the past year
-- After relentless consistent performance NORTH finally reaches the #1 spot but still has to share it with Discord
-- But both now have ASYLUM breathing down their necks
-- Unity and Project GER retain 4th and 5th respectively
-- United Arab up into #6
-- UNION~H (prev, ATLANTIS~) and TRAXION dropping back one spot to tied #7
- (joined by RATZ)
-- Lastly, SYNDICATE (#10) also break into the Top 10 list  
+- NORTH drops to #3, which means that Discord regains sole #1, and ASYLUM move up to #2
+- Unity and Project GER retain #4 and #5 respectively
+- Out of Order (#6), and PLN Reborn (#7) crash into the Top 10, pushing United Arab down two spots to #8, and similarly Ratz to #9.
+- SYNDICATE retains #10
+
+I’m thinking of shifting to calendar year rankings e.g, like Formula One, where teams compete to win the year based on points from each month during the year.  I.e. no longer base rankings on a rolling one year window (with points from previous months depreciated), but just total point for the current year (2023)  - let me know what you would prefer!  
 	
 ***
 {% capture notice-3 %}	
