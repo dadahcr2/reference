@@ -32,11 +32,11 @@ slideShow:
   
 ### Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJDdG1YRzHk?start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5pm03wzalWU?start=200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Setups
 
-![](https://media.discordapp.net/attachments/851566907920089128/1061383526181777458/te_Strategy.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/1064251466593882214/te_Strategy.png)  
 
 {% include slideShow.html images=page.slideShow %}
 
