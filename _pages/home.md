@@ -10,7 +10,7 @@ slideShow:
 - https://cdn.discordapp.com/attachments/858017329509171201/1061391176818769952/IMG_8066.png
 - https://cdn.discordapp.com/attachments/858017412174577716/1061391293240053881/IMG_8071.png
 - https://cdn.discordapp.com/attachments/858017616181461022/1061391391109955615/IMG_8080.png
-- https://cdn.discordapp.com/attachments/858017681420189696/1061391441454178456/IMG_8087.png
+- https/media.tenor.com/zK6-iEBjjcEAAAPo/no-nooo.mp4
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
