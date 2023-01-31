@@ -30,6 +30,8 @@ slideShow:
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1065963208394944564/IMG_8263.png)
   
 ### Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv370yTOcw?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZVEYX-pRA8?start=283" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
