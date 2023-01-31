@@ -6,11 +6,10 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://cdn.discordapp.com/attachments/858017263989948447/1066486975453999144/IMG_8267.png
-- https://cdn.discordapp.com/attachments/858017329509171201/1066486998942089296/IMG_8284.png
-- https://cdn.discordapp.com/attachments/858017412174577716/1066487126436364489/IMG_8274.png
-- https://cdn.discordapp.com/attachments/858017616181461022/1066487165741178920/IMG_8281.png
-- 
+- https://cdn.discordapp.com/attachments/858017263989948447/1069919670351704135/IMG_8345.png
+- https://cdn.discordapp.com/attachments/858017329509171201/1069919710096932924/IMG_8350.png
+- https://cdn.discordapp.com/attachments/858017412174577716/1069919744712519751/IMG_8355.png
+- https://cdn.discordapp.com/attachments/858017616181461022/1069919777549713408/IMG_8360.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -25,20 +24,13 @@ slideShow:
 </details> -->  
 
 ### Scores
-![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.png)  
-
-![](https://cdn.discordapp.com/attachments/858851529058418765/1065963208394944564/IMG_8263.png)
+![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.pn
   
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxv370yTOcw?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aZVEYX-pRA8?start=283" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Setups
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1068459535964053534/te_Strategy.png)  
-
-![](https://media.discordapp.net/attachments/851566907920089128/1066482500689461270/te_Strategy.png)  
 
 {% include slideShow.html images=page.slideShow %}
 
