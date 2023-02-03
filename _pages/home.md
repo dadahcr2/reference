@@ -24,7 +24,7 @@ slideShow:
 </details> -->  
 
 ### Scores
-![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.pn
+![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.png)
   
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxv370yTOcw?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
