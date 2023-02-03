@@ -24,6 +24,8 @@ slideShow:
 </details> -->  
 
 ### Scores
+,[](https://cdn.discordapp.com/attachments/858851529058418765/1071027495979200543/IMG_8391.png)  
+
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.png)
   
 ### Tutorial
