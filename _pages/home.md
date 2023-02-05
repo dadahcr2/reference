@@ -29,9 +29,13 @@ slideShow:
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1068458826837282816/IMG_8335.png)
   
 ### Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPBD_WEKT-8?start=252" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxv370yTOcw?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ### Setups
+![](https://cdn.discordapp.com/attachments/851566907920089128/1071790855540711474/te_Strategy.png)  
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1068459535964053534/te_Strategy.png)  
 
 {% include slideShow.html images=page.slideShow %}
