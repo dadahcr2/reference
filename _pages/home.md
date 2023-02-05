@@ -7,9 +7,10 @@ sidebar:
   nav: "docs"
 slideShow:
 - https://cdn.discordapp.com/attachments/858017263989948447/1069919670351704135/IMG_8345.png
-- https://cdn.discordapp.com/attachments/858017329509171201/1069919710096932924/IMG_8350.png
-- https://cdn.discordapp.com/attachments/858017412174577716/1069919744712519751/IMG_8355.png
-- https://cdn.discordapp.com/attachments/858017616181461022/1069919777549713408/IMG_8360.png
+- https://cdn.discordapp.com/attachments/858017329509171201/1071793614063140944/IMG_8413.png
+- https://cdn.discordapp.com/attachments/858017412174577716/1071793710506983444/IMG_8417.png
+- https://cdn.discordapp.com/attachments/858017616181461022/1071793778492448829/IMG_8422.png
+- 
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
