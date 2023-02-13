@@ -56,17 +56,15 @@ slideShow:
    Top 10 Teams Ranked after Season 20
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1061215203435499590/IMG_8057.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1071470715599081633/IMG_8399.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1071470715938811924/IMG_8401.png)
 	
-**Dada Top 10 Ranking (Season 20)**
+**Dada Top 10 Ranking (Season 21)**
 - Rankings based on the past year
-- NORTH drops to #3, which means that Discord regains sole #1, and ASYLUM move up to #2
-- Unity and Project GER retain #4 and #5 respectively
-- Out of Order (#6), and PLN Reborn (#7) crash into the Top 10, pushing United Arab down two spots to #8, and similarly Ratz to #9.
-- SYNDICATE retains #10
-
-I’m thinking of shifting to calendar year rankings e.g, like Formula One, where teams compete to win the year based on points from each month during the year.  I.e. no longer base rankings on a rolling one year window (with points from previous months depreciated), but just total point for the current year (2023)  - let me know what you would prefer!  
-	
+- No changes to the Top 5
+- PLN Reborn overtakes Out of Order to grab #6
+- UNIVERSE, French Spirit, and SYNDICATE place #8, #9, and #10 respectively
+- Added calendar year rankings as well.  Based on previous results, Discord was the calendar year winner for 2021 and 2022. PLN Reborn has the lead for 2023 but there are still 11 months to go.
 ***
 {% capture notice-3 %}	
 One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
