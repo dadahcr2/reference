@@ -8,8 +8,8 @@ sidebar:
 slideShow:
 - https://cdn.discordapp.com/attachments/858017263989948447/1074540101431992431/IMG_8500.png
 - https://cdn.discordapp.com/attachments/858017329509171201/1074540227957362768/IMG_8506.png
--https://cdn.discordapp.com/attachments/858017412174577716/1074540371469676604/IMG_8513.png
--https://cdn.discordapp.com/attachments/858017616181461022/1074540497231691806/IMG_8519.png
+- https://cdn.discordapp.com/attachments/858017412174577716/1074540371469676604/IMG_8513.png
+- https://cdn.discordapp.com/attachments/858017616181461022/1074540497231691806/IMG_8519.png
 - 
 ---
 
