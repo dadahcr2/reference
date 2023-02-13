@@ -53,7 +53,7 @@ slideShow:
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 20
+   Top 10 Teams Ranked after Season 21
   </summary>
 
 ![](https://cdn.discordapp.com/attachments/858336498159714324/1071470715599081633/IMG_8399.png)  
