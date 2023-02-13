@@ -6,10 +6,10 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://cdn.discordapp.com/attachments/858017263989948447/1069919670351704135/IMG_8345.png
-- https://cdn.discordapp.com/attachments/858017329509171201/1071793614063140944/IMG_8413.png
-- https://cdn.discordapp.com/attachments/858017412174577716/1071793710506983444/IMG_8417.png
-- https://cdn.discordapp.com/attachments/858017616181461022/1071793778492448829/IMG_8422.png
+- https://cdn.discordapp.com/attachments/858017263989948447/1074540101431992431/IMG_8500.png
+- https://cdn.discordapp.com/attachments/858017329509171201/1074540227957362768/IMG_8506.png
+-https://cdn.discordapp.com/attachments/858017412174577716/1074540371469676604/IMG_8513.png
+-https://cdn.discordapp.com/attachments/858017616181461022/1074540497231691806/IMG_8519.png
 - 
 ---
 
