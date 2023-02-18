@@ -5,7 +5,7 @@ toc_sticky: true
 classes: wide
 sidebar:
   nav: "docs"
-Slide4:
+mySlides:
 - https://cdn.discordapp.com/attachments/858017263989948447/1076546770378686494/IMG_8578.png
 - https://cdn.discordapp.com/attachments/858017329509171201/1076546839433711646/IMG_8583.png
 - https://cdn.discordapp.com/attachments/858017412174577716/1076547016655646781/IMG_8589.png
