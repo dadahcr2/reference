@@ -32,7 +32,7 @@ Slide4:
 ### Setups
 ![](https://media.discordapp.net/attachments/851566907920089128/1076122218733518878/te_Strategy.png)  
 
-{% include slideShow.html images=page.slideShow %}
+{% include Slide4.html images=page.slideShow %}
 
 
 ### Patch Notes
