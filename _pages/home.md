@@ -36,7 +36,7 @@ slideShow:
 
 ![]()  
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/1079040149029138532/animated_video.mov)  
+![]()  
 
 {% include Slide4.html images=page.slideShow %}
 
