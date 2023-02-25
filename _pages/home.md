@@ -6,10 +6,6 @@ classes: wide
 sidebar:
   nav: "docs"
 slideShow:
-- https://cdn.discordapp.com/attachments/858017263989948447/1076546770378686494/IMG_8578.png
-- https://cdn.discordapp.com/attachments/858017329509171201/1076546839433711646/IMG_8583.png
-- https://cdn.discordapp.com/attachments/858017412174577716/1076547016655646781/IMG_8589.png
-- https://cdn.discordapp.com/attachments/858017616181461022/1076547166488760351/IMG_8601.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -26,17 +22,15 @@ slideShow:
 ### Scores
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1078531567284133979/IMG_8676.png)  
 
-![](https://media.discordapp.net/attachments/858851529058418765/1076119735890100224/IMG_8572.png)  
+![]()  
   
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVHEcxvos3Y?start=232" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bwf7FNVUwvM?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Setups
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1078841472197066762/te_Strategy.png)  
 
-![](https://media.discordapp.net/attachments/851566907920089128/1076122218733518878/te_Strategy.png)  
+![]()  
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1079040149029138532/animated_video.mov)  
 
