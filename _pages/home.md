@@ -36,6 +36,8 @@ slideShow:
 
 ![](https://media.discordapp.net/attachments/851566907920089128/1076122218733518878/te_Strategy.png)  
 
+![](https://cdn.discordapp.com/attachments/851566907920089128/1079040149029138532/animated_video.mov)  
+
 {% include Slide4.html images=page.slideShow %}
 
 
