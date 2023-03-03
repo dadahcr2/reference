@@ -32,9 +32,8 @@ slideShow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bwf7FNVUwvM?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Setups
-![](https://cdn.discordapp.com/attachments/851566907920089128/1078841472197066762/te_Strategy.png)  
 
-![]()  
+![](https://cdn.discordapp.com/attachments/851566907920089128/1081203813337280522/te_Strategy.png)  
 
 ![]()  
 
@@ -58,18 +57,17 @@ slideShow:
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 21
+   Top 10 Teams Ranked after Season 22
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1071470715599081633/IMG_8399.png)  
-![](https://cdn.discordapp.com/attachments/858336498159714324/1071470715938811924/IMG_8401.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1080680174422597682/IMG_8777.png)
 	
-**Dada Top 10 Ranking (Season 21)**
-- Rankings based on the past year
-- No changes to the Top 5
-- PLN Reborn overtakes Out of Order to grab #6
-- UNIVERSE, French Spirit, and SYNDICATE place #8, #9, and #10 respectively
-- Added calendar year rankings as well.  Based on previous results, Discord was the calendar year winner for 2021 and 2022. PLN Reborn has the lead for 2023 but there are still 11 months to go.
+**Dada Top 10 Ranking (Season 22)**
+-  Rankings based on the past year
+-  Very few changes this month
+-  Discord soundly atop the rankings
+-  but still behind PLN Reborn for 2023
+	
 ***
 {% capture notice-3 %}	
 One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
