@@ -31,6 +31,8 @@ slideShow:
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bwf7FNVUwvM?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41BcyuiqE9g?start=216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 ### Setups
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/1081203813337280522/te_Strategy.png)  
