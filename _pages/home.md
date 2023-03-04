@@ -24,13 +24,11 @@ slideShow:
 </details> -->  
 
 ### Scores
-![](https://cdn.discordapp.com/attachments/858851529058418765/1078531567284133979/IMG_8676.png)  
+![]()  
 
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1081070331084685362/IMG_8785.png)  
   
 ### Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bwf7FNVUwvM?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41BcyuiqE9g?start=216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ### Setups
