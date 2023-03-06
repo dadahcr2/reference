@@ -23,8 +23,7 @@ slideShow:
 {:toc} 
 </details> -->  
 
-### Scores
-![]()  
+### Scores  
 
 ![](https://cdn.discordapp.com/attachments/858851529058418765/1081070331084685362/IMG_8785.png)  
   
