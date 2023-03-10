@@ -25,14 +25,14 @@ slideShow:
 
 ### Scores  
 
-![](https://cdn.discordapp.com/attachments/858851529058418765/1081070331084685362/IMG_8785.png)  
+![](https://cdn.discordapp.com/attachments/858851529058418765/1083601292645105664/IMG_8894.png)  
   
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41BcyuiqE9g?start=216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ### Setups
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/1081203813337280522/te_Strategy.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/1083899393360547840/te_Strategy.png)  
 
 ![]()  
 
