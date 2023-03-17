@@ -25,7 +25,7 @@ slideShow:
 
 ### Scores  
 
-![](https://cdn.discordapp.com/attachments/858851529058418765/1083601292645105664/IMG_8894.png)  
+![](https://cdn.discordapp.com/attachments/858851529058418765/1086243279814803476/IMG_8967.png)  
   
 ### Tutorial
 
