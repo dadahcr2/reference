@@ -41,12 +41,13 @@ slideShow:
 ### Patch Notes
 
 {% capture notice-2 %}
-**HCR2 V1.54.0**  
-- New adventure level: The Climb Canyon Arena. Test yourself in the ancient arena of vehicular combat, filled with boobytraps, pitfalls and other exciting environmental hazards!
-- Significant increases to season cheer
-- Added a new adventure token currency that you can use for unlocking adventure levels at your own pace (Now all your precious coins can be spent on vehicles and upgrades, where they belong!)
-- Implemented Driftmas theme and upcoming events
-- Tweaked gameplay for the Beast vehicle, including several significant buffs and a change to how the final damage phase plays out 
+**HCR2 V1.55.0**  
+- New vehicle: Muscle Car
+– Drop the clutch and slam that pedal into the metal. The big, beefy Muscle Car is here. Press and hold both pedals to do a burnout!
+- Featured challenges reworked
+- Added the ability to create challenges from public events
+- New team icons
+- Added a cooldown period for player name changes
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
