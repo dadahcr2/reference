@@ -25,7 +25,7 @@ slideShow:
 
 ### Scores  
 
-![](https://cdn.discordapp.com/attachments/858851529058418765/1086243279814803476/IMG_8967.png)  
+![](https://cdn.discordapp.com/attachments/894901600974430268/1088760416240414730/IMG_9077.png)  
   
 ### Tutorial
 
@@ -33,7 +33,7 @@ slideShow:
 
 ### Setups
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/1086249664250134538/te_Strategy.png)  
+![](https://cdn.discordapp.com/attachments/851566907920089128/1088763993709084722/te_Strategy.png)  
 
 {% include Slide4.html images=page.slideShow %}
 
