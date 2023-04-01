@@ -59,16 +59,17 @@ slideShow:
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 22
+   Top 10 Teams Ranked after Season 23
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1080680174422597682/IMG_8777.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1091734946596528188/IMG_9179.png)
 	
-**Dada Top 10 Ranking (Season 22)**
--  Rankings based on the past year
--  Very few changes this month
--  Discord soundly atop the rankings
--  but still behind PLN Reborn for 2023
+**Dada Top 10 Ranking (Season 23)**
+- Rankings based on the past year
+- Top 7 remain unchanged (despite a few name changes)
+- RATz games the matchmaking to move into 8th
+- French Spirit and Universe are now 9th and 10th (tied at 8th previously)
+- Discord takes the lead for 2023 as well
 	
 ***
 {% capture notice-3 %}	
