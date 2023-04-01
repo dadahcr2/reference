@@ -3,8 +3,8 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/894901600974430268/1088760416240414730/IMG_9077.png 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1088763993709084722/te_Strategy.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1091204720703590400/IMG_9170.png
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1091829025879633940/te_Strategy.png
 sidebar:
   nav: "docs"
 slideShow:
