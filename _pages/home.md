@@ -37,9 +37,9 @@ slideShow:
 ### Setups
 
 ![]({{ page.setup }})  
-<!--
+{% comment %}
 {% include Slide4.html images=page.slideShow %} 
--->
+{% endcomment %}
  
 
 ### Patch Notes
