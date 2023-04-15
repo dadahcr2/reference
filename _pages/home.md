@@ -3,8 +3,8 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1093772504952213525/IMG_9303.png
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1094062030023049346/te_Strategy.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1096402318695600138/IMG_9418.png
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1096793425174601809/te_Strategy.png
 sidebar:
   nav: "docs"
 slideShow:
@@ -31,7 +31,7 @@ slideShow:
   
 ### Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t4e817ZhHWA?start=250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJucg5BTHJg?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Setups
 
