@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1101483109872042004/IMG_9692.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1103896174450180176/IMG_9832.png
 setup: https://media.discordapp.net/attachments/851566907920089128/1101484452011581461/te_Strategy.png
 sidebar:
   nav: "docs"
@@ -40,8 +40,7 @@ slideShow:
 
 ### Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RQGJ2WovxAo?start=339" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ijqZ8R3Zzw?start=179" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 ### Patch Notes
 
