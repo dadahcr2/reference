@@ -63,14 +63,19 @@ slideShow:
    Top 10 Teams Ranked after Season 23
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1091734946596528188/IMG_9179.png)
-	
-**Dada Top 10 Ranking (Season 23)**
+![](https://cdn.discordapp.com/attachments/858336498159714324/1101977271612489738/IMG_9759.png)
+
+**Dada Top 10 Ranking (Season 24)**
 - Rankings based on the past year
-- Top 7 remain unchanged (despite a few name changes)
-- RATz games the matchmaking to move into 8th
-- French Spirit and Universe are now 9th and 10th (tied at 8th previously)
-- Discord takes the lead for 2023 as well
+- SÜPREME joins Discord in the #1 spot
+- PLN Reborn leapfrogs Project GER into #4
+- EMPIRE improves one spot to #6
+- FrenchSpirit (#8) jumped over RATz(#9)
+- For 2023, Discord retains the lead, but SÜPREME and PLN Reborn overtook NORTH
+
+- With 24 seasons done, it means Teams is now at the two-year mark
+- Impressively, Discord ranked in the TOP 5 for every single season - and on the Podium 80% of the time! 
+- NORTH almost managed to be in the TOP 5 every season as well, but was 6th in Season 24 ¯\_(ツ)_/¯
 	
 ***
 {% capture notice-3 %}	
