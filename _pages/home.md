@@ -60,7 +60,7 @@ slideShow:
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 23
+   Top 10 Teams Ranked after Season 24
   </summary>
 
 ![](https://cdn.discordapp.com/attachments/858336498159714324/1101977271612489738/IMG_9759.png)
