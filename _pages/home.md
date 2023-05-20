@@ -4,7 +4,7 @@ toc: false
 toc_sticky: true
 classes: wide
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1109086938713047061/image.png
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1106971318852784268/incollage_save.jpg
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1109310447066288238/incollage_save.jpg
 sidebar:
   nav: "docs"
 slideShow:
