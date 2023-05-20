@@ -232,7 +232,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 	[![](http://img.youtube.com/vi/etd0UTGpOdM/0.jpg)](http://www.youtube.com/watch?v=etd0UTGpOdM)
 - [How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
 	[![](http://img.youtube.com/vi/YizwyYSie1A/0.jpg)](http://www.youtube.com/watch?v=YizwyYSie1A) 
-- [How to go uo the drop ramps in canyon arena](https://youtu.be/KLu4xFacwVM)
+- [How to go uo the drop ramps in canyon arena](https://youtu.be/KLu4xFacwVM)  
 	[![](http://img.youtube.com/vi/KLu4xFacwVM/0.jpg)](https://youtu.be/KLu4xFacwVM)
 	
 </details>	
