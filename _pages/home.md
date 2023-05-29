@@ -535,7 +535,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
   </summary>
 	
 Map | Location
-:--: | :--
+:-- | :--
 **Forest** | 165m 855m↩️ 2450m↩️ 2789m 2800m↩️7️⃣ 3446m  4047m 4695m
 **Winter** | 430m 1415m 2810m 3000m 3070m7️⃣ 3455m 3670m 4395m
 **Bog** | 55m 950m↩️ 2300m 2495m 2895m7️⃣ 2918m 3565m 4210m
