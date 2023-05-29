@@ -91,6 +91,17 @@ This can be seen in the the below charts which represent data on common and rare
 
 Accordingly, from a parts perspective, it appears best to at least reach 6500m (Level 13 chest), except for the three hard maps, where there is no improvement in parts beyond 600m i.e. Level 6.
 
+#### Trove Chests
+
+There are 90 key points available; 18 from each of five different adventure maps.  Each level has one 7️⃣ key, two 3️⃣ keys and five 1️⃣ keys.  for every 10 key points, a new trove chest is opened. Higher level trove chests have better rewards as follows:
+
+Level | Chest
+:--: | :--
+ 1-2 |	**Uncommon** (at least 29 common 2 rare parts)
+ 3-5 |	**Rare** (at least 45 common and 6 rare parts)
+ 6-7 | **Epic** (at least 68 common, 9 rare and 6 epic parts)
+ 8-9 | **Champion** (at least 113 common and 12 epic parts - 60% legendary)
+
 #### Weekly Team Chest
 
 Rewards vary depending on the level of the chest at the end of the week. Teams start the week at Level 1 and need to travel 65km in total to reach Level 2.  The distance required increases by 30km for each additional level e.g. 95km to go from Level 2 to Level 3, 125km to go from Level 3 to Level 4, etc.
