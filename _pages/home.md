@@ -44,6 +44,19 @@ slideShow:
 
 ### Patch Notes
 
+
+{% capture notice-2 %}
+**HCR2 V1.56.0**  
+This update introduces the new level theme, Cuptown, as well as the “Adventure Trove” mode, the Public Event Shop and more!  
+- New mode: Adventure Trove. Find hidden keys to unlock seasonal collectibles in adventure maps
+- Added a Public Event shop
+- New level theme: Cuptown
+- New cup: Night Drive Cup
+- New victory animations
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
 {% capture notice-2 %}
 **HCR2 V1.55.0**  
 - New vehicle: Muscle Car
