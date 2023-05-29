@@ -93,7 +93,7 @@ Accordingly, from a parts perspective, it appears best to at least reach 6500m (
 
 #### Trove Chests
 
-There are 90 key points available; 18 from each of five different adventure maps.  Each level has one 7️⃣ key, two 3️⃣ keys and five 1️⃣ keys.  for every 10 key points, a new trove chest is opened. Higher level trove chests have better rewards as follows:
+There are 90 key points available; 18 from each of five different adventure maps.  Each level has one 7️⃣ key, two 3️⃣ keys and five 1️⃣ keys.  For every 10 key points, a new trove chest is opened. Higher level trove chests have better rewards as follows:
 
 Level | Chest
 :--: | :--
