@@ -521,7 +521,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
   </summary>
 	
 Map | Location
-:-- | :--
+:--: | :--
 Forest | 165m 855m↩️ 2450m↩️ 2789m 2800m↩️7️⃣ 3446m  4047m 4695m
 Winter | 430m 1415m 2810m 3000m 3070m7️⃣ 3455m 3670m 4395m
 Bog | 55m 950m↩️ 2300m 2495m 2895m 2918m 3565m 4210m
@@ -710,7 +710,7 @@ Mystical Cup
 **This may be helpful in identifying event tracks**  
 {: .notice}  
 	
-	Map Type | Tracks  
+Map Type | Tracks  
 :--: | :--  
 **Beach** | **`320m`:** **Seaside** (Beach Cup) , **`335m`:** **Tide Waves** (Finger Travels) , **`340m`:** **The Big Dunes** (Sand in Swimsuit) , **`350m`:** **The Dunes** (Beach Cup) ,  **Sandbox** (Finger Travels) , **`360m`:** **Sand in Swimsuit**, **`370m`:** **Kid's pool** (Finger Travels) ,  **Tunnel Dive** (Sand in Swimsuit) , **`380m`:** **Beach Boys** (Beach Cup) , **`410m`:** **Coconut Cove** (Travel Cup) , **`1000m`:** **Paradise Bay**
 **Bog** | **`198m`:** **Trial of Balance** (Downhill Trials) , **`230m`:** **Trial of Courage** (Downhill Trials) , **`250m`:** **Happy Campers** (Backwater Cup) ,  **Grill Bill** (Backwater Cup) ,  **Trial of fall** (Downhill Trials) , **`290m`:** **Swamp Ride** (Backwater Cup) , **`295m`:** **Bumps in the Water** (Alligator Cup) , **`300m`:** **Parking Trailers** (Alligator Cup) , **`330m`:** **Hangout Cave** (Marshland Cup) , **`350m`:** **Tired Alligators** (Marshland Cup) , **`360m`:** **Lonely Camper** (Boggy Road) , **`370m`:** **Muddy Road** (Boggy Road) ,  **Cottage Road** (Boggy Road) , **`385m`:** **Snappy Swamps** (Alligator Cup) , **`420m`:** **Docked Out** (Marshland Cup) 
