@@ -504,6 +504,20 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 	
 <details  markdown="block">
   <summary>
+    Trove Chest Locatioms
+  </summary>
+	
+Map | Location
+:-- | :--
+Forest | 165m 855m↩️ 2450m↩️ 2789m 2800m↩️7️⃣ 3446m  4047m 4695m
+Winter | 430m 1415m 2810m 3000m 3070m7️⃣ 3455m 3670m 4395m
+Bog | 55m 950mr 2300m 2495m 2895m 2918m 3565m 4210m
+Canyon | 90m 920m 1660m 1977m↩️7️⃣ 2489m↩️ 2760m 3242m 4330m
+Skyrock | 115m 1190m 1535m7️⃣ 2880m 3080m 3240m 3865m 4810m
+	
+</details>	
+<details  markdown="block">
+  <summary>
     Fuel Cans
   </summary>
 	
