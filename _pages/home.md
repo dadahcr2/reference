@@ -541,9 +541,11 @@ Map | Location
 **Bog** | 55m 950m↩️ 2300m 2495m 2895m7️⃣ 2918m 3565m 4210m
 **Canyon** | 90m 920m 1660m 1977m↩️7️⃣ 2489m↩️ 2760m 3242m 4330m
 **Skyrock** | 115m 1190m 1535m7️⃣ 2880m 3080m 3240m 3865m 4810m
-	
-↩️ = Reverse from this point  
-7️⃣ = Level 7 trove chest  
+
+↩️ = Reverse from this point
+3️⃣ = Level 3 key
+7️⃣ = Level 7 key  
+
 	
 </details>	
 <details  markdown="block">
