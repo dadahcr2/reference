@@ -504,7 +504,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 	
 <details  markdown="block">
   <summary>
-    Trove Chest Locatioms
+    Trove Chest Locations
   </summary>
 	
 Map | Location
