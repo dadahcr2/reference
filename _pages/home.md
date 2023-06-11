@@ -27,7 +27,7 @@ slideShow:
 
 ### Keys
 	
-Map | Trove Chest Locations
+Map | June Key Locations
 :-- | :--
 **City** | 55m 615m 1300m 2125m3️⃣ 2670m7️⃣ 2855m 3410m 4195m3️⃣
 **Desert** | 420m 1820m 2125m 3110m7️⃣ 3775m 5085m 5225m3️⃣ 5970m3️⃣
