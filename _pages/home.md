@@ -27,13 +27,14 @@ slideShow:
 
 ### Keys
 	
-Map | June Key Locations
-:-- | :--
-**City** | 55m 615m 1300m 2125m3️⃣ 2670m7️⃣ 2855m 3410m 4195m3️⃣
-**Desert** | 420m 1820m 2125m 3110m7️⃣ 3775m 5085m 5225m3️⃣ 5970m3️⃣
-**Beach** | 200m 980m 1435m 3440m 3755m7️⃣ 4310m3️⃣ 4730m 5930m3️⃣
-**Bog** | 55m 770m 1260m 2910m 3170m3️⃣ 3755m7️⃣ 4208m 5120m3️⃣ 
-**Overspill** | 245m 815m 970m 2855m 3065m7️⃣ 40903️⃣ 4270m 5655m3️⃣
+Map | July Key Locations
+:-- | :--  
+City | 60m 2040m 3️⃣2130m 7️⃣2675m 2765m 3010m 3875m 3️⃣4540m 
+Mines | 220m 2350m 7️⃣3040m 3165m 3️⃣3465m 4020m 5650m 3️⃣7430m 
+Bog | 55m 2030m 2495m 3️⃣3180m 3665m 7️⃣3758m 4515m 3️⃣5515m
+Beach | 200m 2155m 2990m 7️⃣3760m 4040m 3️⃣4320m 5110m 3️⃣6315m
+Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003 
+
 
 ↩️ = Reverse from this point
 3️⃣ = Level 3 key
