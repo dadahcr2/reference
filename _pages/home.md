@@ -86,22 +86,19 @@ This update introduces the new level theme, Cuptown, as well as the “Adventure
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 24
+   Top 10 Teams Ranked after Season 26
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1101977271612489738/IMG_9759.png)
+![](https://cdn.discordapp.com/attachments/847863985381965854/1125011095787163718/IMG_1510.png)
 
-**Dada Top 10 Ranking (Season 24)**
+**Dada Top 10 Ranking (Season 26)**
 - Rankings based on the past year
-- SÜPREME joins Discord in the #1 spot
-- PLN Reborn leapfrogs Project GER into #4
-- EMPIRE improves one spot to #6
-- FrenchSpirit (#8) jumped over RATz(#9)
-- For 2023, Discord retains the lead, but SÜPREME and PLN Reborn overtook NORTH
-
-- With 24 seasons done, it means Teams is now at the two-year mark
-- Impressively, Discord ranked in the TOP 5 for every single season - and on the Podium 80% of the time! 
-- NORTH almost managed to be in the TOP 5 every season as well, but was 6th in Season 24 ¯\_(ツ)_/¯
+- A lot of changes at the top this season!
+- We finally have a new leader as SUPREME edges ahead of Discord
+- PLN Reborn overtakes NORTH to round out the podium
+- EMPIRE leaps over Project GER to join NORTH at #4
+- TRAXION and N&FRIENDS move up to #8 and #9 respectively
+- SUPREME also joins Discord at the top of the 2023 rankings
 	
 ***
 {% capture notice-3 %}	
