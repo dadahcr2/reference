@@ -550,7 +550,7 @@ Map | Trove Chest Locations
 7️⃣ = Level 7 key  
 
 	
-</details>	-→
+</details>	-->
 <details  markdown="block">
   <summary>
     Fuel Cans
