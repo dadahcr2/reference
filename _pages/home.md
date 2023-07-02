@@ -525,7 +525,7 @@ Where DF=DownForce, S=Suspension, SW=SkiWax
 
 </details>	
 	
-<details  markdown="block">
+<!-- <details  markdown="block">
   <summary>
     Trove Keys
   </summary>
@@ -550,7 +550,7 @@ Map | Trove Chest Locations
 7️⃣ = Level 7 key  
 
 	
-</details>	
+</details>	-→
 <details  markdown="block">
   <summary>
     Fuel Cans
