@@ -36,7 +36,6 @@ Beach | 200m 2155m 2990m 7️⃣3760m 4040m 3️⃣4320m 5110m 3️⃣6315m
 Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003 
 
 
-↩️ = Reverse from this point
 3️⃣ = Level 3 key
 7️⃣ = Level 7 key  
 
@@ -55,7 +54,7 @@ Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
 
 ### Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3FV5Zx4qMQ?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBS-1qR6zck?start=207" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Patch Notes
 
