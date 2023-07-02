@@ -84,7 +84,7 @@ This update introduces the new level theme, Cuptown, as well as the “Adventure
 
 ## Events  
 
-<details  markdown="block">
+<details  markdown="block" open>
   <summary> 
    Top 10 Teams Ranked after Season 26
   </summary>
