@@ -39,26 +39,34 @@ Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
 3️⃣ = Level 3 key
 7️⃣ = Level 7 key  
 
-### Scores  
+# Events  
 
+<details  markdown="block" open>
+  <summary> 
+   Scores
+  </summary>
 ![]({{ page.scores }})  
-  
+</details>  
 
-### Setups
-
+<details  markdown="block">
+  <summary> 
+   Setups
+  </summary>
 ![]({{ page.setup }})  
 {% comment %}
 {% include Slide4.html images=page.slideShow %} 
 {% endcomment %}
+</details>
 
-
-### Tutorial
+<details  markdown="block">
+  <summary> 
+   Tutorial
+  </summary>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBS-1qR6zck?start=207" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-## Events  
-
+</details>
+	
 <details  markdown="block" open>
   <summary> 
    Top 10 Teams Ranked after Season 26
