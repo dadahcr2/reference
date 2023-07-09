@@ -61,7 +61,7 @@ Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
   <summary> 
    HCR2 V1.56.0
   </summary>
-This update introduces the new level theme, Cuptown, as well as the “Adventure Trove” mode, the Public Event Shop and more!  
+- This update introduces the new level theme, Cuptown, as well as the “Adventure Trove” mode, the Public Event Shop and more!  
 - New mode: Adventure Trove. Find hidden keys to unlock seasonal collectibles in adventure maps
 - Added a Public Event shop
 - New level theme: Cuptown
