@@ -59,7 +59,7 @@ Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
 ### Patch Notes
 <details  markdown="block">
   <summary> 
-   **HCR2 V1.56.0**
+   HCR2 V1.56.0
   </summary>
 {% capture notice-2 %}
 This update introduces the new level theme, Cuptown, as well as the “Adventure Trove” mode, the Public Event Shop and more!  
@@ -76,7 +76,7 @@ This update introduces the new level theme, Cuptown, as well as the “Adventure
 
 <details  markdown="block">
   <summary> 
-   **HCR2 V1.55.0**
+   HCR2 V1.55.0
   </summary>
 {% capture notice-2 %}
 - New vehicle: Muscle Car
