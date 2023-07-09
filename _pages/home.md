@@ -56,33 +56,6 @@ Funrig | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBS-1qR6zck?start=207" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Patch Notes
-<details  markdown="block">
-  <summary> 
-   HCR2 V1.56.0
-  </summary>
-- This update introduces the new level theme, Cuptown, as well as the “Adventure Trove” mode, the Public Event Shop and more!  
-- New mode: Adventure Trove. Find hidden keys to unlock seasonal collectibles in adventure maps
-- Added a Public Event shop
-- New level theme: Cuptown
-- New cup: Night Drive Cup
-- New victory animations
-
-</details>
-
-
-<details  markdown="block">
-  <summary> 
-   HCR2 V1.55.0
-  </summary>
-- New vehicle: Muscle Car
-– Drop the clutch and slam that pedal into the metal. The big, beefy Muscle Car is here. Press and hold both pedals to do a burnout!
-- Featured challenges reworked
-- Added the ability to create challenges from public events
-- New team icons
-- Added a cooldown period for player name changes  
-</details>
-
 
 ## Events  
 
