@@ -3,8 +3,8 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1126872694764343428/IMG_1579.png
-setup: https://cdn.discordapp.com/attachments/884686604944437278/1125110467283668992/IMG_1554.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1129419216995487784/IMG_1662.png
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1129419706680483940/te_Strategy.png
 sidebar:
   nav: "docs"
 slideShow:
@@ -48,7 +48,7 @@ Overspill | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003
 ![]({{ page.scores }})  
 </details>  
 
-<details  markdown="block">
+<details  markdown="block" open>
   <summary> 
    Setups
   </summary>
