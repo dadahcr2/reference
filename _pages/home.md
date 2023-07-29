@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1132168284825989180/IMG_1716.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1134655019212349440/IMG_1784.png
 setup: 
 sidebar:
   nav: "docs"
