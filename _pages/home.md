@@ -60,7 +60,7 @@ Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣51
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tAol65KStaU?si=R01h4zvZXQ7LATsY&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQ3KzCLkato?si=UY727h106LGRdIhC&amp;start=229" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
