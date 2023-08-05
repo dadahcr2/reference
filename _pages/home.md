@@ -36,9 +36,6 @@ Patchwork Plant | 7️⃣860m | 3️⃣2219m | 2850m | 3290m | 3690m | 3️⃣43
 Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣5175m | 5530m | 6440m  
 
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/1137214258816495657/IMG_1883.png)
-
-
 # Events  
 
 <details  markdown="block" open>
