@@ -26,6 +26,14 @@ slideShow:
 </details> -->  
 
 ### August Keys
+Map |  
+-- | -- | -- | -- | -- | -- | -- | -- | --  
+Countryside | 2997m | 7️⃣3240m | 3️⃣3450m | 3450m | 3780m | 5035m | 3️⃣5328m | 5990m  
+Mountain | 3️⃣2025m | 7️⃣2216m | 2855m | 3020m | 3175m | 4400m | 3️⃣5750m | 6130m  
+Overspill fun Rig | 7️⃣1145m | 3️⃣2100m | 2860m | 3250m | 3755m | 4540m | 3️⃣5080m | 5800m  
+Patchwork Plant | 7️⃣860m | 3️⃣2219m | 2850m | 3290m | 3690m | 3️⃣4350m | 4665m | 6500m  
+Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣5175m | 5530m | 6440m  
+
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/1137214258816495657/IMG_1883.png)
 
