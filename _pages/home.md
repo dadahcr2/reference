@@ -25,19 +25,10 @@ slideShow:
 {:toc} 
 </details> -->  
 
-### Keys
-	
-Map | July Key Locations
-:-- | :--  
-City | 60m 2040m 3️⃣2130m 7️⃣2675m 2765m 3010m 3875m 3️⃣4540m 
-Mines | 220m 2350m 7️⃣3040m 3165m 3️⃣3465m 4020m 5650m 3️⃣7430m 
-Bog | 55m 2030m 2495m 3️⃣3180m 3665m 7️⃣3758m 4515m 3️⃣5515m
-Beach | 200m 2155m 2990m 7️⃣3760m 4040m 3️⃣4320m 5110m 3️⃣6315m
-Overspill | 245m 1725m 2410m 7️⃣3065m 3250m 3️⃣4090m 4535m 3️⃣6003 
+### August Keys
 
+![](https://cdn.discordapp.com/attachments/806343355264401478/1137214258816495657/IMG_1883.png)
 
-3️⃣ = Level 3 key
-7️⃣ = Level 7 key  
 
 # Events  
 
