@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1137211249822810195/IMG_1882.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1139408812198088764/IMG_1945.png
 setup: 
 sidebar:
   nav: "docs"
@@ -45,6 +45,7 @@ Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣51
 ![]({{ page.scores }})  
 </details>  
 
+{% comment %}
 <details  markdown="block" open>
   <summary> 
    Setups
@@ -54,18 +55,19 @@ Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣51
 {% include Slide4.html images=page.slideShow %} 
 {% endcomment %}
 </details>
+{% endcomment %}
 
 <details  markdown="block" open>
   <summary> 
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RQ3KzCLkato?si=UY727h106LGRdIhC&amp;start=229" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMqPAlk0Q98?si=_iuT7OLjUN-Rjo5f&amp;start=216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
 
-<details  markdown="block" open>
+<details  markdown="block">
   <summary> 
    Top 10 Teams Ranked after Season 26
   </summary>
