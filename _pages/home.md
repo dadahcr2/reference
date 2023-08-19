@@ -62,26 +62,25 @@ Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣51
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDk_AOoOeto?si=y-t50jb-t9hhzKTz&amp;start=191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDk_AOoOeto?si=y-t50jb-t9hhzKTz&amp;start=191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 </details>
 
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 26
+   Top 10 Teams Ranked after Season 27
   </summary>
 
-![](https://cdn.discordapp.com/attachments/847863985381965854/1125011095787163718/IMG_1510.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1141898782657753138/IMG_2008.png)
 
-**Dada Top 10 Ranking (Season 26)**
-- Rankings based on the past year
-- A lot of changes at the top this season!
-- We finally have a new leader as SUPREME edges ahead of Discord
-- PLN Reborn overtakes NORTH to round out the podium
-- EMPIRE leaps over Project GER to join NORTH at #4
-- TRAXION and N&FRIENDS move up to #8 and #9 respectively
-- SUPREME also joins Discord at the top of the 2023 rankings
+**Dada Top 10 Ranking (Season 27)**
+- Rankings based on the past year (better late than never)
+- SUPREME renamed RPS (Rock, Paper, Scissors) retains the overall lead
+- EMPIRE overtakes PLN Reborn to enter the Top 3
+- NORTH drops below Project GER to #6
+- N&FRIENDS  & TRAXION  switch to #8 and #9 respectively
+- Discord returns to sole leader for the 2023 calendar rankings
 	
 ***
 {% capture notice-3 %}	
