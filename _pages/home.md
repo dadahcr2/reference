@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/894901600974430268/1144999632661921912/IMG_2091.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1147487706042073158/IMG_2163.png
 setup: 
 sidebar:
   nav: "docs"
@@ -62,7 +62,7 @@ Sky Rock Outpost | 7️⃣25m | 3️⃣2445m | 3235m | 3860m | 4489m | 3️⃣51
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oUhnVVKbOaE?si=cglzesoXd2QIdYTp&amp;start=213" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kNGaGCuvjZE?si=-iJtVFiK7DTc6XLn&amp;start=229" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
