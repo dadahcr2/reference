@@ -70,19 +70,16 @@ Mountain | 462m | 3019m | 3574m3️⃣ | 3826m | 5234m | 5931m3️⃣ | 6000m7�
 
 <details  markdown="block">
   <summary> 
-   Top 10 Teams Ranked after Season 27
+   Top 10 Teams Ranked after Season 28
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1141898782657753138/IMG_2008.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1147497942744313956/IMG_2165.png)
 
-**Dada Top 10 Ranking (Season 27)**
-- Rankings based on the past year (better late than never)
-- SUPREME renamed RPS (Rock, Paper, Scissors) retains the overall lead
-- EMPIRE overtakes PLN Reborn to enter the Top 3
-- NORTH drops below Project GER to #6
-- N&FRIENDS  & TRAXION  switch to #8 and #9 respectively
-- Discord returns to sole leader for the 2023 calendar rankings
-	
+**Dada Top 10 Ranking (Season 28)**
+- Rankings based on the past year
+- Only change this week is Discord joins RPS🪨 in #1
+- Also Discord becomes the first team to have 10 season wins!  
+
 ***
 {% capture notice-3 %}	
 One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
