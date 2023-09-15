@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1150476194127564930/IMG_2222.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1152295491653083146/IMG_2271.png
 setup: 
 sidebar:
   nav: "docs"
@@ -35,6 +35,7 @@ Backwater Bog | 342m | 2641m | 3567m | 4210m | 5136m | 5304m | 5712m | 5747m
 Canyon Arena | 664m | 2024m3️⃣ | 3242m | 4180m7️⃣ | 4329m | 5327m3️⃣ | 5845m | 6178m
 Mountain | 462m | 3019m | 3574m3️⃣ | 3826m | 5234m | 5931m3️⃣ | 6000m7️⃣ | 6133m
 
+![](https://cdn.discordapp.com/attachments/1124712591848112238/1152300513736523887/incollage_save.jpg)  
 
 # Events  
 
