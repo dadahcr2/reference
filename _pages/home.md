@@ -68,7 +68,7 @@ Mountain | 462m | 3019m | 3574m3️⃣ | 3826m | 5234m | 5931m3️⃣ | 6000m7�
 </details>
 
 
-<details  markdown="block">
+<details  markdown="block" open>
   <summary> 
    Top 10 Teams Ranked after Season 28
   </summary>
