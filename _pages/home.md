@@ -30,8 +30,8 @@ slideShow:
    September Keys
   </summary>
 
-Map | Forest | Winter | BackwaterBog | CanyonArena | Mountain  
--- | :--: | :--: | :--: | :--: | :--:  
+Map | Forest | Winter | Backwater Bog | Canyon Arena | Mountain  
+-- | -- | -- | -- | -- | --  
 1 | 493m | 645m | 342m | 664m | 462m  
 2 | 2662m3️⃣ | 3481m3️⃣ | 2641m | 2024m3️⃣ | 3019m  
 3 | 4045m | 3666m | 3567m | 3242m | 3574m3️⃣  
