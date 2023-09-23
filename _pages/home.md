@@ -63,7 +63,7 @@ Mountain | 462m | 3019m | 3574m3️⃣ | 3826m | 5234m | 5931m3️⃣ | 6000m7�
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Q1jLHtKxg?si=wG7cl6NJIn16vj3A&amp;start=199" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aqOSIH1Aak?si=H4YNGY8_WhnD4fVR&amp;start=231" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
