@@ -20,7 +20,8 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/831974892538560523/1034286865588695061/C3AD73B9-17CD-4447-86F5-769F8E5E2646.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png
- - image_path: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png  
+ - image_path: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png
+ - image-path: https://cdn.discordapp.com/attachments/831974892538560523/1147530303250894949/tunepart_nitro.png
 ---
 
 
