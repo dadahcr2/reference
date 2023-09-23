@@ -25,7 +25,10 @@ slideShow:
 {:toc} 
 </details> -->  
 
-### Sep. Keys
+<details  markdown="block" open>
+  <summary> 
+   September Keys
+  </summary>
 
 Map | Forest | Winter | BackwaterBog | CanyonArena | Mountain  
 -- | :--: | :--: | :--: | :--: | :--:  
@@ -39,6 +42,7 @@ Map | Forest | Winter | BackwaterBog | CanyonArena | Mountain
 8 | 6424m | 6882m | 5747m | 6178m | 6133m  
 
 ![](https://cdn.discordapp.com/attachments/1124712591848112238/1152300513736523887/incollage_save.jpg)  
+</details>  
 
 # Events  
 
