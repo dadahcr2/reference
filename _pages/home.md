@@ -73,15 +73,18 @@ Canyon Arena | 1034m | 1300m (above catapult) - 3 | 2043m (on roof) | 2197m (beh
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 28
+   Top 10 Teams Ranked after Season 29
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1147497942744313956/IMG_2165.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1158640850574770226/IMG_2464.png)
 
-**Dada Top 10 Ranking (Season 28)**
+**Dada Top 10 Ranking (Season 29)**
 - Rankings based on the past year
-- Only change this week is Discord joins RPS🪨 in #1
-- Also Discord becomes the first team to have 10 season wins!  
+- Discord worst ever result of #7 for the season means they drop to #2 in the rankings behind RPS🪨 in #1 in both the overall rankings and 2023 Points
+- Project GER overtakes PLN Reborn to return to #4
+- PL National jumps 3 places to join RPS🧻 in #7
+- Accordingly TRAXION falls a spot to #9
+- Ratz finagles their ranking to #10 
 
 ***
 {% capture notice-3 %}	
