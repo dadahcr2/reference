@@ -70,7 +70,7 @@ Forest | Winter | Backwater Bog | Canyon Arena | Mountain
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7aqOSIH1Aak?si=H4YNGY8_WhnD4fVR&amp;start=231" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpaHXtnxs-4?si=k0_Kkdp83yudfF_V&amp;start=206" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
