@@ -27,21 +27,17 @@ slideShow:
 
 <details  markdown="block" open>
   <summary> 
-   September Keys
+   October Keys
   </summary>
 
-Forest | Winter | Backwater Bog | Canyon Arena | Mountain  
-:-- | :-- | :-- | :-- | :--  
-493m | 645m | 342m | 664m | 462m  
-2662m3️⃣ | 3481m3️⃣ | 2641m | 2024m3️⃣ | 3019m  
-4045m | 3666m | 3567m | 3242m | 3574m3️⃣  
-4695m | 4256m7️⃣ | 4210m | 4180m7️⃣ | 3826m  
-5335m7️⃣ | 4394m | 5136m | 4329m | 5234m  
-6208m3️⃣ | 6012m3️⃣ | 5304m | 5327m3️⃣ | 5931m3️⃣  
-6345m | 6459m | 5712m | 5845m | 6000m7️⃣  
-6424m | 6882m | 5747m | 6178m | 6133m  
+Map |  |  |  |  |  |  |  |  
+-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
+City  | 622m - 1 | 1152m - 3 | 1541m - 1 | 2039m - 1 | 2130m - 3 | 2677m (inside container) - 7 | 2851m - 1 | 4678m - 1
+Beach | 988m - 1 | 1692m - 3  | 1936m - 1 | 2156m - 1 | 3457m (below) - 1 | 3759m (above) - 7 | 4321m - 3 | 5855m - 1
+Backwater Bog | 780m - 1 | 1587m - 1 | 1740m - 3 | 2029m - 1 | 2917m - 1 | 3179m (above) - 3 | 3758m - 7 | 5303m - 1
+Racer Glacier | 782m (in cave) - 1 | 1967m - 1 | 2211m (on roof) - 3 | 2582m (in cave) - 1 | 3228m - 1 | 3892m (in cave) | 3959m (on roof) - 7 | 5761m (in cave) - 1
+Canyon Arena | 1034m - 1 | 1300m (above catapult) - 3 | 2043m (on roof) - 1 | 2197m (behind windmill) - 1 | 2761m - 1 | 3418m (in cave, ⬆️ ) - 7 | 3493m - 3 | 5845m (on suspended bridge) - 1
 
-![](https://cdn.discordapp.com/attachments/1124712591848112238/1152300513736523887/incollage_save.jpg)  
 </details>  
 
 # Events  
