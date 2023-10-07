@@ -31,15 +31,16 @@ slideShow:
   </summary>
 
 City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena   
-:--: | :--: | :--: | :--: | :--:   
+:--: | :--: | :--: | :--: | :--:  
 622m | 988m | 780m | 782m (in cave) | 1034m  
-1152m - 3 | 1692m - 3 | 1587m | 1967m | 1300m (above catapult) - 3  
-1541m | 1936m | 1740m - 3 | 2211m (on roof) - 3 | 2043m (on roof)  
+1152m3️⃣ | 1692m3️⃣ | 1587m | 1967m | 1300m (above catapult)3️⃣  
+1541m | 1936m | 1740m3️⃣ | 2211m (on roof)3️⃣ | 2043m (on roof)  
 2039m | 2156m | 2029m | 2582m (in cave) | 2197m (behind windmill)  
-2130m - 3 | 3457m (below) | 2917m | 3228m | 2761m  
-2677m (inside container) - 7 | 3759m (above) - 7 | 3179m (above) - 3 | 3892m (in cave) | 3418m (in cave, ⬆️ ) - 7  
-2851m | 4321m - 3 | 3758m - 7 | 3959m (on roof) - 7 | 3493m - 3  
+2130m3️⃣ | 3457m (below) | 2917m | 3228m | 2761m  
+2677m (inside container)7️⃣ | 3759m (above)7️⃣ | 3179m (above)3️⃣ | 3892m (in cave) | 3418m (in cave, ⬆️ )7️⃣  
+2851m | 4321m3️⃣ | 3758m7️⃣ | 3959m (on roof)7️⃣ | 3493m3️⃣  
 4678m | 5855m | 5303m | 5761m (in cave) | 5845m (on suspended bridge)  
+622m | 988m | 780m | 782m (in cave) | 1034m  
 
 ![](https://cdn.discordapp.com/attachments/1124712591848112238/1160337237423181924/incollage_save.jpg)  
 
