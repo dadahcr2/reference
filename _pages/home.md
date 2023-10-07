@@ -41,7 +41,7 @@ City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena
 2851m | 4321m - 3 | 3758m - 7 | 3959m (on roof) - 7 | 3493m - 3  
 4678m | 5855m | 5303m | 5761m (in cave) | 5845m (on suspended bridge)  
 
-![](https://cdn.discordapp.com/attachments/1124712591848112238/1160332309376028783/incollage_save.jpg)  
+![](https://cdn.discordapp.com/attachments/1124712591848112238/1160337237423181924/incollage_save.jpg)  
 
 </details>  
 
