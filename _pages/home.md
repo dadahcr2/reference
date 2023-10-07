@@ -30,13 +30,16 @@ slideShow:
    October Keys
   </summary>
 
-Map | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  
--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-City  | 622m | 1152m - 3 | 1541m | 2039m | 2130m - 3 | 2677m (inside container) - 7 | 2851m | 4678m  
-Beach | 988m | 1692m - 3  | 1936m | 2156m | 3457m (below) | 3759m (above) - 7 | 4321m - 3 | 5855m  
-Backwater Bog | 780m | 1587m | 1740m - 3 | 2029m | 2917m | 3179m (above) - 3 | 3758m - 7 | 5303m  
-Racer Glacier | 782m (in cave) | 1967m | 2211m (on roof) - 3 | 2582m (in cave) | 3228m | 3892m (in cave) | 3959m (on roof) - 7 | 5761m (in cave)  
-Canyon Arena | 1034m | 1300m (above catapult) - 3 | 2043m (on roof) | 2197m (behind windmill) | 2761m | 3418m (in cave, ⬆️ ) - 7 | 3493m - 3 | 5845m (on suspended bridge)  
+City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena   
+:--: | :--: | :--: | :--: | :--:   
+622m | 988m | 780m | 782m (in cave) | 1034m  
+1152m - 3 | 1692m - 3 | 1587m | 1967m | 1300m (above catapult) - 3  
+1541m | 1936m | 1740m - 3 | 2211m (on roof) - 3 | 2043m (on roof)  
+2039m | 2156m | 2029m | 2582m (in cave) | 2197m (behind windmill)  
+2130m - 3 | 3457m (below) | 2917m | 3228m | 2761m  
+2677m (inside container) - 7 | 3759m (above) - 7 | 3179m (above) - 3 | 3892m (in cave) | 3418m (in cave, ⬆️ ) - 7  
+2851m | 4321m - 3 | 3758m - 7 | 3959m (on roof) - 7 | 3493m - 3  
+4678m | 5855m | 5303m | 5761m (in cave) | 5845m (on suspended bridge)  
 
 </details>  
 
