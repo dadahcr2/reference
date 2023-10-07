@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1158015436659621908/IMG_2405.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1160051920426242118/IMG_2482.png
 setup: 
 sidebar:
   nav: "docs"
@@ -66,7 +66,7 @@ Canyon Arena | 1034m | 1300m (above catapult) - 3 | 2043m (on roof) | 2197m (beh
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DpaHXtnxs-4?si=k0_Kkdp83yudfF_V&amp;start=206" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T57uWM9zo-0?si=EjCZOYq39xS5th0l&amp;start=220" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
