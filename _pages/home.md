@@ -72,7 +72,7 @@ City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T57uWM9zo-0?si=EjCZOYq39xS5th0l&amp;start=220" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ET9wkOenvjA?si=3tXdGUTnUmf-oykq&amp;start=168" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
