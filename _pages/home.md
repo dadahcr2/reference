@@ -4,6 +4,7 @@ toc: false
 toc_sticky: true
 classes: wide
 scores: https://media.discordapp.net/attachments/858851529058418765/1165135504912699442/IMG_2673.png
+tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/2mdeHg0WUzw?si=wP78Z3fE9_BPdZ2W&amp;start=187" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 setup: 
 sidebar:
   nav: "docs"
@@ -24,6 +25,10 @@ slideShow:
 1. TOC
 {:toc} 
 </details> -->  
+
+Create. Climb. Conquer! The latest spooktacular update for Hill Climb Racing 2 is rolling out now for all supported platforms!
+
+See the [patch notes](https://fingersoft.com/news/2023/10/23/patch-notes-hcr2-v1-58-0/)
 
 <details  markdown="block" open>
   <summary> 
@@ -72,7 +77,7 @@ City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena
    Tutorial
   </summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2mdeHg0WUzw?si=wP78Z3fE9_BPdZ2W&amp;start=187" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{ page.tutorial }}
 
 </details>
 
