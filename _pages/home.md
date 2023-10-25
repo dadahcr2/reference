@@ -26,9 +26,7 @@ slideShow:
 {:toc} 
 </details> -->  
 
-Create. Climb. Conquer! The latest spooktacular update for Hill Climb Racing 2 is rolling out now for all supported platforms!
-
-See the [patch notes](https://fingersoft.com/news/2023/10/23/patch-notes-hcr2-v1-58-0/)
+Create. Climb. Conquer! The latest spooktacular update for Hill Climb Racing 2 is rolling out now for all supported platforms! See the [patch notes](https://fingersoft.com/news/2023/10/23/patch-notes-hcr2-v1-58-0/)
 
 <details  markdown="block" open>
   <summary> 
