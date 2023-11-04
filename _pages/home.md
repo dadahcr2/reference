@@ -30,22 +30,21 @@ Create. Climb. Conquer! The latest spooktacular update for Hill Climb Racing 2 i
 
 <details  markdown="block" open>
   <summary> 
-   October Keys
+   November Keys
   </summary>
 
-City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena   
-:--: | :--: | :--: | :--: | :--:  
-622m | 988m | 780m | 782m (in cave) | 1034m  
-1152m3️⃣ | 1692m3️⃣ | 1587m | 1967m | 1300m (above catapult)3️⃣  
-1541m | 1936m | 1740m3️⃣ | 2211m (on roof)3️⃣ | 2043m (on roof)  
-2039m | 2156m | 2029m | 2582m (in cave) | 2197m (behind windmill)  
-2130m3️⃣ | 3457m (below) | 2917m | 3228m | 2761m  
-2677m (inside container)7️⃣ | 3759m (above)7️⃣ | 3179m (above)3️⃣ | 3892m (in cave) | 3418m (in cave, ⬆️ )7️⃣  
-2851m | 4321m3️⃣ | 3758m7️⃣ | 3959m (on roof)7️⃣ | 3493m3️⃣  
-4678m | 5855m | 5303m | 5761m (in cave) | 5845m (on suspended bridge)  
-622m | 988m | 780m | 782m (in cave) | 1034m  
+Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
+:--: | :--: | :--: | :--: | :--:
+492m  | 585m  | 1362m  | 475m  | 662m 
+ 611m  |  959m (above tube)  |  1813m  |  987m  |  1034m 
+ 1396m  |  1317m (below)  |  2130m  |  1440m  |  1518m 
+ 2426m3️⃣ (under log)  |  1554m (above tube)3️⃣  |  2409m7️⃣  |  2154m  |  1658m (below bridge)3️⃣ 
+ 2600m  |  1751m (above submarine)7️⃣  |  2907m  |  2413m3️⃣ (above)  |  1935m (above)7️⃣ 
+ 2792m7️⃣ (above log)  |  2233m (inside tube)  |  3932m3️⃣  |  2805m (below)7️⃣  |  2196m (above)7️⃣ 
+ 4693m  |  4299m  |  5086m  |  4733m  |  4330m 
+ 6211m3️⃣ |  5796m3️⃣ |  5971m3️⃣ (below roof, ⬆️) |  5935m3️⃣ |  5327m (below, ⬆️)3️⃣
 
-![](https://cdn.discordapp.com/attachments/1124712591848112238/1160583144689373385/incollage_save.jpg)  
+![]()  
 
 </details>  
 
