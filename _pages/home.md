@@ -82,18 +82,18 @@ City  | Beach  | Backwater Bog  | Racer Glacier  | Canyon Arena
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 29
+   Top 10 Teams Ranked after Season 30
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1158640850574770226/IMG_2464.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1170415150063440064/IMG_2865.png)
 
-**Dada Top 10 Ranking (Season 29)**
+**Dada Top 10 Ranking (Season 30)**
 - Rankings based on the past year
-- Discord worst ever result of #7 for the season means they drop to #2 in the rankings behind RPS🪨 in #1 in both the overall rankings and 2023 Points
-- Project GER overtakes PLN Reborn to return to #4
-- PL National jumps 3 places to join RPS🧻 in #7
-- Accordingly TRAXION falls a spot to #9
-- Ratz finagles their ranking to #10 
+- RPS🪨 appropriately changed their name back to SÜPREME
+- Discord shockingly earned no points for the season and drops below EMPIRE to #3
+- PL National and  PLN Reborn points combined (turns out it is the same team)
+- TRAXION moved up to #7 and Made in Italy breaks into the Top 10
+- Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season
 
 ***
 {% capture notice-3 %}	
