@@ -32,6 +32,7 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816379080048660/icon-vehicle-sled.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816452105895986/icon-vehicle-tube.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816388218912775/icon-vehicle-snowboard.png
+ - image_path: https://cdn.discordapp.com/attachments/482527106593456141/1169627400397656155/icon-vehicle-rockbouncer.png
 ---  
 
 
