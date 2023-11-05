@@ -209,7 +209,7 @@ Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]  
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]  
 Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]  
-<http://hcr2.info> | <https://discord.gg/FZPnQbxZTQ>  
+<http://hcr2info.com> | <https://discord.gg/FZPnQbxZTQ>  
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
