@@ -5,7 +5,7 @@ toc_sticky: true
 classes: wide
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1170435192415059999/IMG_2867.png
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/c98a2vfk2Zs?si=JfxaGHhXyCpL1SBO&amp;start=175" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-setup: 
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1170887829786722344/incollage_save.jpg
 sidebar:
   nav: "docs"
 slideShow:
@@ -57,7 +57,7 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 ![]({{ page.scores }})  
 </details>  
 
-{% comment %}
+
 <details  markdown="block" open>
   <summary> 
    Setups
@@ -67,7 +67,6 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 {% include Slide4.html images=page.slideShow %} 
 {% endcomment %}
 </details>
-{% endcomment %}
 
 <details  markdown="block" open>
   <summary> 
