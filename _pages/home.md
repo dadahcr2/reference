@@ -40,7 +40,7 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
  1396m  |  1317m (below)  |  2130m  |  1440m  |  1518m 
  2426m3️⃣ (under log)  |  1554m (above tube)3️⃣  |  2409m7️⃣  |  2154m  |  1658m (below bridge)3️⃣ 
  2600m  |  1751m (above submarine)7️⃣  |  2907m  |  2413m3️⃣ (above)  |  1935m (above)7️⃣ 
- 2792m7️⃣ (above log)  |  2233m (inside tube)  |  3932m3️⃣  |  2805m (below)7️⃣  |  2196m (above)7️⃣ 
+ 2792m7️⃣ (above log)  |  2233m (inside tube)  |  3932m3️⃣  |  2805m (below)7️⃣  |  2196m (above)  
  4693m  |  4299m  |  5086m  |  4733m  |  4330m 
  6211m3️⃣ |  5796m3️⃣ |  5971m3️⃣ (below roof, ⬆️) |  5935m3️⃣ |  5327m (below, ⬆️)3️⃣
 
