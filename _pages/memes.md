@@ -7,6 +7,11 @@ classes: wide
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
 
+
+Novemner 9, 2023
+
+![](https://cdn.discordapp.com/attachments/1169899135554568263/1171602085712777267/Screenshot_20231106_115307_Discord.jpg)  
+
 October 29  
 
 ![](https://media.discordapp.net/attachments/818873983603572777/1036008186731315301/9LTCBUK.png)  
