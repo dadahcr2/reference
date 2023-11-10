@@ -8,9 +8,13 @@ classes: wide
 {: style="text-align: right;"}  
 
 
-Novemner 9, 2023
+November 9, 2023
 
 ![](https://cdn.discordapp.com/attachments/1169899135554568263/1171602085712777267/Screenshot_20231106_115307_Discord.jpg)  
+
+![](https://cdn.discordapp.com/attachments/929673674053812225/1165766359125332058/Screenshot_20231022172831.png)  
+
+![](https://cdn.discordapp.com/attachments/929673674053812225/1171030410600382525/image.png)  
 
 October 29  
 
