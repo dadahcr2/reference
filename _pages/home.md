@@ -95,9 +95,9 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 
 ***  
 
-  <details  markdown="block" >  
+  <details markdown="block" >  
   <summary>  
-    Points Calculation  
+      Points Calculation  
   </summary>  
   
 {% capture notice-3 %}	
