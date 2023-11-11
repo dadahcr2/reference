@@ -127,8 +127,9 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
  
 
  </details>  
-</details>  
 &nbsp;  
+</details>  
+
 <details  markdown="block">
   <summary>
    Season Rewards
