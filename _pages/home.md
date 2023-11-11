@@ -94,10 +94,10 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 - Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season
 
 ***
-<details  markdown="block" >
-  <summary> 
-   Points Calculation
-  </summary>
+	<details  markdown="block" >
+  		<summary> 
+   			Points Calculation
+  		</summary>
 {% capture notice-3 %}	
 One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
 - ## **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
@@ -125,7 +125,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 {% endcapture %}
 
 <div class="notice">{{ notice-3 | markdownify }}</div>
-</details>  
+	</details>  
 
 </details>  
 
