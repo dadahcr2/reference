@@ -95,7 +95,7 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 
 ***  
 
-    <details  markdown="block" >  
+<details  markdown="block" >  
       <summary>  
         Points Calculation  
       </summary>  
@@ -129,7 +129,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 <div class="notice">{{ notice-3 | markdownify }}</div>
 	</details>  
 
-    </details>  
+</details>  
 
 <details  markdown="block">
   <summary>
