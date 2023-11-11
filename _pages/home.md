@@ -92,8 +92,7 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 - PL National and  PLN Reborn points combined (turns out it is the same team)
 - TRAXION moved up to #7 and Made in Italy breaks into the Top 10
 - Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season
-
-&nbsp;  
+    
 <details markdown="block" >  
   <summary>  
       Points Calculation  
@@ -130,7 +129,7 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 
  </details>  
 </details>  
-
+&nbsp;  
 <details  markdown="block">
   <summary>
    Season Rewards
