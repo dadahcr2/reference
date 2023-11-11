@@ -91,7 +91,8 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
 - Discord shockingly earned no points for the season and drops below EMPIRE to #3
 - PL National and  PLN Reborn points combined (turns out it is the same team)
 - TRAXION moved up to #7 and Made in Italy breaks into the Top 10
-- Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season  
+- Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season
+  
   <details markdown="block" >  
   <summary>  
       Points Calculation  
