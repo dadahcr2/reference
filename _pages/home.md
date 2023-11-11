@@ -74,7 +74,7 @@ Forest | Rustbucket Reef | Desert Valley | Beach | Canyon Arena
   </summary>
 
 {{ page.tutorial }}
-
+&nbsp;
 </details>
 
 
