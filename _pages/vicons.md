@@ -15,7 +15,7 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/482527106593456141/1031876446139981874/icon-vehicle-beast.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816273789517855/icon-vehicle-hotrod.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816350129913916/icon-vehicle-racing-truck.png
-- image_path: https://media.discordapp.net/attachments/837815798630318151/837816265673670696/icon-vehicle-formula.png
+ - image_path: https://media.discordapp.net/attachments/837815798630318151/837816265673670696/icon-vehicle-formula.png
  - image_path: https://cdn.discordapp.com/attachments/482527106593456141/1087726118855000175/icon-vehicle-musclecar.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816307909918720/icon-vehicle-monster.png
  - image_path: https://media.discordapp.net/attachments/837815798630318151/837816462014021672/icon-vehicle-upsidedown.png
