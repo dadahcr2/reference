@@ -70,18 +70,18 @@ Create. Climb. Conquer! The latest spooktacular update for Hill Climb Racing 2 i
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 30
+   Top 10 Teams Ranked after Season 31
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1170415150063440064/IMG_2865.png)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1180667157575639151/IMG_3223.png)  
 
-**Dada Top 10 Ranking (Season 30)**
+**Dada Top 10 Ranking (Season 31)**
 - Rankings based on the past year
-- RPS🪨 appropriately changed their name back to SÜPREME
-- Discord shockingly earned no points for the season and drops below EMPIRE to #3
-- PL National and  PLN Reborn points combined (turns out it is the same team)
-- TRAXION moved up to #7 and Made in Italy breaks into the Top 10
-- Although mathematically four teams are still in the race for the 2023 title, it is going to be extremely difficult to overtake SÜPREME this late in the season  
+- SÜPREME remains firmly in the #1 spot
+- Discord has a strong month and retains #2 from EMPIRE
+- EMPIRE falls back to #4 as PL National moves into #3
+- French Spirit move up to #7
+- SÜPREME will win the 2023 calendar season; however,  there remains one extreme scenario were Discord could join them at the top of the podium  
 <details markdown="block" >  
   <summary>  
       Points Calculation  
