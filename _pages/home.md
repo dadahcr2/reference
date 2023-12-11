@@ -10,7 +10,7 @@ sidebar:
   nav: "docs"
 slideShow:
 - https://cdn.discordapp.com/attachments/858017263989948447/1086717068268797992/IMG_8982.png
-- https://cdn.discordapp.com/attachments/858017329509171201/1086717321017569332/IMG_8991.png
+- https://cdn.discordapp.com/attachments/858017329509171201/108617321017569332/IMG_8991.png
 - https://cdn.discordapp.com/attachments/858017412174577716/1086717406128373770/IMG_8996.png
 - https://cdn.discordapp.com/attachments/858017616181461022/1086717567407763617/IMG_9002.png
 ---
