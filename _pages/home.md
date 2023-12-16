@@ -5,7 +5,7 @@ toc_sticky: true
 classes: wide
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1185457143055388783/IMG_3329.png
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/MVs7IYIq2m4?si=v8Bz0V8w4zZkhwHi&amp;start=271" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1183467006192799744/incollage_save.jpg
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1185569911553134702/incollage_save.jpg
 sidebar:
   nav: "docs"
 slideShow:
