@@ -70,18 +70,14 @@ slideShow:
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 31
+   Top 10 Teams Ranked after Season 32
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1180667157575639151/IMG_3223.png)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1191403831439921242/IMG_3571.png)  
 
-**Dada Top 10 Ranking (Season 31)**
+**Dada Top 10 Ranking (Season 32)**
 - Rankings based on the past year
-- SÜPREME remains firmly in the #1 spot
-- Discord has a strong month and retains #2 from EMPIRE
-- EMPIRE falls back to #4 as PL National moves into #3
-- French Spirit move up to #7
-- SÜPREME will win the 2023 calendar season; however,  there remains one extreme scenario were Discord could join them at the top of the podium  
+- Not only does SUPREME pip Discord for the season win, but they do the same for the all-time highest score and calendar year points total 💪   
 <details markdown="block" >  
   <summary>  
       Points Calculation  
