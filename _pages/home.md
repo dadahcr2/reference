@@ -35,15 +35,15 @@ slideShow:
 
 
 
-Countryside 1202m1️⃣ | 2552m1️⃣ | 3243m7️⃣on the house | 3465m3️⃣on the house | 4347m1️⃣ | 5329m3️⃣at the top of the house | 5658m1️⃣ | 5737m1️⃣  
+**Countryside** 1202m1️⃣ | 2552m1️⃣ | 3243m7️⃣on the house | 3465m3️⃣on the house | 4347m1️⃣ | 5329m3️⃣at the top of the house | 5658m1️⃣ | 5737m1️⃣  
 
-Rustbucket Reef 667m7️⃣in the wreck | 1188m3️⃣on the tube | 1318m1️⃣below | 2326m1️⃣below | 4300m1️⃣ | 4341m3️⃣above | 4975m1️⃣ | 5584m1️⃣  
+**Rustbucket Reef** 667m7️⃣in the wreck | 1188m3️⃣on the tube | 1318m1️⃣below | 2326m1️⃣below | 4300m1️⃣ | 4341m3️⃣above | 4975m1️⃣ | 5584m1️⃣  
 
-Desert valley 865m7️⃣top | 2130m1️⃣below | 2305m3️⃣top under bridge | 3364m1️⃣ | 5087m1️⃣ | 5638m3️⃣below | 5795m1️⃣ | 6440m1️⃣above  
+**Desert valley** 865m7️⃣top | 2130m1️⃣below | 2305m3️⃣top under bridge | 3364m1️⃣ | 5087m1️⃣ | 5638m3️⃣below | 5795m1️⃣ | 6440m1️⃣above  
 
-Beach 1440m1️⃣ | 1549m7️⃣Air | 1693m3️⃣below | 2987m1️⃣ | 4733m1️⃣ | 5120m3️⃣top | 5265m1️⃣top | 5854m1️⃣  
+**Beach** 1440m1️⃣ | 1549m7️⃣Air | 1693m3️⃣below | 2987m1️⃣ | 4733m1️⃣ | 5120m3️⃣top | 5265m1️⃣top | 5854m1️⃣  
 
-Canyon Arena 1300m3️⃣about catapult | 1353m7️⃣below | 1519m1️⃣below | 2463m1️⃣above | 4066m3️⃣above | 4338m? 1️⃣ | 5526m1️⃣ below | 5845m1️⃣Bridge  
+**Canyon Arena** 1300m3️⃣about catapult | 1353m7️⃣below | 1519m1️⃣below | 2463m1️⃣above | 4066m3️⃣above | 4338m? 1️⃣ | 5526m1️⃣ below | 5845m1️⃣Bridge  
 
 </details>  
 
