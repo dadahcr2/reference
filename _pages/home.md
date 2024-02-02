@@ -70,14 +70,15 @@ slideShow:
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 32
+   Top 10 Teams Ranked after Season 33
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1191403831439921242/IMG_3571.png)  
-
-**Dada Top 10 Ranking (Season 32)**
-- Rankings based on the past year
-- Not only does SUPREME pip Discord for the season win, but they do the same for the all-time highest score and calendar year points total 💪   
+![](https://cdn.discordapp.com/attachments/858336498159714324/1202857165166215228/IMG_3940.png)
+**Dada Top 10 Ranking (Season 33)**  
+- SÜPREME extends their supremacy despite coming 2nd to NORTH for January  
+- EMPIRE leapfrog PL National into 3rd  
+- Similarly NORTH overtake Project GER for 5th  
+- UNIVERSE breaks into the Top 10 for 9th  
 <details markdown="block" >  
   <summary>  
       Points Calculation  
