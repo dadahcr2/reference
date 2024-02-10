@@ -31,7 +31,7 @@ sidebar:
 </details>  
 -->
 
-[click here to the front page](/)
+[Go to front page](/)
 
 ## Events  
 <!--
