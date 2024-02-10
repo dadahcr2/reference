@@ -3,16 +3,11 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1205496823268245564/IMG_4005.png 
-tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/ohU6sSgUoy0?si=RYGM7HJRiAS980gF&amp;start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1205717383184916510/Image.png
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1205496823268245564/IMG_4005.png  
+tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/ohU6sSgUoy0?si=RYGM7HJRiAS980gF&amp;start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1205717383184916510/Image.png  
 sidebar:
   nav: "docs"
-slideShow:
-- https://cdn.discordapp.com/attachments/858017263989948447/1086717068268797992/IMG_8982.png
-- https://cdn.discordapp.com/attachments/858017329509171201/108617321017569332/IMG_8991.png
-- https://cdn.discordapp.com/attachments/858017412174577716/1086717406128373770/IMG_8996.png
-- https://cdn.discordapp.com/attachments/858017616181461022/1086717567407763617/IMG_9002.png
 ---
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
@@ -53,9 +48,7 @@ slideShow:
    Setups
   </summary>
 ![]({{ page.setup }})  
-{% comment %}
-{% include Slide4.html images=page.slideShow %} 
-{% endcomment %}
+
 </details>
 
 <details  markdown="block" open>
