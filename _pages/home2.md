@@ -29,9 +29,9 @@ sidebar:
 
 
 </details>  
-
+-->
 # Events  
-
+<!--
 <details  markdown="block" open>
   <summary> 
    Scores
