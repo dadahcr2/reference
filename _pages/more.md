@@ -30,6 +30,9 @@ sidebar:
 
 </details>  
 -->
+
+[click here to the front page](/)
+
 ## Events  
 <!--
 <details  markdown="block" open>
