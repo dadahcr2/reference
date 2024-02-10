@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /more/
 toc: false
 toc_sticky: true
 classes: wide
