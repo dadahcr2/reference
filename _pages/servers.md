@@ -1,6 +1,5 @@
 ---
 permalink: /servers/
-title: "HCR Discord Server Invites"
 classes: wide
 ---
 ![](/assets/images/Cool Text - Servers 452913066896364.png)  
