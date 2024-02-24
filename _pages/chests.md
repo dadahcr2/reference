@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](assets/images/Cool Text - chests 452913113185321.png)  
+![](/assets/images/Cool Text - chests 452913113185321.png)  
 
 <!--
 * TOC  
