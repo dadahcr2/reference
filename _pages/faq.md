@@ -3,7 +3,7 @@ permalink: /faq/
 toc: true
 toc_sticky: false
 ---
-![](assets/images/Cool Text - Faq 452912963373611.png)  
+![](/assets/images/Cool Text - Faq 452912963373611.png)  
 
 <!--
 * TOC  
