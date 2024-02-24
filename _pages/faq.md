@@ -3,7 +3,7 @@ permalink: /faq/
 toc: true
 toc_sticky: false
 ---
-![](https://cdn.discordapp.com/attachments/806343355264401478/820419983984295936/image0.png)  
+![](assets/images/Cool Text - Faq 452912963373611.png)  
 
 <!--
 * TOC  
