@@ -14,10 +14,10 @@ gallery:
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png
- - image_path:  https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png
+ - image_path: assets/images/afterburner.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png
  - image_path:  https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png
- - image_path: https://media.discordapp.net/attachments/831974892538560523/1034286865588695061/C3AD73B9-17CD-4447-86F5-769F8E5E2646.png
+ - image_path: assets/images/C3AD73B9-17CD-4447-86F5-769F8E5E2646.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png
  - image_path: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png
  - image_path:   https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png
