@@ -1,6 +1,5 @@
 ---
 permalink: /friends/
-title: "HCR2 Friend Links"
 classes: wide
 ---
 ![](/assets/images/Cool Text - Friends 452913096542716.png)  
