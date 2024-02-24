@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/820420574286577714/image0.png)
+![](assets/images/Cool Text - Tips 452912972700728.png)  
 
 <!--
 * TOC  
