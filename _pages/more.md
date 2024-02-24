@@ -33,7 +33,7 @@ sidebar:
 
 [Go to front page](/)
 
-## Events  
+## Events continued...
 <!--
 <details  markdown="block" open>
   <summary> 
