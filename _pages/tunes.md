@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](assets/images/Cool Text - Tunes 452913058258987.png)  
+![](/assets/images/Cool Text - Tunes 452913058258987.png)  
 
 With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)  (2 October 2022)
 
