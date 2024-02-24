@@ -10,9 +10,11 @@ sidebar:
   nav: "docs"
 ---
 ![](/assets/images/Cool Text - Info 452912870276435.png)  
-<!--  ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
 
-<!-- <details  markdown="block">
+<!--
+![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
+
+<details  markdown="block">
   <summary>
     Table of contents
   </summary>
