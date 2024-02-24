@@ -9,7 +9,7 @@ setup: https://cdn.discordapp.com/attachments/851566907920089128/121080592215114
 sidebar:
   nav: "docs"
 ---
-
+![](assets/images/Cool Text - Info 452912870276435.png)  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
 
 <!-- <details  markdown="block">
