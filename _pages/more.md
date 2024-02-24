@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
+![](assets/images/Cool Text - More 452912925135192.png)  
 
 <!-- <details  markdown="block">
   <summary>
