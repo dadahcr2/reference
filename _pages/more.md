@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-![](assets/images/Cool Text - More 452912925135192.png)  
+![](/assets/images/Cool Text - More 452912925135192.png)  
 
 <!-- <details  markdown="block">
   <summary>
