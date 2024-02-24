@@ -2,7 +2,7 @@
 permalink: /memes/  
 classes: wide
 ---
-![HCR2 Memes](https://cdn.discordapp.com/attachments/806343355264401478/851860837950160936/image.png)  
+![HCR2 Memes](assets/images/Cool Text - Memes 452913141480730.png)  
 
 ##  [⬇](#bottom)  
 {: style="text-align: right;"}  
