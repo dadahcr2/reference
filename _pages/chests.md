@@ -165,14 +165,14 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 At least  | Info
 :--: | :--:
-![](https://cdn.discordapp.com/attachments/806343355264401478/818595879002439711/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879573389343/image1.jpg)
-![](https://cdn.discordapp.com/attachments/806343355264401478/818598052314873856/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598052582391818/image1.jpg)
+![](https://cdn.discordapp.com/attachments/806343355264401478/818595879002439711/image0.jpg?ex=65e63cd2&is=65d3c7d2&hm=f1d54457b5c012a11334e3e5917d958064dd4deb8266e68f8d9ad0fd96ca7000&) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879573389343/image1.jpg)
+![](https://cdn.discordapp.com/attachments/806343355264401478/818598052314873856/image0.jpg) | ![]([https://cdn.discordapp.com/attachments/806343355264401478/818598052582391818/image1.jpg](https://cdn.discordapp.com/attachments/806343355264401478/818598052582391818/image1.jpg?ex=65e63ed8&is=65d3c9d8&hm=19e82beb5e18de9f3fc8cfc915038f7169665f38d64d0698461ac1245670b919&))
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598187681316894/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598188067979313/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368229720074/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368438779924/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589467066388/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589714268250/image1.jpg)
-![](https://cdn.discordapp.com/attachments/806343355264401478/818598717581426698/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598718071767060/image1.jpg)
-![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480649788/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg)
-![](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg)
+![](https://cdn.discordapp.com/attachments/806343355264401478/818598717581426698/image0.jpg) | ![]([https://cdn.discordapp.com/attachments/806343355264401478/818598718071767060/image1.jpg](https://cdn.discordapp.com/attachments/806343355264401478/818598718071767060/image1.jpg?ex=65e63f77&is=65d3ca77&hm=e1f7446760177f823da680f0b25f1ec54c3ab339ef49749983df2c47075dd632&))
+![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480649788/image0.jpg) | ![]([https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg](https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg?ex=65e63f97&is=65d3ca97&hm=76952f31e38c143142f629dad519c16a970977ed4acdf8505e0571bec8d00d98&))
+![]([https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg?ex=65e63fb7&is=65d3cab7&hm=ab13243382ac49768a2824f1c55cc624ee48b99652559348d000e6a7a3a8f7cd&)) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg?ex=65e63fb7&is=65d3cab7&hm=f2b2fff162ae0eceb45cde077c14d1095af0bdf74101fd789c5deedb68266865&)
 
 #### Data and Chest Screenshots 
 
