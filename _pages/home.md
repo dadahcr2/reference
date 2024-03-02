@@ -68,12 +68,12 @@ sidebar:
    Top 10 Teams Ranked after Season 33
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1202857165166215228/IMG_3940.png)
-**Dada Top 10 Ranking (Season 33)**  
-- SÜPREME extends their supremacy despite coming 2nd to NORTH for January  
-- EMPIRE leapfrog PL National into 3rd  
-- Similarly NORTH overtake Project GER for 5th  
-- UNIVERSE breaks into the Top 10 for 9th  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1213347108980129832/image0.jpg?ex=65f5248d&is=65e2af8d&hm=9b6ffffb594de95581c53751260a435c8e03e433fb5ce4b7d92c886ad4db64a1&)
+**Dada Top 10 Ranking (Season 34)**  
+- SUPREME and Discord remain #1 and #2 respectively
+- However, after two consecutive season wins, NORTH not only leads 2024 but joins Discord at #2 overall
+- EMPIRE drops behind PL National into 5th
+- A strong season for Made in Italy brings them up to #8  
 <details markdown="block" >  
   <summary>  
       Points Calculation  
