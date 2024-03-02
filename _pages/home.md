@@ -37,6 +37,7 @@ sidebar:
 **Mines** | **1205m** (Jump a little to get the key, watch your head), **1541m**3️⃣ (Under the rocks, wait until the rocks fall to the ground and get the key), **1913m** (Jump a little to get the key), **2350m**, **4023m** (Drive onto the bridge, wait until the bridge comes down and get the key), **5040m**3️⃣ (Drive carefully on the wheel and get the key, watch your head), **5938m**7️⃣ (After the second bridge, wait until the second bridge going down and use thrusters a little to get the key), **6463m**  
 **Beach** |  **1445m**, **1936m**, (Push the object and get the key), **2159m** (Push the first object and get the key on the second object), **2413m**3️⃣, **4037m**, **5314m**7️⃣ (Go slow and carefully at the top to get the key), **5854m**, **5936m**3️⃣  (Jump a little to get the key)  
 **Cuptown** |  **805m** (Go slow after jump in the house to the key), **1085m**, (Go to the bottom of house to get the key), **1338m**, **1634m**3️⃣ (Go backwards to get the key), **1850m**, **3740m**, **4530m**3️⃣ (Jump a little to get the key), **4888m**7️⃣ (Use thrusters a little to get the key)  
+
 *Source: yuliayu*
 
 
