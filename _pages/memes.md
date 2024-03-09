@@ -134,9 +134,9 @@ Once a wise man said :
 - If you use rally car, then you are god (but if you use it in 1/1/1/1 you are dog)
 
 
-![](https://cdn.discordapp.com/attachments/818819260381134918/818884185615368262/Screenshot_20210309-163313_Meme_Generator_Free.jpg)
+![](https://cdn.discordapp.com/attachments/815339738823131236/818251498672357376/Screenshot_20210307-223910_Meme_Generator_Free.jpg?ex=65f77117&is=65e4fc17&hm=0fc23d946f6e802fd1685458299d62a85242fb8346b29fdeec09adf929855488&)
 
-![](https://cdn.discordapp.com/attachments/815339738823131236/818251498672357376/Screenshot_20210307-223910_Meme_Generator_Free.jpg)
+![](https://cdn.discordapp.com/attachments/815339738823131236/819468266677469264/Screenshot_20210310-234217_Meme_Generator_Free.jpg?ex=65fbde4b&is=65e9694b&hm=db01a1f3de4ac58919d8ae7074a1e20e9ec57fa8659922a36dd4b534935e26cd&)
 
 ![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png?ex=65fc4442&is=65e9cf42&hm=9b77c046da26323c1ad60eb78ddcc68d916166e8138c9e7f452800d9f7fa5cd8&)  
 
