@@ -30,11 +30,11 @@ October 8
 
 March 28
 
-![](https://media.discordapp.net/attachments/750874271022317678/958063242880635031/IMG_8636.jpg)  
+![](https://media.discordapp.net/attachments/750874271022317678/958063242880635031/IMG_8636.jpg?ex=65f8816d&is=65e60c6d&hm=6012cbd0bd340890b6193eaeb0cc27baa1e8ca008604b8ed0708dce8fb19f4a7&)  
 
 January 24
 
-![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png)  
+![](https://ibb.co/TvvVMC0)  
 
 January 13
 
