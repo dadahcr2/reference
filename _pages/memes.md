@@ -113,7 +113,7 @@ March 11
 
 March 10
 
-![](https://media.discordapp.net/attachments/776083600696934471/816067216343957514/4zz3pu.jpg)
+![](https://cdn.discordapp.com/attachments/818819260381134918/818884185615368262/Screenshot_20210309-163313_Meme_Generator_Free.jpg?ex=65f9be53&is=65e74953&hm=5eee424e80c6117da96134a989835dd2e5008f1f5f535e08663f66404bf9c04b&)
 
 ![](https://i.imgur.com/dTtnesP.gif)
 
