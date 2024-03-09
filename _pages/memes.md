@@ -18,7 +18,7 @@ November 9, 2023
 
 October 29  
 
-![](https://media.discordapp.net/attachments/818873983603572777/1036008186731315301/9LTCBUK.png)  
+![](https://cdn.discordapp.com/attachments/818873983603572777/1036008186731315301/9LTCBUK.png?ex=65f5fbcf&is=65e386cf&hm=3afd4b24634ab1e52829af21259eae5ba26b77fd52e083d06f2fbcef9b93c049&)  
 
 October 9 
 
