@@ -119,8 +119,9 @@ March 10
 
 ![](https://i.imgur.com/dTtnesP.gif)
 
-![](https://cdn.discordapp.com/attachments/766651321490604042/818872730799571005/The_Scariest_Things_On_Earth_09032021164744.jpg)
-[Asking  Rhys about new upcoming HCR2 projects](https://cdn.discordapp.com/attachments/818819260381134918/818865842510102548/rhys_in_his_full_form.mp4)
+![]([https://cdn.discordapp.com/attachments/766651321490604042/818872730799571005/The_Scariest_Things_On_Earth_09032021164744.jpg)](https://cdn.discordapp.com/attachments/766651321490604042/818872730799571005/The_Scariest_Things_On_Earth_09032021164744.jpg?ex=65f9b3a8&is=65e73ea8&hm=cb747e77362c4e0af289ca1a452d6f8bce29b6b627e081e3c39685235b0283ac&)
+
+[Asking  Rhys about new upcoming HCR2 projects](https://cdn.discordapp.com/attachments/818819260381134918/818865842510102548/rhys_in_his_full_form.mp4?ex=65f9ad3e&is=65e7383e&hm=d643ddce4353caf1f151790554e1c72491d0568b5e59a5d514c007f6ffc6a209&)
 
 Once a wise man said :
 - If you use hill climber then you are noob
@@ -139,7 +140,7 @@ Once a wise man said :
 
 ![](https://cdn.discordapp.com/attachments/815339738823131236/818251498672357376/Screenshot_20210307-223910_Meme_Generator_Free.jpg)
 
-![](https://cdn.discordapp.com/attachments/777125510798245898/811982316099600404/server.jpg)
+![]()
 
 <a name="bottom"></a>  
 ## [⬆](#top)  
