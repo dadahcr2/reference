@@ -166,7 +166,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 At least  | Info
 :--: | :--:
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879002439711/image0.jpg?ex=65e63cd2&is=65d3c7d2&hm=f1d54457b5c012a11334e3e5917d958064dd4deb8266e68f8d9ad0fd96ca7000&) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879573389343/image1.jpg)
-![](https://cdn.discordapp.com/attachments/806343355264401478/818598052314873856/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598052582391818/image1.jpg?ex=65e63ed8&is=65d3c9d8&hm=19e82beb5e18de9f3fc8cfc915038f7169665f38d64d0698461ac1245670b919&)
+![](https://cdn.discordapp.com/attachments/806343355264401478/818598052314873856/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598052582391818/image1.jpg?ex=65f8b3d8&is=65e63ed8&hm=b7de882981f4f5724d08fa1a3d4a5e24baad58517ed9ec4ed1ccceda960a4859&)  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598187681316894/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598188067979313/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368229720074/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598368438779924/image1.jpg)
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589467066388/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598589714268250/image1.jpg)
