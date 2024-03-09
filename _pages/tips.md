@@ -111,7 +111,7 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 
 #### Summary
 
-![](https://cdn.discordapp.com/attachments/617353655468687390/805946947532881950/image0.png)
+![](https://cdn.discordapp.com/attachments/617353655468687390/805946947532881950/image0.png?ex=65f8d216&is=65e65d16&hm=e23181f81232217530cbd943824b8e0269d6a9af85fcec77367f0ce0b37cff0c&)
 	- _Deflorator_
   
 ***
