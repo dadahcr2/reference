@@ -95,7 +95,7 @@ Apr 1
 
 March 20  
 
-![](https://cdn.discordapp.com/attachments/815339738823131236/823005235064733726/Screenshot_20210320-200954_Discord.jpg)
+![](https://media.discordapp.net/attachments/776083600696934471/816067216343957514/4zz3pu.jpg?ex=65f8b952&is=65e64452&hm=8bd70952b8f8ce9ccd0598211d6613515b082678182e7c791f6b05ef9c0b4211&)
 
 ![](https://cdn.discordapp.com/attachments/815339738823131236/822973914451804190/20210321_001745.jpg)
 
