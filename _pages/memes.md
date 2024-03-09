@@ -34,13 +34,13 @@ March 28
 
 January 24
 
-![](https://ibb.co/TvvVMC0)  
+![](https://i.ibb.co/h77PFqd/EZTvi50-WAAU2-ZTD.jpg)  
 
 January 13
 
-![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png)
+![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png)  
 
-![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png)
+![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png)  
 
 2021
 
