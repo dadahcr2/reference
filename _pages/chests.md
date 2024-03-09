@@ -56,7 +56,7 @@ Percent | Minimum number of common chests
 
 #### Relative Value of Cup Chests
 
-![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png)  
+![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png?ex=65fc1123&is=65e99c23&hm=a7f08eda83fbcb2431e55e330db8c86e21d221e44e68d10049b4984abb7406e2&)  
 > Average coins earned are divided by 200 as this is the amount of scrap coins can be converted to if used to buy common or rare parts in the shop  
 
 ![](https://media.discordapp.net/attachments/894901600974430268/969958700775268442/IMG_5555.png)  
