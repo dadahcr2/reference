@@ -174,13 +174,14 @@ At least  | Info
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851480649788/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598851685646407/image1.jpg?ex=65f8b497&is=65e63f97&hm=60e0ae78648ecda472f075a641c1da3eb0a70893cfd04f10b1ab5034965d5c77&)  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987639816192/image0.jpg?ex=65e63fb7&is=65d3cab7&hm=ab13243382ac49768a2824f1c55cc624ee48b99652559348d000e6a7a3a8f7cd&) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818598987870240808/image1.jpg?ex=65e63fb7&is=65d3cab7&hm=f2b2fff162ae0eceb45cde077c14d1095af0bdf74101fd789c5deedb68266865&)
 
-#### Data and Chest Screenshots 
+#### Data
 
-- [Chest Data](/chestdata/)   
+- [Chest Data](/chestdata/)
+<!--
 - [Epic Screenshots](/chests/epic/)    
 - [Champion Screenshots](/chests/champion/)    
 - [Legendary Screenshots](/chests/legendary/)  
 - [Monthly Screenshots](/chests/monthly/)  
 - [Weekly Screenshots](/chests/weekly/)  
-
+-->
 <a name="bottom"></a>  
