@@ -50,11 +50,11 @@ December 25
 
 October 11
 
-![](https://cdn.discordapp.com/attachments/795615515917418496/897052427184918538/Screenshot_20210310-234430_Meme_Generator_Free.jpg)
+![](https://cdn.discordapp.com/attachments/795615515917418496/897052427184918538/Screenshot_20210310-234430_Meme_Generator_Free.jpg?ex=65f808ad&is=65e593ad&hm=1d611cb7b1046d65ff2af4a261e29694a5079349a6ff227bd171c5a96555843f&)
 
 October 7
 
-![](https://media.discordapp.net/attachments/855048807288012821/895697163064061962/FB_IMG_16336210674442041.jpg)
+![](https://media.discordapp.net/attachments/855048807288012821/895697163064061962/FB_IMG_16336210674442041.jpg?ex=65fc54fc&is=65e9dffc&hm=7a4591e894f6a6ed271c008aa21c8a73cc9ba96b5215715b0531182558a6cd2c&)  
 
 July 1
 
