@@ -85,7 +85,7 @@ May 15
 
 Apr 21  
 
-![](https://cdn.discordapp.com/attachments/763397735172669441/834384160176209990/Tractor_Wars.jpg)
+![](https://cdn.discordapp.com/attachments/763397735172669441/834384160176209990/Tractor_Wars.jpg?ex=65fac2cd&is=65e84dcd&hm=005c500117c2e5cef7c95cffe568087cb8cb174c975f1f6db89efd35d3c2ef7d&)
 
 Apr 8  
 
