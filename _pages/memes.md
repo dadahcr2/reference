@@ -38,9 +38,9 @@ January 24
 
 January 13
 
-![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png)  
+![](https://cdn.discordapp.com/attachments/850185353188999210/935298604204195890/Untitled_117.png?ex=65f8beb4&is=65e649b4&hm=afb5b0675c3b34ad2223d4dd97f00ea33daaf87f80f06aa2958a6817313c231f&)  
 
-![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png)  
+![](https://media.discordapp.net/attachments/893418376687411210/931193210502512770/spud2.png?ex=65fc4442&is=65e9cf42&hm=9b77c046da26323c1ad60eb78ddcc68d916166e8138c9e7f452800d9f7fa5cd8&)  
 
 2021
 
