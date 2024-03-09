@@ -109,7 +109,7 @@ March 13
 
 March 11
 
-![](https://cdn.discordapp.com/attachments/815339738823131236/819468266677469264/Screenshot_20210310-234217_Meme_Generator_Free.jpg)
+![](https://cdn.discordapp.com/attachments/777125510798245898/811982316099600404/server.jpg?ex=65fc51f6&is=65e9dcf6&hm=deb25225fc426ab1bf925f24d30739aaa9de662c1450f4e281e14b45410d0426&)
 
 March 10
 
