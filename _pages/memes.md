@@ -81,7 +81,7 @@ May 16 Poems
 
 May 15  
 
-![](https://cdn.discordapp.com/attachments/840392851401080853/841935811218112532/46p4qo.jpg)
+![](https://cdn.discordapp.com/attachments/840392851401080853/841935811218112532/46p4qo.jpg?ex=65fa8c53&is=65e81753&hm=4d7c55ea03150e6c14d542bc10d16476712ac6a925ca6993f4903ad57306f338&)
 
 Apr 21  
 
