@@ -3,9 +3,9 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1215873452557205535/image0.jpg?ex=65fe5564&is=65ebe064&hm=9cb74b733528642f27fab8e31dc60681ac1a762a9a62169ee5f683a77247eb9c&
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1218183736219275325/IMG_4382.png?ex=6606bd03&is=65f44803&hm=194e72de64120ee966fc1d867f34c55dcb62f7dd9a0473a0e3d65419385ac27f&
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/NL82qcovjEw?si=ygUdnHzCIKeEqb7a&amp;start=222" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1215874475514527935/image0.jpg?ex=65fe5658&is=65ebe158&hm=b0e26c060c15d2a738b31ab6c2aa8c8caf0f59e546705d552aa4f3fa387539ba&
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1218359019765366936/Image.png?ex=66076042&is=65f4eb42&hm=1ec4862fc71dda0a8688be8d55e9298d43e0c31a7b45158181a3ac0ff7fdb24e&
 sidebar:
   nav: "docs"
 ---
