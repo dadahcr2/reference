@@ -300,7 +300,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 	
 ### Parts Required & Costs  
 
-Common | Parts for next level | Parts for max level  
+**Common** | Parts for next level | Parts for max level  
 :--: | :--: | :--:  
 1 | 3 | 2018  
 2 | 10 | 2015  
@@ -317,9 +317,9 @@ Common | Parts for next level | Parts for max level
 13 | 410 | 1030  
 14 | 620 | 620  
 15 |  |   
-{: style="background-color:gray"}
 
-Rare | Parts for next level | Parts for max level  
+
+**Rare** | Parts for next level | Parts for max level  
 :--: | :--: | :--:  
 1 | 3 | 368  
 2 | 10 | 365  
@@ -331,9 +331,9 @@ Rare | Parts for next level | Parts for max level
 8 | 76 | 176  
 9 | 100 | 100  
 10 |  |   
-{: style="background-color:yellow"}
 
-Epic | Parts for next level | Parts for max level  
+
+**Epic** | Parts for next level | Parts for max level  
 :--: | :--: | :--:  
 1 | 3 | 134  
 2 | 10 | 131  
@@ -342,15 +342,14 @@ Epic | Parts for next level | Parts for max level
 5 | 34 | 79  
 6 | 45 | 45  
 7 |  |   
-{: style="background-color:blue"}
 
-Legendary | Parts for next level | Parts for max level  
+**Legendary** | Parts for next level | Parts for max level  
 :--: | :--: | :--:  
 1 | 3 | 30  
 2 | 10 | 27  
 3 | 17 | 17  
 4 |  |   
-{: style="background-color:purple"}
+
 
 **HCR2 Parts Costs**  
 
