@@ -853,7 +853,7 @@ I highly recommend:
 | Tournament | 🥇| 🥈 | 🥉 |  
 | -- | -- | -- | -- |  
 | GP 1 | Vereshchak | [PR]linus | Craggy |  
-| GP 2 | GL|Fly | DC|SB Craggy | CanIntSpace |  
+| GP 2 | GL&#124;Fly | DC&#124;SB Craggy | CanIntSpace |  
 | GP 3 | Zorro | Linus | CanIntSpace |  
 
 	
