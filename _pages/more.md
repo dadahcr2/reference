@@ -849,11 +849,12 @@ I highly recommend:
 
 ## FS-GP Results
 
-![](https://media.discordapp.net/attachments/477025765100093440/699573814039674950/gp-winners-announcement-fb.jpg)  
 
-| GP 2 | GP 3 |   
-| -- | -- |  
-| ![](https://pbs.twimg.com/media/EkcPczSWMAAd5O-.jpg:small) | ![](https://pbs.twimg.com/media/FGo6lHEWYAgrA4q.jpg:small) |    
+| Tournament | 🥇| 🥈 | 🥉 |  
+| -- | -- | -- | -- |  
+| GP 1 | Vereshchak | [PR]linus | Craggy |  
+| GP 2 | GL|Fly | DC|SB Craggy | CanIntSpace |  
+| GP 3 | Zorro | Linus | CanIntSpace |  
 
 	
 </details>	
