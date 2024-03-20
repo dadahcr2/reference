@@ -1152,13 +1152,13 @@ We are an open team, so no password.  If there is a spot available and the below
 {: height="20px" width="20px"}
 [SB]: /assets/images/rocket.png
 {: height="20px" width="20px"}
-[OT]: /assets/images/topspeed.png
+[WB]: /assets/images/topspeed.png
 {: height="20px" width="20px"}
 [AB]: /assets/images/afterburner.png
 {: height="20px" width="20px"}
 [LB]: /assets/images/landing-boost.png
 {: height="20px" width="20px"}
-[Fume]: /assets/images/exhaust_yellow.png
+[OT]: /assets/images/exhaust_yellow.png
 {: height="20px" width="20px"}
 [Sp]: /assets/images/spoiler.png
 {: height="20px" width="20px"}
@@ -1190,13 +1190,13 @@ We are an open team, so no password.  If there is a spot available and the below
 {: height="40px" width="40px"}
 [SB2]: /assets/images/rocket.png
 {: height="40px" width="40px"}
-[OT2]: /assets/images/topspeed.png
+[WB2]: /assets/images/topspeed.png
 {: height="40px" width="40px"}
 [AB2]: /assets/images/afterburner.png
 {: height="40px" width="40px"}
 [LB2]: /assets/images/landing-boost.png
 {: height="40px" width="40px"}
-[Fume2]: /assets/images/exhaust_yellow.png
+[OT2]: /assets/images/exhaust_yellow.png
 {: height="40px" width="40px"}
 [Sp2]: /assets/images/spoiler.png
 {: height="40px" width="40px"}
@@ -1228,13 +1228,13 @@ We are an open team, so no password.  If there is a spot available and the below
 {: height="20px" width="20px" style="background-color:yellow"}
 [SBy]: /assets/images/rocket.png
 {: height="20px" width="20px" style="background-color:yellow"}
-[OTy]: /assets/images/topspeed.png
+[WBy]: /assets/images/topspeed.png
 {: height="20px" width="20px" style="background-color:yellow"}
 [ABy]: /assets/images/afterburner.png
 {: height="20px" width="20px" style="background-color:yellow"}
 [LBy]: /assets/images/landing-boost.png
 {: height="20px" width="20px" style="background-color:yellow"}
-[Fumey]: /assets/images/exhaust_yellow.png
+[OTy]: /assets/images/exhaust_yellow.png
 {: height="20px" width="20px" style="background-color:yellow"}
 [Spy]: /assets/images/spoiler.png
 {: height="20px" width="20px" style="background-color:yellow"}
