@@ -1149,121 +1149,121 @@ We are an open team, so no password.  If there is a spot available and the below
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
  
-[Jeep2]:  assets/images/icon-vehicle-jeep.png  
+[Jeep2]:  /assets/images/icon-vehicle-jeep.png  
   {: height="40px" width="64px"}  
 	
-[Scooter2]: assets/images/icon-vehicle-scooter.png  
+[Scooter2]: /assets/images/icon-vehicle-scooter.png  
 {: height="40px" width="64px"} 
 	
-[Bus2]: assets/images/icon-vehicle-bus.png 
+[Bus2]: /assets/images/icon-vehicle-bus.png 
 {: height="40px" width="64px"}  
 	
- [Mk22]: assets/images/icon-vehicle-superjeep.png 
+ [Mk22]: /assets/images/icon-vehicle-superjeep.png 
 {: height="40px" width="64px"} 
 	
- [Tractor2]: assets/images/icon-vehicle-tractor.png 
+ [Tractor2]: /assets/images/icon-vehicle-tractor.png 
 {: height="40px" width="64px"}  
 	
-[Moto2]: assets/images/icon-vehicle-motocross.png  
+[Moto2]: /assets/images/icon-vehicle-motocross.png  
 {: height="40px" width="64px"}  
 	
-[Buggy2]: assets/images/icon-vehicle-buggy.png  
+[Buggy2]: /assets/images/icon-vehicle-buggy.png  
 {: height="40px" width="64px"} 
 	
-[Sportscar2]: assets/images/icon-vehicle-sportscar.png  
+[Sportscar2]: /assets/images/icon-vehicle-sportscar.png  
 {: height="40px" width="64px"}  
 	
-[Monster2]: assets/images/icon-vehicle-monster.png  
+[Monster2]: /assets/images/icon-vehicle-monster.png  
 {: height="40px" width="64px"}  
 	
-[Rotator2]: assets/images/icon-vehicle-upsidedown.png 
+[Rotator2]: /assets/images/icon-vehicle-upsidedown.png 
 {: height="40px" width="64px"} 
 	
-[Diesel2]: assets/images/icon-vehicle-pickup.png 
+[Diesel2]: /assets/images/icon-vehicle-pickup.png 
  {: height="40px" width="64px"} 
 	
- [Chopper2]: assets/images/icon-vehicle-chopper.png 
+ [Chopper2]: /assets/images/icon-vehicle-chopper.png 
  {: height="40px" width="64px"} 
 	
- [Tank2]: assets/images/icon-vehicle-tank.png 
+ [Tank2]: /assets/images/icon-vehicle-tank.png 
   {: height="40px" width="64px"} 
 	
- [Snowmobile2]: assets/images/icon-vehicle-snowmobile.png 
+ [Snowmobile2]: /assets/images/icon-vehicle-snowmobile.png 
  {: height="40px" width="64px"} 
 	
- [Mono2]: assets/images/icon-vehicle-monowheel.png 
+ [Mono2]: /assets/images/icon-vehicle-monowheel.png 
  {: height="40px" width="64px"}  
 	
- [Rally2]: assets/images/icon-vehicle-rally.png 
+ [Rally2]: /assets/images/icon-vehicle-rally.png 
  {: height="40px" width="64px"}  
 	
- [Formula2]: assets/images/icon-vehicle-formula.png 
+ [Formula2]: /assets/images/icon-vehicle-formula.png 
  {: height="40px" width="64px"}  
 	
- [RT2]: assets/images/icon-vehicle-racing-truck.png 
+ [RT2]: /assets/images/icon-vehicle-racing-truck.png 
   {: height="40px" width="64px"}  
 	
  [EV2]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
   {: height="40px" width="64px"} 
 	
- [Hotrod2]: assets/images/icon-vehicle-hotrod.pngg 
+ [Hotrod2]: /assets/images/icon-vehicle-hotrod.pngg 
   {: height="40px" width="64px"}  
 	
- [Sbike2]: assets/images/icon-vehicle-street-bike.png 
+ [Sbike2]: /assets/images/icon-vehicle-street-bike.png 
   {: height="40px" width="64px"}  
 	
- [Supercar2]: assets/images/icon-vehicle-lambo.png 
+ [Supercar2]: /assets/images/icon-vehicle-lambo.png 
  {: height="40px" width="64px"} 
 	
-[Moonlander2]: assets/images/icon-vehicle-moonlander.png  
+[Moonlander2]: /assets/images/icon-vehicle-moonlander.png  
 {: height="40px" width="64px"}  
 	
 
 [Ka2]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="40px" width="40px"} 
-[AB2]:  assets/images/afterburner.png 
+[AB2]:  /assets/images/afterburner.png 
 {: height="40px" width="40px"} 
-[AC2]:  assets/images/aircontrol.png 
+[AC2]:  /assets/images/aircontrol.png 
 {: height="40px" width="40px"} 
 [Br2]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
 {: height="40px" width="40px"} 
-[CB2]:  assets/images/coinboost.png 
+[CB2]:  /assets/images/coinboost.png 
 {: height="40px" width="40px"} 
-[SB2]:  assets/images/rocket.png 
+[SB2]:  /assets/images/rocket.png 
 {: height="40px" width="40px"} 
-[Fuel2]:  assets/images/tunepart_NOS.png 
+[Fuel2]:  /assets/images/tunepart_NOS.png 
 {: height="40px" width="40px"} 
 [DF2]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
 {: height="40px" width="40px"} 
 [Dr2]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
 {: height="40px" width="40px"} 
-[Flip2]:  assets/images/flip-boost.png 
+[Flip2]:  /assets/images/flip-boost.png 
 {: height="40px" width="40px"} 
-[Fume2]:  assets/images/fumeboost.png 
+[Fume2]:  /assets/images/fumeboost.png 
 {: height="40px" width="40px"} 
-[HW2]:  assets/images/weight.png 
+[HW2]:  /assets/images/weight.png 
 {: height="40px" width="40px"}
-[JS2]:  assets/images/jump-shock-icon.png 
+[JS2]:  /assets/images/jump-shock-icon.png 
 {: height="40px" width="40px"} 
-[LB2]:  assets/images/landing-boost.png 
+[LB2]:  /assets/images/landing-boost.png 
 {: height="40px" width="40px"} 
-[Ma2]:  assets/images/magnet_coins.png 
+[Ma2]:  /assets/images/magnet_coins.png 
 {: height="40px" width="40px"} 
-[OT2]:  assets/images/exhaust_yellow.png 
+[OT2]:  /assets/images/exhaust_yellow.png 
 {: height="40px" width="40px"} 
-[RC2]: assets/images/roll-cage-icon.png 
+[RC2]: /assets/images/roll-cage-icon.png 
 {: height="40px" width="40px"} 
-[SB2]: assets/images/rocket.png 
+[SB2]: /assets/images/rocket.png 
 {: height="40px" width="40px"} 
 [SW2]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
 {: height="40px" width="40px"} 
-[Th2]: assets/images/thruster_icon.png 
+[Th2]: /assets/images/thruster_icon.png 
 {: height="40px" width="40px"} 
-[WB2]: assets/images/topspeed.png 
+[WB2]: /assets/images/topspeed.png 
 {: height="40px" width="40px"} 
-[Wi2]: assets/images/wing.png 
+[Wi2]: /assets/images/wing.png 
 {: height="40px" width="40px"}  
-[WT2]:  assets/images/snow-chain-icon.png 
+[WT2]:  /assets/images/snow-chain-icon.png 
 {: height="40px" width="40px"}
 	
 <a name="bottom"></a> 
