@@ -17,7 +17,7 @@ gallery:
  - image_path: assets/images/afterburner.png
  - image_path: assets/images/landing-boost.png
  - image_path: assets/images/exhaust_yellow.png
- - image_path: assets/images/C3AD73B9-17CD-4447-86F5-769F8E5E2646.png
+ - image_path: assets/images/spoiler.png
  - image_path: assets/images/coinboost.png
  - image_path: assets/images/tunepart_NOS.png
  - image_path: assets/images/thruster_icon.png
