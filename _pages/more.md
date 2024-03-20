@@ -1013,7 +1013,7 @@ We are an open team, so no password.  If there is a spot available and the below
 [WT]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px"} 
 
-[Jeep]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png 
+[Jeep]:  assets/images/icon-vehicle-jeep.png 
 {: height="20px" width="32px"}  
 	
 [Scooter]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png
@@ -1149,73 +1149,73 @@ We are an open team, so no password.  If there is a spot available and the below
 [WTy]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png 
 {: height="20px" width="20px" style="background-color:yellow"} 
  
-[Jeep2]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png  
+[Jeep2]:  assets/images/icon-vehicle-jeep.png  
   {: height="40px" width="64px"}  
 	
-[Scooter2]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png  
+[Scooter2]: assets/images/icon-vehicle-scooter.png  
 {: height="40px" width="64px"} 
 	
-[Bus2]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png 
+[Bus2]: assets/images/icon-vehicle-bus.png 
 {: height="40px" width="64px"}  
 	
- [Mk22]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png 
+ [Mk22]: assets/images/icon-vehicle-superjeep.png 
 {: height="40px" width="64px"} 
 	
- [Tractor2]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png 
+ [Tractor2]: assets/images/icon-vehicle-tractor.png 
 {: height="40px" width="64px"}  
 	
-[Moto2]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png  
+[Moto2]: assets/images/icon-vehicle-motocross.png  
 {: height="40px" width="64px"}  
 	
-[Buggy2]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png  
+[Buggy2]: assets/images/icon-vehicle-buggy.png  
 {: height="40px" width="64px"} 
 	
-[Sportscar2]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png  
+[Sportscar2]: assets/images/icon-vehicle-sportscar.png  
 {: height="40px" width="64px"}  
 	
-[Monster2]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png  
+[Monster2]: assets/images/icon-vehicle-monster.png  
 {: height="40px" width="64px"}  
 	
-[Rotator2]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png 
+[Rotator2]: assets/images/icon-vehicle-upsidedown.png 
 {: height="40px" width="64px"} 
 	
-[Diesel2]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png 
+[Diesel2]: assets/images/icon-vehicle-pickup.png 
  {: height="40px" width="64px"} 
 	
- [Chopper2]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png 
+ [Chopper2]: assets/images/icon-vehicle-chopper.png 
  {: height="40px" width="64px"} 
 	
- [Tank2]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png 
+ [Tank2]: assets/images/icon-vehicle-tank.png 
   {: height="40px" width="64px"} 
 	
- [Snowmobile2]: https://media.discordapp.net/attachments/834726868111589406/834728755783139338/Snowmobile.png 
+ [Snowmobile2]: assets/images/icon-vehicle-snowmobile.png 
  {: height="40px" width="64px"} 
 	
- [Mono2]: https://media.discordapp.net/attachments/834726907978711081/834728886881091604/Monowheel.png 
+ [Mono2]: assets/images/icon-vehicle-monowheel.png 
  {: height="40px" width="64px"}  
 	
- [Rally2]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png 
+ [Rally2]: assets/images/icon-vehicle-rally.png 
  {: height="40px" width="64px"}  
 	
- [Formula2]: https://media.discordapp.net/attachments/834727004082667580/834729204683112458/Formula.png 
+ [Formula2]: assets/images/icon-vehicle-formula.png 
  {: height="40px" width="64px"}  
 	
- [RT2]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png 
+ [RT2]: assets/images/icon-vehicle-racing-truck.png 
   {: height="40px" width="64px"}  
 	
  [EV2]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
   {: height="40px" width="64px"} 
 	
- [Hotrod2]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png 
+ [Hotrod2]: assets/images/icon-vehicle-hotrod.pngg 
   {: height="40px" width="64px"}  
 	
- [Sbike2]: https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png 
+ [Sbike2]: assets/images/icon-vehicle-street-bike.png 
   {: height="40px" width="64px"}  
 	
- [Supercar2]: https://media.discordapp.net/attachments/833681748688633877/837807347992363058/icon-vehicle-lambo.png 
+ [Supercar2]: assets/images/icon-vehicle-lambo.png 
  {: height="40px" width="64px"} 
 	
-[Moonlander2]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png  
+[Moonlander2]: assets/images/icon-vehicle-moonlander.png  
 {: height="40px" width="64px"}  
 	
 
