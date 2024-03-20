@@ -32,7 +32,7 @@ sidebar:
 
 - New Vehicle: Hover Bike
 - New Feature: League Tasks
-- Progress along the Trophy Road for extra rewards specific to your driver rank that will help prepare you for future challenges and Teams Mode races!
+	- Progress along the Trophy Road for extra rewards specific to your driver rank that will help prepare you for future challenges and Teams Mode races!
 - Garage Editor Improvements: You can now stack objects and view other people’s garage setups!
 - Track Editor Improvements: There is now an expert mode toggle, which enables advanced tools, such as a flattening brush or camera zoom trigger controls
 - Mega Chest: A new way to earn precious resources
