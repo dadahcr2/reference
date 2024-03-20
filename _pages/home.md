@@ -76,7 +76,7 @@ sidebar:
    Top 10 Teams Ranked after Season 34
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1213347108980129832/image0.jpg?ex=65f5248d&is=65e2af8d&hm=9b6ffffb594de95581c53751260a435c8e03e433fb5ce4b7d92c886ad4db64a1&)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1213347108980129832/image0.jpg?ex=6607998d&is=65f5248d&hm=f32ae667150b6f6680c9864c6e6d0fd054df14057ee5b71b65cc8c7eb6be6680&)
 
 - SUPREME and Discord remain #1 and #2 respectively
 - However, after two consecutive season wins, NORTH not only leads 2024 but joins Discord at #2 overall
