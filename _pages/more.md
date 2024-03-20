@@ -299,10 +299,77 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
   </summary>
 	
 ### Parts Required & Costs  
-![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
+
+Common | Parts for next level | Parts for max level  
+:--: | :--: | :--:  
+1 | 3 | 2018  
+2 | 10 | 2015  
+3 | 17 | 2005  
+4 | 25 | 1988  
+5 | 34 | 1963  
+6 | 45 | 1929  
+7 | 58 | 1884  
+8 | 76 | 1826  
+9 | 100 | 1750  
+10 | 140 | 1650  
+11 | 200 | 1510  
+12 | 280 | 1310  
+13 | 410 | 1030  
+14 | 620 | 620  
+15 |  |   
+
+Rare | Parts for next level | Parts for max level  
+:--: | :--: | :--:  
+1 | 3 | 368  
+2 | 10 | 365  
+3 | 17 | 355  
+4 | 25 | 338  
+5 | 34 | 313  
+6 | 45 | 279  
+7 | 58 | 234  
+8 | 76 | 176  
+9 | 100 | 100  
+10 |  |   
+
+Epic | Parts for next level | Parts for max level  
+:--: | :--: | :--:  
+1 | 3 | 134  
+2 | 10 | 131  
+3 | 17 | 121  
+4 | 25 | 104  
+5 | 34 | 79  
+6 | 45 | 45  
+7 |  |   
+
+Legendary | Parts for next level | Parts for max level  
+:--: | :--: | :--:  
+1 | 3 | 30  
+2 | 10 | 27  
+3 | 17 | 17  
+4 |  |   
 	
 **HCR2 Parts Costs**  
-![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
+
+Level | Number of Parts | Common | Rare | Epic | Legendary  
+:--: | :--: | :--: | :--: | :--: | :--:  
+1 | 3 | 2,400 | 4,100 | 13,000 | 24,000  
+2 | 10 | 4,600 | 6,800 | 23,000 | 55,000  
+3 | 17 | 7,000 | 11,000 | 41,000 | 120,000  
+4 | 25 | 9,600 | 19,000 | 73,000 | Max  
+5 | 34 | 13,000 | 31,000 | 130,000 |   
+6 | 45 | 16,000 | 50,000 | 240,000 |   
+7 | 58 | 21,000 | 83,000 | Max |   
+8 | 76 | 27,000 | 140,000 |  |   
+9 | 100 | 35,000 | 230,000 |  |   
+10 | 140 | 47,000 | Max |  |   
+11 | 200 | 66,000 |  |  |   
+12 | 280 | 94,000 |  |  |   
+13 | 410 | 140,000 |  |  |   
+14 | 620 | 210,000 |  |  |   
+15 | Max | Max |  |  |   
+Total Cost |  | 692,600 | 574,900 | 520,000 | 199,000  
+Total Parts |  | 2,018 | 368 | 134 | 30  
+Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)  
