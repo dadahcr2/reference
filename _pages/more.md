@@ -842,8 +842,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   </summary>
 	
 I highly recommend:
-- Tractor  Wars : <http://tw.hcr2.info>  
-- Friendly Wars: <http://fw.hcr2.info> (no longer organized but daily track and vehicle is still generated)
+- Tractor  Wars : <http://tw.hcr2info.com>  
+- Friendly Wars: <http://fw.hcr2info.com> (no longer organized but daily track and vehicle is still generated)
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
 
