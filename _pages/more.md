@@ -375,8 +375,38 @@ Total Parts |  | 2,018 | 368 | 134 | 30
 Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
 ### Fuel duration
-![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)  
-> CC-EV - 45 Seconds  
+
+Vehicle | Fuel Duration  
+-- | --  
+Beast  |  50 seconds  
+Bus  |  60 seconds  
+CCEV  |  45 seconds / lvl 20  
+Chopper  |  55 seconds / Ivi 20  
+Dune Buggy  |  44 seconds  
+Formula  |  30 seconds  
+Hill Climber/Jeep  |  40 seconds  
+Hot Rod  |  30 seconds  
+Lowrider  |  35 seconds  
+Mk2  |  44 seconds  
+Monowheel  |  50 seconds  
+Monster Truck  |  45 seconds  
+Moonlander  |  50 seconds  
+Motocross  |  42 seconds  
+Muscle Car  |  43 seconds  
+Racing Truck  |  50 seconds  
+Rally Car  |  40 seconds  
+Rock Bouncer  |  45 seconds  
+Rotator  |  45 seconds  
+Scooter  |  50 seconds  
+Snowmobile  |  56 seconds / Ivi 20  
+Sports Car  |  38 seconds  
+Super Diesel  |  52 seconds  
+Superbike  |  30 seconds  
+Supercar  |  30 seconds  
+Tank  |  56 seconds / Ivi 20  
+Tractor  |  50 seconds  
+Water Bubble  |  7⅓  seconds  
+
 </details>	
 		
 <details  markdown="block">
