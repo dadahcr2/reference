@@ -209,7 +209,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
     Websites
   </summary>	
 
-- [Official wiki](http://wiki.hcr2.info)
+- [Official wiki](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)
 - [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
 - [Getting started tips](/tips/)  
 - [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
