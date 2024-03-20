@@ -1206,7 +1206,7 @@ We are an open team, so no password.  If there is a spot available and the below
  [EV2]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
   {: height="40px" width="64px"} 
 	
- [Hotrod2]: /assets/images/icon-vehicle-hotrod.pngg 
+ [Hotrod2]: /assets/images/icon-vehicle-hotrod.png 
   {: height="40px" width="64px"}  
 	
  [Sbike2]: /assets/images/icon-vehicle-street-bike.png 
