@@ -30,6 +30,7 @@ gallery:
  - image_path: assets/images/icon-vehicle-tractor.png
  - image_path: assets/images/icon-vehicle-snowmobile.png
  - image_path: assets/images/icon-vehicle-monowheel.png
+ - image-path: assets/images/Hoverbike.png
  - image_path: assets/images/icon-vehicle-sled.png
  - image_path: assets/images/icon-vehicle-tube.png
  - image_path: assets/images/icon-vehicle-snowboard.png
