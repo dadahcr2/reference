@@ -987,7 +987,6 @@ We are an open team, so no password.  If there is a spot available and the below
 [Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
 {: height="20px" width="20px"  style="background-color:yellow"} 
 
-	p
 [DFy]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
 {: height="20px" width="20px"  style="background-color:yellow"} 
 [Dry]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
