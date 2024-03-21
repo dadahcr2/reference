@@ -24,12 +24,12 @@ gallery:
  - image_path: assets/images/icon-vehicle-cc-ev.png
  - image_path: assets/images/icon-vehicle-rockbouncer.png
  - image_path: assets/images/icon-vehicle-bus.png
- - image_path: assets/images/icon-vehicle-moonlander.png
- - image_path: assets/images/icon-vehicle-scooter.png
- - image_path: /assets/images/icon-vehicle-motocross.png
+ - image_path: /assets/images/icon-vehicle-moonlander.png
+ - image-path: /assets/images/icon-vehicle-hoverbike.png
+ - image_path: /assets/images/icon-vehicle-scooter.png
+ - image_path: /assets/images/icon-vehicle-motocross.png 
  - image_path: /assets/images/icon-vehicle-tractor.png
  - image_path: /assets/images/icon-vehicle-snowmobile.png
- - image-path: /assets/images/icon-vehicle-hoverbike.png
  - image_path: /assets/images/icon-vehicle-monowheel.png
  - image_path: /assets/images/icon-vehicle-sled.png
  - image_path: /assets/images/icon-vehicle-tube.png
