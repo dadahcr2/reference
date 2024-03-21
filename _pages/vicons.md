@@ -24,8 +24,8 @@ gallery:
  - image_path: assets/images/icon-vehicle-cc-ev.png
  - image_path: assets/images/icon-vehicle-rockbouncer.png
  - image_path: assets/images/icon-vehicle-bus.png
- - image_path: /assets/images/icon-vehicle-moonlander.png
- - image-path: /assets/images/icon-vehicle-hoverbike.png
+ - image_path: /assets/images/icon-vehicle-moonlander.png 
+ - image-path: https://reference.hcr2info.com/assets/images/icon-vehicle-hoverbike.png 
  - image_path: /assets/images/icon-vehicle-scooter.png
  - image_path: /assets/images/icon-vehicle-motocross.png 
  - image_path: /assets/images/icon-vehicle-tractor.png
