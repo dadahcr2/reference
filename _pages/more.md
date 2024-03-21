@@ -298,7 +298,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
     Parts, Costs & Fuel
   </summary>
 	
-### Parts Required & Costs  
+### Parts Required  
 
 Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
@@ -318,7 +318,7 @@ Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary
 14 | 620 | 620 |  |  |   
 15 | Max | Max |  |  |   
 
-**HCR2 Parts Costs**  
+### Parts Costs  
 
 Level | Number of Parts | Common | Rare | Epic | Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
@@ -341,7 +341,7 @@ Total Cost |  | 692,600 | 574,900 | 520,000 | 199,000
 Total Parts |  | 2,018 | 368 | 134 | 30  
 Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
-### Fuel duration
+### Fuel Duration
 
 Vehicle | Fuel Duration  
 -- | --  
