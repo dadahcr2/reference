@@ -11,8 +11,6 @@ main:
     url: /servers/
   - title: "Chests"
     url: /chests/
-  - title: "Memes"
-    url: /memes/
   - title: "GM"
     url: /gm/
   - title: "FAQ"
@@ -47,8 +45,6 @@ docs:
         url: /servers/
       - title: "Chests"
         url: /chests/
-      - title: "Memes"
-        url: /memes/
       - title: "GM"
         url: /gm/
       - title: "FAQ"
