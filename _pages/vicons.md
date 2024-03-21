@@ -24,7 +24,6 @@ gallery:
  - image_path: assets/images/icon-vehicle-cc-ev.png
  - image_path: assets/images/icon-vehicle-rockbouncer.png
  - image_path: assets/images/icon-vehicle-bus.png
- - image_path: /assets/images/icon-vehicle-moonlander.png 
  - image_path: /assets/images/icon-vehicle-scooter.png
  - image_path: /assets/images/icon-vehicle-motocross.png 
  - image_path: /assets/images/icon-vehicle-tractor.png
@@ -38,3 +37,4 @@ gallery:
 
 
 {% include gallery %}
+![Hoverbike](/assets/images/icon-vehicle-moonlander.png)  
