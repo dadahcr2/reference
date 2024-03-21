@@ -25,7 +25,6 @@ gallery:
  - image_path: assets/images/icon-vehicle-rockbouncer.png
  - image_path: assets/images/icon-vehicle-bus.png
  - image_path: /assets/images/icon-vehicle-moonlander.png 
- - image-path: assets/images/IMG_4479.png
  - image_path: /assets/images/icon-vehicle-scooter.png
  - image_path: /assets/images/icon-vehicle-motocross.png 
  - image_path: /assets/images/icon-vehicle-tractor.png
@@ -34,6 +33,7 @@ gallery:
  - image_path: /assets/images/icon-vehicle-sled.png
  - image_path: /assets/images/icon-vehicle-tube.png
  - image_path: /assets/images/icon-vehicle-snowboard.png
+ - image-path: assets/images/IMG_4479.png
 ---  
 
 
