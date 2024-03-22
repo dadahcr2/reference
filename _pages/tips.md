@@ -112,7 +112,7 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 #### Summary
 
 FREE | $$$  
--- | --  
+ -- | --    
 • Open all the 12 free chests every day
 • Drive every PE and collect all rewards
 • Drive adventure chests with all vehicles/maps
