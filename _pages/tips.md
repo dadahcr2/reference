@@ -111,7 +111,15 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 
 #### Summary
 
-![](https://cdn.discordapp.com/attachments/617353655468687390/805946947532881950/image0.png?ex=65f8d216&is=65e65d16&hm=e23181f81232217530cbd943824b8e0269d6a9af85fcec77367f0ce0b37cff0c&)
+FREE | $$$  
+-- | --  
+• Open all the 12 free chests every day
+• Drive every PE and collect all rewards
+• Drive adventure chests with all vehicles/maps
+• Finish the trophy road
+• Join a team for a TE rewards and team chest | • The best way to grow your garage is buying gems and open chests
+• VIP - It's great for low level accounts as it gives you gems daily, double points at PE's and no Ads for chests  
+
 	- _Deflorator_
   
 ***
