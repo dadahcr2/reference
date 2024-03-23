@@ -56,12 +56,32 @@ Percent | Minimum number of common chests
 
 #### Relative Value of Cup Chests
 
-![](https://cdn.discordapp.com/attachments/850195341294305312/923528175697420298/Untitled_45.png?ex=65fc1123&is=65e99c23&hm=a7f08eda83fbcb2431e55e330db8c86e21d221e44e68d10049b4984abb7406e2&)  
+Chest | Value | Chart  
+:--: | :--: | :--  
+Common/3h | 53.35 | ❘❘  
+Uncommon/6h | 127.25 | ❘❘❘❘❘❘  
+Rare/8h | 271.6 | ❘❘❘❘❘❘❘❘❘❘❘❘❘  
+Epic/12h | 699.8 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
+Champion/24h | 1679.75 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
+Legendary | 2026.5 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
+
 > Average coins earned are divided by 200 as this is the amount of scrap coins can be converted to if used to buy common or rare parts in the shop  
 
 Similarly, the following chart indicates the relative acrap value of buying chests and alternatives in the PE Shop
 
-![](https://cdn.discordapp.com/attachments/617353655468687390/1215865271794008215/image0.jpg?ex=65fe4dc6&is=65ebd8c6&hm=b12b6aca155acc79410d4210ac5ca5317b29b400e789c9fb75ec728f0b494d71&)  
+Item | Scrap per point | Chart  
+:--: | :--: | :--  
+Coins | 1 | ❙❙  
+Common parts | 1 | ❙❙  
+Rare parts | 2.5 | ❙❙❙❙❙  
+Epic parts | 4 | ❙❙❙❙❙❙❙❙  
+Legendary parts | 4 | ❙❙❙❙❙❙❙❙  
+Common chest | 2.65 | ❙❙❙❙❙  
+Uncommon Chest | 4.241666667 | ❙❙❙❙❙❙❙❙  
+Rare Chest | 6.8 | ❙❙❙❙❙❙❙❙❙❙❙❙❙  
+Epic Chest | 8.75 | ❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙  
+Champion Chest | 11.19833333 | ❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙  
+Scrap | 8 | ❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙❙  
 
 The following indicates expected payoffs using gems to earn chests in cup races
 
