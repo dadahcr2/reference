@@ -58,12 +58,12 @@ Percent | Minimum number of common chests
 
 Chest | Value | Chart  
 :--: | :--: | :--  
-Common/3h | 53.35 | ❘❘  
-Uncommon/6h | 127.25 | ❘❘❘❘❘❘  
-Rare/8h | 271.6 | ❘❘❘❘❘❘❘❘❘❘❘❘❘  
-Epic/12h | 699.8 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
-Champion/24h | 1679.75 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
-Legendary | 2026.5 | ❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘❘  
+Common/3h | 53.35 | l  
+Uncommon/6h | 127.25 | lll  
+Rare/8h | 271.6 | llllll  
+Epic/12h | 699.8 | lllllllllllllllll  
+Champion/24h | 1679.75 | lllllllllllllllllllllllllllllllllllllllll  
+Legendary | 2026.5 | llllllllllllllllllllllllllllllllllllllllllllllllll  
 
 > Average coins earned are divided by 200 as this is the amount of scrap coins can be converted to if used to buy common or rare parts in the shop  
 
