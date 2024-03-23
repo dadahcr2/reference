@@ -118,10 +118,6 @@ Level | Chest
  1-5 | **Common** (at least 18 common and 2 rare parts)
  6+ | **Uncommon** (at least 29 common 2 rare parts)
 
-This can be seen in the the below charts which represent data on common and rare parts awarded from adventure chests:
-
-![](https://media.discordapp.net/attachments/806343355264401478/821413177945882696/unknown.png) 
-
 Accordingly, from a parts perspective, it appears best to at least reach 6500m (Level 13 chest), except for the three hard maps, where there is no improvement in parts beyond 600m i.e. Level 6.
 
 #### Trove Chests
@@ -168,7 +164,6 @@ Level | Km | Coins =20K+4KxLevel | Gems =5+2xLevel | Common | Rare | Epic | Lege
 45+ | 31240+ | 200000 | 50 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
 
 #### Season Bonus Chest
- ![](https://cdn.discordapp.com/attachments/762347618851880984/821144286791204894/ENpYHKkh.jpg)
 
 This chest requires a premium pass to open it. Rewards vary depending on the level of the chest at the end of the month. 
 On completing the season (50k), the chest will start at level 1. The level of the chest will go up by one for each additional 1k traveled beyond 50k on the trophy road until level 200 (249k)
