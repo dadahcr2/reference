@@ -320,7 +320,7 @@ Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary
 
 ### Parts Costs  
 
-Level | Number of Parts | Common | Rare | Epic | Legendary  
+Level | Number of Parts | Common | Rare{: style="background-color: yellow"} | Epic | Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
 1 | 3 | 2,400 | 4,100 | 13,000 | 24,000  
 2 | 10 | 4,600 | 6,800 | 23,000 | 55,000  
