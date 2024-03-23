@@ -337,8 +337,10 @@ Level | Number of Parts | Common | Rare | Epic | Legendary
 13 | 410 | 140,000 |  |  |   
 14 | 620 | 210,000 |  |  |   
 15 | Max | Max |  |  |   
+|----
 Total Cost |  | 692,600 | 574,900 | 520,000 | 199,000  
 Total Parts |  | 2,018 | 368 | 134 | 30  
+|====
 Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
 ### Fuel Duration
