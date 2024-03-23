@@ -320,7 +320,7 @@ Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary
 
 ### Parts Costs  
 
-Level | Number of Parts | Common | Rare{: style="background-color: yellow"} | Epic | Legendary  
+Level | Number of Parts | Common | Rare | Epic | Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
 1 | 3 | 2,400 | 4,100 | 13,000 | 24,000  
 2 | 10 | 4,600 | 6,800 | 23,000 | 55,000  
@@ -337,10 +337,8 @@ Level | Number of Parts | Common | Rare{: style="background-color: yellow"} | Ep
 13 | 410 | 140,000 |  |  |   
 14 | 620 | 210,000 |  |  |   
 15 | Max | Max |  |  |   
-|----
 Total Cost |  | 692,600 | 574,900 | 520,000 | 199,000  
 Total Parts |  | 2,018 | 368 | 134 | 30  
-|====
 Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
 ### Fuel Duration
