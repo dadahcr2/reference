@@ -83,9 +83,16 @@ Epic Chest | 8.75 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️◼️
 Champion Chest | 11.2 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️  	
 Scrap | 8 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️  	
 
-The following indicates expected payoffs using gems to earn chests in cup races
+The following indicates expected payoffs using 5000 gems to earn chests in cup races
 
-![](https://media.discordapp.net/attachments/894901600974430268/969958700775268442/IMG_5555.png)  
+Per 5000 gems | Minimum | Average  
+:--: | :--: | :--:  
+Coins | 1,200,239 | 1,457,564  
+Common | 7,197 | 8,677  
+Rare | 812 | 1,184  
+Epic | 64 | 169  
+Legendary | 0 | 15  
+Scrap value | 13,806 | 27,190  
 
 ####  Adventure Chests
 
