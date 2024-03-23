@@ -69,19 +69,19 @@ Legendary | 2026.5 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛�
 
 Similarly, the following chart indicates the relative acrap value of buying chests and alternatives in the PE Shop
 
-Item | Scrap per point | Chart  
-:--: | :--: | :--  
-Coins | 1 | ⬛️  
-Common parts | 1 | ⬛️  
-Rare parts | 2.5 | ⬛️⬛️◾️  
-Epic parts | 4 | ⬛️⬛️⬛️⬛️  
-Legendary parts | 4 | ⬛️⬛️⬛️⬛️  
-Common chest | 2.65 | ⬛️⬛️◾️  
-Uncommon Chest | 4.241666667 | ⬛️⬛️⬛️⬛️  
-Rare Chest | 6.8 | ⬛️⬛️⬛️⬛️⬛️⬛️◼️  
-Epic Chest | 8.75 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️◼️  
-Champion Chest | 11.19833333 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️  
-Scrap | 8 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️    
+Item | Scrap per point | Chart  	
+:--: | :--: | :--  	
+Coins | 1 | ⬛️  	
+Common parts | 1 | ⬛️  	
+Rare parts | 2.5 | ⬛️⬛️◾️  	
+Epic parts | 4 | ⬛️⬛️⬛️⬛️  	
+Legendary parts | 4 | ⬛️⬛️⬛️⬛️  	
+Common chest | 2.65 | ⬛️⬛️◾️  	
+Uncommon Chest | 4.25 | ⬛️⬛️⬛️⬛️▪️  	
+Rare Chest | 6.8 | ⬛️⬛️⬛️⬛️⬛️⬛️◼️  	
+Epic Chest | 8.75 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️◼️  	
+Champion Chest | 11.2 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️  	
+Scrap | 8 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️  	
 
 The following indicates expected payoffs using gems to earn chests in cup races
 
