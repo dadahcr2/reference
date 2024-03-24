@@ -823,7 +823,7 @@ Note: Distances are within 1m or so. Negative rows counted from the bottom. L=Le
 **It is not necessary to always win the last race of a cup to win the cup**  
 {: .notice}   
 
-GUIDELINES GOING INTO THE FINAL RACE
+GUIDELINES GOING INTO THE FINAL RACE  
 **3+/4 gap to next player***: Cannot change result  
 ***Ahead by 2***: Don't finish last   
 *Ahead by 1*: 2nd at least  
