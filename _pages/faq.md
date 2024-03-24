@@ -14,7 +14,7 @@ toc_sticky: false
 
 ## Chest info
 
-The info on the relevant [hcr2info/chests page](/chests) may help.
+The info on the relevant [hcr2info/chests](/chests) page may help.
 
 ## Shop questions
 Items that can be purchased with gems in the shop include: 
