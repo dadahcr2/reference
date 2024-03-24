@@ -38,8 +38,6 @@ Then buy the other vehicles so you can start to collect parts for them and use t
 - Make sure to use all the free upgrades. Free vehicle upgrades are available for upgrades that cost less than 6000 coins. Similarly, free part upgrades are available for those that would otherwise cost less than 10000 coins.  There are a limited number of upgrades a day (resets every three hours) so make sure to check regularly.  
 - Beyond this, prioritize upgrades that are needed for an event and/or are likely to be used frequently going forward.
 
-![](https://cdn.discordapp.com/attachments/819243210340958299/832119333240832040/Tuning_Part_Upgrade_Path-1.jpg)  
-_Source: **x Spectre x**_   
 #### Adventure
 Try open up additional adventure maps as they become available.
 
@@ -63,7 +61,6 @@ Don't worry too much if you are not winning cups. The game will adjust to your s
 The boss is more difficult to beat but there are some things you can do:
 - Use your fastest vehicle and parts.
 - If it is a track you struggle with, it may be possible to change the track by selecting *settings*, *change language*, and choosing your *current language*.
-- If it is clear the boss is going to win, shut down the app and restart. This may give you a redo opportunity. [Do this at your own risk!]
 
 Complete the monthly season to obtain the legendary chest, and other rewards on-route.  (I hear that it is better to start a new account at the beginning of the month as the season resets when reaching legendary level so it is possible to complete it twice in the first month.)
 
@@ -112,7 +109,7 @@ For additional Q&A on the shop see the relevant section on the [FAQ](/faq/#shop-
 #### Summary  
 
 FREE | $$$  
--- | --  
+:--: | :--:  
 • Open all the 12 free chests every day | • The best way to grow your garage is buying gems and open chests  
 • Drive every PE and collect all rewards | • VIP - It's great for low level accounts as it gives you gems daily, double points at PE's and no Ads for chests  
 • Drive adventure chests with all vehicles/maps |   
@@ -127,15 +124,15 @@ FREE | $$$
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the main [hcr2.info](/#adventures) page    
+- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the more [hcr2info](/more/#adventures) page    
 
 #### Suggested vehicle and setups for different public event types
 
-- See the **PE Setups** section on [hcr2.info](/)
+- See the **PE Setups** section on [hcr2info](/more/)
 
 #### Optimal ways to increase GP
 
-- Follow the [Daily Checklist](/#lists)
+- Follow the [Daily Checklist](/more/#lists)
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
