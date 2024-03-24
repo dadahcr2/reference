@@ -880,7 +880,7 @@ E.g. After 2 races of 3 race cup
 **5** | 4 | 2 | 1  
 **4** | 3 | 3 | 2  
 
-Else: Try to win  
+**Else**: Try to win  
 
 1st | 2nd | 3rd | 4th  	
 :--: | :--: | :--: | :--:  
