@@ -830,10 +830,10 @@ E.g. After 2 races of 3 race cup
 
 1st | 2nd | 3rd | 4th  	
 :--: | :--: | :--: | :--:  
-4 | 4 | 4 | **0**  
 **6** | 2 | 2 | 2  
 **6** | 3 | 2 | 1  
 **6** | 3 | 3 | 0  	
+4 | 4 | 4 | **0**  
 
 **Ahead by 2**: Don't finish last   
 
@@ -847,10 +847,10 @@ E.g. After 2 races of 3 race cup
 **Ahead by 1**: 2nd at least  
 
 1st | 2nd | 3rd | 4th  	
-:--: | :--: | :--: | :--:  
-**4** | 3 | 3 | 2  	
+:--: | :--: | :--: | :--:  	
 **5** | 4 | 3 | 0  	
 **5** | 4 | 2 | 1  
+**4** | 3 | 3 | 2  
 
 Else: Try to win  
 
