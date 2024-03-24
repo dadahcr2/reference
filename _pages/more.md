@@ -740,33 +740,33 @@ Distance | Obstacle
   </summary>  	
 
 Distance | Obstacle
-:-- | :--
-1090 | Swing
-2330 | Easy to miss gas tank
-2620 | Swing
-3220 | Easy to miss gas tank
-3770 | Falling cylinder
-4670 | Easy to miss gas tank
-5320 | Swing
-5620 | Swing
-6700 | Single-rope swing
-6870 | Easy to miss gas tank
-7320 | Easy to miss gas tank
-7900 | Single-rope swing
-8040 | Single-rope swing
-8870 | Easy to miss gas tank
-9380 | Easy to miss gas tank
-10070 | Single-rope swing
-13510 | Easy to miss gas tank
-15950 | Single-rope swing
-16280 | Single-rope swing
-16310 | Easy to miss gas tank
-16670 | Single-rope swing
-16940 | Single-rope swing
-17170 | Single-rope swing
-18590 | Single-rope swing
-20510 | Single-rope swing
-22650 | Easy to miss gas tank
+--: | :--
+1 090 | Swing
+2 330 | Easy to miss gas tank
+2 620 | Swing
+3 220 | Easy to miss gas tank
+3 770 | Falling cylinder
+4 670 | Easy to miss gas tank
+5 320 | Swing
+5 620 | Swing
+6 700 | Single-rope swing
+6 870 | Easy to miss gas tank
+7 320 | Easy to miss gas tank
+7 900 | Single-rope swing
+8 040 | Single-rope swing
+8 870 | Easy to miss gas tank
+9 380 | Easy to miss gas tank
+10 070 | Single-rope swing
+13 510 | Easy to miss gas tank
+15 950 | Single-rope swing
+16 280 | Single-rope swing
+16 310 | Easy to miss gas tank
+16 670 | Single-rope swing
+16 940 | Single-rope swing
+17 170 | Single-rope swing
+18 590 | Single-rope swing
+20 510 | Single-rope swing
+22 650 | Easy to miss gas tank
 
 </details>	
 	
