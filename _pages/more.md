@@ -689,15 +689,46 @@ Map | Trove Chest Locations
     Forest Adventure Obstacles
   </summary>
 	
-![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
-![](https://media.discordapp.net/attachments/617353655468687390/733422129181098055/image1.png?width=557&height=992)
+Obstacle | Description  
+:-- | :--  
+Moat | Deep watery ditches, generally used for those you can't get out of.  
+Swinging log | Log attached from the middle to a rope, doing a grandfather's clock impression   
+2-log moat | Spot where you have to jump in between two logs, hanging from the same rope. Most of these aren't deep enough to get you stuck in the water, but rob a lot of time from you.  
+Moat with a swing-log | Otherwise like the moat, but the log suspended over it is only hanging from a single rope, as opposed to two. A bit more precise clearance is required.  
 
-Continued...
+So there's the syntax cleared up, here's my list of places to watch out on your runs:
 
-Distance | Obstacle
-:-- | :--
-23 600 | Moat
-25 600 | Moat
+Distance | Obstacle  
+--: | :--  
+4 600 | Moat  
+6 400 | Moat with swing-log  
+7 600 | Moat  
+8 200 | Steep downhill with gas in the middle (from first half of the logged lake, you can reverse back here)  
+9 800 | 2-log moat  
+10 900 | 2-log moat  
+11 050 | Swing-log moat  
+11 300 | 2-log moat  
+11 400 | Steep downhill with a tricky bump  
+11 800 | Moat  
+12 900 | Moat with swing-log  
+15 200 | 2-log moat  
+15 400 | Swinging log  
+16 800 | Steep downhill with gas in the middle  
+17 950 | Swinging log  
+18 300 | 2-log moat  
+18 600 | Moat  
+19 200 | Moat  
+19 300 | Moat  
+19 950 | Moat with swing-log  
+20 100 | Swinging log  
+20 400 | Moat with swing-log  
+21 600 | Swinging log  
+21 700 | Moat with swing-log  
+22 150 | Swinging log  
+22 700 | Moat  
+23 100 | Swinging log  
+23 600 | Moat  
+25 600 | Moat  
 
 [Back to Top](#top)    
 {: style="text-align: right;"}  
