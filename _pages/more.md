@@ -923,13 +923,15 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 **Every 12 hours**
 - [ ] Six ad/VIP 3-hour cup chests
-- [ ] Three adventure tasks
+- [ ] Three adventure chests
 - [ ] Two free “Finish Now” scrap
 
 **Every 24 hours**
-- [ ] Three daily tasks
+- [ ] Daily tasks
 - [ ] 10-win cup chest
 - [ ] VIP shop chest for subscribers
+- [ ] Community showcase
+- [ ] Featured challenges
 - [ ] 10,000+ adventure 2x coins
 - [ ] Ad/VIP team ticket
 - [ ] Four free + one ad/VIP public event tickets
@@ -939,6 +941,11 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Weekly**
 - [ ] Ten free attempts at the weekly race 
 - [ ] Team km chest
+- [ ] Spend PE Shop points
+
+**Monthly**
+- [ ] Trove key chests
+- [ ] Season pass bonus chest
 
 **Always**
 - [ ] Have a cup chest timing down
