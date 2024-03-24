@@ -823,30 +823,41 @@ Note: Distances are within 1m or so. Negative rows counted from the bottom. L=Le
 **It is not necessary to always win the last race of a cup to win the cup**  
 {: .notice}   
 
-**GUIDELINES GOING INTO THE FINAL RACE**  
-
-**3+/4 gap to next player***: Cannot change result  
-***Ahead by 2***: Don't finish last   
-*Ahead by 1*: 2nd at least  
-Else: Try to win  
-
+***Guidelines going into the final race***  
 E.g. After 2 races of 3 race cup  
 
+**3+/4 gap to next player**: Cannot change result  
+
 1st | 2nd | 3rd | 4th  	
-:--: | :--: | :--: | :--:  	
-4 | 4 | 4 | **0**  	
-**6** | 2 | 2 | 2  	
-**6** | 3 | 2 | 1  	
+:--: | :--: | :--: | :--:  
+4 | 4 | 4 | **0**  
+**6** | 2 | 2 | 2  
+**6** | 3 | 2 | 1  
 **6** | 3 | 3 | 0  	
-***6*** | 4 | 1 | 1  	
-***6*** | 4 | 2 | 0  	
-***5*** | 3 | 2 | 2  	
-***5*** | 3 | 3 | 1  	
-*4* | 3 | 3 | 2  	
-*5* | 4 | 3 | 0  	
-*5* | 4 | 2 | 1  	
+
+**Ahead by 2**: Don't finish last   
+
+1st | 2nd | 3rd | 4th  	
+:--: | :--: | :--: | :--:  
+**6** | 4 | 1 | 1  
+**6** | 4 | 2 | 0  
+**5** | 3 | 2 | 2  
+**5** | 3 | 3 | 1  
+
+**Ahead by 1**: 2nd at least  
+
+1st | 2nd | 3rd | 4th  	
+:--: | :--: | :--: | :--:  
+**4** | 3 | 3 | 2  	
+**5** | 4 | 3 | 0  	
+**5** | 4 | 2 | 1  
+
+Else: Try to win  
+
+1st | 2nd | 3rd | 4th  	
+:--: | :--: | :--: | :--:  
 5 | 5 | 2 | 0  	
-5 | 5 | 1 | 1  	
+5 | 5 | 1 | 1  
 4 | 4 | 2 | 2  	
 4 | 4 | 3 | 1  	
 3 | 3 | 3 | 3  	
