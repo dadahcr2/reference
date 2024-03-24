@@ -730,9 +730,6 @@ Distance | Obstacle
 23 600 | Moat  
 25 600 | Moat  
 
-[Back to Top](#top)    
-{: style="text-align: right;"}  
-
 </details>  
 <details  markdown="block">
   <summary>
