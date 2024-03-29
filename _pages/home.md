@@ -3,7 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1220713789129887838/IMG_4483.png?ex=660ff14f&is=65fd7c4f&hm=3e8ed13b3c84b3ee253e780cf6f96adbd0adb3a03c403d2d5b90e090c6ff235a&
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1223255630114983936/IMG_4550.png?ex=66193095&is=6606bb95&hm=19f53e7a543c255866af61dca8e493d5612ff7366029957509d6a1ec2365f411&
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/5YYimlsjgBo?si=VOTWm7uRK-Bv8BcL&amp;start=259" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1220891076257251489/image0.jpg?ex=6610966b&is=65fe216b&hm=92dda4570e951f8f5a0821667234284f7630a769f326752567c95d355fd17052&
 sidebar:
