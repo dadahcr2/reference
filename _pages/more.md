@@ -801,7 +801,10 @@ Distance | Obstacle
 Glacier Cup  
 Gladiator's Gauntlet  
 Hill Climb Cup  
+Lift Off Land  
+Parkway Driving  
 Uphill Cup  
+
 
 **Four tracks**  
 Dirty Rally  
