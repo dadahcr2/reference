@@ -88,15 +88,16 @@ Track | Distance
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 34
+   Top 10 Teams Ranked after Season 35
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1213347108980129832/image0.jpg?ex=6607998d&is=65f5248d&hm=f32ae667150b6f6680c9864c6e6d0fd054df14057ee5b71b65cc8c7eb6be6680&)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1224930956650086470/IMG_4680.png?ex=661f48da&is=660cd3da&hm=be34c73a3a9718dca9c2a9a61ac7c776b4904b47207b2743ef3d7539050631fb&)
 
-- SUPREME and Discord remain #1 and #2 respectively
-- However, after two consecutive season wins, NORTH not only leads 2024 but joins Discord at #2 overall
-- EMPIRE drops behind PL National into 5th
-- A strong season for Made in Italy brings them up to #8  
+- SUPREME remains supreme at #1 in the rankings
+- A reinvigorated NORTH takes over #2 with Discord dropping to joint #3 with PL National
+- Project GER joins EMPIRE at #5
+- NORTH retains their lead for 2024  
+  
 <details markdown="block" >  
   <summary>  
       Points Calculation  
