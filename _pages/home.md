@@ -5,7 +5,7 @@ toc_sticky: true
 classes: wide
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1231053004199956501/IMG_4939.png?ex=66358e74&is=66231974&hm=68322b86ba2e6a768a973be226347bcb2ef6924ffbf520e9f6afa5e11d87ba6a&
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1231054688170803292/image0.jpg?ex=66246c85&is=66231b05&hm=6fd5abfc19c54be404842ece98ec55dd4b862af569dcd913a67c7d6672da73b3&
-tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/cVWms1NQyoo?si=1ZJer9e8DEeym4oB&amp;start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/gypvie2eAqg?si=3UAu3F0eATUHXG8E&amp;start=216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 sidebar:
   nav: "docs"
 ---
