@@ -23,39 +23,22 @@ sidebar:
 {:toc} 
 </details> -->  
 
-<details  markdown="block" >
-  <summary> 
-   New Update v1.6 Patch Notes
-  </summary>  
-	
-![](https://fingersoft.com/app/uploads/2024/03/hcr2-rollout-mar2024.jpg)  
-
-- New Vehicle: Hover Bike
-- New Feature: League Tasks
-	- Progress along the Trophy Road for extra rewards specific to your driver rank that will help prepare you for future challenges and Teams Mode races!
-- Garage Editor Improvements: You can now stack objects and view other people’s garage setups!
-- Track Editor Improvements: There is now an expert mode toggle, which enables advanced tools, such as a flattening brush or camera zoom trigger controls
-- Mega Chest: A new way to earn precious resources
-- New Cups: Parkway Driving, Lift Off Land
-- Scooter Wings Tune Part balance tweaks
-- Various bug fixes
-
-</details>  
 
 <details  markdown="block" open>
   <summary> 
-   April'24 Keys
+   May'24 Keys
   </summary>  
 
 Track | Distance 
 -- | --  
-**Countryside** | 166m1️⃣ / 698m1️⃣ / 850m1️⃣ / 5036m1️⃣ / 5359m3️⃣ up in the house / 5614m7️⃣Air / 5736m1️⃣ / 5792m3️⃣  
-**Desert** | 427m1️⃣ / 1362m1️⃣ / 1814m1️⃣ / 4666m7️⃣above / 5390m1️⃣ / 5636m3️⃣below / 5971m3️⃣Air / 6440m1️⃣above  
-**Beach** | 206m1️⃣ / 476m1️⃣ / 988m1️⃣ / 4555m7️⃣below / 5118m3️⃣top / 5010m1️⃣ / 5854m1️⃣ / 5936m3️⃣Air  
-**Backwater** | 56m1️⃣ boxes / 342m1️⃣ / 780m1️⃣ / 3598m3️⃣ below / 4363m7️⃣Air / 4517m1️⃣ / 5137m3️⃣Air / 5304m1️⃣  
-**Overspill** | 245m1️⃣ / 442m1️⃣below / 813m1️⃣ / 3976m7️⃣Air / 4534m1️⃣ / 5071m3️⃣top / 5536m1️⃣below / 5671m3️⃣air
+**Countryside** | 1202m (Jump carefully + pick up fuel tank and get key), 1299m (Jump a little bit for the key), 1800m, 2993m, 3244m7️⃣ (Jump onto the top of barnhouse for the key), 3778m, 5656m (Behind the coins), 5992m3️⃣   
+**Mountain** | 855m (on the cave, watch your head!), 1093m3️⃣ (on the left side of tunnel, watch that your rear wheels don’t get stuck), 1225m, 2210m7️⃣ (jump a bit onto the top and get the key), 2855m (go slow on the downhill and get the key by the logs), 3172m (jump onto the top of tunnel for the key), 4593m, 6376m3️⃣ (use thrusters a little bit for the key)  
+**Rustbucket Reef** |  484m3️⃣ (jump onto the top of the tube for the key), 666m7️⃣ (behind the ship, go backwards for the key), 1317m, 1854m, 2959m, 3888m, 4974m (behind the coins), 6187m3️⃣ (drive carefully after leaving the tube at 6155m and get the key on the ground)  
+**Backwater Bog** | 7103️⃣ (use heavyweight or tap both pedals with jumpshocks to break the wood for the key), 1269m, 1423m7️⃣ (use heavyweight or tap both pedals with jumpshocks to break the foodtruck for the key), 1587m, 2916m, 3850m, 5005m, 5514m3️⃣ (after you picking the fuel tank, use thruster a bit for the key)  
+**Overspill Fun Rig** | 540m (drive on tunnel at 300m, and then jump a bit for the key, watch your head), 970m (behind the coins, use the medium trampoline jump to jump onto the top for the key), 1138m (use thruster a little bit for the key, watch your fuel), 1380m, 2855m, 3770m (jump a bit for the key), 4893m, 6003m (take the low road at 5774mand drive on the cave until you found the key)
 
-
+- *source: yuliayu*
+  
 </details>  
 
 ## Events  
