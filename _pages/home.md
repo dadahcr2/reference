@@ -74,12 +74,13 @@ Track | Distance
    Top 10 Teams Ranked after Season 35
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1224930956650086470/IMG_4680.png?ex=661f48da&is=660cd3da&hm=be34c73a3a9718dca9c2a9a61ac7c776b4904b47207b2743ef3d7539050631fb&)
+![](https://cdn.discordapp.com/attachments/858336498159714324/1236111909527224341/IMG_5115.png?ex=6636d26d&is=663580ed&hm=b9715f1ba69d2b5eed77c35625a3934fa83add4729faa39a599aba62249c74cd&)  
 
-- SUPREME remains supreme at #1 in the rankings
-- A reinvigorated NORTH takes over #2 with Discord dropping to joint #3 with PL National
-- Project GER joins EMPIRE at #5
-- NORTH retains their lead for 2024  
+- SUPREME retains #1 in the rankings ahead of Discord
+- PL National drops from tied 3rd to 5th behind Project GER
+- EMPIRE drops a touch from tied 5th to 6th
+- French Spirit solid at #7
+- NORTH retains their lead for 2024 but SUPREME are now only 1 point behind  
   
 <details markdown="block" >  
   <summary>  
