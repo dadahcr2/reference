@@ -74,7 +74,7 @@ Track | Distance
    Top 10 Teams Ranked after Season 36
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1236111909527224341/IMG_5115.png?ex=6636d26d&is=663580ed&hm=b9715f1ba69d2b5eed77c35625a3934fa83add4729faa39a599aba62249c74cd&)  
+![](https://cdn.discordapp.com/attachments/858336498159714324/1236111909527224341/IMG_5115.png?ex=663c186d&is=663ac6ed&hm=290df96ac2a680f9ff309f33f04f74582607659366ad3e06a48b55ce5383b731&)  
 
 - SUPREME retains #1 in the rankings ahead of Discord
 - PL National drops from tied 3rd to 5th behind Project GER
