@@ -75,6 +75,7 @@ Track | Distance
   </summary>
 
 **2024 Leaderboard**  
+
 Pos | Team | Total  
 :--: | :--: | :--:  
 1 | N O R T H | 44  
@@ -89,6 +90,7 @@ Pos | Team | Total
 10  ⬆︎1 | STORMO | 9  
 
 **Team Points after Season 36**  
+
 Rank | Team | Points  
 :--: | :--: | :--:  
 1 | SÜPREME | 66 (-1)  
