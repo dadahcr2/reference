@@ -74,7 +74,33 @@ Track | Distance
    Top 10 Teams Ranked after Season 36
   </summary>
 
-![](https://cdn.discordapp.com/attachments/858336498159714324/1236111909527224341/IMG_5115.png?ex=663c186d&is=663ac6ed&hm=290df96ac2a680f9ff309f33f04f74582607659366ad3e06a48b55ce5383b731&)  
+**2024 Leaderboard**
+Pos | Team | Total  
+:--: | :--: | :--:  
+1 | N O R T H | 44  
+2 | SÜPREME | 43  
+3 | Project GER | 39  
+4 | French Spirit | 31  
+5  ⬆︎2 | Discord | 30  
+5  ⬇︎1 | E M P I R E | 30  
+7  ⬇︎1 | PL NATIONAL | 27  
+8  ⬆︎1 | BAW💥WNA | 12  
+9  ⬇︎1 | Made in Italy | 10  
+10  ⬆︎1 | STORMO | 9  
+
+**Team Points after Season 36**
+Rank | Team | Points  
+:--: | :--: | :--:  
+1 | SÜPREME | 66 (-1)  
+2 | N O R T H | 55 (+2)  
+3 | Discord | 45 (+3)  
+4  ⬆︎1 | Project GER | 43 (+2)  
+5  ⬇︎2 | PL NATIONAL | 40 (-2)  
+6  ⬇︎1 | E M P I R E | 38 (-3)  
+7 | French Spirit | 27 (+3)  
+8 | Made in Italy | 8 (-1)  
+8  ⬆︎4 | BAW💥WNA | 8 (+5)  
+10  ⬆︎2 | STORMO | 6 (+3)  
 
 - SUPREME retains #1 in the rankings ahead of Discord
 - PL National drops from tied 3rd to 5th behind Project GER
