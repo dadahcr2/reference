@@ -74,7 +74,7 @@ Track | Distance
    Top 10 Teams Ranked after Season 36
   </summary>
 
-**2024 Leaderboard**
+**2024 Leaderboard**  
 Pos | Team | Total  
 :--: | :--: | :--:  
 1 | N O R T H | 44  
@@ -88,7 +88,7 @@ Pos | Team | Total
 9  ⬇︎1 | Made in Italy | 10  
 10  ⬆︎1 | STORMO | 9  
 
-**Team Points after Season 36**
+**Team Points after Season 36**  
 Rank | Team | Points  
 :--: | :--: | :--:  
 1 | SÜPREME | 66 (-1)  
