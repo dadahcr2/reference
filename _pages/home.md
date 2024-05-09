@@ -87,7 +87,7 @@ Track | Distance
 9  ⬇︎1 | Made in Italy | 10  
 10  ⬆︎1 | STORMO | 9  
 
-Overall Team Points  
+**Overall Team Points**  
 
 Rank | Team | Points  
 :--: | :--: | :--:  
