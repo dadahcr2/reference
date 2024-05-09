@@ -74,9 +74,7 @@ Track | Distance
    Top 10 Teams Ranked after Season 36
   </summary>
 
-**2024 Leaderboard**  
-
-Pos | Team | Total  
+2024 | Team | Total  
 :--: | :--: | :--:  
 1 | N O R T H | 44  
 2 | SÜPREME | 43  
