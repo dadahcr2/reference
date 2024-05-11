@@ -92,7 +92,7 @@ Rank | Team | Points |  | 2024 | Team | Total
 8 ↑4 | BAW💥WNA | 8 (+5) |  | 9  ↓1 | Made in Italy | 10  
 10 ↑2 | STORMO | 6 (+3) |  | 10  ↑1 | STORMO | 9  
 
-- SUPREME retains #1 in the rankings ahead of Discord
+- SUPREME retains #1 in the rankings ahead of NORTH and Discord
 - PL National drops from tied 3rd to 5th behind Project GER
 - EMPIRE drops a touch from tied 5th to 6th
 - French Spirit solid at #7
