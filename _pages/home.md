@@ -4,9 +4,9 @@ toc: false
 toc_sticky: true
 classes: wide
 
-scores: https://cdn.discordapp.com/attachments/858851529058418765/1238484392268140554/IMG_5187.png?ex=663f73f9&is=663e2279&hm=2b1613103a3dbf4a3cda08249b5ce26eb39e9fe0e239d08f0a9d6bf1cf49784f&
+scores: https://cdn.discordapp.com/attachments/858851529058418765/1241011277212553226/IMG_5245.png?ex=6648a551&is=664753d1&hm=7becf5d7619c53a2b2598fa81d0d54bd6916e27bd37734743eeb1ef1091dd597&
 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1238492192272814201/image0.jpg?ex=663f7b3c&is=663e29bc&hm=e73d3f59e8bb1fa995fc536378b0f862d207a3e4a387e4aab27be89fba4617e6&
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1241240649378824332/image0.jpg?ex=66497aef&is=6648296f&hm=22b73b1e7fe5eb17832f58e8cf55d5c5ee322e3a4a51a9fcbaab2d59672a0e3a&
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/S872AkLg4Ec?si=o8ZTn3d_4D7bCLF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
