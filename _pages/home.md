@@ -27,7 +27,7 @@ sidebar:
 {:toc} 
 </details> -->  
 
-[New features HCR2 v1.61 rolling out now](https://fingersoft.com/news/2024/05/20/patch-notes-hcr2-v1-61-0/)
+[HCR2 v1.61 rolling out now](https://fingersoft.com/news/2024/05/20/patch-notes-hcr2-v1-61-0/)
 
 
 <details  markdown="block" open>
