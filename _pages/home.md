@@ -80,18 +80,18 @@ Track | Distance
    Top 10 Teams Ranked after Season 36
   </summary>
 
-Rank | Team | Points |  ╏  | 2024 | Team | Total  
+Rank | Team | Points |  ╎  | 2024 | Team | Total  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-1 | SÜPREME | 66 (-1) |  ╏  | 1 | N O R T H | 44  
-2 | N O R T H | 55 (+2) |  ╏  | 2 | SÜPREME | 43  
-3 | Discord | 45 (+3) |  ╏  | 3 | Project GER | 39  
-4 ↑1 | Project GER | 43 (+2) |  ╏  | 4 | French Spirit | 31  
-5 ↓2 | PL NATIONAL | 40 (-2) |  ╏  | 5  ↑2 | Discord | 30  
-6 ↓1 | E M P I R E | 38 (-3) |  ╏  | 5  ↓1 | E M P I R E | 30  
-7 | French Spirit | 27 (+3) |  ╏  | 7  ↓1 | PL NATIONAL | 27  
-8 | Made in Italy | 8 (-1) |  ╏  | 8  ↑1 | BAW💥WNA | 12  
-8 ↑4 | BAW💥WNA | 8 (+5) |  ╏  | 9  ↓1 | Made in Italy | 10  
-10 ↑2 | STORMO | 6 (+3) |  ╏  | 10  ↑1 | STORMO | 9  
+1 | SÜPREME | 66 (-1) |  ╎  | 1 | N O R T H | 44  
+2 | N O R T H | 55 (+2) |  ╎  | 2 | SÜPREME | 43  
+3 | Discord | 45 (+3) |  ╎  | 3 | Project GER | 39  
+4 ↑1 | Project GER | 43 (+2) |  ╎  | 4 | French Spirit | 31  
+5 ↓2 | PL NATIONAL | 40 (-2) |  ╎  | 5  ↑2 | Discord | 30  
+6 ↓1 | E M P I R E | 38 (-3) |  ╎  | 5  ↓1 | E M P I R E | 30  
+7 | French Spirit | 27 (+3) |  ╎  | 7  ↓1 | PL NATIONAL | 27  
+8 | Made in Italy | 8 (-1) |  ╎  | 8  ↑1 | BAW💥WNA | 12  
+8 ↑4 | BAW💥WNA | 8 (+5) |  ╎  | 9  ↓1 | Made in Italy | 10  
+10 ↑2 | STORMO | 6 (+3) |  ╎  | 10  ↑1 | STORMO | 9  
 
 - SUPREME retains #1 in the rankings ahead of NORTH and Discord
 - PL National drops from tied 3rd to 5th behind Project GER
