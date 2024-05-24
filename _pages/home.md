@@ -6,7 +6,7 @@ classes: wide
 
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1243547394797211688/IMG_5336.png
 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1243547719101055057/Image.png
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1243547719101055057/Image.png?ex=6651df90&is=66508e10&hm=cbbac6b5395b94c2d690ff0a577cc8859ab1315f54e3d7406cc5a98c5a2aaa9e&
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/_YFOrMYUIbw?si=3CREMibW_H_KdAoz&amp;start=230" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
