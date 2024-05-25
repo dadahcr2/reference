@@ -52,7 +52,8 @@ Track | Distance
 <details  markdown="block" open>
   <summary> 
    Scores
-  </summary>
+  </summary>  
+	
 Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dunes (Beach Cup 4M) | Score  
 :--: | :--: | :--: | :--: | :--: | :--:    
 15000 | 1 s | 400 m | 40 s | 7 s | 15000  
