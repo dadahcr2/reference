@@ -72,7 +72,7 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
 2000 | 15 s | 107 m | 113 s | 24 s | 2000  
 1000 | 20 s | 0 m | 140 s | 30 s | 1000  
   
-![]({{ page.scores }})  
+<!-- ![]({{ page.scores }})  -->
   	
 </details>  
 
