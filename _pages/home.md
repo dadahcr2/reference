@@ -53,8 +53,6 @@ Track | Distance
   <summary> 
    Scores
   </summary>
-![]({{ page.scores }})  
-  	
 Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dunes (Beach Cup 4M) | Score  
 :--: | :--: | :--: | :--: | :--: | :--:    
 15000 | 1 s | 400 m | 40 s | 7 s | 15000  
@@ -72,6 +70,8 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
 3000 | 12.8 s | 151 m | 102.2 s | 21.3 s | 3000  
 2000 | 14.9 s | 107 m | 113.3 s | 23.9 s | 2000  
 1000 | 20 s | 0 m | 140 s | 30 s | 1000  
+  
+![]({{ page.scores }})  
   	
 </details>  
 
