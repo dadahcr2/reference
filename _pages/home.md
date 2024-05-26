@@ -92,7 +92,7 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
 
 {{ page.tutorial }}  
 
-![](https://youtu.be/tgyqcEws6kI?si=VGRhKIMpj6Gq2In6)
+![T2 Bus Underwater Jump the Easy Way](https://youtu.be/tgyqcEws6kI?si=VGRhKIMpj6Gq2In6)
 &nbsp;
 </details>
 
