@@ -90,7 +90,9 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
    Tutorial
   </summary>
 
-{{ page.tutorial }}
+{{ page.tutorial }}  
+
+![](https://youtu.be/tgyqcEws6kI?si=VGRhKIMpj6Gq2In6)
 &nbsp;
 </details>
 
