@@ -6,7 +6,7 @@ classes: wide
 
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1243547394797211688/IMG_5336.png
 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1243547719101055057/Image.png?ex=6651df90&is=66508e10&hm=cbbac6b5395b94c2d690ff0a577cc8859ab1315f54e3d7406cc5a98c5a2aaa9e&
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1246573540212215849/Image.png?ex=665ce194&is=665b9014&hm=56a0d45b25f352eb6b94351f92242cb746d66cf36a2f7acb45a2571e6aff45b7&
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/abBB1Bd5FMw?si=VJT7Lh7o0XDNG6Xc&amp;start=213" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,23 +54,23 @@ Track | Distance
    Scores
   </summary>  
 	
-Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dunes (Beach Cup 4M) | Score  
+Sun, Sand, Spinal Injuries | Nowhere Road (Travel Cup -5L) | Climb it (Uphill) | Classic | To the Bottom (Water Run) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
-15000 | 1 s | 400 m | 40 s | 7 s | 15000  
-14000 | 1.7 s | 385 m | 43.6 s | 7.8 s | 14000  
-13000 | 2.4 s | 370 m | 47.4 s | 8.7 s | 13000  
-12000 | 3.2 s | 355 m | 51.4 s | 9.6 s | 12000  
-11000 | 3.9 s | 338 m | 55.5 s | 10.6 s | 11000  
-10000 | 4.8 s | 321 m | 59.8 s | 11.6 s | 10000  
-9000 | 5.6 s | 302 m | 64.4 s | 12.6 s | 9000  
-8000 | 6.6 s | 283 m | 69.3 s | 13.7 s | 8000  
-7000 | 7.6 s | 262 m | 74.5 s | 14.9 s | 7000  
-6000 | 8.6 s | 239 m | 80.2 s | 16.3 s | 6000  
-5000 | 9.8 s | 214 m | 86.5 s | 17.7 s | 5000  
-4000 | 11.2 s | 185 m | 93.7 s | 19.4 s | 4000  
-3000 | 12.8 s | 151 m | 102.2 s | 21.3 s | 3000  
-2000 | 14.9 s | 107 m | 113.3 s | 23.9 s | 2000  
-1000 | 20 s | 0 m | 140 s | 30 s | 1000  
+15000 | 8 s | 625 m | 8 s | 1000 m | 15000  
+14000 | 9 s | 602 m | 9 s | 964 m | 14000  
+13000 | 10 s | 579 m | 10 s | 926 m | 13000  
+12000 | 11.1 s | 554 m | 11.1 s | 886 m | 12000  
+11000 | 12.2 s | 528 m | 12.2 s | 845 m | 11000  
+10000 | 13.4 s | 501 m | 13.4 s | 802 m | 10000  
+9000 | 14.6 s | 472 m | 14.6 s | 756 m | 9000  
+8000 | 15.9 s | 442 m | 15.9 s | 707 m | 8000  
+7000 | 17.3 s | 409 m | 17.3 s | 655 m | 7000  
+6000 | 18.9 s | 374 m | 18.9 s | 598 m | 6000  
+5000 | 20.6 s | 334 m | 20.6 s | 535 m | 5000  
+4000 | 22.5 s | 289 m | 22.5 s | 463 m | 4000  
+3000 | 24.8 s | 236 m | 24.8 s | 378 m | 3000  
+2000 | 27.8 s | 167 m | 27.8 s | 267 m | 2000  
+1000 | 35 s | 0 m | 35 s | 0 m | 1000  
   
 <!-- ![]({{ page.scores }})  -->
   	
