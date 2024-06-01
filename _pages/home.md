@@ -111,7 +111,7 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 5 ↑1 | E M P I R E | 41 (+3) |  ╎  | 5 | Discord | 41  
 6 ↓1 | PL NATIONAL | 32 (-8) |  ╎  | 6  ↓2 | French Spirit | 31  
 7 | French Spirit | 21 (-6) |  ╎  | 7 | PL NATIONAL | 27  
-8 ↑5 | Low||Lands | 10 (+7) |  ╎  | 8  ↑3 | Low||Lands | 14  
+8 ↑5 | LowIILands | 10 (+7) |  ╎  | 8  ↑3 | Low||Lands | 14  
 9 ↑10 | UNIVERSE | 7 (+6) |  ╎  | 9  ↓1 | BAW💥WNA | 12  
 9 ↓1 | Made in Italy | 7 (-1) |  ╎  | 10  ↑4 | UNIVERSE | 11  
 
