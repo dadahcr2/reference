@@ -104,22 +104,22 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
 
 Rank | Team | Points |  ╎  | 2024 | Team | Total  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-1 | SÜPREME | 66 (-1) |  ╎  | 1 | N O R T H | 44  
-2 | N O R T H | 55 (+2) |  ╎  | 2 | SÜPREME | 43  
-3 | Discord | 45 (+3) |  ╎  | 3 | Project GER | 39  
-4 ↑1 | Project GER | 43 (+2) |  ╎  | 4 | French Spirit | 31  
-5 ↓2 | PL NATIONAL | 40 (-2) |  ╎  | 5  ↑2 | Discord | 30  
-6 ↓1 | E M P I R E | 38 (-3) |  ╎  | 5  ↓1 | E M P I R E | 30  
-7 | French Spirit | 27 (+3) |  ╎  | 7  ↓1 | PL NATIONAL | 27  
-8 | Made in Italy | 8 (-1) |  ╎  | 8  ↑1 | BAW💥WNA | 12  
-8 ↑4 | BAW💥WNA | 8 (+5) |  ╎  | 9  ↓1 | Made in Italy | 10  
-10 ↑2 | STORMO | 6 (+3) |  ╎  | 10  ↑1 | STORMO | 9  
+1 ↑1 | N O R T H | 56 (+1) |  ╎  | 1 | N O R T H | 53  
+1 | SÜPREME | 56 (-10) |  ╎  | 2  ↑1 | Project GER | 49  
+3 | Discord | 47 (+2) |  ╎  | 3  ↓1 | SÜPREME | 45  
+4 | Project GER | 46 (+3) |  ╎  | 4  ↑1 | E M P I R E | 42  
+5 ↑1 | E M P I R E | 41 (+3) |  ╎  | 5 | Discord | 41  
+6 ↓1 | PL NATIONAL | 32 (-8) |  ╎  | 6  ↓2 | French Spirit | 31  
+7 | French Spirit | 21 (-6) |  ╎  | 7 | PL NATIONAL | 27  
+8 ↑5 | Low||Lands | 10 (+7) |  ╎  | 8  ↑3 | Low||Lands | 14  
+9 ↑10 | UNIVERSE | 7 (+6) |  ╎  | 9  ↓1 | BAW💥WNA | 12  
+9 ↓1 | Made in Italy | 7 (-1) |  ╎  | 10  ↑4 | UNIVERSE | 11  
 
-- SUPREME retains #1 in the rankings ahead of NORTH and Discord
-- PL National drops from tied 3rd to 5th behind Project GER
-- EMPIRE drops a touch from tied 5th to 6th
-- French Spirit solid at #7
-- NORTH retains their lead for 2024 but SUPREME are now only 1 point behind  
+- NORTH rises up to join SUPREME at the top!
+- Discord and Project GER remain 3rd and 4th respectively
+- EMPIRE moved up to #5, switching places with PL National
+- French Spirit continue their hold of position #7
+- NORTH extend their lead for 2024 with SUPREME dropping below Project GER
   
 <details markdown="block" >  
   <summary>  
