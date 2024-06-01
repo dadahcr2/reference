@@ -99,7 +99,7 @@ Return of the Jetbike | Demolition 5 | Underwater Long Jump | Uphill 4 | The Dun
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 36
+   Top 10 Teams Ranked after Season 37
   </summary>
 
 Rank | Team | Points |  ╎  | 2024 | Team | Total  
