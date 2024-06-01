@@ -35,6 +35,17 @@ sidebar:
    June'24 Keys
   </summary>  
 
+Countryside | Winter | Patchwork Plant | Cuptown  | Sky Rock Outpost  
+:--: | :--: | :--: | :--: | :--:  
+1298m3️⃣ | 793m3️⃣ | 306m3️⃣ | 421m3️⃣ | 475m3️⃣  
+3465m | 3668m | 3289m | 1850m | 2948m7️⃣  
+4349m | 4065m7️⃣ | 3712m7️⃣ | 2348m | 3863m  
+5615m7️⃣ | 4394m | 4129m | 2863m7️⃣ | 4811m  
+5657m | 5544m | 4896m3️⃣ | 3375m | 5826m  
+5736m | 6010m3️⃣ | 5250m | 3741m | 6011m3️⃣  
+5791m3️⃣ | 6460m | 5768m | 4530m3️⃣ | 6169m  
+5986m | 6882m | 6493m | 4586m | 6442m  
+	
 ![](https://cdn.discordapp.com/attachments/1124712591848112238/1246471759629127721/222.png?ex=665c82c9&is=665b3149&hm=ec98a2a0dee36289cea39046bca0e706b957c7eef3734038b18a8ce78ca7a123&)
   
 </details>  
