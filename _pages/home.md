@@ -92,7 +92,6 @@ Sun, Sand, Spinal Injuries | Nowhere Road (Travel Cup -5L) | Climb it (Uphill) |
 
 {{ page.tutorial }}  
 
-![T2 Bus Underwater Jump the Easy Way](https://youtu.be/tgyqcEws6kI?si=VGRhKIMpj6Gq2In6)
 &nbsp;
 </details>
 
