@@ -35,15 +35,7 @@ sidebar:
    May'24 Keys
   </summary>  
 
-Track | Distance 
--- | --  
-**Countryside** | 1202m (Jump carefully + pick up fuel tank and get key), 1299m (Jump a little bit for the key), 1800m, 2993m, 3244m7️⃣ (Jump onto the top of barnhouse for the key), 3778m, 5656m (Behind the coins), 5992m3️⃣   
-**Mountain** | 855m (on the cave, watch your head!), 1093m3️⃣ (on the left side of tunnel, watch that your rear wheels don’t get stuck), 1225m, 2210m7️⃣ (jump a bit onto the top and get the key), 2855m (go slow on the downhill and get the key by the logs), 3172m (jump onto the top of tunnel for the key), 4593m, 6376m3️⃣ (use thrusters a little bit for the key)  
-**Rustbucket Reef** |  484m3️⃣ (jump onto the top of the tube for the key), 666m7️⃣ (behind the ship, go backwards for the key), 1317m, 1854m, 2959m, 3888m, 4974m (behind the coins), 6187m3️⃣ (drive carefully after leaving the tube at 6155m and get the key on the ground)  
-**Backwater Bog** | 7103️⃣ (use heavyweight or tap both pedals with jumpshocks to break the wood for the key), 1269m, 1423m7️⃣ (use heavyweight or tap both pedals with jumpshocks to break the foodtruck for the key), 1587m, 2916m, 3850m, 5005m, 5514m3️⃣ (after you picking the fuel tank, use thruster a bit for the key)  
-**Overspill Fun Rig** | 540m3️⃣ (drive on tunnel at 300m, and then jump a bit for the key, watch your head), 970m (behind the coins, use the medium trampoline jump to jump onto the top for the key), 1138m7️⃣ (use thruster a little bit for the key, watch your fuel), 1380m, 2855m, 3770m (jump a bit for the key), 4893m, 6003m3️⃣ (take the low road at 5774m and drive on the cave until you found the key)
-
-- *source: yuliayu*
+![](https://cdn.discordapp.com/attachments/1124712591848112238/1246471759629127721/222.png?ex=665c82c9&is=665b3149&hm=ec98a2a0dee36289cea39046bca0e706b957c7eef3734038b18a8ce78ca7a123&)
   
 </details>  
 
