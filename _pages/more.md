@@ -803,6 +803,7 @@ Gladiator's Gauntlet
 Hill Climb Cup  
 Lift Off Land  
 Parkway Driving  
+The Jungle Brake  
 Uphill Cup  
 
 
