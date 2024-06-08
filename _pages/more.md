@@ -932,6 +932,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] Two free “Finish Now” scrap
 
 **Every 24 hours**
+- [ ] Community Showcase Track
 - [ ] Daily tasks
 - [ ] 10-win cup chest
 - [ ] VIP shop chest for subscribers
@@ -940,7 +941,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] 10,000+ adventure 2x coins
 - [ ] Ad/VIP team ticket
 - [ ] Four free + one ad/VIP public event tickets
-- [ ] Four free + one ad/VIP special adventure tickets
+- [ ] One free + one ad/VIP special adventure tickets
 - [ ] Ten free attempts at the daily race
 
 **Weekly**
