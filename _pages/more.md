@@ -457,7 +457,37 @@ Select the following links for the corresponding images:
 </details>  
 	
 ## Adventures  	
+<details markdown="block">
+  <summary>
+	  Sportscar Adventure Mastery
+  </summary>
+	
+Track | Easy | Record  
+ :--: |  :--: |  :--:  
+countryside | 20/20/20/5 ![OT] ![Wi] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+forest | 20/20/20/5 ![OT] ![Wi] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+city | 20/20/20/1 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+mountain | 20/20/20/1 ![OT] ![Fume] ![WB] remove the cage in the beginning | 20/20/20/20 ![OT] ![Fume] ![WB] remove the cage in the beginning   
+rustbucket-reef | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/12 ![JS] ![LB] ![Wi]   
+winter | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+mines | 20/20/20/20 ![JS] ![Fume] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+desert-valley | 20/20/20/1 ![JS] ![Th] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+beach | 20/20/20/7 ![OT] ![Wi] ![WB] | 20/20/20/20 ![JS] ![WB] ![Wi]   
+backwater-bog | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+racer-glacier | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+patchwork-plant | 20/20/20/8 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+gloomvale | 20/20/20/5 ![JS] ![LB] ![Wi] easiest on Friday | 20/20/20/5 ![JS] ![LB] ![Wi] world record can be done on any day   
+overspill-fun-rig | 20/20/20/10 ![JS] ![LB] ![Wi] | 20/20/20/10 ![JS] ![LB] ![Wi]   
+canyon-arena | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+cuptown | 20/20/20/1 ![JS] ![LB] ![Wi] | 20/20/20/10 ![JS] ![LB] ![Wi]   
+sky-rock-outpost | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+forest-trials | 20/20/20/5 ![JS] ![WB] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
+intense-city | 20/20/20/20 ![Fume] ![JS] ![Wi] | 20/20/20/20 ![Fume] ![JS] ![WB]   
+raging-winter | 20/20/20/5 ![OT] ![Th] ![Wi] | 20/20/20/1 ![JS] ![Th] ![Wi]   
 
+*Source: Zorro's Adventure Setup Discord Server*
+  
+</details>  
 <details  markdown="block">
   <summary>
     Setups
