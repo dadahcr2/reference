@@ -462,28 +462,28 @@ Select the following links for the corresponding images:
 	  Sportscar Adventure Mastery
   </summary>
 	
-Track | Easy | Record  
+Track | WR | Easier  
  :--: |  :--: |  :--:  
-countryside | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
-forest | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
-city | Df=1 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-mountain | Df=1 ![OT] ![Fume] ![WB] | ![OT] ![Fume] ![WB]   
-rustbucket reef | Df=5 ![JS] ![LB] ![Wi] | Df=12 ![JS] ![LB] ![Wi]   
-winter | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-mines | ![JS] ![Fume] ![Wi] | ![JS] ![LB] ![Wi]   
-desert-valley | Df=1 ![JS] ![Th] ![Wi] | ![JS] ![LB] ![Wi]   
-beach | Df=7 ![OT] ![Wi] ![WB] | ![JS] ![WB] ![Wi]   
-backwater bog | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-racer glacier | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-patchwork plant | Df=8 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-gloomvale | Df=5 ![JS] ![LB] ![Wi] Friday | Df=5 ![JS] ![LB] ![Wi] any day   
-overspill fun rig | Df=10 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
-canyon arena | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-cuptown | Df=1 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
-sky rock outpost | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-forest trials | Df=5 ![JS] ![WB] ![Fume] | ![JS] ![LB] ![Wi]   
-intense city | ![Fume] ![JS] ![Wi] | ![Fume] ![JS] ![WB]   
-raging winter | Df=5 ![OT] ![Th] ![Wi] | Df=1 ![JS] ![Th] ![Wi]   
+countryside | ![JS] ![LB] ![Wi]  | Df=5 ![OT] ![Wi] ![Fume]  
+forest | ![JS] ![LB] ![Wi]  | Df=5 ![OT] ![Wi] ![Fume]  
+city | ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![LB] ![Wi]  
+mountain | ![OT] ![Fume] ![WB]  | Df=1 ![OT] ![Fume] ![WB]  
+rustbucket reef | Df=12 ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
+winter | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
+mines | ![JS] ![LB] ![Wi]  | ![JS] ![Fume] ![Wi]  
+desert valley | ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![Th] ![Wi]  
+beach | ![JS] ![WB] ![Wi]  | Df=7 ![OT] ![Wi] ![WB]  
+backwater bog | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
+racer glacier | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
+patchwork plant | ![JS] ![LB] ![Wi]  | Df=8 ![JS] ![LB] ![Wi]  
+gloomvale | Df=5 ![JS] ![LB] ![Wi] any day  | Df=5 ![JS] ![LB] ![Wi]  Friday easiest  
+overspill fun rig | Df=10 ![JS] ![LB] ![Wi]  | Df=10 ![JS] ![LB] ![Wi]  
+canyon arena | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
+cuptown | Df=10 ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![LB] ![Wi]  
+sky rock outpost | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
+forest trials | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![WB] ![Fume]  
+intense city | ![Fume] ![JS] ![WB]  | ![Fume] ![JS] ![Wi]  
+raging winter | Df=1 ![JS] ![Th] ![Wi]  | Df=5 ![OT] ![Th] ![Wi]  
 
 
 *Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
