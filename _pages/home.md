@@ -34,6 +34,7 @@ sidebar:
   <summary>
 	  Sportscar Adventure Mastery
   </summary>
+	
 Track | Easy | Record  
  :--: |  :--: |  :--:  
 countryside | 20/20/20/5 ![OT] ![Wi] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
