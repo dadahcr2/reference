@@ -467,7 +467,7 @@ Track | Easy | Record
 countryside | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
 forest | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
 city | Df=1 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-mountain | Df=1 ![OT] ![Fume] ![WB] remove the cage in the beginning | ![OT] ![Fume] ![WB] remove the cage in the beginning   
+mountain | Df=1 ![OT] ![Fume] ![WB] | ![OT] ![Fume] ![WB]   
 rustbucket-reef | Df=5 ![JS] ![LB] ![Wi] | Df=12 ![JS] ![LB] ![Wi]   
 winter | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
 mines | ![JS] ![Fume] ![Wi] | ![JS] ![LB] ![Wi]   
@@ -476,7 +476,7 @@ beach | Df=7 ![OT] ![Wi] ![WB] | ![JS] ![WB] ![Wi]
 backwater-bog | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
 racer-glacier | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
 patchwork-plant | Df=8 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
-gloomvale | Df=5 ![JS] ![LB] ![Wi] easiest on Friday | Df=5 ![JS] ![LB] ![Wi] world record can be done on any day   
+gloomvale | Df=5 ![JS] ![LB] ![Wi] Friday | Df=5 ![JS] ![LB] ![Wi] any day   
 overspill-fun-rig | Df=10 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
 canyon-arena | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
 cuptown | Df=1 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
