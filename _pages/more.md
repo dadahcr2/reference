@@ -485,7 +485,7 @@ forest trials | 20/20/20/5 ![JS] ![WB] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]
 intense city | 20/20/20/20 ![Fume] ![JS] ![Wi] | 20/20/20/20 ![Fume] ![JS] ![WB]   
 raging winter | 20/20/20/5 ![OT] ![Th] ![Wi] | 20/20/20/1 ![JS] ![Th] ![Wi]   
 
-*Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh>*
+*Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
   
 </details>  
 <details  markdown="block">
