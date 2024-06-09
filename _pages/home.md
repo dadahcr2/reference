@@ -57,6 +57,7 @@ sky-rock-outpost | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]
 forest-trials | 20/20/20/5 ![JS] ![WB] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
 intense-city | 20/20/20/20 ![Fume] ![JS] ![Wi] | 20/20/20/20 ![Fume] ![JS] ![WB]   
 raging-winter | 20/20/20/5 ![OT] ![Th] ![Wi] | 20/20/20/1 ![JS] ![Th] ![Wi]   
+
 *Source: Zorro's Adventure Setup Discord Server*
   
 </details>  
