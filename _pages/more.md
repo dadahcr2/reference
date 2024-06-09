@@ -464,26 +464,27 @@ Select the following links for the corresponding images:
 	
 Track | Easy | Record  
  :--: |  :--: |  :--:  
-countryside | 20/20/20/5 ![OT] ![Wi] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-forest | 20/20/20/5 ![OT] ![Wi] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-city | 20/20/20/1 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-mountain | 20/20/20/1 ![OT] ![Fume] ![WB] remove the cage in the beginning | 20/20/20/20 ![OT] ![Fume] ![WB] remove the cage in the beginning   
-rustbucket reef | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/12 ![JS] ![LB] ![Wi]   
-winter | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-mines | 20/20/20/20 ![JS] ![Fume] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-desert valley | 20/20/20/1 ![JS] ![Th] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-beach | 20/20/20/7 ![OT] ![Wi] ![WB] | 20/20/20/20 ![JS] ![WB] ![Wi]   
-backwater bog | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-racer glacier | 20/20/20/5 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-patchwork plant | 20/20/20/8 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-gloomvale | 20/20/20/5 ![JS] ![LB] ![Wi] easiest on Friday | 20/20/20/5 ![JS] ![LB] ![Wi] world record can be done on any day   
-overspill fun rig | 20/20/20/10 ![JS] ![LB] ![Wi] | 20/20/20/10 ![JS] ![LB] ![Wi]   
-canyon arena | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-cuptown | 20/20/20/1 ![JS] ![LB] ![Wi] | 20/20/20/10 ![JS] ![LB] ![Wi]   
-sky rock outpost | 20/20/20/20 ![JS] ![LB] ![Wi] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-forest trials | 20/20/20/5 ![JS] ![WB] ![Fume] | 20/20/20/20 ![JS] ![LB] ![Wi]   
-intense city | 20/20/20/20 ![Fume] ![JS] ![Wi] | 20/20/20/20 ![Fume] ![JS] ![WB]   
-raging winter | 20/20/20/5 ![OT] ![Th] ![Wi] | 20/20/20/1 ![JS] ![Th] ![Wi]   
+countryside | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
+forest | Df=5 ![OT] ![Wi] ![Fume] | ![JS] ![LB] ![Wi]   
+city | Df=1 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+mountain | Df=1 ![OT] ![Fume] ![WB] remove the cage in the beginning | ![OT] ![Fume] ![WB] remove the cage in the beginning   
+rustbucket-reef | Df=5 ![JS] ![LB] ![Wi] | Df=12 ![JS] ![LB] ![Wi]   
+winter | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+mines | ![JS] ![Fume] ![Wi] | ![JS] ![LB] ![Wi]   
+desert-valley | Df=1 ![JS] ![Th] ![Wi] | ![JS] ![LB] ![Wi]   
+beach | Df=7 ![OT] ![Wi] ![WB] | ![JS] ![WB] ![Wi]   
+backwater-bog | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+racer-glacier | Df=5 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+patchwork-plant | Df=8 ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+gloomvale | Df=5 ![JS] ![LB] ![Wi] easiest on Friday | Df=5 ![JS] ![LB] ![Wi] world record can be done on any day   
+overspill-fun-rig | Df=10 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
+canyon-arena | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+cuptown | Df=1 ![JS] ![LB] ![Wi] | Df=10 ![JS] ![LB] ![Wi]   
+sky-rock-outpost | ![JS] ![LB] ![Wi] | ![JS] ![LB] ![Wi]   
+forest-trials | Df=5 ![JS] ![WB] ![Fume] | ![JS] ![LB] ![Wi]   
+intense-city | ![Fume] ![JS] ![Wi] | ![Fume] ![JS] ![WB]   
+raging-winter | Df=5 ![OT] ![Th] ![Wi] | Df=1 ![JS] ![Th] ![Wi]   
+
 
 *Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
   
