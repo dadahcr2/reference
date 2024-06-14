@@ -6,7 +6,7 @@ classes: wide
 
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1243547394797211688/IMG_5336.png
 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1248787749365092352/image0.jpg?ex=6664efb8&is=66639e38&hm=adc866f94937faad3d336454d1998b072a4e20a4d2946c358fd473b3865dca80&
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1251169965629771837/Image.png?ex=666d9a55&is=666c48d5&hm=6d6e0c79c39fc588af94e22f18aa53cdc743c52c1bbaf6630693825c4ff219cc&
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/2w2KcGVfU1M?si=Q3zgEQT9NmkGXdAo&amp;start=168" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,23 +58,23 @@ sidebar:
    Scores
   </summary>  
 	
-Close Encounters | Usual Suspensions | Fare you well (A Bit Plain 6L) | Desert Muli Jump 4 | Depths of the Moon | Score  
+Cascading Chauffeurs | Two Islands Rotator Track  | Uphill 5 | Desert Downhill 3 | Smooth Blend (Racers in the Mist -1M) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
-15000 | 10 s | 2 s | 800 m | 1 s | 15000  
-14000 | 10.7 s | 2.8 s | 771 m | 2.2 s | 14000  
-13000 | 11.5 s | 3.7 s | 740 m | 3.5 s | 13000  
-12000 | 12.3 s | 4.6 s | 709 m | 4.9 s | 12000  
-11000 | 13.1 s | 5.6 s | 676 m | 6.3 s | 11000  
-10000 | 14 s | 6.6 s | 641 m | 7.7 s | 10000  
-9000 | 14.9 s | 7.6 s | 605 m | 9.3 s | 9000  
-8000 | 15.9 s | 8.7 s | 566 m | 11 s | 8000  
-7000 | 16.9 s | 9.9 s | 524 m | 12.7 s | 7000  
-6000 | 18 s | 11.3 s | 478 m | 14.7 s | 6000  
-5000 | 19.3 s | 12.7 s | 427 m | 16.8 s | 5000  
-4000 | 20.7 s | 14.4 s | 370 m | 19.3 s | 4000  
-3000 | 22.4 s | 16.3 s | 302 m | 22.1 s | 3000  
-2000 | 24.7 s | 18.9 s | 214 m | 25.9 s | 2000  
-1000 | 30 s | 25 s | 0 m | 35 s | 1000  
+15000 | 7 s | 1050 m | 5 s | 6 s | 15000  
+14000 | 8 s | 1012 m | 6.3 s | 7.2 s | 14000  
+13000 | 9.1 s | 972 m | 7.6 s | 8.5 s | 13000  
+12000 | 10.2 s | 931 m | 9 s | 9.9 s | 12000  
+11000 | 11.3 s | 887 m | 10.4 s | 11.3 s | 11000  
+10000 | 12.6 s | 842 m | 11.9 s | 12.7 s | 10000  
+9000 | 13.8 s | 794 m | 13.5 s | 14.3 s | 9000  
+8000 | 15.2 s | 742 m | 15.3 s | 16 s | 8000  
+7000 | 16.7 s | 687 m | 17.1 s | 17.7 s | 7000  
+6000 | 18.3 s | 627 m | 19.1 s | 19.7 s | 6000  
+5000 | 20 s | 561 m | 21.3 s | 21.8 s | 5000  
+4000 | 22 s | 486 m | 23.8 s | 24.3 s | 4000  
+3000 | 24.4 s | 397 m | 26.8 s | 27.1 s | 3000  
+2000 | 27.5 s | 281 m | 30.6 s | 30.9 s | 2000  
+1000 | 35 s | 0 m | 40 s | 40 s | 1000  
   
 <!-- ![]({{ page.scores }})  -->
   	
