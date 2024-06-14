@@ -450,9 +450,12 @@ Moonlander | LandingBoost
     Vehicle Mastery
   </summary>
 
-**How it works:** Fully upgrade your vehicle to max stats (20, 20, 20, and 20), and then you can start to collect XP for that specific vehicle. Each vehicle has four mastery levels, which you’ll progress through by collecting XP. To progress through mastery levels, you need powerful tune parts in addition to XP, and you can buy the next upgrade with coins. XP can’t be stockpiled.
+**How it works:** 
+- Fully upgrade your vehicle to max stats (20, 20, 20, and 20), and then you can start to collect XP for that specific vehicle.
+- Each vehicle has four mastery levels, which you’ll progress through by collecting XP.
+- To progress through mastery levels, you need powerful tune parts in addition to XP, and you can buy the next upgrade with coins. XP can’t be stockpiled.
 
-**How to earn XP:**. 
+**How to earn XP:**  
 - Distances in adventure levels
 - Cup finish positions
 - Public event positions
