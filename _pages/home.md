@@ -27,7 +27,7 @@ sidebar:
 {:toc} 
 </details> -->  
 
-[**Moonlander XP Video**](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
+[**Moonlander XP Video**](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 [**HCR2 v1.61 Patch Notes**](https://fingersoft.com/news/2024/05/20/patch-notes-hcr2-v1-61-0/)  
 [Sportscar Adventure Setups](https://reference.hcr2info.com/more/#adventures)  
 
