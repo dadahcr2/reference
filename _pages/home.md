@@ -7,7 +7,8 @@ classes: wide
 scores: https://cdn.discordapp.com/attachments/858851529058418765/1243547394797211688/IMG_5336.png
 
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1251315051101552670/image0.jpg?ex=666e2174&is=666ccff4&hm=533f467cc40923e43d071459eac3eb8536c7c46fce581d1634466dddc4338fd1&
-tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/2w2KcGVfU1M?si=Q3zgEQT9NmkGXdAo&amp;start=168" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/WWvQGw71jRU?si=mc91bvSjGxFgGkYP&amp;start=304" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 sidebar:
   nav: "docs"
