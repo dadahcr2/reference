@@ -489,7 +489,7 @@ Select the following links for the corresponding images:
 ## Adventures  	
 <details markdown="block">
   <summary>
-	   Adventure Mastery
+	  Sportscar Adventure Mastery
   </summary>
 	
 Track | Sportscar | Easier  
@@ -515,6 +515,14 @@ forest trials | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![WB] ![Fume]
 intense city | ![Fume] ![JS] ![WB]  | ![Fume] ![JS] ![Wi]  
 raging winter | Df=1 ![JS] ![Th] ![Wi]  | Df=5 ![OT] ![Th] ![Wi]  
 
+*Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
+  
+</details>  
+<details markdown="block">
+  <summary>
+	   Moonlander Adventure Mastery
+  </summary>
+	
 Track | Moonlander | Easier
 :--: | :--: | :--:
 Countryside | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
