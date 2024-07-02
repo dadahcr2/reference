@@ -48,7 +48,7 @@ sidebar:
 3121m¹ | 4246m3️⃣above | 5227m3️⃣air | 3851m¹ | 2168m3️⃣above
 4677m¹ | 6459m¹ | 6439m¹above | 5304m¹ | 3741m¹
 	
-![](https://cdn.discordapp.com/attachments/1124712591848112238/1246471759629127721/222.png?ex=665c82c9&is=665b3149&hm=ec98a2a0dee36289cea39046bca0e706b957c7eef3734038b18a8ce78ca7a123&)
+![]()
   
 </details>  
 
