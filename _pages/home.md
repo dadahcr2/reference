@@ -34,19 +34,19 @@ sidebar:
 	
 <details  markdown="block" open>
   <summary> 
-   June'24 Keys
+   July'24 Keys
   </summary>  
 
-**Countryside** | **Winter** | **Patchwork Plant** | **Cuptown** | **Sky Rock Outpost**
+**City** | **Winter** | **Desert Valley** | **Backwater Bog** | **Cuptown**
 :--: | :--: | :--: | :--: | :--:
-1298m3️⃣  | 793m3️⃣Air  | 306m3️⃣top  | 420m3️⃣up  | 476m3️⃣top 
- 3463m¹  |  3666m¹  |  3288m¹  |  1850m¹  |  2949m7️⃣top 
- 4349m¹  |  4065m7️⃣Air  |  3711m7️⃣top  |  2348m¹  |  3864m¹Air 
- 5615m7️⃣Air  |  4394m¹  |  4128m¹  |  2860m7️⃣Air  |  4810m¹ 
- 5657m¹  |  5544m¹  |  4895m3️⃣Air  |  3374m¹  |  5825m¹below 
- 5737m¹  |  6008m3️⃣  |  5249m¹  |  3741m¹  |  6013m3️⃣on the house 
- 5791m3️⃣  |  6459m¹  |  5769m¹  |  4530m3️⃣  |  6167m¹ 
- 5985m¹ |  6881m¹ |  6493m¹ |  4586m¹ |  6441m¹below
+511m3️⃣ | 793m3️⃣air | 1131m3️⃣air | 710m3️⃣below | 420m3️⃣above
+623m¹Air | 1132m¹ | 1814m¹ | 780m¹ | 457m¹above
+1541m¹ | 1978m¹ | 2653m¹ | 1587m¹ | 1087m¹below air
+2130m3️⃣Air | 3333m7️⃣air | 3117m7️⃣above | 3179m3️⃣air | 1850m¹
+2676m7️⃣ | 3666m¹ | 4416m¹ | 3566m¹ | 1988m7️⃣air
+3014m¹ | 4054m¹ | 4726m¹ | 3758m7️⃣ | 2118m¹
+3121m¹ | 4246m3️⃣above | 5227m3️⃣air | 3851m¹ | 2168m3️⃣above
+4677m¹ | 6459m¹ | 6439m¹above | 5304m¹ | 3741m¹
 	
 ![](https://cdn.discordapp.com/attachments/1124712591848112238/1246471759629127721/222.png?ex=665c82c9&is=665b3149&hm=ec98a2a0dee36289cea39046bca0e706b957c7eef3734038b18a8ce78ca7a123&)
   
