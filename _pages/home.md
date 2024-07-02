@@ -103,28 +103,27 @@ You Fell Off | Savanna Wheelie | Uphill Sprint 4 | Spartan Racing (Green Cup 9L)
 
 <details  markdown="block" open>
   <summary> 
-   Top 10 Teams Ranked after Season 37
+   Top 10 Teams Ranked after Season 38
   </summary>
 
 Rank | Team | Points |  ╎  | 2024 | Team | Total  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-1 ↑1 | N O R T H | 56 (+1) |  ╎  | 1 | N O R T H | 53  
-1 | SÜPREME | 56 (-10) |  ╎  | 2  ↑1 | Project GER | 49  
-3 | Discord | 47 (+2) |  ╎  | 3  ↓1 | SÜPREME | 45  
-4 | Project GER | 46 (+3) |  ╎  | 4  ↑1 | E M P I R E | 42  
-5 ↑1 | E M P I R E | 41 (+3) |  ╎  | 5 | Discord | 41  
-6 ↓1 | PL NATIONAL | 32 (-8) |  ╎  | 6  ↓2 | French Spirit | 31  
-7 | French Spirit | 21 (-6) |  ╎  | 7 | PL NATIONAL | 27  
-8 ↑5 | LowIILands | 10 (+7) |  ╎  | 8  ↑3 | LowIILands | 14  
-9 ↑10 | UNIVERSE | 7 (+6) |  ╎  | 9  ↓1 | BAW💥WNA | 12  
-9 ↓1 | Made in Italy | 7 (-1) |  ╎  | 10  ↑4 | UNIVERSE | 11  
+1 | SÜPREME | 57 (+1) |  ╎  | 1  ↑1 | Project GER | 59  
+2 ↑2 | Project GER | 48 (+2) |  ╎  | 2  ↑1 | SÜPREME | 57  
+3 | Discord | 47 ( = ) |  ╎  | 3  ↓2 | N O R T H | 53  
+3 ↓2 | N O R T H | 47 (-9) |  ╎  | 3  ↑1 | E M P I R E | 53  
+5 | E M P I R E | 43 (+2) |  ╎  | 5 | Discord | 50  
+6 | PL NATIONAL | 24 (-8) |  ╎  | 6 | French Spirit | 31  
+7 | French Spirit | 17 (-4) |  ╎  | 7 | PL NATIONAL | 27  
+8 ↑1 | UNIVERSE | 13 (+6) |  ╎  | 8  ↑2 | UNIVERSE | 18  
+9 ↑4 | United Arab 2 | 9 (+4) |  ╎  | 9  ↓1 | LowIILands | 14  
+10 ↓2 | LowIILands | 8 (-2) |  ╎  | 10  ↓1 | BAW💥WNA | 12  
 
-- NORTH rises up to join SUPREME at the top!
-- Discord and Project GER remain 3rd and 4th respectively
-- EMPIRE moved up to #5, switching places with PL National
-- French Spirit continue their hold of position #7
-- NORTH extend their lead for 2024 with SUPREME dropping below Project GER
-  
+- SUPREME regains sole #1 as NORTH drops to tied #3 with Discord
+- Project GER rises up two spots to #2
+- EMPIRE retains #5
+- Project GER takes over the lead for 2024 with SUPREME close behind
+
 <details markdown="block" >  
   <summary>  
       Points Calculation  
