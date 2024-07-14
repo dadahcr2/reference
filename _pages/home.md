@@ -8,7 +8,7 @@ scores:
 
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1258997774624489502/Image.png?ex=668a148c&is=6688c30c&hm=2aff05eef9fce2acc48edf62d20a1026db28187f5d48cfc69f32f1da3b931ee8&
 
-tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/-lO-KQQcwYU?si=tgcXNzBFzZXDHgga&amp;start=186" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/nNC3dCliOIE?si=26Vq4HSWcG2OjBQl&amp;start=237" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 sidebar:
   nav: "docs"
