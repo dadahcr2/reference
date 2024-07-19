@@ -6,7 +6,7 @@ classes: wide
 
 scores: 
 
-setup: https://cdn.discordapp.com/attachments/851566907920089128/1261940239480393833/Image.png?ex=6694c8ee&is=6693776e&hm=fb4b0a9a412b771143904a20078c29e5c495bd48e2800043a4d2ed169ff94b38&
+setup: https://cdn.discordapp.com/attachments/851566907920089128/1263899422966808576/image0.jpg?ex=669be990&is=669a9810&hm=a55a9fbc145d9cd6222442b1d8c77e2be93f1027e834f7cb177dd371bf343ec6&
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/nNC3dCliOIE?si=26Vq4HSWcG2OjBQl&amp;start=237" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -59,23 +59,23 @@ sidebar:
    Scores
   </summary>  
 	
-Pale Moon Racing | Moon Jump 1 | Mooncakefall | FloatEX (Cargo) | King of the Hill  (Moon) | Score  
+Hoverlander | Antenna Field | Long Jump 6 | Forest Trials | Canyoneer Sprint | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
-15000 | 725 m | 11 s | 5 s | 700 m | 15000  
-14000 | 699 m | 11.9 s | 5.9 s | 675 m | 14000  
-13000 | 671 m | 12.8 s | 6.9 s | 648 m | 13000  
-12000 | 643 m | 13.7 s | 7.8 s | 620 m | 12000  
-11000 | 613 m | 14.7 s | 8.9 s | 592 m | 11000  
-10000 | 581 m | 15.8 s | 10 s | 561 m | 10000  
-9000 | 548 m | 16.9 s | 11.1 s | 529 m | 9000  
-8000 | 513 m | 18 s | 12.3 s | 495 m | 8000  
-7000 | 475 m | 19.3 s | 13.6 s | 458 m | 7000  
-6000 | 433 m | 20.7 s | 15.1 s | 418 m | 6000  
-5000 | 388 m | 22.2 s | 16.6 s | 374 m | 5000  
-4000 | 336 m | 23.9 s | 18.4 s | 324 m | 4000  
-3000 | 274 m | 25.9 s | 20.6 s | 265 m | 3000  
-2000 | 194 m | 28.6 s | 23.3 s | 187 m | 2000  
-1000 | 0 m | 35 s | 30 s | 0 m | 1000  
+15000 | 7 s | 375 m | 800 m | 35 s | 15000  
+14000 | 8.6 s | 361 m | 771 m | 39.2 s | 14000  
+13000 | 10.2 s | 347 m | 741 m | 43.5 s | 13000  
+12000 | 11.9 s | 332 m | 709 m | 48.1 s | 12000  
+11000 | 13.7 s | 317 m | 676 m | 52.8 s | 11000  
+10000 | 15.5 s | 301 m | 641 m | 57.8 s | 10000  
+9000 | 17.5 s | 283 m | 605 m | 63.1 s | 9000  
+8000 | 19.6 s | 265 m | 566 m | 68.7 s | 8000  
+7000 | 21.8 s | 245 m | 524 m | 74.7 s | 7000  
+6000 | 24.3 s | 224 m | 478 m | 81.3 s | 6000  
+5000 | 27 s | 200 m | 428 m | 88.5 s | 5000  
+4000 | 30.1 s | 174 m | 370 m | 96.8 s | 4000  
+3000 | 33.7 s | 142 m | 302 m | 106.5 s | 3000  
+2000 | 38.5 s | 100 m | 214 m | 119.3 s | 2000  
+1000 | 50 s | 0 m | 0 m | 150 s | 1000  
 
 <!-- ![]({{ page.scores }})  -->
   	
