@@ -5,9 +5,9 @@ toc_sticky: true
 layout: home
 sidebar:
   nav: "docs"
+title: "Posts"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  header: /assets/images/Cool Text - Posts 462415344863279.png
   overlay_image: /assets/images/Cool Text - Posts 462415344863279.png
 ---
-![](assets/images/Cool Text - Posts 462415344863279.png)
+![](/assets/images/Cool Text - Posts 462415344863279.png)
