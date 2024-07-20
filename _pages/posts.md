@@ -2,7 +2,7 @@
 permalink: /posts/
 toc: false
 toc_sticky: true
-classes: wide
+layout: posts
 sidebar:
   nav: "docs"
 ---
