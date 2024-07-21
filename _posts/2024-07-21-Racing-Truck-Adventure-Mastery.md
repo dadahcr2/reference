@@ -23,7 +23,7 @@ Forest Trials | 20/20/20/1 ![JS]![WB]![Wi] |
 Intense City | 20/20/20/1 ![JS]![Th]![Wi] | 
 Raging Winter | 20/20/20/1 ![JS]![Th]![Wi] | 
 
-[More Adventure Mastery Setups](https://reference.hcr2info.com/more/#adventures)  
+[More Adventure Mastery Setups](/more/#adventures)  
 
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
