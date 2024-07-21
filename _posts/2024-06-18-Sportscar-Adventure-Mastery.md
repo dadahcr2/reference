@@ -1,4 +1,4 @@
-Sportscar best setups
+Sportscar Best Setups
 
 Track | Sportscar | Easier  
  :--: |  :--: |  :--:  
