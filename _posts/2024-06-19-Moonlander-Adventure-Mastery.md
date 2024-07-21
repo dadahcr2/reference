@@ -1,4 +1,4 @@
-best setups for Moonlander
+Best Setups for Moonlander
 
 Track | Moonlander | Easier
 :--: | :--: | :--:
