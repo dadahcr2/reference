@@ -489,7 +489,7 @@ Select the following links for the corresponding images:
 ## Adventures  	
 
 
-▶︎ &nbsp; [Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)
+▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)
 <details markdown="block">
   <summary>
 	  Sportscar Adventure Mastery
