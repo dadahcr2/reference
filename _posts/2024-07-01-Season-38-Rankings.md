@@ -1,3 +1,5 @@
+**Team Rankngs after Season 38**
+
 Rank | Team | Points |  ╎  | 2024 | Team | Total  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 1 | SÜPREME | 57 (+1) |  ╎  | 1  ↑1 | Project GER | 59  
