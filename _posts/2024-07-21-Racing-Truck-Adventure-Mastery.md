@@ -25,6 +25,8 @@ Raging Winter | 20/20/20/1 ![JS]![Th]![Wi] |
 
 [More Adventure Mastery Setups](https://reference.hcr2info.com/more/#adventures)  
 
+*Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
+
 [AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
 [HW]: /assets/images/weight.png
