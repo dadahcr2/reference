@@ -554,7 +554,7 @@ Raging Winter | ![LB]![Ma]![CB] | ![WB]![Ma]![CB]
 </details>  
 <details  markdown="block">
   <summary>
-	Setups
+	Adventure Setups
   </summary>  
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
 
