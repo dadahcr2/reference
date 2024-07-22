@@ -487,70 +487,15 @@ Select the following links for the corresponding images:
 </details>  
 	
 ## Adventures  	
-
-
-▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)
 <details markdown="block">
   <summary>
-	  Sportscar Adventure Mastery
+	 Adventure Mastery by Vehicle
   </summary>
-	
-Track | Sportscar | Easier  
- :--: |  :--: |  :--:  
-countryside | ![JS] ![LB] ![Wi]  | Df=5 ![OT] ![Wi] ![Fume]  
-forest | ![JS] ![LB] ![Wi]  | Df=5 ![OT] ![Wi] ![Fume]  
-city | ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![LB] ![Wi]  
-mountain | ![OT] ![Fume] ![WB]  | Df=1 ![OT] ![Fume] ![WB]  
-rustbucket reef | Df=12 ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
-winter | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
-mines | ![JS] ![LB] ![Wi]  | ![JS] ![Fume] ![Wi]  
-desert valley | ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![Th] ![Wi]  
-beach | ![JS] ![WB] ![Wi]  | Df=7 ![OT] ![Wi] ![WB]  
-backwater bog | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
-racer glacier | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![LB] ![Wi]  
-patchwork plant | ![JS] ![LB] ![Wi]  | Df=8 ![JS] ![LB] ![Wi]  
-gloomvale | Df=5 ![JS] ![LB] ![Wi] any day  | Df=5 ![JS] ![LB] ![Wi]  Friday easiest  
-overspill fun rig | Df=10 ![JS] ![LB] ![Wi]  | Df=10 ![JS] ![LB] ![Wi]  
-canyon arena | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
-cuptown | Df=10 ![JS] ![LB] ![Wi]  | Df=1 ![JS] ![LB] ![Wi]  
-sky rock outpost | ![JS] ![LB] ![Wi]  | ![JS] ![LB] ![Wi]  
-forest trials | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![WB] ![Fume]  
-intense city | ![Fume] ![JS] ![WB]  | ![Fume] ![JS] ![Wi]  
-raging winter | Df=1 ![JS] ![Th] ![Wi]  | Df=5 ![OT] ![Th] ![Wi]  
 
-*Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
-  
-</details>  
-<details markdown="block">
-  <summary>
-	   Moonlander Adventure Mastery
-  </summary>
-	
-Track | Moonlander | Easier
-:--: | :--: | :--:
-Countryside | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-Forest | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-City | ![Fume]![CB]![Ma] | ![WB]![CB]![Ma]
-Mountain | ![WB]![CB]![Ma] | ![WB]![CB]![AC]
-Rustbucket Reef | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-Winter | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-Mines | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-Desert Valley | ![WB]![CB]![Fume] | 
-Beach | ![WB]![CB]![LB] | ![WB]![CB]![Ma]
-Backwater Bog | ![WB]![CB]![Fume] | ![WB]![CB]![LB]
-Racer Glacier | ![WB]![CB]![Fume] | 
-Patchwork Plant | ![WB]![CB]![Fume] | ![WB]![CB]![Ma]
-Gloomvale | ![WB]![CB]![Fume] Sunday only | 
-Overspill Fun Rig | ![Ma]![CB]![LB] | 
-Canyon Arena | ![LB]![Fume]![Flip] | ![Fume]![CB]![Ma]
-Cuptown | ![Fume]![Ma]![CB] | 
-Sky Rock Outpost | ![LB]![CB]![Fume] | ![WB]![CB]![Ma]
-Forest Trials | ![Fume]![CB]![Ma] | 
-Intense City | 20/20/20/16 ![Fume]![CB]![WB] | ![Fume]![CB]![Ma]
-Raging Winter | ![LB]![Ma]![CB] | ![WB]![Ma]![CB]
+&nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery](/Moonlander-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[Sportscar Adventure Mastery](/Sportscar-Adventure-Mastery/)  
 
-*Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
-  
 </details>  
 <details  markdown="block">
   <summary>
