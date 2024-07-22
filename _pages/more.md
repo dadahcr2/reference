@@ -489,7 +489,7 @@ Select the following links for the corresponding images:
 ## Adventures  	
 <details markdown="block">
   <summary>
-	 Adventure Mastery by Vehicle
+	 Mastery by Vehicle
   </summary>
 
 &nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)  
