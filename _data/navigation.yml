@@ -22,8 +22,6 @@ docs:
   - title: Info Sections
     url: /
     children:
-    - title: "Events"
-      url: /#events
     - title: "Sites,Tutorials,Sheets"
       url: /more/#websites-tutorials--spreadsheets
     - title: "Vehicles"
@@ -37,6 +35,10 @@ docs:
 
   - title: Other Pages
     children:
+      - title: "Posts"
+        url: /posts/
+      - title: "More"
+        url: /more/
       - title: "Tips"
         url: /tips/
       - title: "Tunes"
