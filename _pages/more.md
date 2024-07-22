@@ -480,8 +480,8 @@ The vehicles for mastery will be released staggered. The first vehicle available
     Icon Images
   </summary>
 
-&nbsp; ▶︎ &nbsp;[**Vehicle Icons**]({{site.url}}/vicons/)  
-&nbsp; ▶︎ &nbsp;[**Parts Icons**]({{site.url}}/picons/)  
+&nbsp; ▶︎ &nbsp;[Vehicle Icons]({{site.url}}/vicons/)  
+&nbsp; ▶︎ &nbsp;[Parts Icons]({{site.url}}/picons/)  
 	
 </details>  
 	
