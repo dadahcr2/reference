@@ -37,8 +37,6 @@ docs:
     children:
       - title: "Posts"
         url: /posts/
-      - title: "More"
-        url: /more/
       - title: "Tips"
         url: /tips/
       - title: "Tunes"
