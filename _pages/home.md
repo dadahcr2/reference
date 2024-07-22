@@ -27,7 +27,7 @@ sidebar:
 {:toc} 
 </details> -->  
 
-[Racing Truck Adv. Mastery](https://reference.hcr2info.com/Racing-Truck-Adv-Mastery/) | [Moonlander XP Video](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
+[Racing Truck Adv. Mastery](https://reference.hcr2info.com/Racing-Truck-Adventure-Mastery/) | [Moonlander XP Video](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 
 	
 <details  markdown="block" open>
