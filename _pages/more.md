@@ -734,8 +734,7 @@ Distance | Obstacle
     Setups
   </summary>
 
-- [**Best setups for the individual tracks**]({{site.url}}/tunes/)  
-> *With thanks to the [Tunes Server](https://discord.gg/nJBfGVsj8Z)*   
+&nbsp; ▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
 
 *For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)*  
 {: .notice}
