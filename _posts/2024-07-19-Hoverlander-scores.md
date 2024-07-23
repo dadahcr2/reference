@@ -1,7 +1,7 @@
 ---
 
 ---
-Hoverlander Score Table
+**Hoverlander Score Table**
 	
 Hoverlander | Antenna Field | Long Jump 6 | Forest Trials | Canyoneer Sprint | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
