@@ -35,8 +35,8 @@ docs:
 
   - title: Other Pages
     children:
-      - title: "Posts"
-        url: /posts/
+      - title: "Recent"
+        url: /recent/
       - title: "Tips"
         url: /tips/
       - title: "Tunes"
