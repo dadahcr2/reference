@@ -1,8 +1,8 @@
 main:
   - title: "Recent"
     url: /recent/
-  - title: "More"
-    url: /more/
+  - title: "Info"
+    url: /info/
   - title: "Tips"
     url: /tips/
   - title: "Tunes"
