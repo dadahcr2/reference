@@ -13,7 +13,7 @@ tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/hH
 # sidebar:
 #  nav: "docs"
 ---
-![](/assets/images/Cool Text - Info 452912870276435.png)  
+![](/assets/images/Cool Text - update 462584902630783.png)  
 
 <!--
 ![](https://cdn.discordapp.com/attachments/806343355264401478/848994894865104896/cooltext385495335534000.png)  
