@@ -18,38 +18,38 @@ main:
   - title: "FAQ"
     url: /faq/
  
-docs:
-  - title: Info Sections
-    url: /
-    children:
-    - title: "Sites,Tutorials,Sheets"
-      url: /more/#websites-tutorials--spreadsheets
-    - title: "Vehicles"
-      url: /more/#vehicles
-    - title: "Adventures"
-      url: /more/#adventures
-    - title: "Cups"
-      url: /more/#cups
-    - title: "Lists"
-      url: /more/#lists
+# docs:
+#  - title: Info Sections
+#    url: /
+#    children:
+#    - title: "Sites,Tutorials,Sheets"
+     # url: /more/#websites-tutorials--spreadsheets
+  #  - title: "Vehicles"
+#      url: /more/#vehicles
+  #  - title: "Adventures"
+#      url: /more/#adventures
+ #   - title: "Cups"
+#      url: /more/#cups
+#    - title: "Lists"
+ #     url: /more/#lists
 
-  - title: Other Pages
-    children:
-      - title: "Recent"
-        url: /recent/
-      - title: "Tips"
-        url: /tips/
-      - title: "Tunes"
-        url: /tunes/
-      - title: "Friends"
-        url: /friends/
-      - title: "Servers"
-        url: /servers/
-      - title: "Chests"
-        url: /chests/
-      - title: "GM"
-        url: /gm/
-      - title: "FAQ"
-        url: /faq/
+#  - title: Other Pages
+#    children:
+#      - title: "Recent"
+#        url: /recent/
+#      - title: "Tips"
+#        url: /tips/
+#      - title: "Tunes"
+#        url: /tunes/
+#      - title: "Friends"
+#        url: /friends/
+#      - title: "Servers"
+#        url: /servers/
+#      - title: "Chests"
+#        url: /chests/
+#      - title: "GM"
+#         url: /gm/
+#      - title: "FAQ"
+#        url: /faq/
 
         
