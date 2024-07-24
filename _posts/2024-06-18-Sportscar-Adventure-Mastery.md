@@ -1,7 +1,3 @@
----
-header:
-  teaser: /assets/images/Cool Text - Mastery 462584886615117.png
----
 Sportscar Best Setups
 
 Track | Sportscar | Easier  
