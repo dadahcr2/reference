@@ -1,7 +1,3 @@
----
-header:
-  teaser: /assets/images/Cool Text - Scores 462584734210341 2.png
----
 **Hoverlander Score Table**
 	
 Hoverlander | Antenna Field | Long Jump 6 | Forest Trials | Canyoneer Sprint | Score  
