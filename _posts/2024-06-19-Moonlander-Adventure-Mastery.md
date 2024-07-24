@@ -1,3 +1,7 @@
+---
+header:
+  teaser: /assets/images/Cool Text - Mastery 462584886615117.png
+---
 Best Setups for Moonlander
 
 Track | Moonlander | Easier
