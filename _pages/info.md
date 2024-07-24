@@ -1,5 +1,5 @@
 ---
-permalink: /more/
+permalink: /info/
 toc: false
 toc_sticky: true
 classes: wide
@@ -7,7 +7,7 @@ classes: wide
 #   nav: "docs"
 ---
 
-![](/assets/images/Cool Text - More 452912925135192.png)  
+![](/assets/images/Cool Text - Info 452912870276435.png)  
 
 <!-- <details  markdown="block">
   <summary>
@@ -33,7 +33,7 @@ classes: wide
 
 [Go to front page](/)
 
-## Events continued...
+## Events
 <!--
 <details  markdown="block" open>
   <summary> 
