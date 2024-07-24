@@ -10,8 +10,8 @@ setup: https://cdn.discordapp.com/attachments/851566907920089128/126389942296680
 
 tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/hHX0M6U_FuE?si=fUvXDS3dQZjlqSjd&amp;start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-sidebar:
-  nav: "docs"
+# sidebar:
+#  nav: "docs"
 ---
 ![](/assets/images/Cool Text - Info 452912870276435.png)  
 
