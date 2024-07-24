@@ -3,8 +3,8 @@ permalink: /more/
 toc: false
 toc_sticky: true
 classes: wide
-sidebar:
-  nav: "docs"
+# sidebar:
+#   nav: "docs"
 ---
 
 ![](/assets/images/Cool Text - More 452912925135192.png)  
