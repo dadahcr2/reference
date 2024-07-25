@@ -1,5 +1,5 @@
 ---
-exerpt: Best Adventure Setups for Racing Track
+excerpt: Best Adventure Setups for Racing Track
 ---
 Track | Racing Truck | Easier
 :--: | :--: | :--:
