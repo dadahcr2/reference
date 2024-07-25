@@ -4,8 +4,7 @@ toc: false
 toc_sticky: true
 classes: wide
 header:
-  image: /assets/images/IMG_6127.jpeg
-  text_color: yellow
+  image: /assets/images/Hcr2info.jpeg
   
 scores: 
 
