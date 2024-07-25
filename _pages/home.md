@@ -13,7 +13,7 @@ header:
   actions:
     - label: "Posts"
       url: "/recent/"
-    - label: "Info"
+    - label: "Info."
       url: "/info/" 
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -52,7 +52,7 @@ tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/hH
   {: .text-delta }
 1. TOC
 {:toc} 
-</details> -->  
+</details>
 
 [Racing Truck Adv. Mastery](https://reference.hcr2info.com/Racing-Truck-Adventure-Mastery/) | [Moonlander XP Video](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 
@@ -102,7 +102,7 @@ Hoverlander | Antenna Field | Long Jump 6 | Forest Trials | Canyoneer Sprint | S
 2000 | 38.5 s | 100 m | 214 m | 119.3 s | 2000  
 1000 | 50 s | 0 m | 0 m | 150 s | 1000  
 
-<!-- ![]({{ page.scores }})  -->
+
   	
 </details>  
 
@@ -155,7 +155,7 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 </details>
 
 [All Posts… ](/recent/)  &nbsp;  [Info… ](/info/)
-
+ -->  
 **LATEST POSTS**  
 <div class="grid__wrapper">
   {% for post in site.posts limit:12 %}
