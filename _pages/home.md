@@ -166,5 +166,5 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>  
-
-[All Posts… ](/recent/)  -  [General Info… ](/info/)
+&nbsp;  
+[All Posts… ](/recent/)  &nbsp;  [General Info… ](/info/)
