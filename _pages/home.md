@@ -160,10 +160,11 @@ Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
 </details> 
 
 
-**LAST FOUR POSTS**  <div class="grid__wrapper">
+**LAST FOUR POSTS**  
+<div class="grid__wrapper">
   {% for post in site.posts limit:4 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
-</div>
+</div>  
 
 [All Posts… ](/recent/)  -  [General Info… ](/info/)
