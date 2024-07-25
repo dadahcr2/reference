@@ -7,6 +7,7 @@ layout: splash
 header:
   overlay_image: /assets/images/IMG_6127.jpeg
   overlay_filter: 0.5
+  excerpt: HCR2 Reference Info
   actions:
     - label: "Posts"
       url: "/recent/"
