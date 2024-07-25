@@ -131,6 +131,8 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 
 </details>
 
+[All Posts… ](/recent/)  &nbsp;  [Info… ](/info/)
+
 **LAST POSTS**  
 <div class="grid__wrapper">
   {% for post in site.posts limit:12 %}
@@ -138,5 +140,3 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
   {% endfor %}
 </div>  
 
-&nbsp;  
-[All Posts… ](/recent/)  &nbsp;  [Info… ](/info/)
