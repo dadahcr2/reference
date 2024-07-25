@@ -5,7 +5,11 @@ toc_sticky: true
 classes: wide
 header:
   image: /assets/images/IMG_6130.jpeg
-  
+  actions:
+    - label: "Posts"
+      url: "/recent/"
+    - label: "Info"
+      url: "/info/" 
 scores: 
 
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1263899422966808576/image0.jpg?ex=669be990&is=669a9810&hm=a55a9fbc145d9cd6222442b1d8c77e2be93f1027e834f7cb177dd371bf343ec6&
