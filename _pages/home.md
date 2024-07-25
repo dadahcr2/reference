@@ -3,7 +3,9 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
-
+header:
+  overlay_image: /assets/images/Hcr2info.jpeg
+  
 scores: 
 
 setup: https://cdn.discordapp.com/attachments/851566907920089128/1263899422966808576/image0.jpg?ex=669be990&is=669a9810&hm=a55a9fbc145d9cd6222442b1d8c77e2be93f1027e834f7cb177dd371bf343ec6&
