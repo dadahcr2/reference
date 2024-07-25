@@ -3,6 +3,8 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
+values:
+  related: true
 
 scores: 
 
