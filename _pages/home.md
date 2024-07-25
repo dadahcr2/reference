@@ -6,6 +6,7 @@ classes: wide
 layout: splash
 header:
   image: /assets/images/IMG_6127.jpeg
+  overlay_filter: 0.5
   actions:
     - label: "Posts"
       url: "/posts/"
