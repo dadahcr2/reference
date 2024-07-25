@@ -4,7 +4,7 @@ toc: false
 toc_sticky: true
 classes: wide
 header:
-  overlay_image: /assets/images/IMG_6130.jpeg
+  overlay_image: /assets/images/IMG_6127.jpeg
   
 scores: 
 
