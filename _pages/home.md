@@ -4,7 +4,7 @@ toc: false
 toc_sticky: true
 classes: wide
 header:
-  image: /assets/images/Hcr2info.jpeg
+  image: /assets/images/IMG_6130.jpeg
   
 scores: 
 
