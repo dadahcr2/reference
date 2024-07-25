@@ -139,4 +139,4 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 </div>  
 
 &nbsp;  
-[All Posts… ](/recent/)  &nbsp;  Info… ](/info/)
+[All Posts… ](/recent/)  &nbsp;  [Info… ](/info/)
