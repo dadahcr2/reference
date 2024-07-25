@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: HCR2 Info
 toc: false
 toc_sticky: true
 classes: wide
