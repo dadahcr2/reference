@@ -29,9 +29,10 @@ description: "HCR2 Reference Information"
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
-search: false
-search_full_content: false
-
+search: true
+search_full_content: true
+lunr:
+  search_within_pages: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
