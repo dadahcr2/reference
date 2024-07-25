@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: HCR2 Info
+title: HCR2 Information
 toc: false
 toc_sticky: true
 classes: wide
@@ -8,7 +8,8 @@ layout: splash
 header:
   overlay_image: /assets/images/IMG_6127.jpeg
   overlay_filter: 0.5
-  excerpt: HCR2 Reference Info
+  excerpt: for your convenient referencd
+  show_overlay_excerpt: true
   actions:
     - label: "Posts"
       url: "/recent/"
