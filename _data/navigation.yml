@@ -1,20 +1,20 @@
 main:
-  - title: "Info"
+  - title: "INFO"
     url: /info/
   - title: "Tips"
-    url: /tips/
+    url: /TIPS/
   - title: "Tunes"
-    url: /tunes/
+    url: /TUNES/
   - title: "Friends"
-    url: /friends/
+    url: /FRIENDS/
   - title: "Servers"
-    url: /servers/
+    url: /SERVERS/
   - title: "Chests"
-    url: /chests/
+    url: /CHESTS/
   - title: "GM"
-    url: /gm/
+    url: /GM/
   - title: "FAQ"
-    url: /faq/
+    url: /FAQ/
  
 # docs:
 #  - title: Info Sections
