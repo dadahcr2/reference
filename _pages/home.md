@@ -137,5 +137,6 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>  
+
 &nbsp;  
 [All Posts… ](/recent/)  &nbsp;  Info… ](/info/)
