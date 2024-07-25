@@ -8,7 +8,7 @@ header:
   image: /assets/images/IMG_6127.jpeg
   actions:
     - label: "Posts"
-      url: "/recent/"
+      url: "/posts/"
     - label: "Info"
       url: "/info/" 
 scores: 
@@ -137,7 +137,7 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 
 [All Posts… ](/recent/)  &nbsp;  [Info… ](/info/)
 
-**LAST POSTS**  
+**LATEST POSTS**  
 <div class="grid__wrapper">
   {% for post in site.posts limit:12 %}
     {% include archive-single.html type="grid" %}
