@@ -1,6 +1,5 @@
----
-excerpt: Best Adventure Setups for Racing Track
----
+### Best Adventure Setups for Racing  
+
 Track | Racing Truck | Easier
 :--: | :--: | :--:
 Countryside | 20/20/20/1 ![Wi]![WB]![Fume] | 
