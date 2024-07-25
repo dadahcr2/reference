@@ -3,6 +3,7 @@ permalink: /
 toc: false
 toc_sticky: true
 classes: wide
+layout: splash
 header:
   image: /assets/images/IMG_6127.jpeg
   actions:
