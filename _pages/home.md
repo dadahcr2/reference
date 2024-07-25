@@ -133,9 +133,9 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 
 **LAST POSTS**  
 <div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:12 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>  
 &nbsp;  
-[All Posts… ](/recent/)  &nbsp;  [General Info… ](/info/)
+[All Posts… ](/recent/)  &nbsp;  Info… ](/info/)
