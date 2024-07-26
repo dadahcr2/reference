@@ -124,15 +124,15 @@ FREE | $$$
 
 #### Strategies to increase canyoneer levels
 
-- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the more [hcr2info](/more/#adventures) page    
+- Use best parts for each vehicle as tabulated in the **Adventures Setups** section on the [INFO](/info/#adventures) page    
 
 #### Suggested vehicle and setups for different public event types
 
-- See the **PE Setups** section on [hcr2info](/more/)
+- See the **PE Setups** section on the [INFO](/info/) page
 
 #### Optimal ways to increase GP
 
-- Follow the [Daily Checklist](/more/#lists)
+- Follow the [Daily Checklist](/info/#lists)
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
