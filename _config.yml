@@ -66,22 +66,22 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
+# author:
 #  name   : "dada#1710"
-  avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
-  bio    : 
+#  avatar : "/assets/images/734B83DB-D390-4091-AECD-0DCA7DB6894F.png"
+#  bio    : 
   # <a href="http://wiki.hcr2.info">Wiki</a>•<a href="https://fingersoft.com/news/">FS News</a>•<a href="https://mobile.twitter.com/HCR_Official_">FS Tweets</a><BR><a href="https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2">YouTube</a>•<a href="/memes/">Memes</a>•<a href="/chests/">Chests</a><br><a href="/tunes/">Tunes</a>•<a href="/blog/">Log</a>•<a href="/tips/">Tips</a>•<a href="/gm/">GM</a>•<a href="/faq/">FAQ</a>
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dadahcr2@gmail.com"
-    - label: "PE Server"
-      icon: "fab fa-discord"
+ # links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:dadahcr2@gmail.com"
+#    - label: "PE Server"
+#      icon: "fab fa-discord"
  #     icon: "fas fa-comments"
-      url: "https://discord.gg/FZPnQbxZTQ"
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/channel/UCN6D5uLfXdL4GC0dx1lZ1yQ"
+#      url: "https://discord.gg/FZPnQbxZTQ"
+#    - label: "YouTube"
+ #     icon: "fab fa-youtube"
+#      url: "https://www.youtube.com/channel/UCN6D5uLfXdL4GC0dx1lZ1yQ"
  # - label: "Twitter"
    #  icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
