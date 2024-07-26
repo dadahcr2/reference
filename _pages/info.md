@@ -763,7 +763,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] Daily tasks
 - [ ] 10-win cup chest
 - [ ] VIP shop chest for subscribers
-- [ ] Community showcase
 - [ ] Featured challenges
 - [ ] 10,000+ adventure 2x coins
 - [ ] Ad/VIP team ticket
