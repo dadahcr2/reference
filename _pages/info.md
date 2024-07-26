@@ -9,106 +9,9 @@ classes: wide
 
 ![](/assets/images/Cool Text - Info 452912870276435.png)  
 
-<!-- <details  markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc} 
-</details> -->  
-
-
-<!--
-<details  markdown="block" open>
-  <summary> 
-   February Keys
-  </summary>
-
-![](https://cdn.discordapp.com/attachments/850232435579813938/1204175951789817926/image.webp)
-
-
-</details>  
--->
-
 [Go to front page](/)
 
-## Events
-<!--
-<details  markdown="block" open>
-  <summary> 
-   Scores
-  </summary>
-![]({{ page.scores }})  
-</details>  
-
-
-<details  markdown="block" open>
-  <summary> 
-   Setups
-  </summary>
-![]({{ page.setup }})  
-
-</details>
-
-<details  markdown="block" open>
-  <summary> 
-   Tutorial
-  </summary>
-
-{{ page.tutorial }}
-&nbsp;
-</details>
-
-
-<details  markdown="block" open>
-  <summary> 
-   Top 10 Teams Ranked after Season 33
-  </summary>
-
-![](https://cdn.discordapp.com/attachments/858336498159714324/1202857165166215228/IMG_3940.png)
-**Dada Top 10 Ranking (Season 33)**  
-- SÜPREME extends their supremacy despite coming 2nd to NORTH for January  
-- EMPIRE leapfrog PL National into 3rd  
-- Similarly NORTH overtake Project GER for 5th  
-- UNIVERSE breaks into the Top 10 for 9th  
-<details markdown="block" >  
-  <summary>  
-      Points Calculation  
-  </summary>  
-  
-{% capture notice-3 %}	
-One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by.
-- ## **Most recent season**: 1st=12 points, 2nd=11 points, 3rd=10 points, … 12th = 1 point
-- **Previous season**: 1st=11 points, 2nd=10 points, 3rd=9points, … 11th = 1 point
-- **Two seasons ago**: 1st=10 points, 2nd=9 points, 3rd=8points, … 10th = 1 point
-I.e. reducing by 1 point the value of each placement for every previous season.  Accordingly, seasons played more than a year ago will not count.
-	
-In table format: Points awarded according to final placement in previous seasons, where 0 was the final ranks in the last full season,  -1 is one season before, etc. 
-```
-Season ┃  1  2  3  4  5  6  7  8  9 10 11 12
-━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   0   ┃ 12 11 10  9  8  7  6  5  4  3  2  1
-  -1   ┃ 11 10  9  8  7  6  5  4  3  2  1
-  -2   ┃ 10  9  8  7  6  5  4  3  2  1
-  -3   ┃  9  8  7  6  5  4  3  2  1
-  -4   ┃  8  7  6  5  4  3  2  1
-  -5   ┃  7  6  5  4  3  2  1
-  -6   ┃  6  5  4  3  2  1
-  -7   ┃  5  4  3  2  1
-  -8   ┃  4  3  2  1
-  -9   ┃  3  2  1
-  -10  ┃  2  1
-  -11  ┃  1
-```
-{% endcapture %}
-
-<div class="notice">{{ notice-3 | markdownify }}</div>
-
- </details>  
-&nbsp;  
-</details>  
- -->  
+## Events  
 <details  markdown="block">
   <summary>
    Season Rewards
@@ -500,8 +403,6 @@ The vehicles for mastery will be released staggered. The first vehicle available
   <summary>
 	Adventure Setups
   </summary>  
-![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)	
-
 
 Vehicle | countryside | forest | city | mountain | Vehicle | rustbucket reef | winter | mines | desert valley | Vehicle | beach | backwater bog | racer glacier | patchwork plant | Vehicle | gloomvale | overspill fun rig | canyon arena | cuptown | Vehicle | sky rock outpost | forest trials | intense city | raging winter | Vehicle  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
@@ -538,33 +439,7 @@ Vehicle | countryside | forest | city | mountain | Vehicle | rustbucket reef | w
 *Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
   
 </details>	
-	
-<!-- <details  markdown="block">
-  <summary>
-    Trove Keys
-  </summary>
-	
-Map | Trove Chest Locations  
-:-- | :--  
-**Forest** | 165m 855m↩️3️⃣ 2450m↩️3️⃣ 2789m 2800m↩️7️⃣ 3446m  4047m 4695m  
-**City** | 55m 615m 1300m 2125m3️⃣ 2670m7️⃣ 2855m 3410m 4195m3️⃣  
-**Winter** | 430m 1415m3️⃣ 2810m3️⃣ 3000m 3070m7️⃣ 3455m 3670m 4395m 4195m3️⃣  
-**Desert** | 420m 1820m 2125m 3110m7️⃣ 3775m 5085m 5225m3️⃣ 5970m3️⃣  
-**Beach** | 200m 980m 1435m 3440m 3755m7️⃣ 4310m3️⃣ 4730m 5930m3️⃣  
-**Bog** | 55m 950m↩️3️⃣ 2300m3️⃣ 2495m 2895m7️⃣ 2918m 3565m 4210m  
-**Bog2** | 55m 770m 1260m 2910m 3170m3️⃣ 3755m7️⃣ 4208m 5120m3️⃣  
-**Overspill** | 245m 815m 970m 2855m 3065m7️⃣ 40903️⃣ 4270m 5655m3️⃣  
-**Canyon** | 90m 920m3️⃣ 1660m3️⃣  1977m↩️7️⃣ 2489m↩️ 2760m 3242m 4330m  
-**Skyrock** | 115m 1190m3️⃣ 1535m7️⃣ 2880m 3080m3️⃣ 3240m 3865m 4810m  
 
-
-
-↩️ = Reverse from this point
-3️⃣ = Level 3 key
-7️⃣ = Level 7 key  
-
-	
-</details>	-->
 <details  markdown="block">
   <summary>
     Fuel Cans
@@ -958,10 +833,7 @@ I highly recommend:
 - Tractor  Wars : <http://tw.hcr2info.com>  
 - Friendly Wars: <http://fw.hcr2info.com> (no longer organized but daily track and vehicle is still generated)
 
-![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
-
 ## FS-GP Results
-
 
 | Tournament | 🥇| 🥈 | 🥉 |  
 | :--: | :--: | :--: | :--: |  
