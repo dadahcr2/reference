@@ -748,8 +748,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)  
 ▶︎ &nbsp;[Being a Teammate](/being-a-teammate/)  
 ▶︎ &nbsp;[Tournaments & GP Results](/tournaments-and-gp-results/)  
-▶︎ &nbsp;[Server Invites](/servers/)  
-▶︎ &nbsp;[Friend Invites](/friends/)  
+▶︎ &nbsp;[Server Invites](/server-invites/)  
+▶︎ &nbsp;[Friend Invites](/friend-invites/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
 ---
 <details  markdown="block">
