@@ -745,7 +745,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 ## Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
-▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)
+▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
 ----  
 <details  markdown="block">
