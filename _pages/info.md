@@ -745,7 +745,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 ## Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
-▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)  
+▶︎ &nbsp;[Ten Commandments of HCR2](/ten-commandments-of-HCR2/)  
 ▶︎ &nbsp;[Being a Teammate](/being-a-teammate/)  
 ▶︎ &nbsp;[Tournaments & GP Results](/tournaments-and-gp-results/)  
 ▶︎ &nbsp;[Server Invites](/server-invites/)  
