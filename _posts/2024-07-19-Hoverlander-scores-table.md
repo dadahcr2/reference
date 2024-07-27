@@ -1,5 +1,3 @@
-**Hoverlander Score Table**
-	
 Hoverlander | Antenna Field | Long Jump 6 | Forest Trials | Canyoneer Sprint | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 7 s | 375 m | 800 m | 35 s | 15000  
