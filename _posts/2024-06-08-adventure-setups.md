@@ -31,3 +31,284 @@ Vehicle | countryside | forest | city | mountain | Vehicle | rustbucket reef | w
 Vehicle | countryside | forest | city | mountain | Vehicle | rustbucket reef | winter | mines | desert valley | Vehicle | beach | backwater bog | racer glacier | patchwork plant | Vehicle | gloomvale | overspill fun rig | canyon arena | cuptown | Vehicle | sky rock outpost | forest trials | intense city | raging winter | Vehicle  
 
 *Source: Zorro's Adventure Setup Discord Server <https://discord.gg/pNeKMVTTKh> - 8 June 2024*
+
+
+[Ka]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
+{: height="20px" width="20px"} 
+
+[Br]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
+{: height="20px" width="20px"} 
+
+[DF]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
+{: height="20px" width="20px"} 
+[Dr]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
+{: height="20px" width="20px"} 
+
+[SW]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
+{: height="20px" width="20px"} 
+
+	
+[Kay]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
+{: height="20px" width="20px" style="background-color:yellow"} 
+	
+[Bry]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
+{: height="20px" width="20px"  style="background-color:yellow"} 
+
+[DFy]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
+{: height="20px" width="20px"  style="background-color:yellow"} 
+[Dry]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
+{: height="20px" width="20px"  style="background-color:yellow"} 
+
+[SWy]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
+{: height="20px" width="20px" style="background-color:yellow"} 
+
+	
+
+[Ka2]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
+{: height="40px" width="40px"} 
+
+[Br2]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png 
+{: height="40px" width="40px"} 
+
+[DF2]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png 
+{: height="40px" width="40px"} 
+[Dr2]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png 
+{: height="40px" width="40px"} 
+[SW2]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png 
+{: height="40px" width="40px"} 
+
+
+[Jeep]: /assets/images/icon-vehicle-jeep.png
+{: height="20px" width="32px"}
+[Mk2]: /assets/images/icon-vehicle-superjeep.png
+{: height="20px" width="32px"}
+[Sportscar]: /assets/images/icon-vehicle-sportscar.png
+{: height="20px" width="32px"}
+[Buggy]: /assets/images/icon-vehicle-buggy.png
+{: height="20px" width="32px"}
+[Diesel]: /assets/images/icon-vehicle-pickup.png
+{: height="20px" width="32px"}
+[Sbike]: /assets/images/icon-vehicle-street-bike.png
+{: height="20px" width="32px"}
+[Supercar]: /assets/images/icon-vehicle-lambo.png
+{: height="20px" width="32px"}
+[Rally]: /assets/images/icon-vehicle-rally.png
+{: height="20px" width="32px"}
+[Lowrider]: /assets/images/icon-vehicle-lowrider.png
+{: height="20px" width="32px"}
+[Beast]: /assets/images/icon-vehicle-beast.png
+{: height="20px" width="32px"}
+[HotRod]: /assets/images/icon-vehicle-hotrod.png
+{: height="20px" width="32px"}
+[RT]: /assets/images/icon-vehicle-racing-truck.png
+{: height="20px" width="32px"}
+[Formula]: /assets/images/icon-vehicle-formula.png
+{: height="20px" width="32px"}
+[Muscle]: /assets/images/icon-vehicle-musclecar.png
+{: height="20px" width="32px"}
+[Monster]: /assets/images/icon-vehicle-monster.png
+{: height="20px" width="32px"}
+[Rotator]: /assets/images/icon-vehicle-upsidedown.png
+{: height="20px" width="32px"}
+[Chopper]: /assets/images/icon-vehicle-chopper.png
+{: height="20px" width="32px"}
+[Tank]: /assets/images/icon-vehicle-tank.png
+{: height="20px" width="32px"}
+[EV]: /assets/images/icon-vehicle-cc-ev.png
+{: height="20px" width="32px"}
+[RB]: /assets/images/icon-vehicle-rockbouncer.png
+{: height="20px" width="32px"}
+[Bus]: /assets/images/icon-vehicle-bus.png
+{: height="20px" width="32px"}
+[Moonlander]: /assets/images/icon-vehicle-moonlander.png
+{: height="20px" width="32px"}
+[Scooter]: /assets/images/icon-vehicle-scooter.png
+{: height="20px" width="32px"}
+[Moto]: /assets/images/icon-vehicle-motocross.png
+{: height="20px" width="32px"}
+[Tractor]: /assets/images/icon-vehicle-tractor.png
+{: height="20px" width="32px"}
+[Snowmobile]: /assets/images/icon-vehicle-snowmobile.png
+{: height="20px" width="32px"}
+[Mono]: /assets/images/icon-vehicle-monowheel.png
+{: height="20px" width="32px"}
+[Sled]: /assets/images/icon-vehicle-sled.png
+{: height="20px" width="32px"}
+[Tube]: /assets/images/icon-vehicle-tube.png
+{: height="20px" width="32px"}
+[Snowboard]: /assets/images/icon-vehicle-snowboard.png
+{: height="20px" width="32px"}
+[Jeep2]: /assets/images/icon-vehicle-jeep.png
+{: height="40px" width="64px"}
+[Mk22]: /assets/images/icon-vehicle-superjeep.png
+{: height="40px" width="64px"}
+[Sportscar2]: /assets/images/icon-vehicle-sportscar.png
+{: height="40px" width="64px"}
+[Buggy2]: /assets/images/icon-vehicle-buggy.png
+{: height="40px" width="64px"}
+[Diesel2]: /assets/images/icon-vehicle-pickup.png
+{: height="40px" width="64px"}
+[Sbike2]: /assets/images/icon-vehicle-street-bike.png
+{: height="40px" width="64px"}
+[Supercar2]: /assets/images/icon-vehicle-lambo.png
+{: height="40px" width="64px"}
+[Rally2]: /assets/images/icon-vehicle-rally.png
+{: height="40px" width="64px"}
+[Lowrider2]: /assets/images/icon-vehicle-lowrider.png
+{: height="40px" width="64px"}
+[Beast2]: /assets/images/icon-vehicle-beast.png
+{: height="40px" width="64px"}
+[HotRod2]: /assets/images/icon-vehicle-hotrod.png
+{: height="40px" width="64px"}
+[RT2]: /assets/images/icon-vehicle-racing-truck.png
+{: height="40px" width="64px"}
+[Formula2]: /assets/images/icon-vehicle-formula.png
+{: height="40px" width="64px"}
+[Muscle2]: /assets/images/icon-vehicle-musclecar.png
+{: height="40px" width="64px"}
+[Monster2]: /assets/images/icon-vehicle-monster.png
+{: height="40px" width="64px"}
+[Rotator2]: /assets/images/icon-vehicle-upsidedown.png
+{: height="40px" width="64px"}
+[Chopper2]: /assets/images/icon-vehicle-chopper.png
+{: height="40px" width="64px"}
+[Tank2]: /assets/images/icon-vehicle-tank.png
+{: height="40px" width="64px"}
+[EV2]: /assets/images/icon-vehicle-cc-ev.png
+{: height="40px" width="64px"}
+[RB2]: /assets/images/icon-vehicle-rockbouncer.png
+{: height="40px" width="64px"}
+[Bus2]: /assets/images/icon-vehicle-bus.png
+{: height="40px" width="64px"}
+[Moonlander2]: /assets/images/icon-vehicle-moonlander.png
+{: height="40px" width="64px"}
+[Scooter2]: /assets/images/icon-vehicle-scooter.png
+{: height="40px" width="64px"}
+[Moto2]: /assets/images/icon-vehicle-motocross.png
+{: height="40px" width="64px"}
+[Tractor2]: /assets/images/icon-vehicle-tractor.png
+{: height="40px" width="64px"}
+[Snowmobile2]: /assets/images/icon-vehicle-snowmobile.png
+{: height="40px" width="64px"}
+[Mono2]: /assets/images/icon-vehicle-monowheel.png
+{: height="40px" width="64px"}
+[Sled2]: /assets/images/icon-vehicle-sled.png
+{: height="40px" width="64px"}
+[Tube2]: /assets/images/icon-vehicle-tube.png
+{: height="40px" width="64px"}
+[Snowboard2]: /assets/images/icon-vehicle-snowboard.png
+{: height="40px" width="64px"}
+[AC]: /assets/images/aircontrol.png
+{: height="20px" width="20px"}
+[HW]: /assets/images/weight.png
+{: height="20px" width="20px"}
+[Ma]: /assets/images/magnet_coins.png
+{: height="20px" width="20px"}
+[RC]: /assets/images/roll-cage-icon.png
+{: height="20px" width="20px"}
+[Wi]: /assets/images/wing.png
+{: height="20px" width="20px"}
+[WT]: /assets/images/snow-chain-icon.png
+{: height="20px" width="20px"}
+[Flip]: /assets/images/flip-boost.png
+{: height="20px" width="20px"}
+[Fume]: /assets/images/fumeboost.png
+{: height="20px" width="20px"}
+[JS]: /assets/images/jump-shock-icon.png
+{: height="20px" width="20px"}
+[SB]: /assets/images/rocket.png
+{: height="20px" width="20px"}
+[WB]: /assets/images/topspeed.png
+{: height="20px" width="20px"}
+[AB]: /assets/images/afterburner.png
+{: height="20px" width="20px"}
+[LB]: /assets/images/landing-boost.png
+{: height="20px" width="20px"}
+[OT]: /assets/images/exhaust_yellow.png
+{: height="20px" width="20px"}
+[Sp]: /assets/images/spoiler.png
+{: height="20px" width="20px"}
+[CB]: /assets/images/coinboost.png
+{: height="20px" width="20px"}
+[Fuel]: /assets/images/tunepart_NOS.png
+{: height="20px" width="20px"}
+[Th]: /assets/images/thruster_icon.png
+{: height="20px" width="20px"}
+[Ni]: /assets/images/tunepart_nitro.png
+{: height="20px" width="20px"}
+[AC2]: /assets/images/aircontrol.png
+{: height="40px" width="40px"}
+[HW2]: /assets/images/weight.png
+{: height="40px" width="40px"}
+[Ma2]: /assets/images/magnet_coins.png
+{: height="40px" width="40px"}
+[RC2]: /assets/images/roll-cage-icon.png
+{: height="40px" width="40px"}
+[Wi2]: /assets/images/wing.png
+{: height="40px" width="40px"}
+[WT2]: /assets/images/snow-chain-icon.png
+{: height="40px" width="40px"}
+[Flip2]: /assets/images/flip-boost.png
+{: height="40px" width="40px"}
+[Fume2]: /assets/images/fumeboost.png
+{: height="40px" width="40px"}
+[JS2]: /assets/images/jump-shock-icon.png
+{: height="40px" width="40px"}
+[SB2]: /assets/images/rocket.png
+{: height="40px" width="40px"}
+[WB2]: /assets/images/topspeed.png
+{: height="40px" width="40px"}
+[AB2]: /assets/images/afterburner.png
+{: height="40px" width="40px"}
+[LB2]: /assets/images/landing-boost.png
+{: height="40px" width="40px"}
+[OT2]: /assets/images/exhaust_yellow.png
+{: height="40px" width="40px"}
+[Sp2]: /assets/images/spoiler.png
+{: height="40px" width="40px"}
+[CB2]: /assets/images/coinboost.png
+{: height="40px" width="40px"}
+[Fuel2]: /assets/images/tunepart_NOS.png
+{: height="40px" width="40px"}
+[Th2]: /assets/images/thruster_icon.png
+{: height="40px" width="40px"}
+[Ni2]: /assets/images/tunepart_nitro.png
+{: height="40px" width="40px"}
+[ACy]: /assets/images/aircontrol.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[HWy]: /assets/images/weight.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[May]: /assets/images/magnet_coins.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[RCy]: /assets/images/roll-cage-icon.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Wiy]: /assets/images/wing.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[WTy]: /assets/images/snow-chain-icon.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Flipy]: /assets/images/flip-boost.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Fumey]: /assets/images/fumeboost.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[JSy]: /assets/images/jump-shock-icon.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[SBy]: /assets/images/rocket.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[WBy]: /assets/images/topspeed.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[ABy]: /assets/images/afterburner.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[LBy]: /assets/images/landing-boost.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[OTy]: /assets/images/exhaust_yellow.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Spy]: /assets/images/spoiler.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[CBy]: /assets/images/coinboost.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Fuely]: /assets/images/tunepart_NOS.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Thy]: /assets/images/thruster_icon.png
+{: height="20px" width="20px" style="background-color:yellow"}
+[Niy]: /assets/images/tunepart_nitro.png
+{: height="20px" width="20px" style="background-color:yellow"}
