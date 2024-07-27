@@ -1,5 +1,3 @@
-## Team Event Score Table
-
 Death Resistant | Bean 2 Tank(Racers in the Mist -1M) | Skid Happens (Interstate Cup 9M) | Sand in Swimsuit (11M) | Nose Miner (Mine Shaft Cup 11L) | Reef Grief (I Hate Water 8L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 10 s | 9 s | 6 s | 11 s | 12 s | 15000  
