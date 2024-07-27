@@ -1,3 +1,6 @@
+---
+classes: wide
+---
 Search | **Ctrl-f**
 --: | :--
 Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then **Find on Page**  
