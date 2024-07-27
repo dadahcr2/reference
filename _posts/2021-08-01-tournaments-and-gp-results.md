@@ -1,6 +1,6 @@
 
 	
-I highly recommend:
+I recommend:
 - Tractor  Wars : <http://tw.hcr2info.com>  
 - Friendly Wars: <http://fw.hcr2info.com> (no longer organized but daily track and vehicle is still generated)
 
