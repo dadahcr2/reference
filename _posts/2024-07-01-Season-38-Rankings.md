@@ -1,4 +1,4 @@
-**Team Rankings after Season 38**
+**Team Rankings**
 
 Rank | Team | Points |  ╎  | 2024 | Team | Total  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
