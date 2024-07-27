@@ -1,6 +1,3 @@
-
-![](/assets/images/Cool Text - Friends 452913096542716.png)  
-
 Search | **Ctrl-f**
 --: | :--
 Safari |  Tap ![](https://www.veryicon.com/download/png/system/system-project/send-29?s=16) then **Find on Page**  
