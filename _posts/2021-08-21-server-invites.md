@@ -1,6 +1,3 @@
-
-![](/assets/images/Cool Text - Servers 452913066896364.png)  
-
 Server | Link  
 -- | --  
 HCR Server Link Hub | <https://discord.gg/RXQeGtuz8U>  
