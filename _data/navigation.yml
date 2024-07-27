@@ -11,6 +11,8 @@ main:
     url: /server-invites/
   - title: "Chests"
     url: /chests/
+  - title: "Flages"
+    url: /flag-lookup/
   - title: "GM"
     url: /gm/
   - title: "FAQ"
