@@ -3,8 +3,10 @@ main:
     url: /info/
   - title: "Tips"
     url: /tips/
-  - title: "Tunes"
+  - title: "Cups"
     url: /tunes/
+  - title: "Adventures"
+    url: /adventure-setups/
   - title: "Friends"
     url: /friend-invites/
   - title: "Servers"
