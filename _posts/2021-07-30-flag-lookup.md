@@ -1,4 +1,4 @@
-### Identify the country based on flag features
+### Identify the Country based on Flag Features
 
 | **Circles** | |
 | -- | -- |
