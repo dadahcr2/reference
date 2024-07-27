@@ -1,3 +1,6 @@
+---
+classes: wide
+---
 Server | Link  
 -- | --  
 HCR Server Link Hub | <https://discord.gg/RXQeGtuz8U>  
