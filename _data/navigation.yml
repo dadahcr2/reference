@@ -6,9 +6,9 @@ main:
   - title: "Tunes"
     url: /tunes/
   - title: "Friends"
-    url: /friends/
+    url: /friend-invites/
   - title: "Servers"
-    url: /servers/
+    url: /server-invites/
   - title: "Chests"
     url: /chests/
   - title: "GM"
