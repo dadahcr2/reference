@@ -748,30 +748,10 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)  
 ▶︎ &nbsp;[Being a Teammate](/being-a-teammate/)  
 ▶︎ &nbsp;[Tournaments & GP Results](/tournaments-and-gp-results/)  
+▶︎ &nbsp;[Server Invites](/servers/)  
+▶︎ &nbsp;[Friend Invites](/friends/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
 ---
-<details  markdown="block">
-  <summary>
-    Server & Friend Invites
-  </summary>
-	
-- [Discord Server Invites](/servers/)  
-	> These are some of my favorites:  
-	> - Public Events: <https://discord.gg/gZhdXJEj8T>  
-	> - HCR Maps: <https://discord.gg/dWhDEEmxB7>  
-	> - FS Server: <https://discord.gg/fingersoft>  
-	> - Fair Play: <https://discord.gg/mnSmNU9XMr>  
-	> - Tractor Wars: <https://discord.gg/ND6avWY>
-	> - Art Gallery: <https://discord.gg/tr4jWzvbrB>  
-	> - Climb Canyon League: <https://discord.gg/gE8xh925V6>  
-	> - HCR2 CupBoard: <https://discord.gg/g3aKuuNHNA>  
-	> - Server Link Hub: <https://discord.gg/RcpT9dyrN5>  
-	
-- [HCR2 Friend Links](/friends/)
-	
-	
-</details>  	
-		
 <details  markdown="block">
   <summary>
     Team Philosophy
