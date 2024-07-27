@@ -138,9 +138,9 @@ FREE | $$$
 - Scrap excess
 - Complete weekly public event and monthly 50k season
 
-#### Future additional topics?
+<!-- #### Future additional topics?
 
 - Team event tactics
 - Friends, Challenges, Daily, Weekly
 - Going for world records / Participating in vehicle wars
-- Social media: discord, facebook, reddit
+- Social media: discord, facebook, reddit -->
