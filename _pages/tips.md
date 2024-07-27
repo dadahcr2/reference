@@ -132,7 +132,7 @@ FREE | $$$
 
 #### Optimal ways to increase GP
 
-- Follow the [Daily Checklist](/info/#lists)
+- Follow the [Daily Checklist](/daily-checklist/)
 - Open additional cup chests with gems
 - Do not upgrade parts until needed
 - Scrap excess
