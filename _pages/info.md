@@ -745,7 +745,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 ## Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
-▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)<details  markdown="block">
+▶︎ &nbsp;[10 Commandments of HCR2](/10-commandments-of-HCR2/)
+<details  markdown="block">
   <summary>
     Being a Teammate
   </summary>
