@@ -743,7 +743,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 </details>
 
-## Lists
+## Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)
 <details  markdown="block">
   <summary>
