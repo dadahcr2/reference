@@ -744,7 +744,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>
 
 ## Lists
-&nbsp; ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
+▶︎ &nbsp;[Daily Checklist](/daily-checklist/)
 <details  markdown="block">
   <summary>
     10 Commandments
