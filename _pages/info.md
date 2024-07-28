@@ -712,13 +712,11 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[Friend Invites](/friend-invites/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
 
-### Gas Brake Go
+## Gas Brake Go
 <details  markdown="block">
   <summary>
     Team Philosophy
   </summary>
-	
-## Gas Brake Go
 We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join - or feel free to join our even more relaxed team: **Gas Brake Go²** (Note: **Gas Brake Go²** currently on a break).
 
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
