@@ -23,9 +23,9 @@ Forest Trials | ![Fume]![JS]![Wi] |
 Intense City | ![JS]![Th]![Wi] | 
 Raging Winter | ![JS]![Th]![Wi] |  
 
-[More Adventure Mastery Setups](/more/#adventures)  
+[More Adventure Mastery Setups](/info/#adventures)  
 
-*Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
+*Source: Zorro’s [Adventure Setup Discord Server]( https://discord.gg/pNeKMVTTKh) - 8 June 2024*
 
 [AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
