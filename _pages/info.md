@@ -11,7 +11,7 @@ classes: wide
 
 [Go to front page](/)
 
-## Events  
+### Events  
 <details  markdown="block">
   <summary>
    Season Rewards
@@ -78,8 +78,6 @@ Vehicle | Parts
   <summary>
     PE: Setups
   </summary>
-	
-### Public Event Setups
 
 Event | Suggested Vehicle and Parts
 :-- | :--	
@@ -120,7 +118,7 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 	
 
 	
-##  Websites, Tutorials & Spreadsheets
+###  Websites, Tutorials & Spreadsheets
 
 <details  markdown="block">
   <summary>
@@ -194,14 +192,14 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 
 </details>	
 	
-## Vehicles
+### Vehicles
 	
 <details  markdown="block">
   <summary>
     Parts, Costs & Fuel
   </summary>
 	
-### Parts Required  
+#### Parts Required  
 
 Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
@@ -221,7 +219,7 @@ Parts to: | Next Level | Max Common | Max Rare | Max Epic | Max Legendary
 14 | 620 | 620 |  |  |   
 15 | Max | Max |  |  |   
 
-### Parts Costs  
+#### Parts Costs  
 
 Level | Number of Parts | Common | Rare | Epic | Legendary  
 :--: | :--: | :--: | :--: | :--: | :--:  
@@ -244,7 +242,7 @@ Total Cost |  | 692,600 | 574,900 | 520,000 | 199,000
 Total Parts |  | 2,018 | 368 | 134 | 30  
 Total Scrap |  | 20,180 | 18,400 | 53,600 | 120,000  
 	
-### Fuel Duration
+#### Fuel Duration
 
 Vehicle | Fuel Duration  
 -- | --  
@@ -388,7 +386,7 @@ The vehicles for mastery will be released staggered. The first vehicle available
 	
 </details>  
 	
-## Adventures  	
+### Adventures  	
 <details markdown="block">
   <summary>
 	Vehicle Setups
@@ -562,7 +560,7 @@ Distance | Obstacle
 ![](https://images-ext-2.discordapp.net/external/rZZDjnp40TXb7bsu9wsWf5aSYI2U8s1S5YiZnGngtsI/https/i.imgur.com/zGO9M1F.png)  
 </details>	
 	
-## Cups
+### Cups
 
 <details  markdown="block">
   <summary>
@@ -703,7 +701,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 </details>
 
-## Lists  
+### Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
 ▶︎ &nbsp;[Ten Commandments of HCR2](/ten-commandments-of-HCR2/)  
 ▶︎ &nbsp;[Being a Teammate](/being-a-teammate/)  
@@ -712,7 +710,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[Friend Invites](/friend-invites/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
 
-## Gas Brake Go
+### Gas Brake Go
 <details  markdown="block">
   <summary>
     Team Philosophy
