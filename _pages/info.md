@@ -711,7 +711,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[Server Invites](/server-invites/)  
 ▶︎ &nbsp;[Friend Invites](/friend-invites/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
-* * *
+
+### Gas Brake Go
 <details  markdown="block">
   <summary>
     Team Philosophy
@@ -729,9 +730,11 @@ We are an open team, so no password.  If there is a spot available and the below
 4. **Relax and have fun!**  Rankings are secondary.
 
 5. **Eat plenty fiber!!** 😀 
-
-	![](https://i.etsystatic.com/32141718/r/il/a1c5f1/5097511577/il_1588xN.5097511577_m50w.jpg)
-
+</details>
+<<summary>
+    High Fiber Foods
+  </summary>
+![](https://i.etsystatic.com/32141718/r/il/a1c5f1/5097511577/il_1588xN.5097511577_m50w.jpg)
 </details>	
 	
 
