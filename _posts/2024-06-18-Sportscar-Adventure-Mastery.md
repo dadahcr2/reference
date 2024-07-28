@@ -23,7 +23,7 @@ forest trials | ![JS] ![LB] ![Wi]  | Df=5 ![JS] ![WB] ![Fume]
 intense city | ![Fume] ![JS] ![WB]  | ![Fume] ![JS] ![Wi]  
 raging winter | Df=1 ![JS] ![Th] ![Wi]  | Df=5 ![OT] ![Th] ![Wi]  
 
-[More Adventure Mastery Setups](/more/#adventures)  
+[More Adventure Mastery Setups](/info/#adventures)  
 
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
