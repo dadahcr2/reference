@@ -1,4 +1,4 @@
-### Bests Setups for Each Track
+### Best Setups for Each Track
 
 Track | Monowheel | Easier
 :--: | :--: | :--:
