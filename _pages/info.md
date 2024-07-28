@@ -711,7 +711,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▶︎ &nbsp;[Server Invites](/server-invites/)  
 ▶︎ &nbsp;[Friend Invites](/friend-invites/)  
 ▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
----
+* * *
 <details  markdown="block">
   <summary>
     Team Philosophy
