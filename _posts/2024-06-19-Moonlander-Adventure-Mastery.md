@@ -23,7 +23,7 @@ Forest Trials | ![Fume]![CB]![Ma] |
 Intense City | 20/20/20/16 ![Fume]![CB]![WB] | ![Fume]![CB]![Ma]
 Raging Winter | ![LB]![Ma]![CB] | ![WB]![Ma]![CB]
 
-[More Adventure Mastery Setups](/more/#adventures)  
+[More Adventure Mastery Setups](/info/#adventures)  
 
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
