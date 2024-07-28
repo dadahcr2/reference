@@ -729,8 +729,10 @@ We are an open team, so no password.  If there is a spot available and the below
 
 4. **Relax and have fun!**  Rankings are secondary.
 
-5. **Eat plenty fiber!!** 😀 
+5. **Eat plenty fiber!!** 😀
+   
 </details>
+<details  markdown="block">
   <summary>
     High Fiber Foods
   </summary>
