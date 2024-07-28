@@ -731,7 +731,7 @@ We are an open team, so no password.  If there is a spot available and the below
 
 5. **Eat plenty fiber!!** 😀 
 </details>
-<<summary>
+  <summary>
     High Fiber Foods
   </summary>
 ![](https://i.etsystatic.com/32141718/r/il/a1c5f1/5097511577/il_1588xN.5097511577_m50w.jpg)
