@@ -2,6 +2,7 @@
 permalink: /tips/
 toc: true
 toc_sticky: true
+comments: true
 ---
 
 ![](/assets/images/Cool Text - Tips 452912972700728.png)  
