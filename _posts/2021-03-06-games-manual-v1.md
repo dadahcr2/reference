@@ -2,6 +2,7 @@
 permalink: /gm/
 toc: true
 toc_sticky: false
+excerpt:This is an Unofficial Manual created by a group of HCR2 enthusiasts (March 2021)
 ---												
 ![Game Manual](/assets/images/Cool Text - GM 452913122494689.png)
 
