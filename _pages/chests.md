@@ -2,6 +2,7 @@
 permalink: /chests/
 toc: true
 toc_sticky: true
+comments: true
 ---
 
 ![](/assets/images/Cool Text - chests 452913113185321.png)  
