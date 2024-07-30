@@ -7,8 +7,6 @@ main:
     url: /tunes/
   - title: "Adv."
     url: /adventure-setups/
-  - title: "Servers"
-    url: /server-invites/
   - title: "Chests"
     url: /chests/
   - title: "Flags"
