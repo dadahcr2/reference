@@ -3,6 +3,7 @@ permalink: /info/
 toc: false
 toc_sticky: true
 classes: wide
+comments: true
 # sidebar:
 #   nav: "docs"
 ---
