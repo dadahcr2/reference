@@ -1,5 +1,6 @@
 ---
 permalink: /points/
+comments: true
 ---
 
 {% capture notice-3 %}	
