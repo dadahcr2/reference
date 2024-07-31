@@ -374,7 +374,7 @@ Moonlander | LandingBoost
   - Epic: 1250
   - Legendary: 10000
 
-The vehicles for mastery release is staggered:
+The vehicles for mastery release is staggered:  
 	1. Sports Car
 	2. Moon Lander
 	3. Racing Truck
