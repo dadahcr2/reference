@@ -362,17 +362,24 @@ Moonlander | LandingBoost
 
 **How to earn XP:**  
 - Distances in adventure levels
-- Cup finish positions
-- Public event positions
+- Cup finish positions (200, 160, 120, 80)
+- Public event positions (up to 200 depending on position)
 - Community event positions
 - Team Match single-level score
 - Featured challenge won
 - Doing tricks (wheelie, flips, air time)
 - Specific vehicle mechanics (Sports Car: drive full speed on the ground; Moonlander: use the thrusters; Racing Truck: drive aerodynamically; monowheel: get big air time)  
 - Opening vehicle-specific chests
+  - Common: 100
+  - Epic: 1250
+  - Legendary: 10000
 
-The vehicles for mastery will be released staggered. The first vehicle available for mastery is the Sports Car, which will be followed by (in no particular order): Monowheel, Moon Lander, and Racing Truck.
-
+The vehicles for mastery release is staggered:
+1. Sports Car
+2. Moon Lander
+3. Racing Truck
+4. Mono wheeel
+   
 **Mastery levels and rewards:**  
 - There are four mastery levels to progress through by earning XP.
 - Level 1-3: Unlock permanent buffs for your vehicles, featuring general power and vehicle-specific buffs. All buffs can be toggled on or off.
