@@ -4,9 +4,9 @@ toc: false
 toc_sticky: true
 classes: wide
 comments: true
-header:
-  image: /assets/images/IMG_6127.jpeg
-  overlay_filter: 0.5
+# header:
+#  image: /assets/images/IMG_6127.jpeg
+#  overlay_filter: 0.5
 # sidebar:
 #   nav: "docs"
 ---
