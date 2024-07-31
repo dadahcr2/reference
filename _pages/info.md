@@ -375,10 +375,10 @@ Moonlander | LandingBoost
   - Legendary: 10000
 
 The vehicles for mastery release is staggered:
-1. Sports Car
-2. Moon Lander
-3. Racing Truck
-4. Mono wheeel
+	1. Sports Car
+	2. Moon Lander
+	3. Racing Truck
+	4. Mono wheeel
    
 **Mastery levels and rewards:**  
 - There are four mastery levels to progress through by earning XP.
