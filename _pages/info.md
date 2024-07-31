@@ -4,6 +4,8 @@ toc: false
 toc_sticky: true
 classes: wide
 comments: true
+header:
+  image: /assets/images/IMG_6127.jpeg
 # sidebar:
 #   nav: "docs"
 ---
