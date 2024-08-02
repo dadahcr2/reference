@@ -1,0 +1,18 @@
+# Season 39 Ranks
+- SUPREME retains #1 after a strong season
+- Discord joins Project GER in #2
+- EMPIRE (#4) overtakes NORTH (#5)
+- SUPREME retakes the lead for 2024 in a close battle with Project GER
+
+Rank | Team | Points |  ╎  | 2024 | Team | Total  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
+1 | SÜPREME | 59 (+2) |  ╎  | 1  ↑1 | SÜPREME | 69  
+2 ↑1 | Discord | 49 (+2) |  ╎  | 2  ↓1 | Project GER | 68  
+2 | Project GER | 49 (+1) |  ╎  | 3 | E M P I R E | 63  
+4 ↑1 | E M P I R E | 43 ( = ) |  ╎  | 4  ↑1 | Discord | 61  
+5 ↓2 | N O R T H | 38 (-9) |  ╎  | 5  ↓2 | N O R T H | 53  
+6 ↑1 | French Spirit | 21 (+4) |  ╎  | 6 | French Spirit | 39  
+7 ↓1 | PL NATIONAL | 16 (-8) |  ╎  | 7 | PL NATIONAL | 27  
+8 | UNIVERSE | 11 (-2) |  ╎  | 8 | UNIVERSE | 18  
+9 ↑3 | Made in Italy | 10 (+4) |  ╎  | 9  ↑2 | Made in Italy | 15  
+10 | United Arab 1 | 7 (-1) |  ╎  | 10  ↓1 | LowIILands | 14  
