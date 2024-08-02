@@ -1,4 +1,4 @@
-# Season 39 Ranks
+
 - SUPREME retains #1 after a strong season
 - Discord joins Project GER in #2
 - EMPIRE (#4) overtakes NORTH (#5)
