@@ -1,15 +1,15 @@
 Start Minute | Track | Parts  
-:--:  | :--:  | :--:  
-`:00:20:40 ` | Captain's Log   | [Wi] [Fume] [Th]  
-`:02:22:42 ` | Big Air  | [Wi] [Fuel] [Th]  
-`:04:24:44 ` | Happy Camper  | [Wi] [JS] [Th]  
-`:06:26:46 ` | Bill's Landing  | [Wi] [Fuel] [Th]  
-`:08:28:48 ` | Let it Snow  | [Wi] [Fuel] [Th]  
-`:10:30:50 ` | The Big Dunes  | [Wi] [Fuel] [Th]  
-`:12:32:52 ` | Happy Miner  | [Wi] [Fuel] [Th]  
-`:14:34:54 ` | Trial of Balance  | [Wi] [JS] [Th]  
-`:16:36:56 ` | Face Plant  | [Wi] [Fuel] [Th]  
-`:18:38:58 ` | Nose Miner  | [Wi] [JS] [Th]  
+:--: | :--: | :--:   
+`:00:20:40 ` | Captain's Log   | ![Wi] ![Fume] ![Th]  
+`:02:22:42 ` | Big Air  | ![Wi] ![Fuel] ![Th]  
+`:04:24:44 ` | Happy Camper  | ![Wi] ![JS] ![Th]  
+`:06:26:46 ` | Bill's Landing  | ![Wi] ![Fuel] ![Th]  
+`:08:28:48 ` | Let it Snow  | ![Wi] ![Fuel] ![Th]  
+`:10:30:50 ` | The Big Dunes  | ![Wi] ![Fuel] ![Th]  
+`:12:32:52 ` | Happy Miner  | ![Wi] ![Fuel] ![Th]  
+`:14:34:54 ` | Trial of Balance  | ![Wi] ![JS] ![Th]  
+`:16:36:56 ` | Face Plant  | ![Wi] ![Fuel] ![Th]  
+`:18:38:58 ` | Nose Miner  | ![Wi] ![JS] ![Th]  
 
  - *Source: PE Discord Server*
 
