@@ -258,6 +258,7 @@ Dune Buggy  |  44 seconds
 Formula  |  30 seconds  
 Hill Climber/Jeep  |  40 seconds  
 Hot Rod  |  30 seconds  
+Hoverbike | 55 seconds / lvl 20  
 Lowrider  |  35 seconds  
 Mk2  |  44 seconds  
 Monowheel  |  50 seconds  
