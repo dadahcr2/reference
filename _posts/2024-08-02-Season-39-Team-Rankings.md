@@ -16,3 +16,5 @@ Rank | Team | Points |  ╎  | 2024 | Team | Total
 8 | UNIVERSE | 11 (-2) |  ╎  | 8 | UNIVERSE | 18  
 9 ↑3 | Made in Italy | 10 (+4) |  ╎  | 9  ↑2 | Made in Italy | 15  
 10 | United Arab 1 | 7 (-1) |  ╎  | 10  ↓1 | LowIILands | 14  
+
+&nbsp; ▶︎ &nbsp;[Points Methodology](/points/)
