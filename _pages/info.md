@@ -144,8 +144,8 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
     Video Tutorials
   </summary>	  
 
-&nbsp; ▶︎ &nbsp;[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
-	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)    
+&nbsp; ▷ &nbsp;[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
+	{% include video id="GzSkfF3lwX0" provider="youtube" %}  
 &nbsp; ▶︎ &nbsp;[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 &nbsp; ▶︎ &nbsp;[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
