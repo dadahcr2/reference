@@ -1,6 +1,6 @@
 Start Minute | Mono Wars 3 | Setup  
 :--:  | :--:  | :--:  
-`:00:20:40 ` | Captain's Log | :1Wi: :2Fu: :4Th   
+`:00:20:40 ` | Captain's Log | :1Wi: :2Fu: :4Th:   
 `:02:22:42 ` | Big Air | :4Th: :1Wi: :4FB:  
 `:04:24:44 ` | Happy Camper  | :4Th: :2JS: :1Wi:    
 `:06:26:46 ` | Bill's Landing |  :4Th: :1Wi: :4FB:  
