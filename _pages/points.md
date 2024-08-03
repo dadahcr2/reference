@@ -2,6 +2,7 @@
 permalink: /points/
 comments: true
 ---
+## Points Methodology
 
 {% capture notice-3 %}	
 One season of ~15 matches is just not enough to determine the best HCR2 team.  So I came up with a simple method that takes into account placings from previous seasons.  This should provide a more stable and accurate ranking.  Teams do change over time, so I felt that placings in previous seasons should be less relevant as time passes by (this is not applied for the calendar year total where each prior month in the year is given the same number of points as the most recent season.)
