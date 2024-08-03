@@ -2,13 +2,13 @@
 classes: wide
 ---
 These are some of my favorites:  
- > [Public Events](<https://discord.gg/gZhdXJEj8T>)  
- > [HCR Maps](<https://discord.gg/dWhDEEmxB7>)  
- > [FS Server](<https://discord.gg/fingersoft>)  
- > [Fair Play](<https://discord.gg/mnSmNU9XMr>)  
- > [Tractor Wars](<https://discord.gg/ND6avWY>)
- > [Art Gallery](<https://discord.gg/tr4jWzvbrB>)    
- > [Server Link Hub](<https://discord.gg/RcpT9dyrN5>)
+&nbsp; ▶︎ &nbsp;[Public Events](<https://discord.gg/gZhdXJEj8T>)  
+&nbsp; ▶︎ &nbsp;[HCR Maps](<https://discord.gg/dWhDEEmxB7>)  
+&nbsp; ▶︎ &nbsp;[FS Server](<https://discord.gg/fingersoft>)  
+&nbsp; ▶︎ &nbsp;[Fair Play](<https://discord.gg/mnSmNU9XMr>)  
+&nbsp; ▶︎ &nbsp;[Tractor Wars](<https://discord.gg/ND6avWY>)
+&nbsp; ▶︎ &nbsp;[Art Gallery](<https://discord.gg/tr4jWzvbrB>)    
+&nbsp; ▶︎ &nbsp;[Server Link Hub](<https://discord.gg/RcpT9dyrN5>)
   
 Server | Link  
 -- | --  
