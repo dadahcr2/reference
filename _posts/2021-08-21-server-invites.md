@@ -6,7 +6,7 @@ These are some of my favorites:
 &nbsp; ▶︎ &nbsp;[HCR Maps](<https://discord.gg/dWhDEEmxB7>)  
 &nbsp; ▶︎ &nbsp;[FS Server](<https://discord.gg/fingersoft>)  
 &nbsp; ▶︎ &nbsp;[Fair Play](<https://discord.gg/mnSmNU9XMr>)  
-&nbsp; ▶︎ &nbsp;[Tractor Wars](<https://discord.gg/ND6avWY>)
+&nbsp; ▶︎ &nbsp;[Tractor Wars](<https://discord.gg/ND6avWY>)  
 &nbsp; ▶︎ &nbsp;[Art Gallery](<https://discord.gg/tr4jWzvbrB>)    
 &nbsp; ▶︎ &nbsp;[Server Link Hub](<https://discord.gg/RcpT9dyrN5>)
   
