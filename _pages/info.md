@@ -372,7 +372,7 @@ Moonlander | LandingBoost
 - Specific vehicle mechanics (Sports Car: drive full speed on the ground; Moonlander: use the thrusters; Racing Truck: drive aerodynamically; monowheel: get big air time)  
 - Opening vehicle-specific chests
   - Common: 100
-  - Rare: 250  
+  - Uncommon: 250  
   - Epic: 1250
   - Legendary: 10000
 
