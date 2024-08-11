@@ -406,9 +406,7 @@ The vehicles for mastery release is staggered:
 	Vehicle Setups
   </summary>
 
-&nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery](/monowheel-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery](/Moonlander-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery](/monowheel-adventure-mastery/)  &nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery](/Moonlander-Adventure-Mastery/) &nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)   
 &nbsp; ▶︎ &nbsp;[Sportscar Adventure Mastery](/Sportscar-Adventure-Mastery/)  
 &nbsp; ▶︎ &nbsp;[All Setups](/adventure-setups/)  
 </details>  
