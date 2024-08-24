@@ -1,4 +1,4 @@
-Tracks: | Trial of Courage (Downhill Trials 3L) | Mount Dizzy (uphill) | Beach Jump | Go Moonhead and Jump | Gentle Escalation, row 8, left | Score  
+Tracks: | Trial of Courage (Downhill Trials 3L) | Mount Dizzy (uphill) | Beach Jump | Go Moonhead and Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 3 s | 575 m | 350 m | 7 s | 15000  
 14000 | 3.8 s | 554 m | 337 m | 8 s | 14000  
