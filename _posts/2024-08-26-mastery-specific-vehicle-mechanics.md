@@ -9,4 +9,4 @@ Lowrider | Using fully charged Jump Shocks
 Chopper | Not picking up fuel can
 Tractor | Break objects
 
-(To Earn XP)
+(To earn XP)
