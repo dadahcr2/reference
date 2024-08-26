@@ -369,26 +369,13 @@ Moonlander | LandingBoost
 - Team Match single-level score
 - Featured challenge won
 - Doing tricks (wheelie, flips, air time)
-- Specific vehicle mechanics 
+- (Specific vehicle mechanics)[/mastery-specific-vehicle-mechanics/]
 - Opening vehicle-specific chests
   - Common: 100
   - Uncommon: 250
   - Rare: 500  
   - Epic: 1250
   - Legendary: 10000
-
-The vehicles for mastery release is staggered. Specific vehicle mechanics below: 
-
-Vehicle | Specific Vehicle Mechanics
--- | --
-Sports Car | Drive full speed on the ground
-Moon Lander | Use the thrusters
-Racing Truck | Drive aerodynamically
-Mono Wheel | Get big air time
-Bus | Removing passengers
-Lowrider | Using fully charged Jump Shocks
-Chopper | Not picking up fuel can
-Tractor | Break objects
    
 **Mastery levels and rewards:**  
 - There are four mastery levels to progress through by earning XP.
