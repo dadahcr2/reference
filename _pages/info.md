@@ -400,6 +400,7 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>
 
+&nbsp; ▶︎ &nbsp;[Bus Adventure Mastery](/bus-adventure-mastery/)   
 &nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery](/monowheel-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery](/Moonlander-Adventure-Mastery/)  
 &nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)   
