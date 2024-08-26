@@ -382,6 +382,10 @@ The vehicles for mastery release is staggered:
 	2. Moon Lander
 	3. Racing Truck
 	4. Mono Wheel
+ 	5. Bus
+  	6. Lowrider
+   	7. Chopper
+    	8. Tractor
    
 **Mastery levels and rewards:**  
 - There are four mastery levels to progress through by earning XP.
