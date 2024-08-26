@@ -369,7 +369,7 @@ Moonlander | LandingBoost
 - Team Match single-level score
 - Featured challenge won
 - Doing tricks (wheelie, flips, air time)
-- (Specific vehicle mechanics)[/mastery-specific-vehicle-mechanics/]
+- [Specific vehicle mechanics](/mastery-specific-vehicle-mechanics/)
 - Opening vehicle-specific chests
   - Common: 100
   - Uncommon: 250
