@@ -46,11 +46,11 @@ comments:
 #  provider: "disqus"
  # disqus:
  #   shortname: "hcr2info"
-   provider: "utterances"
-   utterances:
-     theme: "github-light" # "github-dark"
-     issue_term: "pathname"
-     label: "comment" # Optional - must be existing label.
+#   provider: "utterances"
+#   utterances:
+#     theme: "github-light" # "github-dark"
+#     issue_term: "pathname"
+#     label: "comment" # Optional - must be existing label.
     
 include:
   - _pages
