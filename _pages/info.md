@@ -369,7 +369,7 @@ Moonlander | LandingBoost
 - Team Match single-level score
 - Featured challenge won
 - Doing tricks (wheelie, flips, air time)
-- Specific vehicle mechanics (Sports Car: drive full speed on the ground; Moonlander: use the thrusters; Racing Truck: drive aerodynamically; monowheel: get big air time)  
+- Specific vehicle mechanics 
 - Opening vehicle-specific chests
   - Common: 100
   - Uncommon: 250
@@ -377,15 +377,18 @@ Moonlander | LandingBoost
   - Epic: 1250
   - Legendary: 10000
 
-The vehicles for mastery release is staggered:  
-	1. Sports Car
-	2. Moon Lander
-	3. Racing Truck
-	4. Mono Wheel
- 	5. Bus
-  	6. Lowrider
-   	7. Chopper
-    	8. Tractor
+The vehicles for mastery release is staggered. Specific vehicle mechanics below: 
+
+Vehicle | Specific Vehicle Mechanics
+-- | --
+Sports Car | Drive full speed on the ground
+Moon Lander | Use the thrusters
+Racing Truck | Drive aerodynamically
+Mono Wheel | Get big air time
+Bus | Removing passengers
+Lowrider | Using fully charged Jump Shocks
+Chopper | Not picking up fuel can
+Tractor | Break objects
    
 **Mastery levels and rewards:**  
 - There are four mastery levels to progress through by earning XP.
