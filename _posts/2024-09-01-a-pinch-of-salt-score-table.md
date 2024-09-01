@@ -1,4 +1,4 @@
-Tracks: | Uphill Sprint 5 | Desert Jump 4 | Hollow Road (Dark Roads 2R) | Rocky (Uphill) Distance | Score  
+Tracks: | Uphill Sprint 5 | Desert Jump 4 | Hollow Road (Dark Roads 2R) | Rocky (Uphill) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 11 s | 400 m | 6 s | 750 m | 15000  
 14000 | 12.6 s | 385 m | 7.1 s | 723 m | 14000  
