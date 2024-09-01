@@ -1,0 +1,17 @@
+# Season 40 Ranks
+- Not too many changes at the top this month
+- SUPREME cementing #1 in both Overall and 2024 Ranks
+- Discord breaks the tie and takes sole #2 from Project GER
+
+Rank | Team | Points |  ╎  | 2024 | Team | Total  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
+1 | SÜPREME | 61 (+2) |  ╎  | 1 | SÜPREME | 81  
+2 | Discord | 51 (+2) |  ╎  | 2 | Project GER | 77  
+3 ↓1 | Project GER | 50 (+1) |  ╎  | 3 | E M P I R E | 74  
+4 | E M P I R E | 47 (+4) |  ╎  | 4 | Discord | 71  
+5 | N O R T H | 30 (-8) |  ╎  | 5 | N O R T H | 53  
+6 | French Spirit | 24 (+3) |  ╎  | 6 | French Spirit | 47  
+7 ↑3 | United Arab 1 | 13 (+6) |  ╎  | 7 | PL NATIONAL | 27  
+8 ↑5 | LowIILands | 11 (+5) |  ╎  | 8  ↑2 | LowIILands | 20  
+9 ↓2 | PL NATIONAL | 9 (-7) |  ╎  | 9  ↓1 | UNIVERSE | 18  
+9 ↓1 | UNIVERSE | 9 (-2) |  ╎  | 10  ↑3 | United Arab 1 | 16  
