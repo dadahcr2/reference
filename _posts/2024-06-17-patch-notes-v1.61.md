@@ -20,14 +20,14 @@ The May update for Hill Climb Racing 2 is rolling out now for all supported plat
   > The vehicles for mastery will be released staggered. The first vehicle available for mastery is the Sports Car, which will be followed by (in no particular order): Monowheel, Moon Lander, and Racing Truck.
 
   Mastery levels and rewards:
-  > There are four mastery levels to progress through by earning XP.
+  - There are four mastery levels to progress through by earning XP.
   - Level 1-3: Unlock permanent buffs for your vehicles, featuring general power and vehicle-specific buffs. All buffs can be toggled on or off.
   - Level 4: Unlocks a fourth tuning part slot for your vehicle.
 
 - New Level Theme: Savanna
 - New Cups: The Jungle Brake, A Bit Plain, Racers In The Mist
 - Vehicle chests
-  > Earn vehicle-specific chests from vehicle-specific daily- and distance tasks
+  - Earn vehicle-specific chests from vehicle-specific daily- and distance tasks
 - Cups chest from every finish position
 - Removed entry fee from Forest Trials, Intense City, and Raging Winter
 - Various bug fixes
