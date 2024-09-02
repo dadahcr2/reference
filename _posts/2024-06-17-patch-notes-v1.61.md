@@ -4,7 +4,7 @@ link: https://fingersoft.com/news/2024/05/20/patch-notes-hcr2-v1-61-0/
 The May update for Hill Climb Racing 2 is rolling out now for all supported platforms! Prepare yourself for Vehicle Mastery, which will exhilarate the end game and take you to new heights! We also have a bunch of cool new features roaring around the corner, like new cups locations, a new level theme, and so much more!
 
 - New Feature: Vehicle Mastery
-  > How it works: Fully upgrade your vehicle to max stats (20, 20, 20, and 20), and then you can start to collect XP for that specific vehicle. Each vehicle has four mastery levels, which you’ll progress through by collecting XP. To progress through mastery levels, you need powerful tune parts in addition to XP, and you can buy the next upgrade with coins. XP can’t be stockpiled.
+  > How it works: Fully upgrade your vehicle to max stats (20, 20, 20, and 20), and then you can start to collect XP for that specific vehicle. Each vehicle has four mastery levels, which you’ll progress through by collecting XP. To progress through mastery levels, you need powerful tune parts in addition to XP, and you can buy the next upgrade with coins. XP can’t be stockpiled.  
   How to earn XP:
   - Distances in adventure levels
   - Cup finish positions
