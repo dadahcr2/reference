@@ -15,7 +15,7 @@ The May update for Hill Climb Racing 2 is rolling out now for all supported plat
   - Featured challenge won
   - Doing tricks (wheelie, flips, air time)
   - Specific vehicle mechanics (Sports Car: drive full speed on the ground; Moonlander: use the thrusters; Racing Truck: drive aerodynamically; monowheel: get big air time).
-  - Opening vehicle-specific chests
+  - Opening vehicle-specific chests  
     
   > The vehicles for mastery will be released staggered. The first vehicle available for mastery is the Sports Car, which will be followed by (in no particular order): Monowheel, Moon Lander, and Racing Truck.
 
