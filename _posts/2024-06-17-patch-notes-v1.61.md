@@ -28,8 +28,7 @@ The May update for Hill Climb Racing 2 is rolling out now for all supported plat
 
 - New Level Theme: Savanna
 - New Cups: The Jungle Brake, A Bit Plain, Racers In The Mist
-- Vehicle chests
-  - Earn vehicle-specific chests from vehicle-specific daily- and distance tasks
+- Vehicle chests: Earn vehicle-specific chests from vehicle-specific daily- and distance tasks
 - Cups chest from every finish position
 - Removed entry fee from Forest Trials, Intense City, and Raging Winter
 - Various bug fixes
