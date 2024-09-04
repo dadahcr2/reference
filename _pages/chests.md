@@ -132,6 +132,8 @@ Level | Chest
  6-7 | **Epic** (at least 68 common, 9 rare and 6 epic parts)
  8-9 | **Champion** (at least 113 common and 12 epic parts - 60% legendary)
 
+The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order is selected in the advanced settings. Expected translation between the two is shown [here](/New-vs-legacy-key-chests/)
+
 #### Weekly Team Chest
 
 Rewards vary depending on the level of the chest at the end of the week. Teams start the week at Level 1 and need to travel 65km in total to reach Level 2.  The distance required increases by 30km for each additional level e.g. 95km to go from Level 2 to Level 3, 125km to go from Level 3 to Level 4, etc.
