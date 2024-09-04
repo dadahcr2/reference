@@ -2,7 +2,7 @@ The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order
 
 
 New | Legacy  
-:--: | :--:  
+-- | --  
 Hill Climber | Hill Climber  
 Mk2 | Scooter  
 Sports | Bus  
