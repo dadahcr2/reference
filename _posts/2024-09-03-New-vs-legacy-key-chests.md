@@ -32,4 +32,4 @@ Scooter | Hoverbike
 Snowmobile | Superbike  
 Hoverbike | HotRod  
 
-[(Select here for more general info on chest rewards)](/chests/)
+[(*Select here for more general info on chest rewards*)](/chests/)
