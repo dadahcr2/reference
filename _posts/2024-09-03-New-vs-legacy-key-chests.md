@@ -10,9 +10,9 @@ Buggy | Mk2
 Diesel | Tractor  
 Superbike | Motocross  
 Supercar | Buggy  
-Rally¹ | Sports  
+Rally | Sports  
 Lowrider | Monster  
-Beast¹ | Rotator  
+Beast | Rotator  
 HotRod | Diesel  
 Racing Truck | Chopper  
 Formula | Tank  
@@ -32,4 +32,4 @@ Scooter | Hoverbike
 Snowmobile | Superbike  
 Hoverbike | HotRod  
 
-¹ *Unverified*
+
