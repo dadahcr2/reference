@@ -1,4 +1,4 @@
-The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order is selected in the advanced settings. Expected translation between the two is shown below:  
+The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order is selected in the advanced settings. Expected translation between the two as follows:  
 
 
 New | Legacy  
