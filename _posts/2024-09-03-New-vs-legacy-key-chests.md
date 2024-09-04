@@ -1,4 +1,4 @@
-The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order is selected in the advanced settings. Expected translation between the two as follows:  
+The Vehicle for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings. Accordingly, by changing this setting, it is possible to switch the vehicles. Corresponding vehicles as follows:  
 
 
 New | Legacy  
