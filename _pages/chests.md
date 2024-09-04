@@ -44,6 +44,7 @@ This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1
 
 - All chests, other than common, are always followed by a common chest  
 - 72.4% of common chests are followed by another one
+- If you are due to receive a non-common chest, but you do not win the cup, you will instead be awarded a common chest, and the better chest is deferred
 
 In terms of consecutive common chests, percentages as follows:  
 
@@ -68,7 +69,7 @@ Legendary | 2026.5 | ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛�
 
 > Average coins earned are divided by 200 as this is the amount of scrap coins can be converted to if used to buy common or rare parts in the shop  
 
-Similarly, the following chart indicates the relative acrap value of buying chests and alternatives in the PE Shop
+Similarly, the following chart indicates the relative scrap value of buying chests and alternatives in the PE Shop
 
 Item | Scrap per point | Chart  
 :--: | :--: | :--  
@@ -103,6 +104,8 @@ The gems, coins, and parts vary based on the level of the chest. The level of th
 
 ***Coins:*** Coins earned are 1000 + 400 coins for every level.  The first chest level is achieved by reaching 500m, and the level goes up every 500m thereafter; however, for the hard maps, levels are incremented every 100m and coins increase by 200 for each level.
 Additional coins are earned if a duplicated paint/skin would have been awarded (common=1000 coins, rare=2000 coins).
+
+***Adventure Tokens:*** Four tokens per level (x2 for VIP) - but only if there is an unopened adventure map.
 
 ***Parts:*** Parts awarded from adventure chests are variable but step up at certain levels with parts similar to that of the following chests:	
 
