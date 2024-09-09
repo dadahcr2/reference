@@ -1,4 +1,4 @@
-## Best setups for each track
+### Best setups for each track
 
 Track | Lowrider | Easier
 :--: | :--: | :--:
