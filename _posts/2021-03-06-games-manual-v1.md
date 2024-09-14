@@ -185,7 +185,25 @@ Only three vehicles in the game have a Fuel feature and thus have a longer Fuel 
 
 **Vehicle / Fuel Duration (Full tank / seconds)**
 
-hill climber / 45 s,  scooter / 50 s, bus / 60 s, Mk2 / 44 s, tractor / 50 s, motocross / 42 s, buggy / 44 s, sportscar / 38 s, monster / 50 s, rotator / 46 s, superdiesel / 52 s, monowheel / 50 s, rally / 40 s, formula / 30 s, racing truck / 50 s, hotrod / 30 s, superbike / 30 s, supercar / 30 s, moonlander / 50 s
+hill climber / 45 s  
+scooter / 50 s  
+bus / 60 s  
+Mk2 / 44 s  
+tractor / 50 s  
+motocross / 42 s  
+buggy / 44 s   
+sportscar / 38 s  
+monster / 50 s  
+rotator / 46 s  
+superdiesel / 52 s  
+monowheel / 50 s  
+rally / 40 s  
+formula / 30 s  
+racing truck / 50 s  
+hotrod / 30 s  
+superbike / 30 s  
+supercar / 30 s   
+moonlander / 50 s  
 
 **Note!**  
 
