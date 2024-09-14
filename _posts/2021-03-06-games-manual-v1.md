@@ -185,16 +185,15 @@ Only three vehicles in the game have a Fuel feature and thus have a longer Fuel 
 
 **Vehicle / Fuel Duration (Full tank / seconds)**
 
-/ 45 s / 50 s / 60 s / 44 s / 50 s / 42 s / 44 s / 38 s / 50 s / 46 s / 52 s
-/ 50 s / 40 s / 30 s / 50 s / 30 s / 30 s / 30 s / 50 s
+hill climber / 45 s,  scooter / 50 s, bus / 60 s, Mk2 / 44 s, tractor / 50 s, motocross / 42 s, buggy / 44 s, sportscar / 38 s, monster / 50 s, rotator / 46 s, superdiesel / 52 s, monowheel / 50 s, rally / 40 s, formula / 30 s, racing truck / 50 s, hotrod / 30 s, superbike / 30 s, supercar / 30 s, moonlander / 50 s
 
-**Note!**
+**Note!**  
 
-Timetable of durations for Fuel Tank feature
+Timetable of durations for Fuel Tank feature  
 
-\*/ Fuel Lv.1- 38 s Fuel Lv. 20 - 55 s
-\*/ Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s
-\* / Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s
+\* chopper / Fuel Lv.1- 38 s Fuel Lv. 20 - 55 s  
+\* tank / Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s  
+\* snowmobile / Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s  
 
 ***\*The following Table shows the fuel durations for every upgradeable Fuel Tank feature at every level.***  
 
