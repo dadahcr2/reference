@@ -1,4 +1,4 @@
-Tracks: | Forest Downhill 3 | Demolition 1 | Uphill Sprint 1 | Special Stage One (Canyon Grand Prix -2L) | Score  
+Tracks: | Forest Downhill 3 | Demolition 1 | Uphill Sprint 1 | Special Stage One (Canyon Grand Prix -3M) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 13 s | 4 s | 9 s | 8 s | 15000  
 14000 | 14.1 s | 4.8 s | 10.7 s | 9.2 s | 14000  
