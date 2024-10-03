@@ -130,10 +130,11 @@ There are 90 key points available; 18 from each of five different adventure maps
 
 Level | Chest
 :--: | :--
- 1-2 |	**Uncommon** (at least 29 common 2 rare parts)
- 3-5 |	**Rare** (at least 45 common and 6 rare parts)
- 6-7 | **Epic** (at least 68 common, 9 rare and 6 epic parts)
- 8-9 | **Champion** (at least 113 common and 12 epic parts - 60% legendary)
+ 1 | **Common** (at least 18 common and 2 rare parts)  
+ 2-3 |	**Uncommon** (at least 29 common 2 rare parts)  
+ 4-6 |	**Rare** (at least 45 common and 6 rare parts)  
+ 7-8 | **Epic** (at least 68 common, 9 rare and 6 epic parts)  
+ 9 | **Champion** (at least 113 common and 12 epic parts - 60% legendary)  
 
 The Vehicle Chest Rewards for Key Chests depends on whether Legacy Vehicle Order is selected in the advanced settings. Expected translation between the two is shown [here](/New-vs-legacy-key-chests/)
 
