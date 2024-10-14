@@ -38,7 +38,7 @@ These numbers may be updated as more data is collected.  The underlying data is 
 
 **Cup chests** have a specific sequence:
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/2/2b/111_Cup_Chests_Order.PNG)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/2/2b/111_Cup_Chests_Order.PNG){: style="min-width: 50%;"}  
 
 This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1 Champion(24h) Chest  
 
