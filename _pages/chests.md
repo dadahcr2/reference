@@ -44,7 +44,7 @@ This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1
 
 - All chests, other than common, are always followed by a common chest  
 - 72.4% of common chests are followed by another one
-- If you are due to receive a non-common chest, but you do not win the cup, you will instead be awarded a common chest, and the better chest is deferred
+- If you are due to receive a rare or better chest, but you do not win the cup, you will instead be awarded a common chest, and the rare+ chest is deferred
 
 In terms of consecutive common chests, percentages as follows:  
 
