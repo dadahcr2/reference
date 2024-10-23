@@ -10,3 +10,4 @@ The SpooOoooOooktober update is rolling out now for all supported platforms! Thi
   - Gain bonus trophy road rank, improve the Victory Chest rewards and show off your cup mastery
 - Mega Chest reward multiplier
   - Reach the end of the reward path daily to increase the reward multiplier
+- and more... See the direct link
