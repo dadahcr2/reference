@@ -385,7 +385,7 @@ Moonlander | LandingBoost
   
 </details>  
 
-<details  markdown="block">
+<details  markdown="block" open>
   <summary>
     Icon Images
   </summary>
@@ -396,7 +396,7 @@ Moonlander | LandingBoost
 </details>  
 	
 ### Adventures  	
-<details markdown="block">
+<details markdown="block" open>
   <summary>
 	Vehicle Setups
   </summary>
