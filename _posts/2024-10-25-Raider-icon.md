@@ -1,4 +1,4 @@
-[Select this for other vehicle icons](/vicons)  
+See below - for other vehicle icons [select this](/vicons)  
 
 ![](/assets/images/icon-vehicle-raider.png)  
 
