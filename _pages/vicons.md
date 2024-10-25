@@ -39,4 +39,4 @@ gallery:
 
 
 {% include gallery %}
-![Hoverbike](/assets/images/IMG_4479.png)  
+
