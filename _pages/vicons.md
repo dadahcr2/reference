@@ -33,6 +33,7 @@ gallery:
  - image_path: /assets/images/icon-vehicle-sled.png
  - image_path: /assets/images/icon-vehicle-tube.png
  - image_path: /assets/images/icon-vehicle-snowboard.png
+ - image_path: /assets/images/icon-vehicle-hoverbike.png
  - image_path: /assets/images/icon-vehicle-raider.png
 ---  
 
