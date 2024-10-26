@@ -1,7 +1,7 @@
-Raider IconeImage below  
+Raider Icone Image below (you should be able to copy/save it)  
 
 ![](/assets/images/icon-vehicle-raider.png)  
 
-([...All Vehicle Icones]](/vicons)  
+[More Vehicle Icons](/vicons)  
 
 
