@@ -1,4 +1,4 @@
-Tracks: | Bill’s Landing (Green Cup 9L) | Far Far Away (Desert Mile -7L) | Multi Jump 8 (City) | No Air: Cottage Road (Boggy Road -2R) | Score  
+Tracks: | Bill’s Landing (Green Cup 9L) | Far Far Away (Desert Mile -7L) | City Multi Jump 8 | No Air: Cottage Road (Boggy Road -2R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 9 s | 25 s | 525 m | 13 s | 15000  
 14000 | 9.9 s | 27 s | 506 m | 14.2 s | 14000  
