@@ -1,4 +1,4 @@
-A streak of 10 cups will upgrade to a level 2 chest, and a 20 cup streak to level 3. The rewards are comparable to the following chests:
+A streak of 10 cups will upgrade to a level 2 chest, and a 20 cup streak to level 3. The rewards are as follows:
 
 Level | Min 💰 | Min 💎 | Chest Parts  
 :--: | :--: | :--: | :-- 
