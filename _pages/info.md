@@ -576,7 +576,8 @@ Distance | Obstacle
 </details>	
 	
 ### Cups
-	
+
+▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
 <details  markdown="block">
   <summary>
     Two and Four Track Cups
@@ -702,9 +703,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-</details>  
-  
-▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
+</details>
 
 ### Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
