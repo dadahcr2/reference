@@ -576,19 +576,6 @@ Distance | Obstacle
 </details>	
 	
 ### Cups
-
-▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
-<details  markdown="block">
-  <summary>
-    Setups
-  </summary>
-
-&nbsp; ▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
-
-*For recommended setups for cups and other vehicles, try the [Cupboard Server](https://discord.gg/GuSAafGg3V)*  
-{: .notice}
-	
-</details>
 	
 <details  markdown="block">
   <summary>
@@ -716,7 +703,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
 </details>
- ▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
+▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
 
 ### Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
