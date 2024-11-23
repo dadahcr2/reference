@@ -33,6 +33,7 @@ Supercar | Buggy
 Tank | Rally  
 Tractor | Moonlander  
 
-**Note:** The release of new vehicles may change the translation from New to Legacy.{: .notice}  
+**Note:** The release of new vehicles may change the translation from New to Legacy
+{: .notice}
 
 &nbsp; ▶︎ &nbsp;[General Chest Info](/chests/)
