@@ -577,6 +577,7 @@ Distance | Obstacle
 	
 ### Cups
 
+&nbsp; ▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
 <details  markdown="block">
   <summary>
     Setups
@@ -715,6 +716,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
 </details>
+&nbsp; ▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
 
 ### Lists  
 ▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
