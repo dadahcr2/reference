@@ -1,7 +1,7 @@
 The vehicles for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings. Accordingly, by changing this setting, it is possible to switch the vehicles. Corresponding vehicles as follows:  
 
  New → Legacy | Legacy → New   
--- | --  
+:--: | :--:  
 Beast → Chopper | Beast → Rotator  
 Buggy → Supercar | Buggy → Mk2  
 Bus → Sports | Bus → Muscle  
