@@ -33,7 +33,7 @@ Supercar : Buggy | Monowheel : Supercar
 Tank : Rally | Formula : Tank  
 Tractor : Moonlander | Diesel : Tractor  
   
-**Note:** The release of new vehicles is likely to change the correspondence between vehicle orders.
+**Note:** The release of new vehicles is likely to change the correspondence between vehicle orders. (This list was produced after the release of the Raider)
 {: .notice}
 
 &nbsp; ▶︎ &nbsp;[General Chest Info](/chests/)
