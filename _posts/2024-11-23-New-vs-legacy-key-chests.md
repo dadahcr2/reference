@@ -2,7 +2,7 @@ The vehicles for which parts are received from Trove Key Chests depends on wheth
 
 
 New : Legacy | New : Legacy   
--- | --:  
+:-- | --:  
 Beast : Rotator | Chopper : Beast  
 Buggy : Mk2 | Supercar : Buggy  
 Bus : Muscle | Sports : Bus  
