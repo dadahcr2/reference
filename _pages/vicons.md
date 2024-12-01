@@ -35,6 +35,7 @@ gallery:
  - image_path: /assets/images/icon-vehicle-snowboard.png
  - image_path: /assets/images/icon-vehicle-hoverbike.png
  - image_path: /assets/images/icon-vehicle-raider.png
+ - image_path: /assets/images/icon-vehicle-glider.png
 ---  
 
 
