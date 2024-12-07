@@ -1,3 +1,5 @@
+**Special Vehicle Mechanics: Use fully charged JumpShocks for XP**  
+
 ### Best setups for each track
 
 Track | Lowrider | Easier
