@@ -1,3 +1,5 @@
+**Special vehicle mechanics: Do tricks for 50% bonus XP**  
+
 Track | Moto | Easier
 :--: | :--: | :--:
 Countryside | ![JS]![LB]![Wi] | 
@@ -21,7 +23,7 @@ Forest Trials | ![JS]![LB]![Wi] | ![Ma]![LB]![Wi]
 Intense City | ![JS]![LB]![WB] | ![JS]![Th]![WB]
 Raging Winter | ![JS]![Th]![Wi] | 
   
-**Special vehicle mechanics: Do tricks for 50% bonus XP**
+
 
 
 [More Adventure Mastery Setups](/info/#adventures)
