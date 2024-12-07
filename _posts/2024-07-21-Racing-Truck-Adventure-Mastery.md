@@ -1,3 +1,5 @@
+**Special Vehicle Mechanics: Drive aerodynamically for XP**  
+
 ### Best Adventure Setups for Racing  
 
 Track | Racing Truck | Easier
