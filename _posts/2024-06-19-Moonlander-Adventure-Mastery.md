@@ -1,4 +1,6 @@
-Best Setups for Moonlander
+**Special Vehicle Mechanics: Use Thrusters for XP**  
+
+### Best Setups for Moonlander
 
 Track | Moonlander | Easier
 :--: | :--: | :--:
