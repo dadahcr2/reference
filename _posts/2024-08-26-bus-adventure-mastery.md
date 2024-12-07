@@ -1,3 +1,5 @@
+**Special Vehicle Mechanics: Remove passengers for XP**  
+
 ### Best Setups for Each Track
 
 Track | Bus | Easier
