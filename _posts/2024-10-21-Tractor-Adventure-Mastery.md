@@ -1,3 +1,5 @@
+**Special Vehicle Mechanics: Break objects for XP**  
+
 ### Best setups for each track
 
 Track | Tractor | Easier
