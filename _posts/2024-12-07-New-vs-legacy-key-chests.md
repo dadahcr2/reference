@@ -1,6 +1,6 @@
-Uodated after obtaining **Glider**.  
+Uodated after obtaining **Glider**  
 
-The vehicles for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings (as well as which vehicles are owned). Therefore, by changing Legacy Order setting, it is possible to switch to alternative vehicle chests.  Corresponding chests as lokely to be as follows\* (ordered alphabetically for New and Legacy):  
+The vehicles for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings (as well as which vehicles are owned). Therefore, by changing Legacy Order setting, it is possible to switch to alternative vehicle chests.  Corresponding chests as likely to be as follows\* (ordered alphabetically for New and Legacy):  
 
 
 New → Legacy | New ← Legacy   
