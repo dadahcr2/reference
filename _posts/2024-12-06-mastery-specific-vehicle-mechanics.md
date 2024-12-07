@@ -20,7 +20,7 @@ Sports Car | Drive full speed on the ground
  \- | Team Match single-level scores
  \- | Featured challenge won
  \- | Doing tricks (wheelie, flips, air time)
- \- | Opening vehicle-specific chests¹ 
+ \- | Opening vehicle-specific chests*   
 
- ¹ Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000  
+ * Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000  
  {: .notice}
