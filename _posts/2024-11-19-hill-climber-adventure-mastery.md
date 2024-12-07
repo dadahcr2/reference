@@ -21,6 +21,8 @@ Forest Trials | ![JS]![LB]![Wi] |
 Intense City | ![LB]![JS]![Wi] | ![Fume]![JS]![Wi]
 Raging Winter | ![Fume]![WT]![Wi] | ![JS]![Th]![Wi]
 
+**Specific Vehicle Mechanics: Collect Coins for XP**
+
 [More Adventure Mastery Setups](/info/#adventures)  
 
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
