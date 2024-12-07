@@ -11,7 +11,8 @@ Racing Truck | Drive aerodynamically
 Moon Lander | Use the thrusters
 Sports Car | Drive full speed on the ground
 
-Also all earn XP from:  
+Also all earn XP from
+--  
 - Distances in adventure levels
 - Cup finish positions (200, 160, 120, 80)
 - Public event positions (up to 200)
