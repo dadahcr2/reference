@@ -401,6 +401,7 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>
 
+&nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery](/motocross-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Hill Climber Adventure Mastery](/hill-climber-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Tractor Adventure Mastery](/Tractor-Adventure-Mastery/)  
 &nbsp; ▶︎ &nbsp;[Chopper Adventure Mastery](/chopper-adventure-mastery/)   
