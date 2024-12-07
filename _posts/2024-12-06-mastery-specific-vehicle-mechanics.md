@@ -22,5 +22,5 @@ Sports Car | Drive full speed on the ground
  \- | Doing tricks (wheelie, flips, air time)
  \- | Opening vehicle-specific chests*   
 
- * Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000  
+ \* Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000  
  {: .notice}
