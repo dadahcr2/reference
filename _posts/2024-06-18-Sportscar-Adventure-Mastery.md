@@ -1,4 +1,6 @@
-Sportscar Best Setups
+**Special Vehicle Mechanics: Drive at fullspeed for XP**  
+
+### Sportscar Best Setups
 
 Track | Sportscar | Easier  
  :--: |  :--: |  :--:  
