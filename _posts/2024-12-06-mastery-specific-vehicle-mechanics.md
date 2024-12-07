@@ -11,7 +11,7 @@ Racing Truck | Drive aerodynamically
 Moon Lander | Use the thrusters
 Sports Car | Drive full speed on the ground
 
- \+ |  All Earn XP From
+ & |  All Earn XP From
 --  | --
  \- |  Distances in adventure levels
  \- | Cup finish positions (200, 160, 120, 80)
@@ -20,4 +20,6 @@ Sports Car | Drive full speed on the ground
  \- | Team Match single-level scores
  \- | Featured challenge won
  \- | Doing tricks (wheelie, flips, air time)
- \- | Opening vehicle-specific chests (Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000)
+ \- | Opening vehicle-specific chests[^1]  
+
+ [^1]: Common: 100, Uncommon: 250, Rare: 500, Epic: 1250, Champion: 4000, Legendary: 10000
