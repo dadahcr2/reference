@@ -1,3 +1,5 @@
+**Specific Vehicle Mechanics: Collect Coins for XP**  
+
 Track | Jeep | Easier
 :--: | :--: | :--:
 Countryside | ![JS]![LB]![Wi] | 
@@ -20,8 +22,6 @@ Sky Rock Outpost | ![JS]![LB]![Wi] |
 Forest Trials | ![JS]![LB]![Wi] | 
 Intense City | ![LB]![JS]![Wi] | ![Fume]![JS]![Wi]
 Raging Winter | ![Fume]![WT]![Wi] | ![JS]![Th]![Wi]
-
-**Specific Vehicle Mechanics: Collect Coins for XP**
 
 [More Adventure Mastery Setups](/info/#adventures)  
 
