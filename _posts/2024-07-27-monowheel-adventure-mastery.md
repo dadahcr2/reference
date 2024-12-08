@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Big airtime for XP**  
+Special Vehicle Mechanics: **Big airtime for XP**
+{: .notice}
 
 ### Best Setups for Each Track
 
