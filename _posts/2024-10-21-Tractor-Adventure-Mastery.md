@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Break objects for XP**  
+Special Vehicle Mechanics: **Break objects for XP**
+{: .notice}
 
 ### Best setups for each track
 
