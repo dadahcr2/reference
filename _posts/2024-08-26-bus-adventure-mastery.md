@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Remove passengers for XP**  
+Special Vehicle Mechanics: **Remove passengers for XP**
+{: .notice}
 
 ### Best Setups for Each Track
 
