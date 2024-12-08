@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Drive at fullspeed for XP**  
+Special Vehicle Mechanics: **Drive at fullspeed for XP**
+{: .notice}  
 
 ### Sportscar Best Setups
 
