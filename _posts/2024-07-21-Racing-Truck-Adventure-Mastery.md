@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Drive aerodynamically for XP**  
+Special Vehicle Mechanics: **Drive aerodynamically for XP**
+{: .notice}
 
 ### Best Adventure Setups for Racing  
 
