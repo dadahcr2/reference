@@ -1,6 +1,6 @@
 Uodated after obtaining **Glider**  
 
-The vehicles for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings (as well as which vehicles are owned). Therefore, by changing Legacy Order setting, it is possible to switch to alternative vehicle chests.  Corresponding chests as likely to be as follows\* (ordered alphabetically for New and Legacy):  
+The vehicles for which parts are received from Trove Key Chests depends on whether Legacy Vehicle Order is selected in the game's Advanced Settings (as well as which vehicles are owned). Therefore, by changing Legacy Order setting, it is possible to switch to alternative vehicle chests.  Corresponding chests as likely to be as follows[^1] (ordered alphabetically for New and Legacy):  
 
 
 New → Legacy | New ← Legacy   
@@ -39,6 +39,6 @@ Tractor → Hoverbike | Diesel ← Tractor
 **Note:** The release of new vehicles is likely to change the correspondence between some vehicles. 
 {: .notice}
   
-\*Not all have been confirmed - YMMV
+[^1]: Not all have been confirmed - YMMV
   
 &nbsp; ▶︎ &nbsp;[General Chest Info](/chests/)
