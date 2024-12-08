@@ -1,4 +1,5 @@
-**Specific Vehicle Mechanics: Collect Coins for XP**  
+Specific Vehicle Mechanics: **Collect Coins for XP**
+{: .notice}
 
 Track | Jeep | Easier
 :--: | :--: | :--:
