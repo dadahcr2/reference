@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Use fully charged JumpShocks for XP**  
+Special Vehicle Mechanics: **Use fully charged JumpShocks for XP**
+{: .notice}
 
 ### Best setups for each track
 
