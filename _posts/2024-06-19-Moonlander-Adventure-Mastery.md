@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Use Thrusters for XP**  
+Special Vehicle Mechanics: **Use Thrusters for XP**
+{: .notice}
 
 ### Best Setups for Moonlander
 
