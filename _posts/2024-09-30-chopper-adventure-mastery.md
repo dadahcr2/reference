@@ -1,4 +1,5 @@
-**Special Vehicle Mechanics: Avoid Fuel Cans**
+Special Vehicle Mechanics: **Avoid Fuel Cans**
+{: .notice}
 
 ### Best setups for each track
 
