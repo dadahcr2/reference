@@ -1,4 +1,5 @@
-**Special vehicle mechanics: Do tricks for 50% bonus XP**  
+Special vehicle mechanics: **Do tricks for 50% bonus XP**
+{: .notice}
 
 Track | Moto | Easier
 :--: | :--: | :--:
