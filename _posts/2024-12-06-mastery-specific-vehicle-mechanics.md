@@ -1,5 +1,6 @@
 Vehicle | Specific Vehicle Mechanics
 -- | --
+CC-EV | Activate boost: The more the boost is charged, the greater the XP
 Motocross |  50% more XP from tricks
 Hill Climber | Collect Coins
 Tractor | Break objects
