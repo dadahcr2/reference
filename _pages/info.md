@@ -400,7 +400,7 @@ Moonlander | LandingBoost
   <summary>
 	Vehicle Setups
   </summary>
-
+&nbsp; ▶︎ &nbsp;[CC-EV Adventure Mastery](/CCEV-Adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery](/motocross-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Hill Climber Adventure Mastery](/hill-climber-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Tractor Adventure Mastery](/Tractor-Adventure-Mastery/)  
