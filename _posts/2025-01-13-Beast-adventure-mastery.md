@@ -1,4 +1,4 @@
-Special Vehicke Mechanics: **Use the integrated wheelie boost to improve XP collecting**{: notice}
+Special Vehicke Mechanics: **Use the integrated wheelie boost to improve XP collecting** {: notice}
 
 Track | Beast | Easier
 :--: | :--: | :--:
