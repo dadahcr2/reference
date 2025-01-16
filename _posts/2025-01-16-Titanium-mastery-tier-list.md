@@ -1,4 +1,5 @@
 Tier | Vehicles  
+-- | --  
 S | RacingTruck, Bus, Motocross  
 A | Tractor  
 B | Lowrider, Jeep, Beast  
