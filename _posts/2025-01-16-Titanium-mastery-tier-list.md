@@ -8,4 +8,5 @@ D | Monowheel, CC-EV
 E | Moonlander  
 F |   
 
-Source: Titanium Gaming HCR2 
+*Source: Titanium Gaming HCR2* 
+
