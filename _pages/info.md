@@ -114,7 +114,7 @@ Uphill Climb | ![rt] ![wi] ![fume] ![wb]
 Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]  
 Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]  
 Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]  
-<http://hcr2info.com> | <https://discord.gg/FZPnQbxZTQ>  
+<https://reference.hcr2info.com> | <https://discord.gg/FZPnQbxZTQ>  
 
 [**Previous public event tracks**]({{site.url}}/PrevPe/)  
 	
@@ -369,7 +369,7 @@ Moonlander | LandingBoost
 - Team Match single-level score
 - Featured challenge won
 - Doing tricks (wheelie, flips, air time)
-- [Specific vehicle mechanics](/mastery-specific-vehicle-mechanics/)
+- [Specific vehicle mechanics]({{site.url}}/mastery-specific-vehicle-mechanics/)
 - Opening vehicle-specific chests
   - Common: 100
   - Uncommon: 250
@@ -382,6 +382,9 @@ Moonlander | LandingBoost
 - There are four mastery levels to progress through by earning XP.
 - Level 1-3: Unlock permanent buffs for your vehicles, featuring general power and vehicle-specific buffs. All buffs can be toggled on or off.
 - Level 4: Unlocks a fourth tuning part slot for your vehicle.
+
+**Mastery Tier List**
+- Arguably, some vehicles improve more than others once they have all masteries. Here is a [tier list]({{site.url}}/mastery-tier-list/)
   
 </details>  
 
@@ -401,19 +404,19 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>  
 	
-&nbsp; ▶︎ &nbsp;[Beast Adventure Mastery](/Beast-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[CC-EV Adventure Mastery](/CCEV-Adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery](/motocross-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Hill Climber Adventure Mastery](/hill-climber-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Tractor Adventure Mastery](/Tractor-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[Chopper Adventure Mastery](/chopper-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Lowrider Adventure Mastery](/lowrider-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Bus Adventure Mastery](/bus-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery](/monowheel-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery](/Moonlander-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery](/Racing-Truck-Adventure-Mastery/)   
-&nbsp; ▶︎ &nbsp;[Sportscar Adventure Mastery](/Sportscar-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[All Setups](/adventure-setups/)  
+&nbsp; ▶︎ &nbsp;[Beast Adventure Mastery]({{site.url}}/Beast-adventure-mastery/)  
+&nbsp; ▶︎ &nbsp;[CC-EV Adventure Mastery]({{site.url}}/CCEV-Adventure-mastery/)  
+&nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery]({{site.url}}/motocross-adventure-mastery/)  
+&nbsp; ▶︎ &nbsp;[Hill Climber Adventure Mastery]({{site.url}}/hill-climber-adventure-mastery/)  
+&nbsp; ▶︎ &nbsp;[Tractor Adventure Mastery]({{site.url}}/Tractor-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[Chopper Adventure Mastery]({{site.url}}/chopper-adventure-mastery/)   
+&nbsp; ▶︎ &nbsp;[Lowrider Adventure Mastery]({{site.url}}/lowrider-adventure-mastery/)   
+&nbsp; ▶︎ &nbsp;[Bus Adventure Mastery]({{site.url}}/bus-adventure-mastery/)   
+&nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery]({{site.url}}/monowheel-adventure-mastery/)  
+&nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery]({{site.url}}/Moonlander-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery]({{site.url}}/Racing-Truck-Adventure-Mastery/)   
+&nbsp; ▶︎ &nbsp;[Sportscar Adventure Mastery]({{site.url}}/Sportscar-Adventure-Mastery/)  
+&nbsp; ▶︎ &nbsp;[All Setups]({{site.url}}/adventure-setups/)  
 </details>  
 
 <details  markdown="block">
@@ -586,7 +589,7 @@ Distance | Obstacle
     Two and Four Track Cups
   </summary>
 	
-**I can remember the single track cups but not the others so I put together lists of the two and four track cups:**  
+**I can remember the single track cups but not the others so I put together lists of the two and four track cups**  
 {: .notice}
 
 **Two tracks**  
@@ -603,8 +606,11 @@ Uphill Cup
 Dirty Rally  
 Spring City  
 Sunday Champ  
-Mystical Cup
-	
+Mystical Cup  
+
+As ties are treated as wins, it should be easier for players to win these cups as they have an even number of tracks, thus making ties possible 
+{: .notice}
+ 
 </details>	
 	
 <details  markdown="block">
@@ -709,13 +715,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>
 
 ### Lists  
-▶︎ &nbsp;[Daily Checklist](/daily-checklist/)  
-▶︎ &nbsp;[Ten Commandments of HCR2](/ten-commandments-of-HCR2/)  
-▶︎ &nbsp;[Being a Teammate](/being-a-teammate/)  
-▶︎ &nbsp;[Tournaments & GP Results](/tournaments-and-gp-results/)  
-▶︎ &nbsp;[Server Invites](/server-invites/)  
-▶︎ &nbsp;[Friend Invites](/friend-invites/)  
-▶︎ &nbsp;[Flag Lookup](/flag-lookup/)  
+▶︎ &nbsp;[Daily Checklist]({{site.url}}/daily-checklist/)  
+▶︎ &nbsp;[Ten Commandments of HCR2]({{site.url}}/ten-commandments-of-HCR2/)  
+▶︎ &nbsp;[Being a Teammate]({{site.url}}/being-a-teammate/)  
+▶︎ &nbsp;[Tournaments & GP Results]({{site.url}}/tournaments-and-gp-results/)  
+▶︎ &nbsp;[Server Invites]({{site.url}}/server-invites/)  
+▶︎ &nbsp;[Friend Invites]({{site.url}}/friend-invites/)  
+▶︎ &nbsp;[Flag Lookup]({{site.url}}/flag-lookup/)  
 
 ### Gas Brake Go
 <details  markdown="block">
