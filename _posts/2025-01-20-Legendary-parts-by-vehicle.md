@@ -9,33 +9,33 @@ Details below:
 
 Vehicle | Coin Boost | Fuel Boost | Nitro | Thruster
 :--: | :--: | :--: | :--: | :--:
-Moonlander | √ |  |  | 
-Glider | √ | √ |  | 
-CCEV | √ |  |  | √
-Hoverbike | √ | √ | √ | 
-Lowrider | √ | √ | √ | 
-HotRod | √ | √ | √ | 
-Supercar | √ | √ | √ | 
-Superbike | √ | √ | √ | 
-Formula | √ | √ | √ | 
-Snowmobile | √ | √ | √ | 
-Tractor | √ | √ | √ | 
-Raider | √ | √ | √ | √
-RockBouncer | √ | √ | √ | √
-MuscleCar | √ | √ | √ | √
-Beast | √ | √ | √ | √
-Rotator | √ | √ | √ | √
-RacingTruck | √ | √ | √ | √
-RallyCar | √ | √ | √ | √
-Monowheel | √ | √ | √ | √
-Tank | √ | √ | √ | √
-Chopper | √ | √ | √ | √
-SuperDiesel | √ | √ | √ | √
-MonsterTruck | √ | √ | √ | √
-SportsCar | √ | √ | √ | √
-DuneBuggy | √ | √ | √ | √
-Motocross | √ | √ | √ | √
-Mk2 | √ | √ | √ | √
-Bus | √ | √ | √ | √
-Scooter | √ | √ | √ | √
-HillClimber | √ | √ | √ | √
+Moonlander | ✓ |  |  | 
+Glider | ✓ | ✓ |  | 
+CCEV | ✓ |  |  | ✓
+Hoverbike | ✓ | ✓ | ✓ | 
+Lowrider | ✓ | ✓ | ✓ | 
+HotRod | ✓ | ✓ | ✓ | 
+Supercar | ✓ | ✓ | ✓ | 
+Superbike | ✓ | ✓ | ✓ | 
+Formula | ✓ | ✓ | ✓ | 
+Snowmobile | ✓ | ✓ | ✓ | 
+Tractor | ✓ | ✓ | ✓ | 
+Raider | ✓ | ✓ | ✓ | ✓
+RockBouncer | ✓ | ✓ | ✓ | ✓
+MuscleCar | ✓ | ✓ | ✓ | ✓
+Beast | ✓ | ✓ | ✓ | ✓
+Rotator | ✓ | ✓ | ✓ | ✓
+RacingTruck | ✓ | ✓ | ✓ | ✓
+RallyCar | ✓ | ✓ | ✓ | ✓
+Monowheel | ✓ | ✓ | ✓ | ✓
+Tank | ✓ | ✓ | ✓ | ✓
+Chopper | ✓ | ✓ | ✓ | ✓
+SuperDiesel | ✓ | ✓ | ✓ | ✓
+MonsterTruck | ✓ | ✓ | ✓ | ✓
+SportsCar | ✓ | ✓ | ✓ | ✓
+DuneBuggy | ✓ | ✓ | ✓ | ✓
+Motocross | ✓ | ✓ | ✓ | ✓
+Mk2 | ✓ | ✓ | ✓ | ✓
+Bus | ✓ | ✓ | ✓ | ✓
+Scooter | ✓ | ✓ | ✓ | ✓
+HillClimber | ✓ | ✓ | ✓ | ✓
