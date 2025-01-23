@@ -3,7 +3,7 @@
 Moonlander | Glider CCEV | Hoverbike Lowrider HotRod Supercar Superbike Formula Snowmobile Tractor | Raider RockBouncer MuscleCar Beast Rotator RacingTruck RallyCar Monowheel Tank Chopper SuperDiesel MonsterTruck SportsCar DuneBuggy Motocross Mk2 Bus Scooter HillClimber
 
 
-Legendary Parts are the most difficult to obtain. Recent vehicles with more legendary parts are less likely to have been maxed.  Accordingly, it can be argued that these vehicles are more justified in buying legendary chests for.
+Legendary Parts are the most difficult to obtain. Recent vehicles with more legendary parts are less likely to have been maxed.  Accordingly, it can be argued that these vehicles are more justified in buying legendary chests for. On the other hand, if the missing parts are less favored, then legendary chests may be better value-for-money.  
 
 1. All vehicles have Coin Boost
 2. Glider also has Fuel Boost, whereas CCEV has Thruster
