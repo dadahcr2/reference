@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Special Vehicle Mechanics: **Remove passengers for XP**
 {: .notice}
 
