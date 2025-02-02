@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Special Vehicle Mechanics: **Big airtime for XP**
 {: .notice}
 
