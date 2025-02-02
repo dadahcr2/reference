@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
  - Adv
 ---
 Special vehicle mechanics: **Do tricks for 50% bonus XP**
