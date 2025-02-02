@@ -1,3 +1,8 @@
+---
+tags:
+ - TE
+ - tutorial
+---
 Tracks: | Smooth Blend (Racers in the Mist -1M) | Overspill Wheelie 4 | Moon Jump 4 | Mines Multi Jump 7 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 6 s | 725 m | 650 m | 400 m | 15000  
