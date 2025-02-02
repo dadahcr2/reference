@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Special Vehicle Mechanics: **Use Thrusters for XP**
 {: .notice}
 
