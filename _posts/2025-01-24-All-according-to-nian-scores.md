@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Downhill 3 | Nian Chase | The Big Dunes (Sand in Swimsuit 11M) | Wheelie 2 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 7 s | 1200 m | 5 s | 1000 m | 15000  
