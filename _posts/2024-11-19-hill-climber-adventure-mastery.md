@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Specific Vehicle Mechanics: **Collect Coins for XP**
 {: .notice}
 
