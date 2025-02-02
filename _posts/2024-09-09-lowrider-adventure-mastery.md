@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Special Vehicle Mechanics: **Use fully charged JumpShocks for XP**
 {: .notice}
 
