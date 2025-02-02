@@ -1,3 +1,7 @@
+---
+Tags:
+ - Adv
+---
 Special Vehicle Mechanics: **Drive aerodynamically for XP**
 {: .notice}
 
