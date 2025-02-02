@@ -1,3 +1,7 @@
+---
+tags:
+- Adv
+---
 Special vehicle mechanics: **Activate boost: The more the boost is charged, the greater the XP**
 {: .notice}
 
