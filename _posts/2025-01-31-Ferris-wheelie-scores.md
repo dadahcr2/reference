@@ -1,6 +1,5 @@
 ---
 tags:
- - TE
  - Scores
 ---
 Tracks: | Smooth Blend (Racers in the Mist -1M) | Overspill Wheelie 4 | Moon Jump 4 | Mines Multi Jump 7 | Score  
