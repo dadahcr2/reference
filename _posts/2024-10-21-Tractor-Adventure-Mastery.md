@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
  - Adv
 ---
 Special Vehicle Mechanics: **Break objects for XP**
