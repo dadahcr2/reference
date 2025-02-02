@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
  - Adv
 ---
 Special vehicle mechanics: **Use the integrated wheelie boost to improve XP collecting**
