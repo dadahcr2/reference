@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
  - Adv
 ---
 Special Vehicle Mechanics: **Drive at fullspeed for XP**
