@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Slippery Slope (First Snow 3R) | Pumpkin Smash 2 | Zombie Chase | Long Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 6 s | 9 s | 1075 m | 500 m | 15000  
