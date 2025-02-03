@@ -1,6 +1,6 @@
 ---
 link: https://fingersoft.com/news/2024/08/20/patch-notes-hcr2-v1-62-0/
-category: patchnotes
+tag: Patchnotes
 ---
 The August update for Hill Climb Racing 2 is rolling out now for all supported platforms! Coming in this update is the Switchback Savanna; full of wonders of the wilds, and get ready for more Vehicle Mastery with Bus, Lowrider, Chopper and Tractor!  
 
