@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Winter Multi Jump 2 | Snow Time | Gift Smash 1 | Let it Snow (First Snow 3R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 1000 m | 8 s | 2 s | 6 s | 15000  
