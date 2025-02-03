@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Slanted Speedrun | Mountain Jump 5 | Top of the World (Uphill Distance) | Flip Bonus Beach Downhill 4 | (Backwater Cup 11R) Grill Bill  | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 400 m | 600 m | 8 s | 6 s | 15000  
