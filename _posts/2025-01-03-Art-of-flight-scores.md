@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Savanna Jump | Cuptown Jump | Desert Jump | Bogwater Jump | Gloomvale Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 515 m | 485 m | 410 m | 350 m | 275 m | 15000  
