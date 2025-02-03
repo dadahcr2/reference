@@ -1,6 +1,7 @@
 ---
 classes: wide
 excerpt: Vehicle Configurations for Adventure Tracks
+tag: Adv
 ---
 | countryside | forest | city | mountain | Vehicle | rustbucket reef | winter | mines | desert valley | Vehicle | beach | backwater bog | racer glacier | patchwork plant | Vehicle | gloomvale | overspill fun rig | canyon arena | cuptown | Vehicle | sky rock outpost | forest trials | intense city | raging winter | Vehicle  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
