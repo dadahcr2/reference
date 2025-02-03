@@ -1,6 +1,6 @@
 ---
 link: https://fingersoft.com/news/2024/12/11/patch-notes-hcr2-v1-64-0/
-category: patchnotes
+category: PatchNotes
 ---
 New vehicle: **Glider**  
 - Unlocked upon purchase of December’s Premium Pass  
