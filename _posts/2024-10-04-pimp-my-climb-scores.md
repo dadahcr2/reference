@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Flip - Cool Descent (Mountain Cup 9R) | Topsy-Turvy (Desert Caves 10L) | Moon Jump 5 | Floor is Lava | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 8 s | 7 s | 750 m | 865 m | 15000  
