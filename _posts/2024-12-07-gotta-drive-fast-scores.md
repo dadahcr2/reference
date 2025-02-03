@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Flip Bonus: Swamp Ride (Backwater Cup 11R) | Country Multi Jump 5 | The Ruins (Downhill Cup -1L) | I Hate Snakes | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 5 s | 1000 m | 5 s | 6 s | 15000  
