@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Savanna Track | Demolition 5 | Classic 2 | Beach Downhill | Lunar Base | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 14 s | 3 s | 14 s | 10 s | 5 s | 15000  
