@@ -2,7 +2,7 @@
 tag: Adv
 ---
 Collect as many coins on a run to improve XP collecting.
-{: notice}  
+{: .notice}  
 
 Track | Scooter | Easier
 :--: | :--: | :--:
