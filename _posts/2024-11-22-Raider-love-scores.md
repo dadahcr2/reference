@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Raiding up that Hill | Mine Downhill 1 | Carppuccino (Racers in the Mist -1M) | Sky’s the Limit | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 6 s | 12 s | 7 s | 610 m | 15000  
