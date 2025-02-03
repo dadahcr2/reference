@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Winter Mine Jump | Down’n’Down | Winter Mountain Rise | Through The Mountains (Mountain Cup 9R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 225 m | 8 s | 725 m | 9 s | 15000  
