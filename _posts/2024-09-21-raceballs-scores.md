@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Hairpin (Finger GP 12R) | Overspill Wheelie 3 | One Giant Leap (Cargo) | Up, Up and Away | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 10 s | 750 m | 1 s | 700 m | 15000  
