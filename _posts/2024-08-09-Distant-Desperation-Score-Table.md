@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Distant Desperation | Racing Wild (The Jungle Brake 2L) | Overspill Wheelie 4 | Classic | Moon Multi Jump 10 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 4 s | 900 m | 10 s | 800 m | 15000  
