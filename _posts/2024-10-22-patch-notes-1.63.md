@@ -1,5 +1,6 @@
 ---
 link: https://fingersoft.com/news/2024/10/21/patch-notes-hcr2-v1-63-0/
+tag: Patchnotes
 ---
 The SpooOoooOooktober update is rolling out now for all supported platforms! This update is haunted by a new fearsome vehicle: Raider!
 
