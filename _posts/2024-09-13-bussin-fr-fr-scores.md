@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Access to Enjoyment (Delightful Diversions -4R) | Mountain Long Jump 7 | Factory Multi Jump 9 | Great Mikenko No Air | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 9 s | 400 m | 675 m | 11 s | 15000  
