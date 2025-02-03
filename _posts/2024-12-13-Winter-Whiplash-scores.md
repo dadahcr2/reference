@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Winter Downhill | Winter Wheelie | Water run | Winter Uphill Chase | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 8 s | 850 m | 8 s | 1100 m | 15000  
