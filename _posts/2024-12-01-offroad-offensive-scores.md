@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Demolition 4 | Mountain Wheelie 7 | No Air: Plain as Day (A Bit Plain 6L) | Base Camp (Death Mountain -6M) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 4 s | 1000 m | 9 s | 3 s | 15000  
