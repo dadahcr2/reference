@@ -1,3 +1,6 @@
+---
+tag: Scores
+---
 Tracks: | Moon Jump 3 | Beach Downhill 2 | Silo Showdown (Challenger Cup 4M) | Demolition 3 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 725 m | 10 s | 7 s | 1 s | 15000  
