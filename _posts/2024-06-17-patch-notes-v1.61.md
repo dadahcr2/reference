@@ -1,6 +1,6 @@
 ---
 link: https://fingersoft.com/news/2024/05/20/patch-notes-hcr2-v1-61-0/
-category: patchnotes
+tag: patchnotes
 ---
 The May update for Hill Climb Racing 2 is rolling out now for all supported platforms! Prepare yourself for Vehicle Mastery, which will exhilarate the end game and take you to new heights! We also have a bunch of cool new features roaring around the corner, like new cups locations, a new level theme, and so much more!
 
