@@ -299,6 +299,8 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>  
 	
+
+&nbsp; ▶︎ &nbsp;[Scooter Adventure Mastery]({{site.url}}/Scooter-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Beast Adventure Mastery]({{site.url}}/Beast-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[CC-EV Adventure Mastery]({{site.url}}/CCEV-Adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery]({{site.url}}/motocross-adventure-mastery/)  
