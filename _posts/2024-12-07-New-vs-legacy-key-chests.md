@@ -1,5 +1,5 @@
 ---
-tab: Keys
+tag: Keys
 ---
 Updated after obtaining **Glider**
 {: .notice}
