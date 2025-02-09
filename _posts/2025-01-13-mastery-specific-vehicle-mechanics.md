@@ -1,5 +1,6 @@
 Vehicle | Specific Vehicle Mechanics
 -- | --
+Scooter | Collect as many coins on a run to improve XP collecting
 Beast | Use the integrated wheelie boost to improve XP collecting
 CC-EV | Activate boost: The more the boost is charged, the greater the XP
 Motocross |  50% more XP from tricks
