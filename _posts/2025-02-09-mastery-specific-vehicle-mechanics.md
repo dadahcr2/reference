@@ -3,8 +3,8 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --
-![Scooter2] | Collect as many coins on a run to improve XP collecting
-![Beast2] | Use the integrated wheelie boost to improve XP collecting
+![Scooter2] | Collect as many coins on a run
+![Beast2] | Use the integrated wheelie boost
 ![EV2] | Activate boost: The more the boost is charged, the greater the XP
 ![Moto2] |  50% more XP from tricks
 ![Jeep2] | Collect Coins
