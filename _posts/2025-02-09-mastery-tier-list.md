@@ -3,12 +3,12 @@ tag: Mastery
 ---
 Tier | Vehicles  
 :--: | --  
-S | Racingtruck, Bus, Motocross  
-A | Tractor  
-B | Lowrider, Jeep, Beast  
-C | Sportscar, Chopper, Scooter  
-D | Monowheel, CC-EV  
-E | Moonlander  
+S | ![RT2] ![Bus2] ![Moto2]  
+A | ![Tractor2]  
+B | ![Lowrider2] ![Jeep2] ![Beast2]  
+C | ![Sportscar2] ![Chopper2] ![Scooter2]  
+D | ![Mono2] ![EV2]  
+E | ![Moonlander2]  
 F |   
 
 *Source: Titanium Gaming HCR2* 
