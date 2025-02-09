@@ -20,7 +20,7 @@ Vehicle | Specific Vehicle Mechanics
  ▶︎ |  All Earn XP From
 --  | --
  \- |  Distances in adventure levels
- \- | Cup finish positions (200, 160, 120, 80)
+ \- | Cup finish positions (190+10x#wins, 160, 120, 80)
  \- | Public event positions (up to 200)
  \- | Community event positions
  \- | Team Match single-level scores
