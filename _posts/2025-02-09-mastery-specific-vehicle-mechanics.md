@@ -1,3 +1,6 @@
+---
+tag: Mastery
+---
 Vehicle | Specific Vehicle Mechanics
 -- | --
 Scooter | Collect as many coins on a run to improve XP collecting
