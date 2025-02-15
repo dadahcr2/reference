@@ -5,17 +5,17 @@ Vehicle | Video
 -- | --  
 ![Scooter2] | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
 ![Tractor2] | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
-![Beast2] |  [link](https://discord.com/channels/1051766509443227698/1328354332168556554)  
-![EV2] | [link](https://discord.com/channels/1051766509443227698/1325551951605399564)  
-![Moto2] | [link](https://discord.com/channels/1051766509443227698/1325551871582146762)  
-![Jeep2] | [link](https://discord.com/channels/1051766509443227698/1325551804775141417)  
-![Chopper2] | [link](https://discord.com/channels/1051766509443227698/1325551649783156797)
-![Lowrider2] | [link](https://discord.com/channels/1051766509443227698/1325551581151629394)  
-![Bus2] | [link](https://discord.com/channels/1051766509443227698/1325551474247467048)  
-![Mono2] | [link](https://discord.com/channels/1051766509443227698/1325551367674400818)  
-![RT2] | [link](https://discord.com/channels/1051766509443227698/1325551205212094515)  
+![Beast2] |  [link](https://youtu.be/s3jU349VZQQ?si=4ZGs-qySkLCwn5z9)  
+![EV2] | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
+![Moto2] | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
+![Jeep2] | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
+![Chopper2] | [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
+![Lowrider2] | [link](https://youtu.be/6wSmBv7VPqU?si=0acyOIWBxeXDrfRT)  
+![Bus2] | [link](https://youtu.be/ZCUTiXw3jQ8?si=AlBTF8mZkPBJtidD)  
+![Mono2] | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
+![RT2] | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
 ![Moonlander2] | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-![SportsCar2] | [link](
+![SportsCar2] | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
 {: height="40px" width="64px"}
