@@ -7,7 +7,7 @@ Vehicle | Track | Strategy | Video
 ![Tractor2] | The Trench (I Hate Water) | Use JumpShocks at start to land on back of Rolllcage and Wheelie | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
 ![Beast2] | The Trench (I Hate Water) | Boost=1 Go forward a little to where it steepems, wait for bubble to pop and then Jump on back and Wheelie |  [link](https://youtu.be/s3jU349VZQQ?si=6vnr4nC7EM_5nP1j)    
 ![EV2] | The Trench (I Hate Water) |Engine = 10 & Spoiler = 1, forward and back to charge booster tnen jump before the bubble pos onto back Spoiler, then Wheelie (alt. Kanga Adventure)  | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
-![Moto2] |  | | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
+![Moto2] | Thalassophobia (Deep Driving) | Nitro to speed up, use Thrusters to go as  high as possible, and use Air Control to flip on the way down | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
 ![Jeep2] |  | | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
 ![Chopper2] |  | |  [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
 ![Lowrider2] | |  | [link](https://youtu.be/6wSmBv7VPqU?si=0acyOIWBxeXDrfRT)  
