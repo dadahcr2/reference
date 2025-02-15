@@ -15,7 +15,7 @@ Vehicle | Track | Strategy | Video
 ![Mono2] |Thalassophobia - Deep Driving | Fly as high as possible with Thrusters and Wings, and backflip on the way down | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
 ![RT2] | Watery Tunnel - Cup of City Water | DF=1 AirControl Wings Tires, Wheelie in the Water | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
 ![Moonlander2] | Fast Lane - Bill’s Circuit | Thrusters to lift off ground and land on back, then Wheelie | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-![SportsCar2] | Watery Tunnel - Cup of City Water | StartBoost JumpShocks AirControl, Jump and Flip | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
+![SportsCar2] | The Ruins - Downhill Cup | StartBoost JumpShocks AirControl, Jump and Flip | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
   
 
 *Sources include: X236 YouTube Videos and Mastery Discord Server
