@@ -281,6 +281,9 @@ Moonlander | LandingBoost
 
 **Mastery Tier List**
 - Arguably, some vehicles improve more than others once they have all masteries. Here is a [tier list]({{site.url}}/mastery-tier-list/).
+
+**Mastery Farming Strategies**
+- there are some methods that are efficent in farming XP albeit repetitive.  See here: [Mastery Farming]({{site.url}/mastery-farming/)
   
 </details>  
 
