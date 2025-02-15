@@ -9,7 +9,7 @@ Vehicle | Track | Strategy | Video
 ![EV2] | The Trench - I Hate Water |Engine = 10 & Spoiler = 1, forward and back to charge booster tnen jump before the bubble pos onto back Spoiler, then Wheelie (alt. Kanga Adventure)  | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
 ![Moto2] | Thalassophobia - Deep Driving | Nitro to speed up, use Thrusters to go as  high as possible, and use Air Control to flip on the way down | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
 ![Jeep2] | The Trench - I Hate Water |Suspension=8 & Spoiler=1, Go a touch forward and jump on back Spoiler after bubble pops, then Wheelie (alt. Kanga Adventure) | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
-![Chopper2] |  | |  [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
+![Chopper2] | Beach Adventure | Airtime witn Wings Afterburner and Landing Boost |  [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
 ![Lowrider2] | |  | [link](https://youtu.be/6wSmBv7VPqU?si=0acyOIWBxeXDrfRT)  
 ![Bus2] |  | | [link](https://youtu.be/ZCUTiXw3jQ8?si=AlBTF8mZkPBJtidD)  
 ![Mono2] | |  | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
