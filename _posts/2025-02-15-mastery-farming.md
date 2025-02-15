@@ -10,7 +10,7 @@ Vehicle | Track | Strategy | Video
 ![Moto2] | Thalassophobia - Deep Driving | Nitro to speed up, use Thrusters to go as  high as possible, and use Air Control to flip on the way down | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
 ![Jeep2] | The Trench - I Hate Water |Suspension=8 & Spoiler=1, Go a touch forward and jump on back Spoiler after bubble pops, then Wheelie (alt. Kanga Adventure) | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
 ![Chopper2] | Beach Adventure | Airtime witn Wings Afterburner and Landing Boost |  [link]()  
-![Lowrider2] | | [link](https://youtu.be/6wSmBv7VPqU?si=Q123yRLs4cIP-zbx)  
+![Lowrider2] | Beach Adventure | Airtime and Flips with say Aircontrol, FlipBoost and CoinBoost | [link](https://youtu.be/6wSmBv7VPqU?si=Q123yRLs4cIP-zbx)  
 ![Bus2] | Rustbucket Reef | Optionally remove roof, fly high with Thrusters and flip on the way down | [link](https://youtu.be/cDValAh3ZN0?si=ds5BXWO0l0nQRs0k)  
 ![Mono2] | |  | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
 ![RT2] |  | | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
