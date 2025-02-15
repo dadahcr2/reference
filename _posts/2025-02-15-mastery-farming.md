@@ -3,7 +3,7 @@ tag: Mastery
 ---
 Vehicle | Video  
 -- | --  
-![Scooter2] | [link](https://discord.com/channels/1051766509443227698/1335918147227877376)  
+![Scooter2] | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
 ![Tractor2] | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
 ![Beast2] |  [link](https://discord.com/channels/1051766509443227698/1328354332168556554)  
 ![EV2] | [link](https://discord.com/channels/1051766509443227698/1325551951605399564)  
@@ -15,7 +15,7 @@ Vehicle | Video
 ![Mono2] | [link](https://discord.com/channels/1051766509443227698/1325551367674400818)  
 ![RT2] | [link](https://discord.com/channels/1051766509443227698/1325551205212094515)  
 ![Moonlander2] | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-![SportsCar2] | [link](https://discord.com/channels/1051766509443227698/1325550987691167846)  
+![SportsCar2] | [link](
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
 {: height="40px" width="64px"}
