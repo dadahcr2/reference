@@ -18,7 +18,7 @@ Vehicle | Track | Strategy | Video
 ![SportsCar2] | Watery Tunnel - Cup of City Water | StartBoost JumpShocks AirControl, Jump and Flip | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
   
 
-*Sources include: X236 videos and Mastery Discord Server
+*Sources include: X236 YouTube Videos and Mastery Discord Server
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
 {: height="40px" width="64px"}
