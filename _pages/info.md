@@ -259,7 +259,7 @@ Moonlander | LandingBoost
 **How to earn XP:**  
 - Distances in adventure levels
 - Cup finish positions (200*, 160, 120, 80)
-	> /* 190 + 10xp x #consecutive wins up to 700xp in total (extra 200xp for a boss)
+	> \* 190 + 10xp x #consecutive wins up to 700xp in total (extra 200xp for a boss)
 - Public event positions (up to 200 depending on position)
 - Community event positions
 - Team Match single-level score
