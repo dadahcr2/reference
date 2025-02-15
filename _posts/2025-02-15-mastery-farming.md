@@ -16,6 +16,9 @@ Vehicle | Track | Strategy | Video
 ![RT2] |  | | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
 ![Moonlander2] | Fast Lane - Bill’s Circuit | Thrusters to lift off ground and land on back, then Wheelie | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 ![SportsCar2] | | | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
+  
+
+*Sources include: X236 videos and Mastery Discord Server
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
 {: height="40px" width="64px"}
