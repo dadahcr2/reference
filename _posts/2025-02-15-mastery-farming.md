@@ -3,7 +3,7 @@ tag: Mastery
 ---
 Vehicle | Track | Strategy | Video  
 -- | --  
-![Scooter2] |  | | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
+![Scooter2] | The Trench (I Hate Water) |Suspension & Spoiler = 1, Go a touch forward and jump on back Spoiler after bubble pops, then Wheelie | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
 ![Tractor2] | The Trench (I Hate Water) | Use JumpShocks at start to land on back of Rolllcage and Wheelie | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
 ![Beast2] | |  |  [link](https://youtu.be/s3jU349VZQQ?si=6vnr4nC7EM_5nP1j)    
 ![EV2] | |  | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
