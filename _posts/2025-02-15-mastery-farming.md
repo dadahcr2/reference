@@ -1,21 +1,21 @@
 ---
 tag: Mastery
 ---
-Vehicle | Video  
+Vehicle | Track | Strategy | Video  
 -- | --  
-![Scooter2] | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
-![Tractor2] | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
-![Beast2] |  [link](https://youtu.be/s3jU349VZQQ?si=6vnr4nC7EM_5nP1j)    
-![EV2] | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
-![Moto2] | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
-![Jeep2] | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
-![Chopper2] | [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
-![Lowrider2] | [link](https://youtu.be/6wSmBv7VPqU?si=0acyOIWBxeXDrfRT)  
-![Bus2] | [link](https://youtu.be/ZCUTiXw3jQ8?si=AlBTF8mZkPBJtidD)  
-![Mono2] | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
-![RT2] | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
-![Moonlander2] | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-![SportsCar2] | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
+![Scooter2] |  | | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
+![Tractor2] | The Trench (I Hate Water) | Use JumpShocks at start to land on back of Rolllcage and Wheelie | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
+![Beast2] | |  |  [link](https://youtu.be/s3jU349VZQQ?si=6vnr4nC7EM_5nP1j)    
+![EV2] | |  | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
+![Moto2] |  | | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
+![Jeep2] |  | | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
+![Chopper2] |  | |  [link](https://youtu.be/bp_3Hjwh5FM?si=easm75D4m0Nl2IIT)
+![Lowrider2] | |  | [link](https://youtu.be/6wSmBv7VPqU?si=0acyOIWBxeXDrfRT)  
+![Bus2] |  | | [link](https://youtu.be/ZCUTiXw3jQ8?si=AlBTF8mZkPBJtidD)  
+![Mono2] | |  | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
+![RT2] |  | | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
+![Moonlander2] | Fast Lane (Bill’s Circuit) | Thrusters to lift off ground and land on back, then Wheelie | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
+![SportsCar2] | | | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
 {: height="40px" width="64px"}
