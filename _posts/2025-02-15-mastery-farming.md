@@ -12,7 +12,7 @@ Vehicle | Track | Strategy | Video
 ![Chopper2] | Beach Adventure | Airtime witn Wings Afterburner and Landing Boost |  [link]()  
 ![Lowrider2] | Beach Adventure | Airtime and Flips with say Aircontrol, FlipBoost and CoinBoost | [link](https://youtu.be/6wSmBv7VPqU?si=Q123yRLs4cIP-zbx)  
 ![Bus2] | Rustbucket Reef | Optionally remove roof, fly high with Thrusters and flip on the way down | [link](https://youtu.be/cDValAh3ZN0?si=ds5BXWO0l0nQRs0k)  
-![Mono2] | |  | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
+![Mono2] |Thalassophobia - Deep Driving | Fly as high as possible with Thrusters and Wings, and backflip on the way down | [link](https://youtu.be/mK64C5HVszM?si=vdKiuczPbOxbpb4-)  
 ![RT2] |  | | [link](https://youtu.be/wc-6b-7Oyqc?si=2jt1bCEynqtV5moz)  
 ![Moonlander2] | Fast Lane - Bill’s Circuit | Thrusters to lift off ground and land on back, then Wheelie | [link](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 ![SportsCar2] | | | [link](https://youtu.be/ObVUDdYWOLc?si=rgiH1vZ_CsWp1_US)  
