@@ -5,7 +5,7 @@ Vehicle | Video
 -- | --  
 ![Scooter2] | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
 ![Tractor2] | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
-![Beast2] |  [link](https://youtu.be/s3jU349VZQQ?si=4ZGs-qySkLCwn5z9)  
+![Beast2] |  <iframe width="560" height="315" src="https://www.youtube.com/embed/s3jU349VZQQ?si=jYgF5erxuw4_s0JH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 ![EV2] | [link](https://youtu.be/MFvLgolPzsg?si=i1RtrbPxLTEVfupv)  
 ![Moto2] | [link](https://youtu.be/WF_MYUhSRpo?si=MZDttFa9K-ub1NGK)  
 ![Jeep2] | [link](https://youtu.be/8Vx8ccdF7uE?si=zQBWryYVQgo82cA9)  
