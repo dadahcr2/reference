@@ -1,5 +1,6 @@
 ---
 link: https://www.youtube.com/embed/ATDNgvF0XhQ?si=4uWyd0MasmV-mOmW
+tsg: Mastery
 ---
 
 **Build XP for Moonlander and earn coins quickly**  
