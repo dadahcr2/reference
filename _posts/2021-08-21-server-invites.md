@@ -1,5 +1,6 @@
 ---
 classes: wide
+tag: List
 ---
 These are some of my favorites:  
 &nbsp; ▶︎ &nbsp;[Public Events](<https://discord.gg/gZhdXJEj8T>)  
