@@ -3,6 +3,7 @@ permalink: /faq/
 excerpt: Reddit FAQ + additional info.
 toc: true
 toc_sticky: false
+tag: List
 ---
 ![](/assets/images/Cool Text - Faq 452912963373611.png)  
 
