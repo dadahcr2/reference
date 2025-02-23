@@ -1,7 +1,9 @@
 ---
 tag: Adv
 ---
+  
 {: .notice}  
+
 Track | Formula | Easier
 :--: | :--: | :--:
 Countryside | 20/20/9/1 ![JS]![LB]![Wi] | 20/20/9/1 ![OT]![Wi]![WT]
