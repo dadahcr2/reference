@@ -1,3 +1,6 @@
+---
+tag: List
+---
 
 - [ ] **Every 4 hours**: Two free team tickets  
 - [ ] **Every 8 hours**: One free & 3 VIP/ad chests in the shop
