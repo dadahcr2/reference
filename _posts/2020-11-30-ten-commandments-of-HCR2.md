@@ -1,3 +1,6 @@
+---
+tag: List
+---
 1. **Don’t cheat or go against FS rules**
 2. **Only use gems for weekly public events / cups chests**
 3. **Scrap only excess parts, especially for legendaries**
