@@ -1,4 +1,6 @@
-
+---
+tag: List
+---
 	
 1. Be a good human being. Respect each and everyone. Treat everyone the same way you expect to be treated.
 2. No spamming when applying or otherwise.
