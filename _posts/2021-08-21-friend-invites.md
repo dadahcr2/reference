@@ -1,5 +1,6 @@
 ---
 classes: wide
+tag: List
 ---
 Search | **Ctrl-f**
 --: | :--
