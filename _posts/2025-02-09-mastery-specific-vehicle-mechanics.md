@@ -2,7 +2,8 @@
 tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
--- | --
+-- | --  
+![Formula2] | Drive full-speed while having ground contact  
 ![Scooter2] | Collect Coins
 ![Beast2] | Use the integrated wheelie boost
 ![EV2] | Activate boost: The more the boost is charged, the greater the XP
