@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-**Earn extra XP by Driving full-speed while having ground contact**  
+**Earn extra XP by driving full-speed while having ground contact**  
 {: .notice}  
 
 Track | Formula | Easier
