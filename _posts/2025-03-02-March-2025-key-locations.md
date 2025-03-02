@@ -12,7 +12,7 @@ City | Reef | Desert | Fun Rig | Moon
 4540m3️⃣ | 6188m3️⃣ | 6907m3️⃣ ⬆️ 🆙 | 5711m7️⃣ ⬇️ 🆙²  | 6500m3️⃣ ⬇️ 🆙² 
 5281m7️⃣ 🆙 | 7074m7️⃣⬆️ | 7215m7️⃣ 🆙 | 6006m3️⃣ ⬇️² | 7125m7️⃣ ⬇️ 🆙² 
 
-*Source: Spectre(sic)*
+*Source: Spectre(sic)*  
 🔼🔽 = TOP/BOTTOM  
 ⬆️⬇️ = ABOVE/BELOW  
 ↕️ = BETWEEN  
