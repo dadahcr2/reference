@@ -13,12 +13,11 @@ City | Reef | Desert | Fun Rig | Moon
 5281m7️⃣ 🆙 | 7074m7️⃣⬆️ | 7215m7️⃣ 🆙 | 6006m3️⃣ ⬇️² | 7125m7️⃣ ⬇️ 🆙² 
 
 *Source: Spectre(sic)*
-🔼🔽 = TOP/BOTTOM
-⬆️⬇️ = ABOVE/BELOW
-↕️ = BETWEEN
-🆙 = FLY UP
-🔄 = INSIDE OBJECT
-↩️ = REVERSE
+🔼🔽 = TOP/BOTTOM  
+⬆️⬇️ = ABOVE/BELOW  
+↕️ = BETWEEN  
+🆙 = FLY UP  
+🔄 = INSIDE OBJECT  
+↩️ = REVERSE  
 
-NB: 2,3 Legacy:Raider , 4 Legacy:HB , 6 New:Raider  
-Note: Order may change once you have the new car
+
