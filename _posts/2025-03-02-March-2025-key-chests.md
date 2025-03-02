@@ -16,5 +16,5 @@ Chest | Legacy Order | New Order
 
 Source: Vulcan
 
-NB: 2,3 Legacy:Raider , 4 Legacy:HB , 6 New:Raider  
-Note: Order may change once you have the new car
+**NB:** 2,3 Legacy:Raider , 4 Legacy:HB , 6 New:Raider  
+Note: *Vehicles may change once you have the new car*
