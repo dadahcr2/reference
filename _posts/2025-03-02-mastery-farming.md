@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Track | Strategy | Video  
 -- | --  
+![For,ila2] | Desert Adv. / Watery Tunnel - Cup of City Water | Susp=1, DF=5, JumpShocks, Tires, & Wheelie | [link](https://youtu.be/CiKk0HhVpZo)  
 ![Scooter2] | The Trench - I Hate Water |Suspension & Spoiler = 1, Go a touch forward and jump on back Spoiler after bubble pops, then Wheelie; or just adventure with magnet, coinboost and wings | [link](https://youtu.be/XKOoM9IwgO4?si=TG43-qtEcUJAYaZS)  
 ![Tractor2] | The Trench - I Hate Water | Use JumpShocks at start to land on back of Rolllcage and Wheelie | [link](https://youtu.be/Ld_1OAPpyCI?si=xq_zHQ9pwvV_LI5l)  
 ![Beast2] | The Trench - I Hate Water | Boost=1 Go forward a little to where it steepems, wait for bubble to pop and then Jump on back and Wheelie |  [link](https://youtu.be/gXGefFDLTHQ?si=dYU7vTxFJlhffsIZ)    
