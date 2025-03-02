@@ -15,3 +15,6 @@ Chest | Legacy Order | New Order
 9 | mx, rotator, ml | sb, beast, mx
 
 Source: Vulcan
+
+NB: 2,3 Legacy:Raider , 4 Legacy:HB , 6 New:Raider  
+Note: Order may change once you have the new car
