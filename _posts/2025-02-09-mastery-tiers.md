@@ -8,7 +8,7 @@ A | ![Tractor2]
 B | ![Lowrider2] ![Jeep2] ![Beast2]  
 C | ![Sportscar2] ![Chopper2] ![Scooter2]  
 D | ![Mono2] ![EV2]  
-E | ![Moonlander2]  
+E | ![Moonlander2] ![Formula2]    
 F |   
 
 *Source: Titanium Gaming HCR2* 
