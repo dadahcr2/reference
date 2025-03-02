@@ -1,6 +1,8 @@
 ---
 tag: Mastery
 ---
+# Formula = E  
+
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
