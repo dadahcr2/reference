@@ -19,3 +19,6 @@ City | Reef | Desert | Fun Rig | Moon
 🆙 = FLY UP
 🔄 = INSIDE OBJECT
 ↩️ = REVERSE
+
+NB: 2,3 Legacy:Raider , 4 Legacy:HB , 6 New:Raider  
+Note: Order may change once you have the new car
