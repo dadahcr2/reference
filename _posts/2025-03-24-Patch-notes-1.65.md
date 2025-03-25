@@ -2,6 +2,8 @@
 link: https://fingersoft.com/news/2025/03/24/patch-notes-hcr2-v1-65-0/
 tag: Patchnotes
 ---
+Step aside; the legend of the old racing tracks, Bolt, is here to rule the races in the newest Hill Climb Racing 2 update, rolling out now! Just behind Bolt are the upcoming four masteries, Snowmobile, Hotrod, Mk2, and Rotator.
+
 New vehicle: **Bolt**  
 
 Diamond VIP tier and Premium+ pass
