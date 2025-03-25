@@ -2,7 +2,7 @@
 link: https://fingersoft.com/news/2025/03/24/patch-notes-hcr2-v1-65-0/
 tag: Patchnotes
 ---
-New vehicle: Bolt  
+New vehicle: **Bolt**  
 Diamond VIP tier and Premium+ pass
 - Includes double mastery XP, cup chest queue, and more coins in VIP chest in addition to the original VIP subscription
 
