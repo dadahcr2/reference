@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Monster2] | Get big air time
 ![Formula2] | Drive full-speed while having ground contact  
 ![Scooter2] | Collect Coins
 ![Beast2] | Use the integrated wheelie boost
