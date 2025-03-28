@@ -304,6 +304,7 @@ Moonlander | LandingBoost
   </summary>  
 	
 
+&nbsp; ▶︎ &nbsp;[Monster Adventure Mastery]({{site.url}}/Monster-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Formula Adventure Mastery]({{site.url}}/formula-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Scooter Adventure Mastery]({{site.url}}/Scooter-adventure-mastery/)  
 &nbsp; ▶︎ &nbsp;[Beast Adventure Mastery]({{site.url}}/Beast-adventure-mastery/)  
