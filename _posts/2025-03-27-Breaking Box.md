@@ -10,7 +10,7 @@ tag: PE
 6️⃣ ![Muscle] ![OT] ![AB] ![HW] **6.491** AU|PH.HaSan  
 7️⃣ ![EV] ![WT] ![HW] ![SB] **7.950** DT|69420  
 
-Source:  ****PE Discord Server***
+Source:  ***PE Discord Server***
 
 [AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
