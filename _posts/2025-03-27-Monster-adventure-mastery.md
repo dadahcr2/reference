@@ -2,7 +2,7 @@
 tag: Adv
 ---
 **Big airtime for extra XP**  
-{: .notice--info}  
+{: .notice--warning}  
 
 Track | Monster | Easier
 :--: | :--: | :--:
