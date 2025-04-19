@@ -1,0 +1,8 @@
+`:04` ![SB] ![LB] ![JS] Big Air (Big Air Cup 1R)
+`:06` ![Ni] ![LB] ![JS] Heat Club (Spring City 7L)
+`:08` ![SB] ![LB] ![JS] Ballmer’s Peak (Green Cup 9L)
+`:10` ![SB] ![LB] ![JS] Big Log Sprint (Gloomvale Cup -11L)
+`:12` ![SB] ![Ni] ![Fuel] Barn Ride (Challenger Cup 4M)
+`:14` ![LB] ![Ni] ![Fuel] Bat Country(Interstate Cup 9M)
+`:16` ![Ni] ![LB] ![JS] Take Off(Magnetic Circuit 8M)
+`:18` ![SB] ![LB] ![JS] Docked Out (Marshland Cup 6R)
