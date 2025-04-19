@@ -1,12 +1,12 @@
 ---
 tag: Mastery
 ---
-# Formula = E  
+# Monster = RB = A  
 
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
-A | ![Tractor2]  
+A | ![Tractor2]  ![Monster2] ![RB2]
 B | ![Lowrider2] ![Jeep2] ![Beast2]  
 C | ![Sportscar2] ![Chopper2] ![Scooter2]  
 D | ![Mono2] ![EV2]  
