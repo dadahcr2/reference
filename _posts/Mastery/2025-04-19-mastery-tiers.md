@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 ---
-## Monster = RB = A  
+**Monster = RB = A**  
 
 Tier | Vehicles  
 :--: | --  
