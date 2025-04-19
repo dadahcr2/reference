@@ -3,6 +3,7 @@ tag: Adv
 ---
 **Big airtime for extra XP**  
 {: .notice}  
+
 Track | Monster | Easier
 :--: | :--: | :--:
 Countryside | ![JS]![LB]![Wi] | ![Wi]![WB]![CB]
