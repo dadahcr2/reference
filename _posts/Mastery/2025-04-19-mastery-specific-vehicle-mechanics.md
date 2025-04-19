@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![RB2] | Just climb uphill
 ![Monster2] | Get big air time
 ![Formula2] | Drive full-speed while having ground contact  
 ![Scooter2] | Collect Coins
