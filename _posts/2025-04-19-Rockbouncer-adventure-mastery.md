@@ -2,7 +2,8 @@
 tag: Adv
 ---
 **Climb uphill for extra XP**  
-{: .notice--danger}  
+{: .notice--danger}{: style="text-align: center;"}  
+
 
 Track | RB | Easier
 :--: | :--: | :--:
