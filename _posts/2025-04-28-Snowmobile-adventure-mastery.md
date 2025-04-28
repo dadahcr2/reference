@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-{: .notice--danger}  
+**Drive on Water for extra XP**  
 
 Track | Snowmobile | Easier
 :--: | :--: | :--:
