@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Snowmobile2] | Drive on water  
 ![RB2] | Just climb uphill
 ![Monster2] | Get big air time
 ![Formula2] | Drive full-speed while having ground contact  
