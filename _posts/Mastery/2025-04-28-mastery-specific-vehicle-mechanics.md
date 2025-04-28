@@ -32,10 +32,10 @@ Vehicle | Specific Vehicle Mechanics
  \- | Doing tricks (wheelie, flips, air time)
  \- | Opening vehicle-specific chests   
 
-[Jeep2]: /assets/images/icon-vehicle-jeep.png
-{: height="40px" width="64px"}
-[Mk22]: /assets/images/icon-vehicle-superjeep.png
-{: height="40px" width="64px"}
+[Jeep2]: /assets/images/icon-vehicle-jeep.png  
+{: height="40px" width="64px"}  
+[Mk22]: /assets/images/icon-vehicle-superjeep.png  
+{: height="40px" width="64px"}  
 [Sportscar2]: /assets/images/icon-vehicle-sportscar.png
 {: height="40px" width="64px"}
 [Buggy2]: /assets/images/icon-vehicle-buggy.png
