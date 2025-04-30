@@ -36,7 +36,7 @@ gallery:
  - image_path: /assets/images/icon-vehicle-hoverbike.png
  - image_path: /assets/images/icon-vehicle-raider.png
  - image_path: /assets/images/icon-vehicle-glider.png
- - image_path: /assets/images/icon-vehicle-bolt.png
+ - image_path: /assets/images/icon-vehicle-bolt-yellow.png
 ---  
 
 
