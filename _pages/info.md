@@ -292,8 +292,8 @@ Moonlander | LandingBoost
     Icon Images
   </summary>
 
-&nbsp; ▶︎ &nbsp;[Vehicle Icons]({{site.url}}/vicons/)  
-&nbsp; ▶︎ &nbsp;[Parts Icons]({{site.url}}/picons/)  
+&nbsp; ▸ &nbsp;[Vehicle Icons]({{site.url}}/vicons/)  
+&nbsp; ▸ &nbsp;[Parts Icons]({{site.url}}/picons/)  
 	
 </details>  
 	
@@ -303,24 +303,24 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>  
 	
-&nbsp; ▶︎ &nbsp;[Snowmobike Adventure Mastery]({{site.url}}/Snowmobile-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[RockBouncer Adventure Mastery]({{site.url}}/Rockbouncer-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Monster Adventure Mastery]({{site.url}}/Monster-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Formula Adventure Mastery]({{site.url}}/formula-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Scooter Adventure Mastery]({{site.url}}/Scooter-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Beast Adventure Mastery]({{site.url}}/Beast-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[CC-EV Adventure Mastery]({{site.url}}/CCEV-Adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Motocross Adventure Mastery]({{site.url}}/motocross-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Hill Climber Adventure Mastery]({{site.url}}/hill-climber-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Tractor Adventure Mastery]({{site.url}}/Tractor-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[Chopper Adventure Mastery]({{site.url}}/chopper-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Lowrider Adventure Mastery]({{site.url}}/lowrider-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Bus Adventure Mastery]({{site.url}}/bus-adventure-mastery/)   
-&nbsp; ▶︎ &nbsp;[Monowheel Adventure Mastery]({{site.url}}/monowheel-adventure-mastery/)  
-&nbsp; ▶︎ &nbsp;[Moonlander Adventure Mastery]({{site.url}}/Moonlander-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[Racing Truck Adventure Mastery]({{site.url}}/Racing-Truck-Adventure-Mastery/)   
-&nbsp; ▶︎ &nbsp;[Sportscar Adventure Mastery]({{site.url}}/Sportscar-Adventure-Mastery/)  
-&nbsp; ▶︎ &nbsp;[All Setups]({{site.url}}/adventure-setups/)  
+&nbsp; ▸ &nbsp;[Snowmobike Adventure Mastery]({{site.url}}/Snowmobile-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[RockBouncer Adventure Mastery]({{site.url}}/Rockbouncer-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Monster Adventure Mastery]({{site.url}}/Monster-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Formula Adventure Mastery]({{site.url}}/formula-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Scooter Adventure Mastery]({{site.url}}/Scooter-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Beast Adventure Mastery]({{site.url}}/Beast-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[CC-EV Adventure Mastery]({{site.url}}/CCEV-Adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Motocross Adventure Mastery]({{site.url}}/motocross-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Hill Climber Adventure Mastery]({{site.url}}/hill-climber-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Tractor Adventure Mastery]({{site.url}}/Tractor-Adventure-Mastery/)  
+&nbsp; ▸ &nbsp;[Chopper Adventure Mastery]({{site.url}}/chopper-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Lowrider Adventure Mastery]({{site.url}}/lowrider-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Bus Adventure Mastery]({{site.url}}/bus-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Monowheel Adventure Mastery]({{site.url}}/monowheel-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Moonlander Adventure Mastery]({{site.url}}/Moonlander-Adventure-Mastery/)  
+&nbsp; ▸ &nbsp;[Racing Truck Adventure Mastery]({{site.url}}/Racing-Truck-Adventure-Mastery/)   
+&nbsp; ▸ &nbsp;[Sportscar Adventure Mastery]({{site.url}}/Sportscar-Adventure-Mastery/)  
+&nbsp; ▸ &nbsp;[All Setups]({{site.url}}/adventure-setups/)  
 </details>  
 
 <details  markdown="block">
@@ -724,13 +724,13 @@ Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]
 </details>
 	
 ### Lists  
-▶︎ &nbsp;[Daily Checklist]({{site.url}}/daily-checklist/)  
-▶︎ &nbsp;[Ten Commandments of HCR2]({{site.url}}/ten-commandments-of-HCR2/)  
-▶︎ &nbsp;[Being a Teammate]({{site.url}}/being-a-teammate/)  
-▶︎ &nbsp;[Tournaments & GP Results]({{site.url}}/tournaments-and-gp-results/)  
-▶︎ &nbsp;[Server Invites]({{site.url}}/server-invites/)  
-▶︎ &nbsp;[Friend Invites]({{site.url}}/friend-invites/)  
-▶︎ &nbsp;[Flag Lookup]({{site.url}}/flag-lookup/)  
+▸ &nbsp;[Daily Checklist]({{site.url}}/daily-checklist/)  
+▸ &nbsp;[Ten Commandments of HCR2]({{site.url}}/ten-commandments-of-HCR2/)  
+▸ &nbsp;[Being a Teammate]({{site.url}}/being-a-teammate/)  
+▸ &nbsp;[Tournaments & GP Results]({{site.url}}/tournaments-and-gp-results/)  
+▸ &nbsp;[Server Invites]({{site.url}}/server-invites/)  
+▸ &nbsp;[Friend Invites]({{site.url}}/friend-invites/)  
+▸ &nbsp;[Flag Lookup]({{site.url}}/flag-lookup/)  
 
 ### Gas Brake Go
 <details  markdown="block">
