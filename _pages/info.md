@@ -487,7 +487,7 @@ Distance | Obstacle
 	
 ### Cups
 
-▶︎ &nbsp;[Best setups for the individual tracks](/tunes/)  
+▸ &nbsp;[Best setups for the individual tracks](/tunes/)  
 <details  markdown="block">
   <summary>
     Two and Four Track Cups
