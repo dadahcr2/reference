@@ -26,8 +26,8 @@ comments: true
 
 &nbsp; ▶︎ &nbsp;[Official wiki](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)  
 &nbsp; ▶︎ &nbsp;[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
-&nbsp; ▶︎ &nbsp;[Getting started tips](/tips/)   
-&nbsp; ▶︎ &nbsp;[Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)   
+&nbsp; ► &nbsp;[Getting started tips](/tips/)   
+&nbsp; ▸ &nbsp;[Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)   
 &nbsp; ▶︎ &nbsp;[FS News](https://fingersoft.com/news/)  
 &nbsp; ▶︎ &nbsp;[FS Tweets](https://mobile.twitter.com/HCR_Official_)  
 &nbsp; ▶︎ &nbsp;[YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
