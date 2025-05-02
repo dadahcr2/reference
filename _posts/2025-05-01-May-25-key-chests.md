@@ -3,7 +3,7 @@ tag: Keys
 ---
 Chest | Legacy Order | New Order
 -- | -- | --
-1️⃣ | rally, racing truck, buggy | sportscar, chopper, mk2
+1️⃣ | sportscar, chopper, mk2 | rally, racing truck, buggy
 2️⃣ | bus, **muscle car**, lowrider | bus. **muscle car**, sportscar
 3️⃣ | super diesel, **rockbouncer**, jeep | hotrod, motocross, jeep
 4️⃣ | jeep, ccev, beast | jeep, **raider**, chopper
