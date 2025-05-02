@@ -24,13 +24,13 @@ comments: true
     Websites
   </summary>	
 
-&nbsp; ▶︎ &nbsp;[Official wiki](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)  
-&nbsp; ▶︎ &nbsp;[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
-&nbsp; ► &nbsp;[Getting started tips](/tips/)   
+&nbsp; ▸ &nbsp;[Official wiki](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)  
+&nbsp; ▸ &nbsp;[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
+&nbsp; ▸ &nbsp;[Getting started tips](/tips/)   
 &nbsp; ▸ &nbsp;[Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)   
-&nbsp; ▶︎ &nbsp;[FS News](https://fingersoft.com/news/)  
-&nbsp; ▶︎ &nbsp;[FS Tweets](https://mobile.twitter.com/HCR_Official_)  
-&nbsp; ▶︎ &nbsp;[YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
+&nbsp; ▸ &nbsp;[FS News](https://fingersoft.com/news/)  
+&nbsp; ▸ &nbsp;[FS Tweets](https://mobile.twitter.com/HCR_Official_)  
+&nbsp; ▸ &nbsp;[YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 
 </details>
 
@@ -39,17 +39,17 @@ comments: true
     Video Tutorials
   </summary>	  
 
-&nbsp; ▶︎ &nbsp;[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
+&nbsp; ▸ &nbsp;[Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 	[![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)    
-&nbsp; ▶︎ &nbsp;[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
+&nbsp; ▸ &nbsp;[Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
 	[![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)  
-&nbsp; ▶︎ &nbsp;[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
+&nbsp; ▸ &nbsp;[How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 	[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)   
-&nbsp; ▶︎ &nbsp;[How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)  
+&nbsp; ▸ &nbsp;[How to copy team scores to a spreadsheet](https://youtu.be/etd0UTGpOdM)  
 	[![](http://img.youtube.com/vi/etd0UTGpOdM/0.jpg)](http://www.youtube.com/watch?v=etd0UTGpOdM)  
-&nbsp; ▶︎ &nbsp;[How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
+&nbsp; ▸ &nbsp;[How to build a map using a presentation tool](https://youtu.be/YizwyYSie1A)  
 	[![](http://img.youtube.com/vi/YizwyYSie1A/0.jpg)](http://www.youtube.com/watch?v=YizwyYSie1A)  
-&nbsp; ▶︎ &nbsp;[How to go up the drop ramps in canyon arena](https://youtu.be/KLu4xFacwVM)  
+&nbsp; ▸ &nbsp;[How to go up the drop ramps in canyon arena](https://youtu.be/KLu4xFacwVM)  
 	[![](http://img.youtube.com/vi/KLu4xFacwVM/0.jpg)](https://youtu.be/KLu4xFacwVM)  
 	
 </details>	
