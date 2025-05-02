@@ -292,8 +292,8 @@ Moonlander | LandingBoost
     Icon Images
   </summary>
 
-&nbsp; ▻ &nbsp;[Vehicle Icons]({{site.url}}/vicons/)  
-&nbsp; ▻ &nbsp;[Parts Icons]({{site.url}}/picons/)  
+&nbsp; ▸ &nbsp;[Vehicle Icons]({{site.url}}/vicons/)  
+&nbsp; ▸ &nbsp;[Parts Icons]({{site.url}}/picons/)  
 	
 </details>  
 	
