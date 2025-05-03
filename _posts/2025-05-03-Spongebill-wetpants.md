@@ -1,16 +1,19 @@
 ---
-tag: PE  
+tag: PE
 ---
-Waterslide Way ![Bus] ![SB] ![Wi] ![JS] ![Ni] **11.300** Mirko  
-Clam Canyon ![Moto] ![JS] ![Flip] ![LB] ![Th] **12.467** SaMueL  
-Marina Mayhem ![HB] ![SB] ![Fume] ![Ni] **11.422** Qternoga  
-Cold Currents ![Moto] ![SB] ![JS] ![LB] ![Th] **11.621** :slight_frown:  
-Moist Mountain ![Beast] ![Wi] ![SB] ![Fuel] ![Ni] **10.904** ApOLo  
-Splash Bash ![Moto] ![SB] ![Flip] ![JS] ![LB] **11.167** Mirko   
-Splash Bash ![Bus] ![Wi] ![SB] ![JS] ![Ni] 11.428 Castaway  
-Splash Bash ![Snowmobile] ![Wi] ![SB] ![Fuel] ![Ni] 11.535  
-Wet World ![Moto] ![Wi] ![SB] ![JS] ![LB] **15.274** Mirko  
-Bubble Bay ![Bus] ![Wi] ![Fume] ![JS] ![Th] **12.713** gamesens  
+
+Track | Setup | Time  
+-- | -- | --  
+Waterslide Way ! | ![Bus] ![SB] ![Wi] ![JS] ![Ni]  | **11.300** Mirko~UF  
+Clam Canyon ! | ![Moto] ![JS] ![Flip] ![LB] ![Th]  | **12.467** SaMueL  
+Marina Mayhem ! | ![HB] ![SB] ![Fume] ![Ni]  | **11.422** Qternoga  
+Cold Currents ! | ![Moto] ![SB] ![JS] ![LB] ![Th]  | **11.621** :slight_frown:  
+Moist Mountain ! | ![Beast] ![Wi] ![SB] ![Fuel] ![Ni]  | **10.904** ApOLo  
+Splash Bash ! | ![Moto] ![SB] ![Flip] ![JS] ![LB]  | **11.167** Mirko~UH  
+Splash Bash ! | ![Bus] ![Wi] ![SB] ![JS] ![Ni]  | **11.428** Castaway  
+Splash Bash ! | ![Snowmobile] ![Wi] ![SB] ![Fuel] ![Ni]  | **11.535**  
+Wet World ! | ![Moto] ![Wi] ![SB] ![JS] ![LB]  | **15.274** Mirko~UH  
+Bubble Bay ! | ![Bus] ![Wi] ![Fume] ![JS] ![Th]  | **12.713** gamesens  
 
 
 [AC]: /assets/images/aircontrol.png
