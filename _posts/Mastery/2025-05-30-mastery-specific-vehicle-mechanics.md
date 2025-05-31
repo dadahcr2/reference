@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Hotrod2] | Trigger the supercharger explotion  
 ![Snowmobile2] | Drive on water  
 ![RB2] | Just climb uphill
 ![Monster2] | Get big air time
