@@ -149,6 +149,22 @@ tag_archive:
   type: liquid
   path: /tags/
 
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+
+jekyll-archives:
+  enabled: all
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+    
 atom_feed:
   hide: true
 
