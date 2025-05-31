@@ -1,3 +1,6 @@
+---
+tag: Cups
+---
 **I can remember the single track cups but not the others so I put together lists of the two and four track cups**  
 {: .notice}
 
