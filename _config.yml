@@ -158,7 +158,7 @@ category_archive:
   path: /categories/
 
 jekyll-archives:
-  enabled: all
+  enabled: []
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
