@@ -19,9 +19,8 @@ A Trial Of Ice And Fire
 Dirty Rally  
 Spring City  
 Sunday Champ  
-Mystical Cup  
-Gearsticks And Pedals  
+Mystical Cup    
 
-As ties are treated as wins, it should be easier for players to win these cups as they have an even number of tracks, thus making ties possible 
+**As ties are treated as wins, it should be easier for players to win these cups as they have an even number of tracks, thus making ties possible** 
 {: .notice}
  
