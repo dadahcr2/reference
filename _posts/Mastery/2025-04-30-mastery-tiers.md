@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 ---
-**Snowmobile = B**  
+**Hotrod = D**  
 
 Tier | Vehicles  
 :--: | --  
@@ -9,7 +9,7 @@ S | ![RT2] ![Bus2] ![Moto2]
 A | ![Tractor2]  ![Monster2] ![RB2]
 B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2]  
 C | ![Sportscar2] ![Chopper2] ![Scooter2]  
-D | ![Mono2] ![EV2]  
+D | ![Mono2] ![EV2] ![Hotrod2]   
 E | ![Moonlander2] ![Formula2]    
 F |   
 
