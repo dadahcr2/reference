@@ -488,68 +488,8 @@ Distance | Obstacle
 ### Cups
 
 ▸ &nbsp;[Best setups for the individual tracks](/tunes/)  
-<details  markdown="block">
-  <summary>
-    Two and Four Track Cups
-  </summary>
-	
-**I can remember the single track cups but not the others so I put together lists of the two and four track cups**  
-{: .notice}
-
-**Two tracks**  
-Glacier Cup  
-Gladiator's Gauntlet  
-Hill Climb Cup  
-Lift Off Land  
-Parkway Driving  
-The Jungle Brake  
-Uphill Cup  
-
-
-**Four tracks**  
-Dirty Rally  
-Spring City  
-Sunday Champ  
-Mystical Cup  
-
-As ties are treated as wins, it should be easier for players to win these cups as they have an even number of tracks, thus making ties possible 
-{: .notice}
- 
-</details>	
-	
-<details  markdown="block">
-  <summary>
-    Tracks by Type & Distance
-  </summary>
-			
-**This may be helpful in identifying event tracks**  
-{: .notice}  
-
- Map Type | Tracks  
-:--: | :--  
-**Beach** | **`320m`:** **Seaside** (Beach Cup 4R) , **`335m`:** **Tide Waves** (Finger Travels -7M) , **`340m`:** **The Big Dunes** (Sand in Swimsuit 11M) , **`350m`:** **The Dunes** (Beach Cup 4R) ,  **Sandbox** (Finger Travels -7M) , **`360m`:** **Sand in Swimsuit** (11M) , **`370m`:** **Kid's pool** (Finger Travels -7M) ,  **Tunnel Dive** (Sand in Swimsuit 11M) , **`380m`:** **Beach Boys** (Beach Cup 4R) , **`410m`:** **Coconut Cove** (Travel Cup -5L) , **`1000m`:** **Paradise Bay** (-8R) 
-**Bog** | **`198m`:** **Trial of Balance** (Downhill Trials 3L) , **`230m`:** **Trial of Courage** (Downhill Trials 3L) , **`250m`:** **Happy Campers** (Backwater Cup 11R) ,  **Grill Bill** (Backwater Cup 11R) ,  **Trial of fall** (Downhill Trials 3L) , **`290m`:** **Swamp Ride** (Backwater Cup 11R) , **`295m`:** **Bumps in the Water** (Alligator Cup -2L) , **`300m`:** **Parking Trailers** (Alligator Cup -2L) , **`330m`:** **Hangout Cave** (Marshland Cup 6R) , **`350m`:** **Tired Alligators** (Marshland Cup 6R) , **`360m`:** **Lonely Camper** (Boggy Road -2R) , **`370m`:** **Muddy Road** (Boggy Road -2R) ,  **Cottage Road** (Boggy Road -2R) , **`385m`:** **Snappy Swamps** (Alligator Cup -2L) , **`420m`:** **Docked Out** (Marshland Cup 6R) 
-**Canyon** | **`250m`:** **Beyond Climberdome** (Gladiator's Gauntlet 2M) , **`265m`:** **Legendary Apex** (Gladiator's Gauntlet 2M) , **`385m`:** **Special Stage One** (Canyon Grand Prix -3M) , **`500m`:** **Special Stage Three** (Canyon Grand Prix -3M) , **`525m`:** **Special Stage Two** (Canyon Grand Prix -3M) 
-**City** | **`280m`:** **Watery Tunnel** (Cup of City Water -5R) , **`310m`:** **Don't Dive** (Cup of City Water -5R) , **`340m`:** **Downtown Madness** (Travel Cup -5L) , **`345m`:** **Danger Zone** (Capital Cup 10M) , **`400m`:** **Drive Through** (Capital Cup 10M) ,  **Get Soaked** (Cup of City Water -5R) , **`420m`:** **Hot Tarmac** (Bill's Circuit -8M) ,  **The Carousel** (Bill's Circuit -8M) ,  **Smooth Curves** (Finger GP 12R) , **`485m`:** **A Bridge Too Far** (Capital Cup 10M) , **`500m`:** **Breaking Bad** (Finger GP 12R) ,  **Hairpin** (Finger GP 12R) , **`520m`:** **Whipclash** (Spring City 7L) , **`530m`:** **Fast Lane** (Bill's Circuit -8M) , **`550m`:** **Fury Road** (Spring City 7L) , **`600m`:** **Rubberist** (Spring City 7L) , **`650m`:** **Heat Club** (Spring City 7L) , **`1000m`:** **Forgotten Highway** (-9M) 
-**Country** | **`320m`:** **Landing Drive** (Big Air Cup 1R) ,  **Big Air** (Big Air Cup 1R) , **`330m`:** **Base Jump** (Challenger Cup 4M) ,  **Killing Floors** (Sunday Champ 6M) , **`343m`:** **Lost in Transmission** (Dirty Rally 7R) , **`345m`:** **Circuit 9** (Countryside Cup 5L) ,  **Bridges and Stones** (Sunday Champ 6M) , **`362m`:** **The Dip** (Sunday Champ 6M) , **`368m`:** **Barn Ride** (Challenger Cup 4M) , **`380m`:** **Showgrounds** (Countryside Cup 5L) ,  **Four-Wheel Park** (Countryside Cup 5L) , **`393m`:** **Silo Showdown** (Challenger Cup 4M) , **`395m`:** **Bottom Gear Cup** (Hill Climb Cup 1L) , **`400m`:** **Flipway** (Dirty Rally 7R) 
-**Cuptown** | **`285m`:** **Cuptown Smooth** (Parkway Driving 1M) , **`300m`:** **Cuptown Relax** (Parkway Driving 1M) , **`325m`:** **Nightlife** (Night Drive Cup -3R) , **`355m`:** **Neighbourbonnet** (Night Drive Cup -3R) , **`450m`:** **House Party** (Cuptown Babylon 5M) , **`475m`:** **Boost Boulevard** (Night Drive Cup -3R) , **`480m`:** **Shape of Hills to Come** (Cuptown Babylon 5M) , **`640m`:** **Call of the Night** (Cuptown Babylon 5M) 
-**Desert** | **`340m`:** **Nowhere Road** (Travel Cup -5L) , **`350m`:** **Tumbleweeds** (Desert Cup 4L) , **`370m`:** **Rust Valley** (Hub Cap Cup -8L) , **`380m`:** **Dust Valley** (Hub Cap Cup -8L) , **`390m`:** **Road to Heck** (Desert Cup 4L) , **`410m`:** **Sunburnt** (Desert Cup 4L) , **`420m`:** **Topsy-Turvy** (Desert Caves 10L) ,  **Switch It Up** (Desert Caves 10L) , **`440m`:** **Cactus Hill** (Hub Cap Cup -8L) ,  **No Step on Snek** (Interstate Cup 9M) , **`460m`:** **Roll With It** (Desert Caves 10L) , **`535m`:** **Bat Country** (Interstate Cup 9M) , **`563m`:** **Skid Happens** (Interstate Cup 9M) , **`1000m`:** **Far Far Away** (Desert Mile -7L) 
-**Factory** | **`400m`:** **Factory Settings** (Factory Cup 5R) ,  **Face Plant** (Factory Cup 5R) ,  **Flip A Switch** (Factory Cup 5R) , **`490m`:** **Take Off** (Magnetic Circuit 8M) , **`520m`:** **Falling Crates** (Magnetic Circuit 8M) , **`535m`:** **Magnet Madness** (Magnetic Circuit 8M) 
-**Forest** | **`200m`:** **Bumpy Ride** (Bumpy Ride Cup -6R) ,  **Rough Road** (Bumpy Ride Cup -6R) , **`210m`:** **Forbidden Forest** (Cup in the Woods 3M) ,  **Captain's Log** (Cup in the Woods 3M) , **`220m`:** **Under the Cliff** (Bumpy Ride Cup -6R) , **`270m`:** **The Pond** (Cup in the Woods 3M) , **`300m`:** **Hills Ahead** (Dark Roads 2R) , **`320m`:** **Seesaw Road** (Big Air Cup 1R) ,  **Visions of Victory** (Dark Roads 2R) , **`340m`:** **Hollow Road** (Dark Roads 2R) , **`350m`:** **Flying Log** (Forest Cup -7R) , **`360m`:** **The Quarry** (Dirty Rally 7R) , **`370m`:** **FingerWoods** (Dirty Rally 7R) ,  **Logs and Rocks** (Forest Cup -7R) , **`373m`:** **Ballmer's Peak** (Green Cup 9L) , **`377m`:** **No Skidding** (Hill Climb Cup 1L) , **`380m`:** **Rock Pit** (Forest Cup -7R) , **`430m`:** **Bill's Landing** (Green Cup 9L) ,  **Spartan Racing** (Green Cup 9L) 
-**Glacier** | **`410m`:** **Tailwind Trail** (Stormrider Cup -11R) ,  **Headwind Shortcut** (Stormrider Cup -11R) , **`493m`:** **Like a Hawk** (Stormrider Cup -11R) , **`500m`:** **Bone Gorge** (Glacier Cup -9L) , **`520m`:** **Boiling Hollow** (Glacier Cup -9L) , **`1000m`:** **Frostfire Caverns** (-9R) 
-**Gloomvale** | **`300m`:** **Dusky Vale** (Gloomvale Cup -11L) ,  **You shall not jump** (Mystical Cup -3L) ,  **The Princess Drive** (Mystical Cup -3L) ,  **Puddle Bender** (Mystical Cup -3L) ,  **A Storm of Stumps** (Mystical Cup -3L) , **`340m`:** **Big Log Sprint** (Gloomvale Cup -11L) , **`390m`:** **Twisted Trees** (Gloomvale Cup -11L) 
-**Mine** | **`310m`:** **Boarding** (It's Mine! 12L) ,  **Overtakers** (It's Mine! 12L) , **`320m`:** **A Flat Miner** (Mine Shaft Cup 11L) ,  **Happy Miner** (Mine Shaft Cup 11L) , **`335m`:** **Carting** (It's Mine! 12L) , **`340m`:** **Rock and Roll** (More Mines -10M) ,  **Wheeler** (More Mines -10M) ,  **Deep End** (More Mines -10M) , **`360m`:** **The Esses** (Tunnels -10R) ,  **Nose Miner** (Mine Shaft Cup 11L) , **`400m`:** **Tunnel Vision** (Tunnels -10R) ,  **On the Rock** (Tunnels -10R) , **`1000m`:** **Long Road Down** (Miner's Mile 8R) 
-**Mountain** | **`210m`:** **Steep Downhill Cliff** (Mountain Bridges -5M) , **`220m`:** **Base Camp** (Death Mountain -6M) , **`238m`:** **Over the Cliff** (Mountain Bridges -5M) , **`270m`:** **Top of the world** (Death Mountain -6M) , **`280m`:** **Living on the Edge** (Mountain Bridges -5M) , **`290m`:** **Tricky Drive** (Uphill Cup 10R) , **`315m`:** **Highs and Lows** (Rocky Road Cup -4R) , **`320m`:** **Crazy Climb** (Death Mountain -6M) , **`337m`:** **Gentle Escalation** (Mountain Cup 9R) , **`343m`:** **Metal Gear** (Epic Hills 12M) , **`350m`:** **Cliffside Way** (Uphill Cup 10R) , **`370m`:** **Cool Descent** (Mountain Cup 9R) , **`377m`:** **Danger Ahead** (Rocky Road Cup -4R) , **`400m`:** **Dirt Road** (Rocky Road Cup -4R) , **`415m`:** **Through The Mountains** (Mountain Cup 9R) , **`450m`:** **Front Window** (Epic Hills 12M) ,  **Belter Road** (Epic Hills 12M) ,  **Shaft Redemption** (Sunday Champ 6M) 
-**Overspill** | **`350m`:** **Access to Enjoyment** (Delightful Diversions -4L) , **`360m`:** **Generate Delight** (Delightful Diversions -4L) , **`370m`:** **Jumpin' Jack Crash** (Lift Off Land -2M) , **`400m`:** **Liability Free Fun** (Delightful Diversions -4L) ,  **Commence Fright** (Embark on Entertainment -4M) , **`410m`:** **Approaching Dread** (Embark on Entertainment -4M) , **`420m`:** **Spook on, Spook off** (Embark on Entertainment -4M) , **`550m`:** **Breakneck Blitz** (Lift Off Land -2M) 
-**Reef** | **`490m`:** **Coral Quarrel** (Deep Driving -6L) , **`500m`:** **Backwash Dash** (Deep Driving -6L) ,  **The Trench** (I Hate Water 8L) , **`520m`:** **Thalassophobia** (Deep Driving -6L) , **`530m`:** **Deeper End** (I Hate Water 8L) , **`600m`:** **Reef Grief** (I Hate Water 8L) , **`1000m`:** **Deepest End** (Deep Diving -10L) 
-**Savanna** | **`260m`:** **Racing Wild** (The Jungle Brake 2L) , **`300m`:** **The Fast Lions** (The Jungle Brake 2L) , **`305m`:** **Plain as Day** (A Bit Plain 6L) , **`310m`:** **Fare you well** (A Bit Plain 6L) , **`330m`:** **Smooth Blend** (Racers in the Mist -1M) , **`370m`:** **Carppuccino** (Racers in the Mist -1M) ,  **World’s fastest animal** (A Bit Plain 6L) , **`440m`:** **Bean 2 Tank** (Racers in the Mist -1M) 
-**Winter** | **`275m`:** **Icicle Race** (Winter Cup 7M) , **`315m`:** **Sledhammer** (Winter Cup 7M) , **`380m`:** **Down the Tube** (Downhill Cup -1L) , **`385m`:** **Yellow Snow** (Winter Cup 7M) , **`400m`:** **The Ruins** (Downhill Cup -1L) ,  **Let it Snow** (First Snow 3R) , **`420m`:** **Tumbling Down** (Downhill Cup -1L) ,  **Slippery Slope** (First Snow 3R) , **`450m`:** **Crossroads** (First Snow 3R) , **`1000m`:** **Snow Castle** (Winter is Coming -11M) 
-
-Note: Distances are within 1m or so. Negative rows counted from the bottom. L=Left, M=Middle, R=Right. 
-{: .notice}
-
-
-</details>	
+▸ &nbsp;[Two and Four Track Cups](/two-and-four-track-cups/)  
+▸ &nbsp;[Tracks by Type and Distance](/Tracks-by-type-and-distance/)  
 <details  markdown="block">
   <summary>
     Last Race Strategy
