@@ -1,7 +1,7 @@
 ---
 tag: Scores
 ---
-Tracks: | Kid’S Pool (Finger Travels -6R) | Cuptown Jump | Unleash the Beast | Marina Mayhem | Score  
+Tracks: | Kids' Pool (Finger Travels -6R) | Cuptown Jump | Unleash the Beast | Marina Mayhem | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 3 s | 425 m | 5 s | 4 s | 15000  
 14000 | 4.7 s | 410 m | 6.6 s | 5.5 s | 14000  
