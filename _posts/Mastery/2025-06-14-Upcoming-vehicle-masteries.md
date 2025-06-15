@@ -1,10 +1,10 @@
 ---
 tag: Masteries
 ---
-Vehicle  |  Monday  
+Monday | Vehicle   
 -- | --  
-Rotator |  30-Jun-2025  
-Hoverbike | 21-July-2025  
-Muscle Car |  11-Aug-2025  
-Super Diesel |   1-Sep-2025  
-Supercar |  22-Sep-2025  
+30-Jun-2025  | Rotator  
+21-July-2025 | Hoverbike     
+11-Aug-2025  | Muscle Car    
+1-Sep-2025 | Super Diesel       
+22-Sep-2025 | Supercar     
