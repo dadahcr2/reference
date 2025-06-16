@@ -1,5 +1,5 @@
 ---
-tag: Masteries
+tag: Mastery
 ---
 Monday | Vehicle   
 --: | :--  
