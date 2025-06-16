@@ -3,16 +3,17 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Mk22] | Collect coins
 ![Hotrod2] | Trigger the supercharger explosion  
 ![Snowmobile2] | Drive on water  
 ![RB2] | Just climb uphill
 ![Monster2] | Get big air time
 ![Formula2] | Drive full-speed while having ground contact  
-![Scooter2] | Collect Coins
+![Scooter2] | Collect coins
 ![Beast2] | Use the integrated wheelie boost
 ![EV2] | Activate boost: The more the boost is charged, the greater the XP
 ![Moto2] |  50% more XP from tricks
-![Jeep2] | Collect Coins
+![Jeep2] | Collect coins
 ![Tractor2] | Break objects
 ![Chopper2] | Not picking up fuel can
 ![Lowrider2] | Using fully charged Jump Shocks
