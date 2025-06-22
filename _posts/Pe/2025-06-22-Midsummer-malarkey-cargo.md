@@ -117,5 +117,5 @@ Racing Wild  | ![Muscle] ![AB] ![Fuel] ![Ni] ![Sbike] ![SB] ![AB] ![Ni]  | **0.0
 [HB]: /assets/images/icon-vehicle-hoverbike.png
 {: height="20px" width="32px"}  
 
-[RB]: /assets/images/icon-vehicle-rockbuster.png
+[RB]: /assets/images/icon-vehicle-rockbouncer.png
 {: height="20px" width="32px"}
