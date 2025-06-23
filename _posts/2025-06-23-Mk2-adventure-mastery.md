@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-{: .notice--danger}  
+**Collect Coins for extra XP**  
 
 Track | Mk2 | Easier
 :--: | :--: | :--:
