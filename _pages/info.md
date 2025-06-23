@@ -302,8 +302,9 @@ Moonlander | LandingBoost
   <summary>
 	Vehicle Setups
   </summary>  
-	
-&nbsp; ▸ &nbsp;[Snowmobike Adventure Mastery]({{site.url}}/Snowmobile-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Mk2 Adventure Mastery]({{site.url}}/Mk2-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Hotrod Adventure Mastery]({{site.url}}/Hotrod-adventure-mastery/)  
+&nbsp; ▸ &nbsp;[Snowmobile Adventure Mastery]({{site.url}}/Snowmobile-adventure-mastery/)  
 &nbsp; ▸ &nbsp;[RockBouncer Adventure Mastery]({{site.url}}/Rockbouncer-adventure-mastery/)  
 &nbsp; ▸ &nbsp;[Monster Adventure Mastery]({{site.url}}/Monster-adventure-mastery/)  
 &nbsp; ▸ &nbsp;[Formula Adventure Mastery]({{site.url}}/formula-adventure-mastery/)  
