@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Rotator] | Drive on Ceiling  
 ![Mk22] | Collect coins
 ![Hotrod2] | Trigger the supercharger explosion  
 ![Snowmobile2] | Drive on water  
