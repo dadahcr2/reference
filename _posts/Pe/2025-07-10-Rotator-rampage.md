@@ -2,13 +2,14 @@
 tag: PE
 ---
 
+Track | Setup | Time  
+-- | -- | --  
+Different Approach  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]   | 
+Hold On  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **11.884s**  
+Two Island  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]   | 
+Reverse  | ![Moonlander] ![Ma] ![AC] ![AB] ![Flip]   | 
+Double Jump  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]   | 
 
-
-Different Approach ![Rotator] ![Ni] ![AB] ![CB] ![SB]  
-Hold On ![Rotator] ![Ni] ![AB] ![CB] ![SB] 11.884s  
-Two Island ![Rotator] ![Ni] ![AB] ![CB] ![SB]  
-Reverse ![Moonlander] ![Ma] ![AC] ![AB] ![Flip]  
-Double Jump ![Rotator] ![Ni] ![AB] ![CB] ![SB]  
 
 [AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
