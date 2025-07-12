@@ -4,11 +4,11 @@ tag: PE
 
 Track | Setup | Time  
 -- | -- | --  
-Different Approach  | ![Bus] ![JS] ![Wi] ![Th] ![Fume]  | **12.283s** «DT|69420»  
-Hold On  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **11.884s** BR|RedBull  
+Different Approach  | ![Bus] ![JS] ![Wi] ![Th] ![Fume]  | **12.283s** «DT\|69420»  
+Hold On  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **11.884s** BR\|RedBull  
 Two Islands  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **9.979s** wizard  
-Reverse  | ![Bus] ![JS] ![Wi] ![Th] ![Ni]   | **10.840s** «DT|69420»  
-Double Jump  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **10.973s** BR|RedBull  
+Reverse  | ![Bus] ![JS] ![Wi] ![Th] ![Ni]   | **10.840s** «DT\|69420»  
+Double Jump  | ![Rotator] ![Ni] ![AB] ![CB] ![SB]  | **10.973s** BR\|RedBull  
 
 
 [AC]: /assets/images/aircontrol.png
