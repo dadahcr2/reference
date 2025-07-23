@@ -1,14 +1,15 @@
 ---
 tag: Mastery
 ---
-**Mk2 = B**  
+**Hoverbike = C**  
+**Rotator = B**  
 
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
 A | ![Tractor2]  ![Monster2] ![RB2]
-B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22]  
-C | ![Sportscar2] ![Chopper2] ![Scooter2]  
+B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2]  
+C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2]  
 D | ![Mono2] ![EV2] ![Hotrod2]   
 E | ![Moonlander2] ![Formula2]    
 F |   
@@ -74,4 +75,6 @@ F |
 [Tube2]: /assets/images/icon-vehicle-tube.png
 {: height="40px" width="64px"}
 [Snowboard2]: /assets/images/icon-vehicle-snowboard.png
+{: height="40px" width="64px"}
+[HB2]: /assets/images/icon-vehicle-hoverbike.png
 {: height="40px" width="64px"}
