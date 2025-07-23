@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![HB2] | Use Thrusters  
 ![Rotator2] | Drive on Ceiling  
 ![Mk22] | Collect coins
 ![Hotrod2] | Trigger the supercharger explosion  
@@ -94,4 +95,7 @@ Vehicle | Specific Vehicle Mechanics
 [Tube2]: /assets/images/icon-vehicle-tube.png
 {: height="40px" width="64px"}
 [Snowboard2]: /assets/images/icon-vehicle-snowboard.png
+{: height="40px" width="64px"}
+
+[HB2]: /assets/images/icon-vehicle-hoverbike.png
 {: height="40px" width="64px"}
