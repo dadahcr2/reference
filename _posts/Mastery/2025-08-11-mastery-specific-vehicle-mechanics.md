@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![MC2] | Burn those tires 🔥🔥🔥
 ![HB2] | Use Thrusters  
 ![Rotator2] | Drive on Ceiling  
 ![Mk22] | Collect coins
@@ -98,4 +99,7 @@ Vehicle | Specific Vehicle Mechanics
 {: height="40px" width="64px"}
 
 [HB2]: /assets/images/icon-vehicle-hoverbike.png
+{: height="40px" width="64px"}
+
+[MC2]: /assets/images/icon-vehicle-musclecar.png
 {: height="40px" width="64px"}
