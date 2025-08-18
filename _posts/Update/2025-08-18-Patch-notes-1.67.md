@@ -6,7 +6,7 @@ The calm, wondrous Spring Falls region, where many racers come for a calm driv- 
 
 
 - New adventure level: **Spring Falls**
-- - New cups (Rapids & Ruts and Hello, Wood!)
+- New cups (Rapids & Ruts and Hello, Wood!)
 - New race start screen
 - New chest GFX and animation
 - Adventure respawn
