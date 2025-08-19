@@ -1,14 +1,20 @@
 ---
 tag: PE
 ---
-1️⃣ ![Diesel] ![SB] ![AB] ![HW] **6.277**  
-2️⃣ ![Lowrider] ![SB] ![AB] ![HW] ![Ni] **5.216** Diablas  
-3️⃣ ![Muscle] ![OT] ![AB] ![HW] **11.527** atomsarkany  
-4️⃣ ![Muscle] ![Ni] ![AB] ![HW] **7..356** Dan  
-4️⃣ ![Sbike] ![Wi] ![WB] ![Ni] **6.687** Talha  
-5️⃣ ![Muscle] ![OT] ![AB] ![HW] **0.003** 0p.  
-6️⃣ ![Muscle] ![OT] ![AB] ![HW] **6.491** AU|PH.HaSan  
-7️⃣ ![EV] ![WT] ![HW] ![SB] **7.950** DT|69420  
+
+---
+tag: PE
+---
+
+Track | Setup | Time  
+-- | -- | --  
+1️⃣  | ![EV] ![HW] ![WT] ![JS] ![SB]  | **5.164**  «DT\|69420»  
+2️⃣  | ![Monster] ![HW] ![SB] ![AB] ![Ni]  | **3.892**  NK\|T@j€mn¥  
+3️⃣  | ![Bus] ![Ma] ![SB] ![JS] ![Th]  | **9.725**  «DT\|69420»  
+4️⃣  | ![Monster] ![Wi] ![SB] ![AB] ![Ni]  | **4.865**  Vułcan  
+5️⃣  | ![Muscle] ![HW] ![OT] ![AB]  | **1.576** GG\|bhulkk
+6️⃣  | ![Muscle] ![HW] ![AB] ![Ni]  | **6.296** GR\|$Pèédgød
+7️⃣  | ![Muscle] ![HW] ![JS] ![AB]  | **7.203** JEE ADV
 
 Source:  ***PE Discord Server***
 
