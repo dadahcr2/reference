@@ -1,7 +1,7 @@
 ---
 tag: Cups
 ---
-**This may be helpful in identifying event tracks**  
+**Updated to add Speing Falls tracks**  
 {: .notice}  
 
 Map Type | Tracks  
