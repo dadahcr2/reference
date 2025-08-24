@@ -1,7 +1,7 @@
 ---
 tag: Cups
 ---
-**Updated to add Speing Falls tracks**  
+**Updated to add Spring Falls tracks**  
 {: .notice}  
 
 Map Type | Tracks  
