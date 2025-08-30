@@ -14,7 +14,7 @@ Winter | ![JS]![LB]![Wi] |
 Mines | ![JS]![LB]![Wi] | 
 Desert Valley | ![JS]![LB]![Wi] | 
 Beach | ![JS]![LB]![Wi] | ![OT]![Wi]![CB]
-Backwater Bog | emoji_44 ![JS]![LB]![Wi] | 
+Backwater Bog | ![JS]![LB]![Wi] | 
 Racer Glacier | ![JS]![LB]![Wi] | 
 Patchwork Plant | ![JS]![LB]![Wi] | ![JS]![WT]![Wi]
 Gloomvale | ![JS]![LB]![Wi] world record can be done on any day | ![JS]![LB]![Wi] easiest on Saturday
@@ -22,13 +22,14 @@ Overspill Fun Rig | ![JS]![LB]![Wi] |
 Canyon Arena | ![JS]![LB]![Wi] | 
 Cuptown | ![JS]![Fume]![CB] | ![JS]![WT]![Wi]
 Sky Rock Outpost | ![JS]![LB]![Wi] | 
-Forest Trials | emoji_44 ![JS]![LB]![Wi] | 
+Forest Trials | ![JS]![LB]![Wi] | 
 Intense City | ![JS]![WT]![HW] | ![JS]![WT]![Wi]
 Raging Winter | ![WB]![WT]![Wi] | ![JS]![WT]![Wi]
   
 [More Adventure Mastery Setups](/info/#adventures)
   
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
+
 
 AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
