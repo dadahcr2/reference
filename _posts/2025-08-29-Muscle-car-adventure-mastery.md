@@ -31,7 +31,7 @@ Raging Winter | ![WB]![WT]![Wi] | ![JS]![WT]![Wi]
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
 
-AC]: /assets/images/aircontrol.png
+[AC]: /assets/images/aircontrol.png
 {: height="20px" width="20px"}
 
 [HW]: /assets/images/weight.png
