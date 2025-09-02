@@ -302,7 +302,8 @@ Moonlander | LandingBoost
   <summary>
 	Vehicle Setups
   </summary>  
-	
+	 
+&nbsp; ▸ &nbsp;[Super Diesel Adventure Mastery]({{site.url}}/Super-diesel-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Muscle Car Adventure Mastery]({{site.url}}/Muscle-car-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Rotator Adventure Mastery]({{site.url}}/Rotator-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Mk2 Adventure Mastery]({{site.url}}/Mk2-adventure-mastery/)   
