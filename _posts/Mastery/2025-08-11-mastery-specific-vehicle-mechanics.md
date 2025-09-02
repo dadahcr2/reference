@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Diesel2] | Get big air time  
 ![MC2] | Burn those tires 🔥🔥🔥
 ![HB2] | Use Thrusters  
 ![Rotator2] | Drive on Ceiling  
