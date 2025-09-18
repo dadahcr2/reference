@@ -1,5 +1,5 @@
 
-We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join - or feel free to join our even more relaxed team: **Gas Brake Go²** (Note: **Gas Brake Go²** currently on a break).
+We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join (7500+GP) - or feel free to join our even more relaxed team: **Gas Brake Go²** (Note: **Gas Brake Go²** currently on a break).
 
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
