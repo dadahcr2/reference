@@ -1,7 +1,7 @@
 ---
 tag: Scores
 ---
-Tracks: | Demolition 2 | Classic 8 | Tumbling Down (Downhill Cup -8L) | No Air? (Spring Falls) | Score  
+Tracks: | Demolition 2 | Classic 8 | Tumbling Down (Downhill Cup -8L) | No Air (Spring Falls) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 3 s | 8 s | 4 s | 1175  | 15000  
 14000 | 4 s | 9.3 s | 6.1 s | 1132  | 14000  
