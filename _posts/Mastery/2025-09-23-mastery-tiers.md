@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 ---
-**Supercar = C**
+**Supercar = C**  
 **Super Diesel = A**  
 **Muscle Car = C**  
  
