@@ -1,6 +1,7 @@
 ---
 tag: Mastery
 ---
+**Supercar = C**
 **Super Diesel = A**  
 **Muscle Car = C**  
  
@@ -10,7 +11,7 @@ Tier | Vehicles
 S | ![RT2] ![Bus2] ![Moto2]  
 A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2]  
 B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2]  
-C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2]  
+C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2]  
 D | ![Mono2] ![EV2] ![Hotrod2]   
 E | ![Moonlander2] ![Formula2]    
 F |   
