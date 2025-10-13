@@ -135,3 +135,7 @@ Vehicle | Specific Vehicle Mechanics
 
 [MC2]: /assets/images/icon-vehicle-musclecar.png
 {: height="40px" width="64px"}
+
+[Raider2]: /assets/images/icon-vehicle-raider.png
+{: height="40px" width="64px"}
+
