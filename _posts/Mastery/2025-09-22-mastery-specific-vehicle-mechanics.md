@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Raider2] | Launch the Spare Wheel
 ![Supercar2] | Use Airbrake  
 ![Diesel2] | Get big air time  
 ![MC2] | Burn those tires 🔥🔥🔥
