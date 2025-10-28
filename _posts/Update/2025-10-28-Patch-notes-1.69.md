@@ -7,7 +7,7 @@ Release notes:
 
 **Teams 2.0**
 
-Team Shop>
+Team Shop
 - Use Team Credits in a weekly changing shop targeted for the current team event vehicles
 
 Research Lab
