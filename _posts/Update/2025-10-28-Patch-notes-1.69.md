@@ -1,3 +1,6 @@
+---
+link: https://fingersoft.com/news/2025/10/28/patch-notes-hcr2-v1-69-0/
+---
 Racers together strong. Even stronger with the new Teams 2.0 update, rolling out today! Soon it will landing boost its way to all.
 
 Release notes:
