@@ -3,6 +3,7 @@ tag: Mastery
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Sbike2] | Drive full-speed while having ground contact  
 ![Raider2] | Launch the Spare Wheel
 ![Supercar2] | Use Airbrake  
 ![Diesel2] | Get big air time  
