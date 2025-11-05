@@ -1,6 +1,7 @@
 ---
 tag: List
 ---
+Number of groups, season rewards, and promotion/demotion matrix  
 
 Div | CC | I | II | III | IV | V | VI | VII | Div
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
