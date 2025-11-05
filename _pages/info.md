@@ -545,9 +545,6 @@ E.g. After 2 races of 3 race cup
 
 </details>
 
-▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
-
-
 <details  markdown="block">
   <summary>
     Season Bonus Chest
@@ -567,29 +564,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>  
   
 ### Events  
-<details  markdown="block">
-  <summary>
-   Season Rewards
-  </summary>
+▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
 
-Div | CC | I | II | III | IV | V | VI | VII | Div
-:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-💰 | 1000K-1500K | 800K-1000K | 600K-800K | 500K-600K | 400K-500K | 200K-400K | 100K-200K | 50K-100K | 💰
-💎 | 200-400 | 150-200 | 100-150 | 75-100 | 50-75 | 25-50 | 15-25 | 5-15 | 💎
-⬆️⬆️⬆️ | | | | | | | | 1-1000 | ⬆️⬆️⬆️
-⬆️⬆️ | | | | | 1-400 | 1-800 | 1-1400 | 1001-2000 | ⬆️⬆️
-⬆️ | | 1-50 | 1-200 | 1-400 | 401-1200 | 801-2200 | 1401-4300 | 2001-3000 | ⬆️
-↔️ | 1-50 | 51-300 | 201-1200 | 401-2400 | 1201-4200 | 2201-11600 | 4301-29000 | 3001- | ↔️
-⬇️ | 51-100 | 301-500 | 1201-1600 | 2401-3200 | 4201-6100 | 11601-16000 | 29001-32000 | | ⬇️
-⬇️⬇️ | | | 1601-2000 | 3201-4000 | 6101-8000 | | | | ⬇️⬇️
-
-
-
-
-
-
-
-</details>
 
 <details  markdown="block">
   <summary>
