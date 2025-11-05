@@ -1,7 +1,7 @@
 ---
 tag: List
 ---
-Number of Groups, Season Rewards, and Promotion/Demotion by Division    
+Number of Groups, Season Rewards, and Promotions/Demotions by Division    
 
 Div | CC | I | II | III | IV | V | VI | VII | Div
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
