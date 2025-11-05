@@ -1,13 +1,13 @@
 ---
 tag: Mastery
 ---
-**Raider = B**  
+**Superbike = A**  
  
 
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
-A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2]  
+A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2] ![Sbike2]   
 B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2] ![Raider2]    
 C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2]  
 D | ![Mono2] ![EV2] ![Hotrod2]   
