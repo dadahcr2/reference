@@ -544,7 +544,10 @@ E.g. After 2 races of 3 race cup
 
 
 </details>
-	
+
+▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
+
+
 <details  markdown="block">
   <summary>
     Season Bonus Chest
