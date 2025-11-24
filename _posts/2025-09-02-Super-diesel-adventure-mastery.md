@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-{: .notice--danger}  
+**Get big air time **  
 
 Track | Diesel | Easier
 :--: | :--: | :--:
