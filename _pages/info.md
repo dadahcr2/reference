@@ -303,8 +303,9 @@ Moonlander | LandingBoost
 	Vehicle Setups
   </summary>  
 	 
-&nbsp; ▸ &nbsp;[Buggy Adventure Mastery]({{site.url}}/Buggy-adventure-mastery/)   
-&nbsp; ▸ &nbsp;[Super Bike Adventure Mastery]({{site.url}}/Super-bike-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Dune Buggy Adventure Mastery]({{site.url}}/Buggy-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Super Bike Adventure Mastery]({{site.url}}/Superbike-adventure-mastery/)   
+&nbsp; ▸ &nbsp;[Supercar Adventure Mastery]({{site.url}}/supercar-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Super Diesel Adventure Mastery]({{site.url}}/Super-diesel-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Muscle Car Adventure Mastery]({{site.url}}/Muscle-car-adventure-mastery/)   
 &nbsp; ▸ &nbsp;[Rotator Adventure Mastery]({{site.url}}/Rotator-adventure-mastery/)   
