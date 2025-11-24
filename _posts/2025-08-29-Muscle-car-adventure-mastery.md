@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-{: .notice--danger}  
+**Burn those tires 🔥🔥🔥**    
 
 Track | Muscle | Easier
 :--: | :--: | :--:
