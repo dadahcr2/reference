@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-Wheeeelies!{: .notice--danger}  
+**Wheeeelies!**  
 
 Track | Buggy | Easier
 :--: | :--: | :--:
