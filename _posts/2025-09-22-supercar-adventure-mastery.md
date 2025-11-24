@@ -1,7 +1,7 @@
 ---
 tag: Adv
 ---
-{: .notice--danger}  
+**Use Airbrake  **
 
 Track | Supercar | Easier
 :--: | :--: | :--:
