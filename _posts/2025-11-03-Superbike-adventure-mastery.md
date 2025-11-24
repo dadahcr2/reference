@@ -1,5 +1,5 @@
 ---
-Drive full-speed while having ground contact{: .notice--danger}  
+**Drive full-speed while having ground contact**  
 
 Track | Sbike | Easier
 :--: | :--: | :--:
