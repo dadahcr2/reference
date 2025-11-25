@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 ---
-Rally looks like it has benn brought forward to 8 December.
+Rally looks like it has been brought forward to 8 December.
 
 Monday | Vehicle   
 --: | :--      
