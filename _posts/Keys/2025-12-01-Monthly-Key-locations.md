@@ -1,8 +1,8 @@
 ---
 tag: Keys
 header:
-  teaser: /assets/images/Image.jpeg
+  teaser: /assets/images/Keys.jpeg
 ---
-![](/assets/images/Image.jpeg)
+![](/assets/images/Keys.jpeg)
 
  - *Source: Zorro HCR2*
