@@ -1,3 +1,7 @@
+---
+header:
+  teaser: /assets/images/4C035FA1-738A-4AA3-AD37-E81B96BD5967.jpeg
+---
 
 We are an open team, so no password.  If there is a spot available and the below resonates with you, you are very welcome to join (7500+GP) - or feel free to join our even more relaxed team: **Gas Brake Go²** (Note: **Gas Brake Go²** currently on a break).
 
