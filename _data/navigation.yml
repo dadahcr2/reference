@@ -1,10 +1,10 @@
 main:
   - title: "Info"
     url: /info/
-  - title: "Tips"
-    url: /tips/
   - title: "Keys"
     url: /Key-locations-&-chests/
+  - title: "Tips"
+    url: /tips/
   - title: "Adv."
     url: /adventure-setups/
   - title: "Cups"
