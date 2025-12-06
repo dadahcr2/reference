@@ -2,6 +2,6 @@
 title: Keys
 layout: tag
 permalink: /tags/keys/
-taxonomy: keys
+taxonomy: Keys
 entries_layout: list
 ---
