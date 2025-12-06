@@ -1,7 +1,7 @@
 ---
 tag: Keys
 tagline: Key Locations and Chests
-title: false
+title: ""
 header:
   teaser: /assets/images/keys.jpeg
 ---
