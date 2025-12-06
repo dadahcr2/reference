@@ -1,5 +1,7 @@
 ---
 tag: Scores
+header:
+  teaser: /assets/images/Cool Text - Scores 462584734210341 2.png
 ---
 Tracks: | A Storm of Stumps (Mystical Cup -3R) | Grill Bill (Backwater Cup 12M) | The Trench (I Hate Water 8M) | Highs and Lows (Rocky Road Cup -7L) | Nature Calls (Rapids & Ruts 11R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
