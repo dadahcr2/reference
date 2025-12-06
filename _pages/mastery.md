@@ -5,4 +5,4 @@ permalink: /tags/mastery/
 taxonomy: Mastery
 entries_layout: list
 ---
-![](/assets/images/Cool Text - adv 462585031422974.png)
+![](/assets/images/Cool Text - Mastery 462584886615117.png)
