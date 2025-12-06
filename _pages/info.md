@@ -299,8 +299,7 @@ Moonlander | LandingBoost
 	
 ### Adventures  	
 	
-&nbsp; ▸ &nbsp;[Dune Buggy Adventure Mastery]({{site.url}}/tags/Adventures/)  
-
+&nbsp; ▸ &nbsp;[Vehicle Setups]({{site.url}}/tags/Adventures/)  
 
 <!-- <details markdown="block" open>
   <summary>
