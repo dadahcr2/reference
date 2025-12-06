@@ -3,6 +3,8 @@ main:
     url: /info/
   - title: "Keys"
     url: /Key-locations-&-chests/
+  - title: "Mastery"
+    url: /tags/mastery/
   - title: "Tips"
     url: /tips/
   - title: "Adv."
