@@ -298,8 +298,8 @@ Moonlander | LandingBoost
 </details>  
 	
 ### Adventures  	
-	
-&nbsp; ▸ &nbsp;[Vehicle Setups]({{site.url}}/tags/Adventures/)  
+
+▸ &nbsp;[Vehicle Setups]({{site.url}}/tags/Adventures/)  
 
 <!-- <details markdown="block" open>
   <summary>
