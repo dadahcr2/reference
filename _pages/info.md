@@ -298,7 +298,11 @@ Moonlander | LandingBoost
 </details>  
 	
 ### Adventures  	
-<details markdown="block" open>
+	
+&nbsp; ▸ &nbsp;[Dune Buggy Adventure Mastery]({{site.url}}/tags/Adventures/)  
+
+
+<!-- <details markdown="block" open>
   <summary>
 	Vehicle Setups
   </summary>  
@@ -329,7 +333,7 @@ Moonlander | LandingBoost
 &nbsp; ▸ &nbsp;[Racing Truck Adventure Mastery]({{site.url}}/Racing-Truck-Adventure-Mastery/)   
 &nbsp; ▸ &nbsp;[Sportscar Adventure Mastery]({{site.url}}/Sportscar-Adventure-Mastery/)  
 &nbsp; ▸ &nbsp;[All Setups]({{site.url}}/adventure-setups/)  
-</details>  
+</details>  -->
 
 <details  markdown="block">
   <summary>
