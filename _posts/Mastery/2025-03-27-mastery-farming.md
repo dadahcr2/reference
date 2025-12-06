@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 ---
-In general, **Run CUPS Races**  
+In general: **Run CUPS Races**  
 
 
 Vehicle | Track | Strategy | Video  
