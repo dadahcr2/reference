@@ -3,6 +3,8 @@ main:
     url: /info/
   - title: "Tips"
     url: /tips/
+  - title: "Keys"
+    ur,: /tags/keys/
   - title: "Cups"
     url: /tunes/
   - title: "Adv."
