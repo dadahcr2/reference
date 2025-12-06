@@ -1,7 +1,7 @@
 ---
 tag: Keys
 tagline: Key Locations and Chests
-hide_title: true
+overlay_image: /assets/images/Cool Text - Keys 497590439842049.png
 header:
   teaser: /assets/images/keys.jpeg
 ---
