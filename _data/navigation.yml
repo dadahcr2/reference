@@ -5,10 +5,10 @@ main:
     url: /tips/
   - title: "Keys"
     ur,: /tags/keys/
-  - title: "Cups"
-    url: /tunes/
   - title: "Adv."
     url: /adventure-setups/
+  - title: "Cups"
+    url: /tunes/
   - title: "Chests"
     url: /chests/
   - title: "Flags"
