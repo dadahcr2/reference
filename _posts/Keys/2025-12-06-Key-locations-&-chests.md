@@ -3,6 +3,7 @@ tag: Keys
 tagline: Key Locations and Chests
 header:
   teaser: /assets/images/keys.jpeg
+  og_image: /assets/images/keys.jpeg
 ---
 ![](/assets/images/Cool Text - Keys 497590439842049.png)  
 ![](/assets/images/keys.jpeg)
