@@ -299,7 +299,7 @@ Moonlander | LandingBoost
 	
 ### Adventures  	
 
-▸ &nbsp;Mastery (3 part) Setups]({{site.url}}/tags/Adventures/)  
+▸ &nbsp;[Mastery(3 part) Setups]({{site.url}}/tags/Adventures/)  
 
 <!-- <details markdown="block" open>
   <summary>
