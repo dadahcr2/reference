@@ -1,9 +1,9 @@
 ---
 tag: Keys
 tagline: Key Locations and Chests
-overlay_image: /assets/images/Cool Text - Keys 497590439842049.png
 header:
   teaser: /assets/images/keys.jpeg
+  image:  /assets/images/Cool Text - Keys 497590439842049.png
 ---
 ![](/assets/images/Cool Text - Keys 497590439842049.png)  
 ![](/assets/images/keys.jpeg)
