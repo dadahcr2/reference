@@ -1,5 +1,4 @@
 ---
-title: T.E.-tips
 tag: TE
 header:
   teaser: /assets/images/hints.jpeg
