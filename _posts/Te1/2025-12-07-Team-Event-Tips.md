@@ -6,3 +6,5 @@ header:
 **Tips for the current team event** 
  
 ![](/assets/images/hints.jpeg)  
+
+- Source: Vokope*
