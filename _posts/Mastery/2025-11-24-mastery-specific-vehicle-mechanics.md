@@ -1,8 +1,11 @@
 ---
 tag: Mastery
+header:
+  teaser: /assets/images/icon-vehicle-rally.png
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Rally2] | Drive with turbo pressure at max  
 ![Buggy2] | Wheeeelies!
 ![Sbike2] | Drive full-speed while having ground contact  
 ![Raider2] | Launch the Spare Wheel
