@@ -29,4 +29,4 @@ Chest | Legacy Order | New Order
 -- | -- | --
 7️⃣ | rotator, **hoverbike**, mk2 | rotator, scooter, buggy
 8️⃣ | rotator, supercar, bus | beast, **bolt**, sportscar
-9️⃣ | snowmobile, moonlander, diesel | monster, **ATV**, hotrod  
+9️⃣ | snowmobile, moonlander, diesel | monster, **atv**, hotrod  
