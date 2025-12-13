@@ -22,3 +22,11 @@ Chest | Legacy Order | New Order
 9️⃣ | mk2, ccev, racing truck | buggy, **raider**, rockbouncer
 
 Note: Assumes all cars are owned except new one that may come out later in December
+
+### All cares including Offroader
+
+Chest | Legacy Order | New Order
+-- | -- | --
+7️⃣ | rotator, **hoverbike**, mk2 | rotator, scooter, buggy
+8️⃣ | rotator, supercar, bus | beast, **bolt**, sportscar
+9️⃣ | snowmobile, moonlander, diesel | monster, **ATV**, hotrod  
