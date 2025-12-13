@@ -23,7 +23,7 @@ Chest | Legacy Order | New Order
 
 Note: Assumes all cars are owned except new one that may come out later in December
 
-### All cares including Offroader
+**Trove Chests if you own all vehicles including Offroader**
 
 Chest | Legacy Order | New Order
 -- | -- | --
