@@ -3,7 +3,7 @@ tag: Scores
 header:
   teaser: /assets/images/Cool Text - Scores 462584734210341 2.png
 ---
-Tracks: | Landing Drive (Big Air Cup 1R) Winter | Different Approach (Rotator Rampage) | Gift Smash 4 | Winter Uphill | Score  
+Tracks: | Landing Drive (Big Air Cup 1R) Winter | Different Approach (Rotator Rampage) | Gift Smash 4 | Mountain High | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 6 s | 7 s | 10 s | 575 m | 15000  
 14000 | 7.1 s | 8.4 s | 11.3 s | 554 m | 14000  
