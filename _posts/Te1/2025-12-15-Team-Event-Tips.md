@@ -1,7 +1,7 @@
 ---
 tag: TE
 header:
-  teaser: /assets/images/hints.jpeg
+  teaser: /assets/images/ihint.jpeg
 ---
 **Tips for the current team event** 
  
