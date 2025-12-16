@@ -28,7 +28,7 @@ Forest Trials | ![JS]![LB]![Wi] remove the roof, hood and cage in the beginning 
 Intense City | ![JS]![WT]![HW] keep your cage undamaged | ![JS]![WT]![Wi]
 Raging Winter | ![WT]![WB]![Wi] remove the cage, roof and hood in the beginning | ![JS]![WT]![Wi] remove the roof and hood in the beginning
   
-[More Adventure Mastery Setups](/info/#adventures)
+[More Adventure Mastery Setups](/tags/Adventures/)
   
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
