@@ -1,8 +1,11 @@
 ---
 tag: List
+header:
+  teaser: https://zenkit.com/wp-content/uploads/2018/04/header.en91.jpg
 ---
 
-- [ ] **Every 4 hours**: Two free team tickets  
+- [ ] **Every 4 hours**: Two free team tickets
+- [ ] **Every 6 hours**: One free PE ticket
 - [ ] **Every 8 hours**: One free & 3 VIP/ad chests in the shop
 
 **Every 12 hours**
@@ -13,12 +16,13 @@ tag: List
 **Every 24 hours**
 - [ ] Community Showcase Track
 - [ ] Daily tasks
+- [ ] Ad/VIP 100 Research Points
 - [ ] 10-win cup chest
 - [ ] VIP shop chest for subscribers
 - [ ] Featured challenges
 - [ ] 10,000+ adventure 2x coins
 - [ ] Ad/VIP team ticket
-- [ ] Four free + one ad/VIP public event tickets
+- [ ] One ad/VIP public event tickets
 - [ ] One free + one ad/VIP special adventure tickets
 - [ ] Ten free attempts at the daily race
 
