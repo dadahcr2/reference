@@ -21,7 +21,7 @@ Chest | Legacy Order | New Order
 8️⃣ | rockbouncer, hotrod, formula | scooter, **hoverbike**, ccev
 9️⃣ | mk2, ccev, racing truck | buggy, **raider**, rockbouncer
 
-Note: Assumes all cars are owned except new one that may come out later in December
+Note: Assumes all cars are owned except Offroader  
 
 **Trove Chests if you own all vehicles including Offroader**
 
