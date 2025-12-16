@@ -3,7 +3,7 @@ tag: Cups
 header: 
   teaser: https://steemitimages.com/0x0//https://img.esteem.ws/84f3zmcafk.jpg
 ---
-**Updated to add new Spring Falls tracks**  
+**Updated to add The Two Trails cup**  
 {: .notice}  
 
 Map Type | Tracks  
