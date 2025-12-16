@@ -22,7 +22,7 @@ header:
 - [ ] Featured challenges
 - [ ] 10,000+ adventure 2x coins
 - [ ] Ad/VIP team ticket
-- [ ] Ad/VIP public event tickets
+- [ ] Ad/VIP public event ticket  
 - [ ] One free + one ad/VIP special adventure tickets
 - [ ] Ten free attempts at the daily race
 
