@@ -27,6 +27,12 @@ Note: Assumes all cars are owned except Offroader
 
 Chest | Legacy Order | New Order
 -- | -- | --
-7️⃣ | rotator, **hoverbike**, mk2 | rotator, scooter, buggy
-8️⃣ | rotator, supercar, bus | beast, **bolt**, sportscar
-9️⃣ | snowmobile, moonlander, diesel | monster, **atv**, hotrod  
+1️⃣ | rockbouncer, super bike, snow | **offroader**, moon, monster
+2️⃣ | diesel, chopper, **atv** | hot rod, r-truck, mono
+3️⃣ | mx, **raider**, diesel | s-bike, mx, hot rod
+4️⃣ | **atv**, sports, diesel | mono, rally, hot rod
+5️⃣ | s-bike, **rally**, scooter | moon, tank, mk2
+6️⃣ | beast, s-bike, rotator | chopper, moon, beast
+7️⃣ | mono, **hover**, mk2 | rotator, scooter, buggy
+8️⃣ | rotator, supercar, bus | beast, **bolt**, sports
+9️⃣ | snow, moon, diesel | monster, **atv**, hot 
