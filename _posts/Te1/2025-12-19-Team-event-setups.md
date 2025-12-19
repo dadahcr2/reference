@@ -7,4 +7,4 @@ Vehicle setups for the current team event
 
 ![](/assets/images/tesetup.jpeg)
 
- *- source: Vereschack*
+ *- source: Vokope*
