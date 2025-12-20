@@ -1,11 +1,11 @@
 ---
 tag: TE
 header:
-  teaser: /assets/images/tesetup.jpeg
-  og_image: /assets/images/tesetup.jpeg
+  teaser: /assets/images/tes51.jpeg
+  og_image: /assets/images/tes51.jpeg
 ---
 Vehicle setups for the current team event  
 
-![](/assets/images/tesetup.jpeg)
+![](/assets/images/tes51.jpeg)
 
- *- source: Vokope*
+ *- source: Vokope/Vereschack*
