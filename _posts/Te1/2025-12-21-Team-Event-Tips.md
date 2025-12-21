@@ -1,10 +1,10 @@
 ---
 tag: TE
 header:
-  teaser: /assets/images/ihint.jpeg
+  teaser: /assets/images/ihint51.jpeg
 ---
 **Tips for the current team event** 
  
-![](/assets/images/ihint.jpeg)  
+![](/assets/images/ihint51.jpeg)  
 
  *- Source: Vokope*
