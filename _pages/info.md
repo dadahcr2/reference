@@ -17,6 +17,92 @@ comments: true
 
 
 	
+### Events  
+▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
+▸ &nbsp;[Current Team Event Tips]({{site.url}}/Team-Event-Tips/)  
+▸ &nbsp;[Current Team Event Setups]({{site.url}}/Team-event-setups/)  
+▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/pe/)  
+
+<details  markdown="block">
+  <summary>
+    TE: Popular Parts (Old)  
+  </summary>
+  
+Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
+{: .notice}
+
+Vehicle | Parts  
+-- | --  
+![hotrod] | ![CBy] ![Fuely] ![May] ![WT] ![LB] ![SB]   
+![RT] | ![Wiy] ![WBy] ![CBy] ![AB] ![Fume] ![JS] ![Ma] ![WT]   
+![rotator] | ![ABy] ![CBy] ![Wiy] ![Ma] ![SB]   
+![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuely] ![CB] ![SB] ![Fume] ![JS]   
+![Buggy] | ![Wiy] ![JSy] ![LBy] ![CBy] ![WBy] ![Ma]   
+![sportscar] | ![ABy] ![HWy] ![WBy] ![Wi] ![CB] ![JS] ![LB]   
+![Diesel] | ![Wiy] ![JSy] ![THy] ![LB] ![Fume]   
+![jeep] | ![JSy] ![LBy] ![Wiy] ![SB]   
+![Monster] | ![ABy] ![SBy] ![CBy] ![HW] ![Wi]   
+![Rally] | ![ABy] ![Wiy] ![WT] ![Fuel] ![HW] ![LB] ![TH]   
+![Sbike] | ![ABy] ![CBy] ![AC] ![OT] ![WT] ![Flip] ![SB] ![Wi]   
+![tank] | ![Wiy] ![LBy] ![CB] ![TH] ![Fume] ![JS] ![SB]   
+![chopper] | ![Wiy] ![Fuely] ![LBy] ![TH] ![AC] ![CB]   
+![formula] | ![ABy] ![CBy] ![WTy] ![Fuel] ![Wi]   
+![EV] | ![Wiy] ![CBy] ![WBy] ![LB] ![WT]   
+![mk2] | ![LBy] ![JSy] ![Wiy]   
+![Moto] | ![Wiy] ![LBy] ![JS] ![TH]   
+![tractor] | ![CBy] ![Wiy] ![OT] ![WT] ![AB] ![Fume] ![WB]   
+![bus] | ![THy] ![Wiy] ![JS]   
+![snowmobile] | ![Fumey] ![Wiy] ![OTy] ![CB]   
+![moonlander] | ![Ma] ![CB]   
+![scooter] | ![JS] ![LB] ![Wi]   
+![Mono] | ![Wi]   
+	
+ -Data from Soulis: *”Once More, With Feeling"* to *"Beyond Speed"*
+	
+</details>  
+<details  markdown="block">
+  <summary>
+    PE: Setups (Old)  
+  </summary>
+
+Event | Suggested Vehicle and Parts
+:-- | :--	
+2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]  
+Breaking | ![rally] ![hw] ![wt] ![ab]  
+Cargo | ![sbike]/![Monster]/![rotator] ![wi] ![ab] ![cb]   
+Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
+Downhill | ![rally] ![WT] ![SB] ![AB]  
+Dribble Distance | ![Bus] ![JS] ![Fume] ![CB]  
+Flip Bonus | ![sbike] ![AC] ![Flip] ![WT]  
+Long Jump | ![bus] ![Wi] ![Th] ![JS]/![Ma]  
+Long Kick | ![Rally] ![ac] ![js] ![th]  
+Mono Wars | ![Mono] ![wi] ![th] ![Fuel]  
+Moon Cargo | ![Bus] ![SB] ![JS] ![th]  
+Moon Jump | ![Bus] ![th] ![wi] ![ma]/![js]  
+Moon Stunts | ![Buggy] ![AC] ![WT] ![Ma]    
+Moon Timed | ![Moonlander]![Ma]![AB]![CB] / ![Bus]![Th]![JS]![Wi]/![Ma]  
+Multi Jump | ![Diesel]/![Jeep] ![wi] ![js] ![lb]  
+Nian Chase |  ![Rally] ![wt] ![wi] ![cb]  
+No Air | ![Formula] ![WT] ![AB] ![CB]     
+No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]  
+Pitstop | ![Supercar] ![fume] ![OT]  
+Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]  
+Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	 
+Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]  
+Target Jump | ![Bus] ![wi] ![js] ![Th]  
+Time-attack | ![SBike] ![Wi] ![Ab] ![cb]  
+Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]  
+Uphill Climb | ![rt] ![wi] ![fume] ![wb]  
+Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]  
+Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]  
+Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]  
+<https://reference.hcr2info.com> | <https://discord.gg/FZPnQbxZTQ>  
+
+[**Previous public event tracks**]({{site.url}}/PrevPe/)  
+	
+</details>
+	
+	
 ###  Websites, Tutorials & Spreadsheets
 
 <details  markdown="block">
@@ -569,91 +655,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 </details>  
   
-### Events  
-▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
-▸ &nbsp;[Current Team Event Tips]({{site.url}}/Team-Event-Tips/)  
-▸ &nbsp;[Current Team Event Setups]({{site.url}}/Team-event-setups/)  
-▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/pe/)  
-
-<details  markdown="block">
-  <summary>
-    TE: Popular Parts (Old)  
-  </summary>
-  
-Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
-{: .notice}
-
-Vehicle | Parts  
--- | --  
-![hotrod] | ![CBy] ![Fuely] ![May] ![WT] ![LB] ![SB]   
-![RT] | ![Wiy] ![WBy] ![CBy] ![AB] ![Fume] ![JS] ![Ma] ![WT]   
-![rotator] | ![ABy] ![CBy] ![Wiy] ![Ma] ![SB]   
-![supercar] | ![ABy] ![OTy] ![Wiy] ![Fuely] ![CB] ![SB] ![Fume] ![JS]   
-![Buggy] | ![Wiy] ![JSy] ![LBy] ![CBy] ![WBy] ![Ma]   
-![sportscar] | ![ABy] ![HWy] ![WBy] ![Wi] ![CB] ![JS] ![LB]   
-![Diesel] | ![Wiy] ![JSy] ![THy] ![LB] ![Fume]   
-![jeep] | ![JSy] ![LBy] ![Wiy] ![SB]   
-![Monster] | ![ABy] ![SBy] ![CBy] ![HW] ![Wi]   
-![Rally] | ![ABy] ![Wiy] ![WT] ![Fuel] ![HW] ![LB] ![TH]   
-![Sbike] | ![ABy] ![CBy] ![AC] ![OT] ![WT] ![Flip] ![SB] ![Wi]   
-![tank] | ![Wiy] ![LBy] ![CB] ![TH] ![Fume] ![JS] ![SB]   
-![chopper] | ![Wiy] ![Fuely] ![LBy] ![TH] ![AC] ![CB]   
-![formula] | ![ABy] ![CBy] ![WTy] ![Fuel] ![Wi]   
-![EV] | ![Wiy] ![CBy] ![WBy] ![LB] ![WT]   
-![mk2] | ![LBy] ![JSy] ![Wiy]   
-![Moto] | ![Wiy] ![LBy] ![JS] ![TH]   
-![tractor] | ![CBy] ![Wiy] ![OT] ![WT] ![AB] ![Fume] ![WB]   
-![bus] | ![THy] ![Wiy] ![JS]   
-![snowmobile] | ![Fumey] ![Wiy] ![OTy] ![CB]   
-![moonlander] | ![Ma] ![CB]   
-![scooter] | ![JS] ![LB] ![Wi]   
-![Mono] | ![Wi]   
-	
- -Data from Soulis: *”Once More, With Feeling"* to *"Beyond Speed"*
-	
-</details>  
-<details  markdown="block">
-  <summary>
-    PE: Setups (Old)  
-  </summary>
-
-Event | Suggested Vehicle and Parts
-:-- | :--	
-2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]  
-Breaking | ![rally] ![hw] ![wt] ![ab]  
-Cargo | ![sbike]/![Monster]/![rotator] ![wi] ![ab] ![cb]   
-Classic | ![sbike]/![rotator] ![ab] ![cb] ![ot]/![wi]  
-Downhill | ![rally] ![WT] ![SB] ![AB]  
-Dribble Distance | ![Bus] ![JS] ![Fume] ![CB]  
-Flip Bonus | ![sbike] ![AC] ![Flip] ![WT]  
-Long Jump | ![bus] ![Wi] ![Th] ![JS]/![Ma]  
-Long Kick | ![Rally] ![ac] ![js] ![th]  
-Mono Wars | ![Mono] ![wi] ![th] ![Fuel]  
-Moon Cargo | ![Bus] ![SB] ![JS] ![th]  
-Moon Jump | ![Bus] ![th] ![wi] ![ma]/![js]  
-Moon Stunts | ![Buggy] ![AC] ![WT] ![Ma]    
-Moon Timed | ![Moonlander]![Ma]![AB]![CB] / ![Bus]![Th]![JS]![Wi]/![Ma]  
-Multi Jump | ![Diesel]/![Jeep] ![wi] ![js] ![lb]  
-Nian Chase |  ![Rally] ![wt] ![wi] ![cb]  
-No Air | ![Formula] ![WT] ![AB] ![CB]     
-No Fuel, No Air | ![Rally] ![wt] ![hw] ![fume]  
-Pitstop | ![Supercar] ![fume] ![OT]  
-Pumpkin Smash | ![Sbike] ![Wi] ![AB] ![CB]  
-Soccer | ![Supercar]![rc]![sb]![ab]/![sbike]![sb]![ab]![cb]	 
-Superbike Wars | ![SBike] ![Ab] ![WB]/![cb]/![Wi]/![sb]  
-Target Jump | ![Bus] ![wi] ![js] ![Th]  
-Time-attack | ![SBike] ![Wi] ![Ab] ![cb]  
-Tractor Wars | ![Tractor] ![ab] ![ot] ![cb]  
-Uphill Climb | ![rt] ![wi] ![fume] ![wb]  
-Water Run | ![Snowmobile] ![Wi] ![AB] ![Fuel]  
-Wheelie  | ![Buggy] ![Wi] ![WB] ![CB]  
-Zombie Chase | ![Rally] ![Wi] ![WT] ![CB]  
-<https://reference.hcr2info.com> | <https://discord.gg/FZPnQbxZTQ>  
-
-[**Previous public event tracks**]({{site.url}}/PrevPe/)  
-	
-</details>
-	
 ### Lists  
 ▸ &nbsp;[Daily Checklist]({{site.url}}/daily-checklist/)  
 ▸ &nbsp;[Ten Commandments of HCR2]({{site.url}}/ten-commandments-of-HCR2/)  
