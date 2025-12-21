@@ -611,8 +611,7 @@ Vehicle | Parts
 	
  -Data from Soulis: *”Once More, With Feeling"* to *"Beyond Speed"*
 	
-</details>
-
+</details>  
 <details  markdown="block">
   <summary>
     PE: Setups (Old)  
