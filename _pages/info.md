@@ -573,10 +573,11 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
 ▸ &nbsp;[Current Team Event Tips]({{site.url}}/Team-Event-Tips/)  
 ▸ &nbsp;[Current Team Event Setups]({{site.url}}/Team-event-setups/)  
+▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/PE/)  
 
 <details  markdown="block">
   <summary>
-    TE: Popular Parts
+    TE: Popular Parts (Old)  
   </summary>
   
 Ordered from most popular to less so. Parts used four or more times are highlighted. Parts only used once are excluded.  
@@ -614,7 +615,7 @@ Vehicle | Parts
 
 <details  markdown="block">
   <summary>
-    PE: Setups
+    PE: Setups (Old)  
   </summary>
 
 Event | Suggested Vehicle and Parts
