@@ -3,6 +3,6 @@ title:
 layout: tag
 permalink: /tags/pe/
 taxonomy: PE
-entries_layout: grid
+entries_layout: list
 ---
 ![](/assets/images/pesetups.png)  
