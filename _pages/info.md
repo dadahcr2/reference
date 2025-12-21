@@ -25,11 +25,11 @@ comments: true
   </summary>	
 
 &nbsp; ▸ &nbsp;[Official wiki](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)  
-&nbsp; ▸ &nbsp;[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
+&nbsp; ▸ &nbsp;[Original reddit wiki (Old)](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
 &nbsp; ▸ &nbsp;[Getting started tips](/tips/)   
-&nbsp; ▸ &nbsp;[Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)   
+&nbsp; ▸ &nbsp;[Game Manual (Old)](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)   
 &nbsp; ▸ &nbsp;[FS News](https://fingersoft.com/news/)  
-&nbsp; ▸ &nbsp;[FS Tweets](https://mobile.twitter.com/HCR_Official_)  
+&nbsp; ▸ &nbsp;[FS Tweets (Old)](https://mobile.twitter.com/HCR_Official_)  
 &nbsp; ▸ &nbsp;[YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 
 </details>
@@ -56,7 +56,7 @@ comments: true
 	
 <details  markdown="block">
   <summary>
-    Spreadsheets
+    Spreadsheets (Old)
   </summary>		
 
   
@@ -179,7 +179,7 @@ Water Bubble  |  7⅓  seconds
 		
 <details  markdown="block">
   <summary>
-    Parts Suggestions
+    Parts Suggestions (Old)
   </summary>
 
 Vehicle | Parts
@@ -573,7 +573,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
 ▸ &nbsp;[Current Team Event Tips]({{site.url}}/Team-Event-Tips/)  
 ▸ &nbsp;[Current Team Event Setups]({{site.url}}/Team-event-setups/)  
-▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/PE/)  
+▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/pe/)  
 
 <details  markdown="block">
   <summary>
