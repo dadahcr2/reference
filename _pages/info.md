@@ -571,7 +571,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   
 ### Events  
 ▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
-
+▸ &nbsp;[Team Event Tips]({{site.url}}/Team-Event-Tips/]  
+▸ &nbsp;[Team Event Setups]({{site.url}}/Team-event-setups/]  
 
 <details  markdown="block">
   <summary>
