@@ -19,8 +19,8 @@ comments: true
 	
 ### Events  
 ▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
-▸ &nbsp;[Current Team Event Tips]({{site.url}}/Team-Event-Tips/)  
-▸ &nbsp;[Current Team Event Setups]({{site.url}}/Team-event-setups/)  
+▸ &nbsp;[Latest Team Event Tips]({{site.url}}/Team-Event-Tips/)  
+▸ &nbsp;[Latest Team Event Setups]({{site.url}}/Team-event-setups/)  
 ▸ &nbsp;[Various Public Event Setups]({{site.url}}/tags/pe/)  
 
 <details  markdown="block">
