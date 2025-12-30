@@ -8,4 +8,4 @@ Vehicle setups for the current team event
 
 ![](/assets/images/tes52.jpeg)
 
- *- source: Vokope/Vereschack*
+ *- source: Vereschack*
