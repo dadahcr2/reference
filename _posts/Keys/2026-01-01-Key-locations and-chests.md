@@ -21,5 +21,5 @@ Chest | Legacy Order | New Order | Type
 8️⃣ | Super Diesel, Hot Rod, Motocross | Hot Rod, **Hoverbike**, Superbike | Epic
 9️⃣ | Muscle Car, Supercar, Formula | Muscle Car, **Bolt**, CC-EV | Champion
 
-**Note:** Assumes own all vehicles including offroader
+**Note:** Assumes all vehicles owned including Offroader
 {: .notice}
