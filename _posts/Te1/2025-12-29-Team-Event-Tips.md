@@ -1,7 +1,7 @@
 ---
 tag: TE
 header:
-  teaser: /assets/images/ihint52.jpeg
+  teaser: https://i.ibb.co/j9YGx0Bm/Image.jpg
 ---
 **Tips for the current team event** 
  
