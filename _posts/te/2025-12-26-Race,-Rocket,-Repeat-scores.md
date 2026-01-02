@@ -1,7 +1,7 @@
 ---
 tag: Scores
 header:
-  teaser: /assets/images/Cool Text - Scores 462584734210341 2.png
+  teaser: https://i.ibb.co/G3VbfHWb/IMG-2204.jpg
 ---
 Tracks: | Rocket Rush in Breakout Blast | Wheelie (Winter) | Snow Time | Waterslide Way | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
