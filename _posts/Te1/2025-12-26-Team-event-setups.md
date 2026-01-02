@@ -6,6 +6,6 @@ header:
 ---
 Vehicle setups for the current team event  
 
-![](/assets/images/tes52.jpeg)
+![{{page.header.teaser}} ]({{ page.header.teaser }})  
 
  *- source: Vereschack*
