@@ -5,7 +5,7 @@ header:
   teaser: https://i.ibb.co/fzVkN8pR/Image.jpg
 ---
 ![](/assets/images/Cool Text - Keys 497590439842049.png)  
-![](https://i.ibb.co/fzVkN8pR/Image.jpg)
+![{{page.header.teaser}} ]({{ page.header.teaser }})   
 
  - *Source: Zorro HCR2*
 
