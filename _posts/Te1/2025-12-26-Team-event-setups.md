@@ -1,8 +1,8 @@
 ---
 tag: TE
 header:
-  teaser: /assets/images/tes52.jpeg
-  og_image: https://reference.hcr2info.com/assets/images/tes52.jpeg
+  teaser: https://i.ibb.co/1JdK75RL/Image.jpg
+  og_image: https://i.ibb.co/1JdK75RL/Image.jpg
 ---
 Vehicle setups for the current team event  
 
