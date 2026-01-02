@@ -2,10 +2,10 @@
 tag: Keys
 tagline: Key Locations and Chests
 header:
-  teaser: /assets/images/keys01.jpeg
+  teaser: https://i.ibb.co/fzVkN8pR/Image.jpg
 ---
 ![](/assets/images/Cool Text - Keys 497590439842049.png)  
-![](/assets/images/keys01.jpeg)
+![](https://i.ibb.co/fzVkN8pR/Image.jpg)
 
  - *Source: Zorro HCR2*
 
