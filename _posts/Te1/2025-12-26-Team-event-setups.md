@@ -7,4 +7,4 @@ Vehicle setups for the current team event
 
 ![{{page.header.teaser}} ]({{ page.header.teaser }})  
 
- *- source: Vereschack*
+ *- source: Vokope*
