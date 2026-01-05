@@ -5,7 +5,7 @@ header:
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
-![Tankv2] | Big air time!
+![Tank2] | Big air time!
 ![Rally2] | Drive with turbo pressure at max  
 ![Buggy2] | Wheeeelies!
 ![Sbike2] | Drive full-speed while having ground contact  
