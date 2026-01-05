@@ -1,10 +1,11 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-rally.png
+  teaser: /assets/images/icon-vehicle-tank.png
 ---
 Vehicle | Specific Vehicle Mechanics
 -- | --  
+![Tankv2] | Big air time!
 ![Rally2] | Drive with turbo pressure at max  
 ![Buggy2] | Wheeeelies!
 ![Sbike2] | Drive full-speed while having ground contact  
