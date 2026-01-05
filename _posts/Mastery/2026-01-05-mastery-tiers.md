@@ -1,15 +1,15 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/tiers.jpeg
+  teaser: https://i.ibb.co/sJkhdN04/IMG-2370.jpg
 ---
-**Rally = A**  
+**Tank = A**  
  
 
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
-A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2] ![Sbike2] ![Rally2]  
+A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2] ![Sbike2] ![Rally2] ![Tank2]    
 B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2] ![Raider2] ![Buggy2]    
 C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2]  
 D | ![Mono2] ![EV2] ![Hotrod2]   
