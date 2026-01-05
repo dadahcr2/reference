@@ -28,8 +28,8 @@ Forest Trials | 20/20/16/20 ![JS]![LB]![Wi] remove the cannon in the beginning |
 Intense City | 20/20/19/20 ![OT]![WB]![Wi] remove the cannon in the beginning | 20/20/19/20 ![OT]![RC]![Wi] remove the cannon in the beginning
 Raging Winter | ![Th]![WB]![Wi] remove the cannon in the beginning | ![RC]![Th]![Wi] remove the cannon in the beginning
   
-[More Adventure Mastery Setups](/info/#adventures)
-  
+[More Adventure Mastery Setups](/tags/Adventures/)  
+    
 *Source: Zorro’s Adventure Setup Discord Server https://discord.gg/pNeKMVTTKh - 8 June 2024*
 
 [AC]: /assets/images/aircontrol.png
