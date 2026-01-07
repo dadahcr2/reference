@@ -3,7 +3,7 @@
 search: false
 ---
 
-.masthead .btn--inverse {
+.header .btn--inverse {
   border-color: transparent !important;
 }
 
@@ -12,6 +12,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.masthead .btn--inverse {
+.header .btn--inverse {
   border-color: transparent !important;
 }
