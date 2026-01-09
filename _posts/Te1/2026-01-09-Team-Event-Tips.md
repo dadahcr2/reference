@@ -1,11 +1,11 @@
 ---
 tag: TE
 header:
-  teaser: https://i.ibb.co/jkgPyJgW/Image.jpg
+  teaser: https://i.ibb.co/217wB8c9/IMG-2391.jpg
 ---
 **Tips for the current team event** 
  
 ![{{page.header.teaser}} ]({{ page.header.teaser }})  
 
 
- *- Source: Vokope*
+ *- Source: Vereschack*
