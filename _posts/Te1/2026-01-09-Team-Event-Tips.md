@@ -1,7 +1,7 @@
 ---
 tag: TE
 header:
-  teaser: https://i.ibb.co/217wB8c9/IMG-2391.jpg
+  teaser: https://i.ibb.co/pBTmdktt/Image.jpg
 ---
 **Tips for the current team event** 
  
