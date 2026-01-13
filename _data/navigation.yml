@@ -15,10 +15,10 @@ main:
     url: /chests/
   - title: "Flags"
     url: /flag-lookup/
-  - title: "GM"
-    url: /gm/
-  - title: "FAQ"
-    url: /faq/
+ # - title: "GM"
+ #   url: /gm/
+ # - title: "FAQ"
+ #   url: /faq/
  
 # docs:
 #  - title: Info Sections
