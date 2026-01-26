@@ -1,9 +1,9 @@
 ---
 tag: Mastery
 header:
-  teaser: https://i.ibb.co/sJkhdN04/IMG-2370.jpg
+  teaser: https://i.ibb.co/Kp8jVSmb/IMG-2535.jpg
 ---
-**Tank = A**  
+**Glider = C**  
  
 
 Tier | Vehicles  
@@ -11,7 +11,7 @@ Tier | Vehicles
 S | ![RT2] ![Bus2] ![Moto2]  
 A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2] ![Sbike2] ![Rally2] ![Tank2]    
 B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2] ![Raider2] ![Buggy2]    
-C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2]  
+C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2] ![Glider2]  
 D | ![Mono2] ![EV2] ![Moonlander2]  
 E | ![Hotrod2]   
 F | ![Formula2]    
@@ -114,3 +114,5 @@ F | ![Formula2]
 [Raider2]: /assets/images/icon-vehicle-raider.png
 {: height="40px" width="64px"}  
 
+[Glider2]: /assets/images/icon-vehicle-glider.png
+{: height="40px" width="64px"} 
