@@ -1,10 +1,10 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-tank.png
+  teaser: /assets/images/icon-vehicle-glider.png
 ---
-Vehicle | Specific Vehicle Mechanics
--- | --  
+Vehicle | Specific Vehicle  
+![Glider2] | Use the propeller!  
 ![Tank2] | Big air time!
 ![Rally2] | Drive with turbo pressure at max  
 ![Buggy2] | Wheeeelies!
@@ -145,3 +145,5 @@ Vehicle | Specific Vehicle Mechanics
 [Raider2]: /assets/images/icon-vehicle-raider.png
 {: height="40px" width="64px"}
 
+[Glider2]: /assets/images/icon-vehicle-glider.png
+{: height="40px" width="64px"}
