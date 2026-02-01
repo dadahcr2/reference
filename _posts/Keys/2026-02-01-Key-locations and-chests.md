@@ -1,6 +1,6 @@
 ---
 tag: Keys
-tagline: Feb26 Key Locations and Chests
+tagline: Key Locations and Chests
 header:
   teaser: https://i.ibb.co/wF14nd9r/Image.jpg
 ---
