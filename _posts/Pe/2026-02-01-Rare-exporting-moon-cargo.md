@@ -4,7 +4,7 @@ tag: PE
 
 Track | Setup | Time  
 -- | -- | --  
-Deliverin' in the Moonlight  | ![Muscle] ![Wi] ![AB] ![Ni] ![CB]  | **5.331** :flag_vg: cpo  
+Deliverin' in the Moonlight  | ![Muscle] ![Wi] ![AB] ![Ni] ![CB]  | **5.331** cpo  
 FloatEX :bus:  | ![Wi] ![JS] ![Ni] ![Th]  | **4.750** Teleninja  
 Mooncakefall  | ![Muscle] ![Wi] ![AB] ![Ni]  | **8.489** G.O.A.T\|PR  
 Harvest Mooncake :bus:  | ![JS] ![Th] ![Wi] ![Ni]   | **5.565** Johannes  
