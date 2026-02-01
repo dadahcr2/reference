@@ -9,9 +9,7 @@ header:
 
  - *Source: Zorro HCR2*
 
----
-tag: Keys
----
+
 Chest | Legacy Order | New Order | Type
 -- | -- | -- | --
 1️⃣ | Chopper, Motocross, Mk2 | Racing Truck, Superbike, Dune Buggy | Common
