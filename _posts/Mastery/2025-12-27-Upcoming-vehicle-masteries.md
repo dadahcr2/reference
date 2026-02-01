@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 header:
-  teaser: https://suncatcherstudio.com/uploads/printables/calendars/2026/yearly/pdf-png/printable-2026-calendar-dddddd-010101.png
+  teaser: https://i.ibb.co/j9ryJ814/Image.png
 ---
 Monday | Vehicle   
 --: | :--  
