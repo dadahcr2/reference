@@ -1,7 +1,7 @@
 ---
 link: https://youtu.be/kUAWU4_tYCc?si=ExTwUe8Jy3BBJHvG&t=233
 headsr:
-  teaser: https://i.ibb.co/Kz2n9qzt/Image.jpg
+  teaser:  https://i.ibb.co/Kz2n9qzt/Image.jpg
 ---
 
 ![https://i.ibb.co/Kz2n9qzt/Image.jpg](https://i.ibb.co/Kz2n9qzt/Image.jpg)  
