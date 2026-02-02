@@ -385,6 +385,7 @@ Moonlander | LandingBoost
 	
 ### Adventures  	
 
+▸ &nbsp;[Key Locations & Chests]({{site.url}}/Key-locations-and-chests/)  
 ▸ &nbsp;[Mastery (3 part) Setups]({{site.url}}/tags/Adventures/)  
 
 <!-- <details markdown="block" open>
