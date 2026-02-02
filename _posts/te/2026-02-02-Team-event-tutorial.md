@@ -1,6 +1,6 @@
 ---
 link: https://youtu.be/kUAWU4_tYCc?si=ExTwUe8Jy3BBJHvG&t=233
-headsr:
+header:
   teaser: https://i.ibb.co/Kz2n9qzt/Image.jpg
 ---
 
