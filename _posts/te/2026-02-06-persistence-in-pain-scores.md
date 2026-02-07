@@ -3,6 +3,7 @@ tag: Scores
 header:
   teaser: https://i.ibb.co/5pMTmFD/IMG-2687.jpg
 ---
+
 Tracks: | Danger Ahead (Rocky Road Cup -8L) | The Dunes (Beach Cup 5L) | Boarding (It’s Mine! 12R) | Smooth Blend (Racers in the Mist -2L) | You shall not jump (Mystical Cup -4R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
 15000 | 6 s | 5 s | 5 s | 6 s | 6 s | 15000  
