@@ -1,7 +1,7 @@
 ---
 tag: TE
 header:
-  teaser: https://i.ibb.co/tTxQ4VZR/Image.jpg
+  teaser: https://i.ibb.co/rRxBs60T/Image.jpg
 ---
 Vehicle setups for the current team event  
 
