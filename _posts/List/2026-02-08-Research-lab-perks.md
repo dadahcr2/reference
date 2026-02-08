@@ -15,7 +15,7 @@ Tier 4: 5 x Level 4 + 4 x Level 3
 
 The costs increase significantly by level for each permanent boost. Each level upgrade costs roughly twice that of the prior level upgrade.  As a result, the research points required to reach Tier 3 from Tier 2 is around 1.5x that required to reach Tier 2; similarly, the research points needed to reach Tier 4 from Tier 3 is around 1.5x the total required to reach Tier 3 from Tier 1!  
 
-Accordingly, higher Tiers take increasing long to reach (see graphs below for cost of reach higher boost levels and tiers).  
+Accordingly, higher tiers take increasing long to reach (see graphs below for cost of reaching higher boost levels and tiers).  
 
 ![](https://i.ibb.co/cXKQ43v5/IMG-2718.jpg)  
 
