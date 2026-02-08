@@ -25,18 +25,18 @@ Full list of team perks as follows:
 Tier | Perk | Description | Level 1 (20k) | Level 2 (45k) | Level 3 (90k) | Level 4 (175k) | Level 5 (340k)  
 -- | -- | -- | -- | -- | -- | -- | --  
 1 | Road Runner  |  Increases max distance tickets for all team members. | +1 max tickets | +2 max tickets | +3 max tickets | +4 max tickets | +5 max tickets  
-  | Endurance Bonus  |  Increases coin amount from Distance Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
-  | Scrap Refiner  |  Increases scrapper output for all team members. | +5% scrapper output | +10% scrapper output | +15% scrapper output | +20% scrapperoutput | +25% scrapper output  
- | Mastery Boost (20k) |  Gives Mastery Bonus 2000 XP to all team members. |  |  |  |  |   
+&nbsp;  | Endurance Bonus  |  Increases coin amount from Distance Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
+&nbsp;  | Scrap Refiner  |  Increases scrapper output for all team members. | +5% scrapper output | +10% scrapper output | +15% scrapper output | +20% scrapperoutput | +25% scrapper output  
+&nbsp; | Mastery Boost (20k) |  Gives Mastery Bonus 2000 XP to all team members. |  |  |  |  |   
 2 | Pitlane Pass  |  Increases max public event tickets for all team members. | +1 max tickets | +2 max tickets | +3 max tickets | +4 max tickets | +5 max tickets  
-  | Victory Bonus  |  Increases coin amount from Victory Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
-  | Turbo Tools  |  Increases scrapper speed for all team members. | +5% scrapper speed | +10% scrapper speed | +15% scrapper speed | +20% scrapper speed | +25% scrapper speed  
-  | Adventure Stash (90k) |  Gives 200 Adventure Tokens to all team members |  |  |  |  |   
+&nbsp;  | Victory Bonus  |  Increases coin amount from Victory Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
+&nbsp;  | Turbo Tools  |  Increases scrapper speed for all team members. | +5% scrapper speed | +10% scrapper speed | +15% scrapper speed | +20% scrapper speed | +25% scrapper speed  
+&nbsp;  | Adventure Stash (90k) |  Gives 200 Adventure Tokens to all team members |  |  |  |  |   
 3 | Showcase Pass  |  Increases max community showcase tickets for all team members. | +1 max tickets | +2 max tickets | +3 max tickets | +4 max tickets | +5 max tickets  
-  | Freebie Fortune  |  Increases coin amount from Free Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
-  | Scrap Vault  |  Increases scrapper capacity for all team members. | +400 scrapper capacity | +600 scrapper capacity | +800 scrapper capacity | +1000 scrapper capacity | +1200 scrapper capacity  
-  | Rare Treasure (55k) |  Gives a Rare Chest to all team members. |  |  |  |  |   
+&nbsp;  | Freebie Fortune  |  Increases coin amount from Free Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
+&nbsp;  | Scrap Vault  |  Increases scrapper capacity for all team members. | +400 scrapper capacity | +600 scrapper capacity | +800 scrapper capacity | +1000 scrapper capacity | +1200 scrapper capacity  
+&nbsp;  | Rare Treasure (55k) |  Gives a Rare Chest to all team members. |  |  |  |  |   
 4 | Pitcrew Pass  |  Increases max team match tickets for all team members. | +1 max tickets | +2 max tickets | +3 max tickets | +4 max tickets | +5 max tickets  
-  | Team Treasury  |  Increases coin amount from Team Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
-  | Epic Pit Stop (110k) |  Gives an Epic Chest to all team members. |  |  |  |  |   
-  | Legend's Pack (540k) |  Gives a Legendary Chest to all team members. |  |  |  |  |     
+&nbsp;  | Team Treasury  |  Increases coin amount from Team Chests for all team members. | +10% coins | +20% coins | +30% coins | +40% coins | +50% coins  
+&nbsp;  | Epic Pit Stop (110k) |  Gives an Epic Chest to all team members. |  |  |  |  |   
+&nbsp;  | Legend's Pack (540k) |  Gives a Legendary Chest to all team members. |  |  |  |  |     
