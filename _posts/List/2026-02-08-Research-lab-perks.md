@@ -5,10 +5,9 @@ header:
 ---
 The Research Lab can be found via rhe bottom-left button on fhe Teams Tab.  this is where Reseaech Points can be spent to benefit the whole team.   
 
-Research Points are obtained from team chests, completing twam matches, and from the Team Shop (make sure to collect the 100 ad/VIP research points each day).  
+Research Points are obtained from team chests, completing team matches, and from the Team Shop (make sure to collect the 100 ad/VIP research points each day).  
 
-There are 12 Team Perks available split between 4 Tiers. Initially only the first tier is available. The first three tiers each have three permanant boosts and one once-off reward;
-,whereas the fourth tier has two of each. The overall Lab Level is increased by upgrading the permanent boosts. Higher tiers become available at Lab Levels 8, 18, and 32 respectively. The most efficent way to reach these levels is as follows:  
+There are 12 Team Perks available split between 4 Tiers. Initially only the first tier is available. The first three tiers each have three permanant boosts and a single once-off reward, whereas the fourth tier has two of each. The overall Lab Level is increased by upgrading the permanent boosts. Higher tiers become available at Lab Levels 8, 18, and 32 respectively. The most efficent way to reach these levels is as follows:  
 
 Tier 2: 2 x Level 3 + 1 x Level 2  
 Tier 3: 6 x Level 3  
