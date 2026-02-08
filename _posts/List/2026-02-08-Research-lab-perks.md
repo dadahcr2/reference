@@ -1,5 +1,5 @@
 ---
-tag: Lists
+tag: List
 header:
   teaser: https://i.ibb.co/cXKQ43v5/IMG-2718.jpg
 ---
