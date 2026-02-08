@@ -3,7 +3,7 @@ tag: ResearchLab
 header:
   teaser: https://i.ibb.co/cXKQ43v5/IMG-2718.jpg
 ---
-The Research Lab can be found via rhe bottom-left button on fhe Teams Tab.  this is where Research Points can be spent to benefit the whole team.   
+The Research Lab can be found via rhe bottom-left button on fhe Teams Tab. This is where Research Points can be spent to benefit the whole team.   
 
 Research Points are obtained from team chests, completing team matches, and from the Team Shop (make sure to collect the 100 ad/VIP research points each day).  
 
