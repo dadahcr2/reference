@@ -660,7 +660,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ▸ &nbsp;[Daily Checklist]({{site.url}}/daily-checklist/)  
 ▸ &nbsp;[Ten Commandments of HCR2]({{site.url}}/ten-commandments-of-HCR2/)  
 ▸ &nbsp;[Being a Teammate]({{site.url}}/being-a-teammate/)  
-▸ &nbsp;[Research Lab Perks]({{site.url}}/Research-lab-perks/]  
+▸ &nbsp;[Research Lab Perks]({{site.url}}/Research-lab-perks/)  
 ▸ &nbsp;[Tournaments & GP Results]({{site.url}}/tournaments-and-gp-results/)  
 ▸ &nbsp;[Server Invites]({{site.url}}/server-invites/)  
 ▸ &nbsp;[Friend Invites]({{site.url}}/friend-invites/)  
