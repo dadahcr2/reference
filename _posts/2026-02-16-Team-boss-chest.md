@@ -25,4 +25,4 @@ Level | Chest
 
 Accordingly, there is an incentive to reach Level 10 in order to secure epic parts for all team members
   
-[Details on other cheats](https://reference.hcr2info.com/chests/)  
+[Details on other chests](https://reference.hcr2info.com/chests/)  
