@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-bolt.png
+  teaser: /assets/images/icon-vehicle-bolt-yellow.png
 ---
 Vehicle | Specific Vehicle  
 ![Bolt2] | Activate Boost  
@@ -149,6 +149,6 @@ Vehicle | Specific Vehicle
 [Glider2]: /assets/images/icon-vehicle-glider.png
 {: height="40px" width="64px"}
 
-[Bolt2]: /assets/images/icon-vehicle-bolt.png
+[Bolt2]: /assets/images/icon-vehicle-bolt-yellow.png
 {: height="40px" width="64px"}
 
