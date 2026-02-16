@@ -145,6 +145,8 @@ Rewards vary depending on the level of the chest at the end of the week. Teams s
 
 ***Coins:*** Coins start at 24000 for Level 1 and increase by 4000 for each level until they hit the cap of 200000 (Level 45+).
 
+**Research Points** Research Points start at 100 for Level 1 and increase by 100 for level until they hit the cap of 1400 (Level 14+).  
+
 ***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
 
 Level | Chest
@@ -168,6 +170,29 @@ Level | Km | Coins =20K+4KxLevel | Gems =5+2xLevel | Common | Rare | Epic | Lege
 18-22 | 5185-8359 | 92000-108000 | 41-48 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
 23-44 | 8360-31239 | 112000-196000 | 50 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
 45+ | 31240+ | 200000 | 50 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
+
+
+#### Monthly Team Boss Chest
+
+Rewards vary depending on the level of the chest at the end of the month. Teams start the month at Level 1 and need to beat 6 Bosses in total to reach Level 2.  The Bosses required increases by alternating four or two for each additional level e.g. 10 Bosses to go from Level 2 to Level 3, 12 Bosses to go from Level 3 to Level 4, 14 Bosses to go from Level 4 to Level5, etc.
+ 
+***Gems:*** Gems awarded start at 15 for Level 1 and increase by 5 for each level until they hit the cap of 60 (Level 10).
+
+***Coins:*** Coins start at 30000 for Level 1 and increase by 10000 for each level until they hit the cap of 120000 (Level 10).
+
+**Research Points** Research Points start at 500 for Level 1 and increase by 500 for level until they hit the cap of 5000 (Level 10).  
+
+***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
+
+Level | Chest
+:--: | :--
+1-2 | **Common** (at least 18 common and 2 rare part)
+3-5 | **Uncommon** (at least 29 common and 2 rare parts)
+6-9 | **Rare** (at least 45 common and 6 rare parts)
+10 | **Epic** (at least 68 common, 9 rare and 6 epic parts)
+
+Accordingly, there is a strong incentive to reach Level 10 in order to secure epic parts for all team members
+
 
 #### Season Bonus Chest
 
