@@ -145,7 +145,7 @@ Rewards vary depending on the level of the chest at the end of the week. Teams s
 
 ***Coins:*** Coins start at 24000 for Level 1 and increase by 4000 for each level until they hit the cap of 200000 (Level 45+).
 
-**Research Points** Research Points start at 100 for Level 1 and increase by 100 for level until they hit the cap of 1400 (Level 14+).  
+***Research Points:*** Research Points start at 100 for Level 1 and increase by 100 for level until they hit the cap of 1400 (Level 14+).  
 
 ***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
 
@@ -180,7 +180,7 @@ Rewards vary depending on the level of the chest at the end of the month. Teams 
 
 ***Coins:*** Coins start at 30000 for Level 1 and increase by 10000 for each level until they hit the cap of 120000 (Level 10).
 
-**Research Points** Research Points start at 500 for Level 1 and increase by 500 for level until they hit the cap of 5000 (Level 10).  
+***Research Points:*** Research Points start at 500 for Level 1 and increase by 500 for level until they hit the cap of 5000 (Level 10).  
 
 ***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
 
