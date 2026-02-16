@@ -5,6 +5,7 @@ header:
 ---
 
 Vehicle | Specific Vehicle  
+-- | --  
 ![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
 ![Tank2] | Big air time!
