@@ -1,9 +1,10 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-glider.png
+  teaser: /assets/images/icon-vehicle-bolt.png
 ---
 Vehicle | Specific Vehicle  
+![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
 ![Tank2] | Big air time!
 ![Rally2] | Drive with turbo pressure at max  
@@ -147,3 +148,7 @@ Vehicle | Specific Vehicle
 
 [Glider2]: /assets/images/icon-vehicle-glider.png
 {: height="40px" width="64px"}
+
+[Bolt2]: /assets/images/icon-vehicle-bolt.png
+{: height="40px" width="64px"}
+
