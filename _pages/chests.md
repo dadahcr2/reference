@@ -174,7 +174,7 @@ Level | Km | Coins =20K+4KxLevel | Gems =5+2xLevel | Common | Rare | Epic | Lege
 
 #### Monthly Team Boss Chest
 
-Rewards vary depending on the level of the chest at the end of the month. Teams start the month at Level 1 and need to beat 6 Bosses in total to reach Level 2.  The Bosses required increases by alternating four or two for each additional level e.g. 10 Bosses to go from Level 2 to Level 3, 12 Bosses to go from Level 3 to Level 4, 14 Bosses to go from Level 4 to Level5, etc.
+Rewards vary depending on the level of the chest at the end of the month. Teams start the month at Level 1 and need to beat 6 Bosses in total to reach Level 2.  The Bosses required increases alternating between four or two for each additional level e.g. 10 Bosses to go from Level 2 to Level 3, 12 Bosses to go from Level 3 to Level 4, 14 Bosses to go from Level 4 to Level 5, etc.
  
 ***Gems:*** Gems awarded start at 15 for Level 1 and increase by 5 for each level until they hit the cap of 60 (Level 10).
 
@@ -191,7 +191,7 @@ Level | Chest
 6-9 | **Rare** (at least 45 common and 6 rare parts)
 10 | **Epic** (at least 68 common, 9 rare and 6 epic parts)
 
-Accordingly, there is a strong incentive to reach Level 10 in order to secure epic parts for all team members
+Accordingly, there is an incentive to reach Level 10 in order to secure epic parts for all team members
 
 
 #### Season Bonus Chest
