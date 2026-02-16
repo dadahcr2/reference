@@ -6,7 +6,7 @@ tag: Chests
 
 #### Monthly Team Boss Chest
 
-Rewards vary depending on the level of the chest at the end of the month. Teams start the month at Level 1 and need to beat 6 Bosses in total to reach Level 2.  The Bosses required increases alternating between four or two for each additional level e.g. 10 Bosses to go from Level 2 to Level 3, 12 Bosses to go from Level 3 to Level 4, 14 Bosses to go from Level 4 to Level 5, etc.
+Rewards vary depending on the level of the chest at the end of the month. Teams start the month at Level 1 and need to beat 6 Bosses in total to reach Level 2.  The Bosses required increases alternating between four or two for each additional level e.g. 10 Bosses to go from Level 2 to Level 3, 12 Bosses to go from Level 3 to Level 4, 16 Bosses to go from Level 4 to Level 5, etc.
  
 ***Gems:*** Gems awarded start at 15 for Level 1 and increase by 5 for each level until they hit the cap of 60 (Level 10).
 
