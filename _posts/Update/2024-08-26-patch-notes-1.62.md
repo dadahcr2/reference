@@ -1,4 +1,5 @@
 ---
+tag: TE
 link: https://fingersoft.com/news/2024/08/20/patch-notes-hcr2-v1-62-0/
 tag: Patchnotes
 ---

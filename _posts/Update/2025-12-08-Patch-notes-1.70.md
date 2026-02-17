@@ -1,4 +1,5 @@
 ---
+tag: TE
 link: https://fingersoft.com/news/2025/12/08/patch-notes-hcr2-v1-70-0/
 tag: Patchnotes
 header:

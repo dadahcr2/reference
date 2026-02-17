@@ -1,4 +1,5 @@
 ---
+tag: TE
 link: https://youtu.be/kBerTnpcfr0?si=c8qE2ymwMmAkIUuy&t=192
 
 ---
