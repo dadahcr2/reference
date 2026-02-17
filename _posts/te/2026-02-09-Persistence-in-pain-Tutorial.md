@@ -1,6 +1,6 @@
 ---
 link: https://youtu.be/Ib1ahX5QWVU?si=WTiXrAkiqebP7eGr&t=159
-tag: Tutorial
+
 header:
   teaser: https://i.ibb.co/XrHD0NDJ/Image.jpg
 ---

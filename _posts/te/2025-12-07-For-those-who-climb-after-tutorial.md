@@ -1,5 +1,5 @@
 ---
-tag: Tutorial
+
 link: https://youtu.be/OLnvgcJFSjc?si=fu7vkcFRni-ZKb-u&t=170
 header:
   teaser: /assets/images/tetutorial.png
