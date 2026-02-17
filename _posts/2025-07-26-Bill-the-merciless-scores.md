@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | FloatEX | Moon Jump 5 | Overtakers (It’s Mine! 12L) | Uphill Sprint 4 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

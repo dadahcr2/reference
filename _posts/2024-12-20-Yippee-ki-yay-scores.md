@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Winter Multi Jump 2 | Snow Time | Gift Smash 1 | Let it Snow (First Snow 3R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

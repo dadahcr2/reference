@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Bill’s Landing (Green Cup 9L) | Far Far Away (Desert Mile -7L) | City Multi Jump 8 | No Air: Cottage Road (Boggy Road -2R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

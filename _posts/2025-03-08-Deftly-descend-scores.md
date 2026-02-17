@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | No Air : Deeper End (I Hate Water 8L) | Multi Jump (Cuptown) | Sunburnt (Desert Cup 4L) | Canyoneer Sprint | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

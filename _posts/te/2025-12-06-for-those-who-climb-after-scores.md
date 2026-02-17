@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 header:
   teaser: /assets/images/tescores.png
 ---

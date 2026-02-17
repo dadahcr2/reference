@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Demolition 4 | Mountain Wheelie 7 | No Air: Plain as Day (A Bit Plain 6L) | Base Camp (Death Mountain -6M) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

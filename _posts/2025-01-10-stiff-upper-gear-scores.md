@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Savanna Track | Demolition 5 | Classic 2 | Beach Downhill | Lunar Base | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

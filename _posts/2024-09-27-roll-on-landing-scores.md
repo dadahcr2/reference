@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Forest Downhill 3 | Demolition 1 | Uphill Sprint 1 | Special Stage One (Canyon Grand Prix -3M) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

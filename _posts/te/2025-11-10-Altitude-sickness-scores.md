@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Downhill 3 | Wheeler (More Mines -10L) | Moon Jump 4 | Canyon Arena | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

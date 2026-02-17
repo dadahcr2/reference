@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Slanted Speedrun | Mountain Jump 5 | Top of the World (Uphill Distance) | Flip Bonus Beach Downhill 4 | (Backwater Cup 11R) Grill Bill  | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Flag Runners (Mountain) | Uphill Sprint | Tricky Drive (Uphill Cup 11L) | No Air (Echoside) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

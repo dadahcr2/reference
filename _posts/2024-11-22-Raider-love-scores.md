@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Raiding up that Hill | Mine Downhill 1 | Carppuccino (Racers in the Mist -1M) | Sky’s the Limit | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

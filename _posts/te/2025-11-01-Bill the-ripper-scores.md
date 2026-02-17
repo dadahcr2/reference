@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Pumpkin Smash 5 | The Pond (Cup in the Woods 3L) | Zombie Chase | Multi Jump 2 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

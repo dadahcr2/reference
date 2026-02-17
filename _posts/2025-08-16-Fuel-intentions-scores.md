@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Bill’s Landing (Green Cup 9L) | Overspill Adventure | Paradise Bay (-5R) | Beach Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

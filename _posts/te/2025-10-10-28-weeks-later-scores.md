@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Up, Up and Away | Mountain Wheelie 7 | Top of the world (Death Mountain -6R) | Zombie Chase | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

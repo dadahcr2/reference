@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Winter Mine Jump | Down’n’Down | Winter Mountain Rise | Through The Mountains (Mountain Cup 9R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

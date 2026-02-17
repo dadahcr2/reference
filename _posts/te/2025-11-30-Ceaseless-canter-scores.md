@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | No Air (Smooth Landings) | Multi Jump 6 | Goodbye Savanna | Checkpoint (Spring Falls) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

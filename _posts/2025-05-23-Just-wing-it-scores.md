@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Harvest Mooncake | Offspill Wheelie 5 | Multi Jump 4 | Rock Pit (Forest Cup -7R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

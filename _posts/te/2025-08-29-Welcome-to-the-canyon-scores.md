@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Nature Calls (Rapids & Ruts 11R) | Trial Mix Up | Moist Mountains | Forest Adventure Wheelie | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Falls & Fury | Trial of Courage (Downhill Trials 2R) | Harvest Mooncake | Floor is Lava | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

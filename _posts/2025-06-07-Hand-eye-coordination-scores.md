@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Kids' Pool (Finger Travels -6R) | Cuptown Jump | Unleash the Beast | Marina Mayhem | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

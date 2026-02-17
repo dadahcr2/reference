@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Goal 3 | Uphill (Mountain) | Bat Country (Interstate Cup 9M) | Long Jump (Overspill) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

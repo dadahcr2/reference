@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Deliverin in the Moonlight | No Air (Winter) | Uphill Sprint 4 | Cargo - Carting (It’s Mine! 12L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

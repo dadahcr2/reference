@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Spook on, Spook off (Embark on Entertainment -4R) | Beyond Climberdome (Gladiator’s Gauntlet 2M) | Mines Multi Jump 7 | Demolition 6 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

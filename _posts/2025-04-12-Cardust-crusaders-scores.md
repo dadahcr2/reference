@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Rust Valley (Hub Cap Cup -8L) | Carista (Long Jump) | Savanna Downhill | Savanna Uphill | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | 2km Desert Valley | Water Run 3 | The Princess Drive (Mystical Cup -3R) | Cuptown Wheelie 10 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

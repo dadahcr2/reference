@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Slippery Slope (First Snow 3R) | Pumpkin Smash 2 | Zombie Chase | Long Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

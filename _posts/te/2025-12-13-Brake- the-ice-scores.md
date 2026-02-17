@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 header:
   teaser: /assets/images/Cool Text - Scores 462584734210341 2.png
 ---

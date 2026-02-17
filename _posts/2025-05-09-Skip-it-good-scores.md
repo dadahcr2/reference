@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Backwater Jump | Clam Canyon (Beach) | Classic 2 | Puddle Bender (Mystical Cup -3L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

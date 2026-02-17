@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 header:
   teaser: https://i.ibb.co/k6GPH9fP/IMG-2549.jpg
 ---

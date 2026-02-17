@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | World’s Fastest Animal (A Bit Plain 6L) | Cargo - Plain As Day (A Bit Plain 6L) | Jump in the Woods | Floor is Lava | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Moon Jump 3 | Beach Downhill 2 | Silo Showdown (Challenger Cup 4M) | Demolition 3 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Pitstop 6 | Far Far Away (Desert Mile -7L) | Boarding (It’s Mine! 12L) | Car in Abyss (Gloovale Uphill) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

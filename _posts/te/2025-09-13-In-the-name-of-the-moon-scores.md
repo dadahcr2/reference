@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | King of the Hill (Moon) | Nightlife (Night Drive Cup -2M) | I Hate Snakes (Beach) | Wheelie 6 (Factory) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

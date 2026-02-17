@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Distant Desperation | Racing Wild (The Jungle Brake 2L) | Overspill Wheelie 4 | Classic | Moon Multi Jump 10 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

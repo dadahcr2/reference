@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Demolition 2 | Whipclash (Spring City 7L) | Long Jump 3 (Desert) |  King of the Hill (Space Rock) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

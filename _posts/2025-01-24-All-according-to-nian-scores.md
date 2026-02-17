@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Downhill 3 | Nian Chase | The Big Dunes (Sand in Swimsuit 11M) | Wheelie 2 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

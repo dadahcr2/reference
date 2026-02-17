@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Downtown Madness (Travel Cup -7M) | Wheelie 11 (Savanna) | Downhill 2 (Beach) | 2km Sprint (Desert Valley) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

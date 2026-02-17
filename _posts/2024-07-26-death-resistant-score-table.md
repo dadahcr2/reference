@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Death Resistant | Bean 2 Tank(Racers in the Mist -1M) | Skid Happens (Interstate Cup 9M) | Sand in Swimsuit (11M) | Nose Miner (Mine Shaft Cup 11L) | Reef Grief (I Hate Water 8L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

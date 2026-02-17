@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Dusky Vale (Gloomvale Cup -12L) | Depths of the Moon | Newtons Farm | Moon of Targets | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

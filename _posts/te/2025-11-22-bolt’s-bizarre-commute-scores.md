@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Flag Runner (Winter) | Spring Falls 2Km | Long Jump (Tipping Point of Fun) | Living on the Edge (Mountain Bridges -7R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

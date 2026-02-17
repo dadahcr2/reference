@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Base Camp (Death Mountain -6R) | Sudden Stop (Mine Jump) | Downhill 1 (Trick Bonus) | Castle Hill Climb | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Call of the Night (Cuptown Babylon 5M) | 2Km Beach Adventure | Multi Jump 1 (Forest) | Floor is Lava | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

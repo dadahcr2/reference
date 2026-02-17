@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Forest Downhill 3 | Demolition 1 | Smooth Curves (Finger GP 12R) | Forest Water Run | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

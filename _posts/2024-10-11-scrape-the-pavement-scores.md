@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | From the Bottom (Mine Uphill) | You shall not jump (Mystical Cup -3L) | No Air  (Savanna) | No Air: Road to Heck (Desert Cup 4L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

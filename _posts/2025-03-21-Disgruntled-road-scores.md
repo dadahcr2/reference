@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | World’s fastest animal (A Bit Plain 6L) | City Steep Downhill  | Country Uphiill | Bumpy Beach | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

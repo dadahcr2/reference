@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Face Plant (Factory Cup 5R) | No Air (City) | To the Summit (Uphill) | Uphill Sprint | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

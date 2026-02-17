@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Uphill Sprint 5 | Desert Jump 4 | Hollow Road (Dark Roads 2R) | Rocky (Uphill) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

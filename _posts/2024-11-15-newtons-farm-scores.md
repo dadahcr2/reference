@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Country Uphill | Overspill Jump | Winter Wheelie 5 | Don’t Dive (Cup of City Water -5R) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Demolition (Savanna) | Uphill (Mountain) | Cuptown Smooth (Parkway Driving 1M) | Floor is Lava | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

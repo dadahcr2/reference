@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Flip A Switch (Factory Cup 6L) | Do What Savanna Do | Pitstop 8 | Classic 6 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

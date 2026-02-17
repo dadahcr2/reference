@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Valentines 1 | Danger Ahead (Rocky Road Cup -4R) | Number of the Beast | Demolition 5 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

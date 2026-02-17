@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Demolition 2 | Classic 8 | Tumbling Down (Downhill Cup -8L) | No Air (Spring Falls) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Trial of Courage (Downhill Trials 3L) | Mount Dizzy (uphill) | Beach Jump | Go Moonhead and Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

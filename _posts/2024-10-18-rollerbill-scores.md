@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Take Off (Magnetic Circuit 8M) | 2km Savanna | Demolition 6 | Desert Wheelie 8 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Spring Falls Long Jump | Nectar of the Climb (Rapids & Ruts 11R) | Downhill 4 (Spring Falls) | Canyoneer Sprint (Beaver Catch) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

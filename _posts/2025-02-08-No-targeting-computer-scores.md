@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Twisted Trees (Gloomvale Cup -11L) | Magnets, How do they Work? (No Air) | Targets (City) | Uphill (Savanna) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

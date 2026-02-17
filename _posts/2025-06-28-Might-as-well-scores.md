@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | One Does Not Simply (A Trial of Fire and Ice -1L) | Rocky Uphill | Moon Jump 4 | Hilly Beach | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

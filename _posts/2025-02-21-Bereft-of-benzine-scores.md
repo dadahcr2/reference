@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Offspill Long Jump | Watery Tunnel (Cup of City Water -5R) | Classic 4 | No Air Canyon Arena | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

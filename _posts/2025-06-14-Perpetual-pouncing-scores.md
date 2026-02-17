@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | No Cheetahs (Downhill) | Great Millenko (No Air) |  Bridges And Stones (Sunday Champ 6M) | Multi Jump 5 (Canyon) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

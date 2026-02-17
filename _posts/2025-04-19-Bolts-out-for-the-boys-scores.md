@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Desert Downhill 3 | The Dunes (Beach Cup 4R) | Savanna Wheelie 11 | Cargo: Roll With It (Desert Caves 10L) | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

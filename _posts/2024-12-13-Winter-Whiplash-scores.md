@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Winter Downhill | Winter Wheelie | Water run | Winter Uphill Chase | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

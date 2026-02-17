@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Dire Drive (Gearsticks And Pedals -2R) | Sudden Stop (Mines Long Jump) | Drive Through (Capital Cup 10M) | Reverse | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

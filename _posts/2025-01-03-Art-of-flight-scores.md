@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Savanna Jump | Cuptown Jump | Desert Jump | Bogwater Jump | Gloomvale Jump | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

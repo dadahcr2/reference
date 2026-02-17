@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Long Jump 8 | Pumpkin Smash 1 | Special Stage Three (Canyon Grand Prix -2L) | Uphill 6 | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

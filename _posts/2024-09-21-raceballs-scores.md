@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Hairpin (Finger GP 12R) | Overspill Wheelie 3 | One Giant Leap (Cargo) | Up, Up and Away | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   

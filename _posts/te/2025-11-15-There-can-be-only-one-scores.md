@@ -1,5 +1,5 @@
 ---
-tag: Scores
+tag: TE
 ---
 Tracks: | Deep End (More Mines -10L) | Savanna Wheelie 11 | Once More Round the Hill | Do What Savanna Do | Score  
 :--: | :--: | :--: | :--: | :--:  | :--:   
