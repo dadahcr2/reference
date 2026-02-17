@@ -20,7 +20,7 @@ comments: true
 ### Events  
 ▸ &nbsp;[Season Rewards]({{site.url}}/Division-rewards-and-promotions/)  
 ▸ &nbsp;[Latest Team Events Info]({{site.url}}/tags/te/)  
-▸ &nbsp;[Latest Public Event Setups]({{site.url}}/tags/pe/)  
+▸ &nbsp;[Latest Public Event Info]({{site.url}}/tags/pe/)  
 
 <details  markdown="block">
   <summary>
