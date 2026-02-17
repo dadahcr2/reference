@@ -1,5 +1,5 @@
 ---
-tag: Parchnotes
+tag: Patchnotes
 link: https://fingersoft.com/news/2026/02/02/patch-notes-hcr2-v1-71-0/
 header:
   teaser: https://fingersoft.com/app/uploads/2026/02/pe-rework_promocards_1920x1080.jpg
