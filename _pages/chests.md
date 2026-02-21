@@ -178,7 +178,7 @@ Rewards vary depending on the level of the chest at the end of the month. Teams 
  
 ***Gems:*** Gems awarded start at 15 for Level 1 and increase by 5 for each level until they hit the cap of 60 (Level 10+).
 
-***Coins:*** Coins start at 30000 for Level 1 and increase by 10000 for each level until they hit the cap of 120000 (Level 10=).
+***Coins:*** Coins start at 30000 for Level 1 and increase by 10000 for each level until they hit the cap of 120000 (Level 10+).
 
 ***Research Points:*** Research Points start at 500 for Level 1 and increase by 500 for each level until they hit the cap of 5000 (Level 10+).  
 
