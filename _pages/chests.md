@@ -104,7 +104,7 @@ The gems, coins, and parts vary based on the level of the chest. The level of th
 ***Coins:*** Coins earned are 1000 + 400 coins for every level.  The first chest level is achieved by reaching 500m, and the level goes up every 500m thereafter; however, for the hard maps, levels are incremented every 100m and coins increase by 200 for each level.
 Additional coins are earned if a duplicated paint/skin would have been awarded (common=1000 coins, rare=2000 coins).
 
-***Adventure Tokens:*** Four tokens per level (x2 for VIP) - but only if there is an unopened adventure map.
+***Adventure Tokens:*** Four tokens per level (x2 for VIP).
 
 ***Parts:*** Parts awarded from adventure chests are variable but step up at certain levels with parts similar to that of the following chests:	
 
