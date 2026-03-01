@@ -1,7 +1,7 @@
 ---
 tag: Cups
 header:
-  teaser: https://i.ibb.co/RTR41WRk/Image.png
+  teaser: https://i.ibb.co/C5WcpZL9/Image.jpg
 ---
 # March Mayhem Cup Tracks  
-![](https://i.ibb.co/RTR41WRk/Image.png)  
+![](https://i.ibb.co/C5WcpZL9/Image.jpg)  
