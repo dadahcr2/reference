@@ -4,8 +4,10 @@ header: 
   teaser: https://i.ibb.co/FkFf1927/Image.jpg
 ---
 
+![](/assets/images/Cool Text - Keys 497590439842049.png)  
 ![{{page.header.teaser}} ]({{ page.header.teaser }})    
-  
+*- Source: Zorro HCR2*
+
 Chest | Legacy Order | New Order | Type
 -- | -- | -- | --
 1️⃣ | Supercar, Snowmobile, Lowrider | Hoverbike, Monster Truck, Muscle Car | Common
