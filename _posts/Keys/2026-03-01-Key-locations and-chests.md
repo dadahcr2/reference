@@ -8,7 +8,7 @@ header: 
   
 Chest | Legacy Order | New Order | Type
 -- | -- | -- | --
-1️⃣ | Supercar, Snowmobile, Lowrider | Hoverbike, Mouster Truck, Muscle Car | Common
+1️⃣ | Supercar, Snowmobile, Lowrider | Hoverbike, Monster Truck, Muscle Car | Common
 2️⃣ | Tank, Rally Car, Formula | Formula, Tank, CC-EV | Uncommon
 3️⃣ | **ATV**, Bus, Sports Car | Monowheel, Sports Car, Rally Car | Uncommon
 4️⃣ | Sports Car, Lowrider, Muscle Car | Rally Car, Muscle Car, **ATV** | Rare
