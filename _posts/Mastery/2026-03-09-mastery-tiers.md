@@ -1,16 +1,16 @@
 ---
 tag: Mastery
 header:
-  teaser: https://i.ibb.co/JwRGnyPW/IMG-2851.jpg
+  teaser: https://i.ibb.co/dwzQwgrc/Image.png
 ---
-**"B" is for Bolt**  
+**ATV → "B"**  
  
 
 Tier | Vehicles  
 :--: | --  
 S | ![RT2] ![Bus2] ![Moto2]  
 A | ![Tractor2]  ![Monster2] ![RB2] ![Diesel2] ![Sbike2] ![Rally2] ![Tank2]    
-B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2] ![Raider2] ![Buggy2] ![Bolt2]      
+B | ![Lowrider2] ![Jeep2] ![Beast2] ![Snowmobile2] ![Mk22] ![Rotator2] ![Raider2] ![Buggy2] ![Bolt2] ![ATV2]      
 C | ![Sportscar2] ![Chopper2] ![Scooter2] ![HB2] ![Muscle2] ![Supercar2] ![Glider2]  
 D | ![Mono2] ![EV2] ![Moonlander2]  
 E | ![Hotrod2]   
@@ -119,3 +119,7 @@ F | ![Formula2]
 
 [Bolt2]: /assets/images/icon-vehicle-bolt-yellow.png
 {: height="40px" width="64px"} 
+
+[ATV2]: /assets/images/icon-vehicle-atv.png
+{: height="40px" width="64px"} 
+
