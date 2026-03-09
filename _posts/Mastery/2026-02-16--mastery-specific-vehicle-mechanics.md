@@ -1,11 +1,12 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-bolt-yellow.png
+  teaser: /assets/images/icon-vehicle-atv.png
 ---
 
 Vehicle | Specific Vehicle  
 -- | --  
+![ATV2] | Launch the hook
 ![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
 ![Tank2] | Big air time!
@@ -152,5 +153,8 @@ Vehicle | Specific Vehicle
 {: height="40px" width="64px"}
 
 [Bolt2]: /assets/images/icon-vehicle-bolt-yellow.png
+{: height="40px" width="64px"}
+
+[ATV2]: /assets/images/icon-vehicle-atv.png
 {: height="40px" width="64px"}
 
