@@ -12,7 +12,7 @@ Here is a breakdown of the key announcements from the Climb TV update:
 
 ### 🏎️ New Vehicle & Content
 * **New Vehicle:** A high-speed "absolute machine" is dropping next week. According to David, it’s all about extreme acceleration and dominance on the track.
-* **Off-Roader Mastery:** Dewey confirmed that a new **Off-Roader mastery** is brewing, set to arrive in **late April**.
+* **Off-Roader Mastery:** David confirmed that a new **Off-Roader mastery** is brewing, set to arrive in **late April**.
 
 ### 🗺️ Adventure Mode Overhaul
 Adventure mode is getting significantly more strategic with the introduction of the **Adventure Shop**:
