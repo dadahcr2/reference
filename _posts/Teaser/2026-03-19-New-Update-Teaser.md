@@ -26,5 +26,5 @@ The developers are making win streaks "more rewarding and less punishing" with s
 * **Better Loot:** General rewards for maintaining a streak have been buffed.
 
 ### 📅 Looking Ahead
-* **Patch Notes:** Full details on the streak mechanics and vehicle stats will be released next week.
+* **Patch Notes:** Details on the streak mechanics and vehicle stats will be released next week.
 * **Summer Bonus:** A "hefty bonus" for Cup mode was teased for the summer months.
