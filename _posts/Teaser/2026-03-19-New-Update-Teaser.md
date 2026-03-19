@@ -1,5 +1,4 @@
 ---
-link: https://youtube.com/shorts/xbysoX8-dHk?si=_lrJfLtQ2pYfTnWF
 tag: Teaser
 header:
   teaser: https://img.youtube.com/vi/xbysoX8-dHk/maxresdefault.jpg
