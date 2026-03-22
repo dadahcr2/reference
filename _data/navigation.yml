@@ -1,7 +1,7 @@
 main:
-  - title: "ℹ️"
+  - title: "Info"
     url: /info/
-  - title: "🔑"
+  - title: "Keys"
     url: /Key-locations-and-chests/
   - title: "Mastery"
     url: /tags/mastery/
