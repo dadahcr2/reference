@@ -1,6 +1,6 @@
 ---
 link: https://fingersoft.com/news/2026/03/24/patch-notes-hcr2-v1-72-0/
-tag: patchnotes
+tag: Patchnotes
 header:
   teaser: https://fingersoft.com/app/uploads/2026/03/marchupdate2026_promocards_1920x1080.jpg
 ---
