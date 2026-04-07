@@ -16,7 +16,7 @@ Chest | Legacy Order | New Order | Type
 2️⃣ | Scooter, Super Diesel, **Offroader** | Mk2, Hot Rod, Monowheel | Uncommon
 3️⃣ | Chopper, Rock Bouncer, Tank | Racing Truck, Raider, Formula | Uncommon
 4️⃣ | Rally Car, Raider, Beast | Tank, Scooter, Chopper | Rare
-5️⃣ | Motocross, Hot Rod, Rock Bouncer | Superbike, **ATV**, Raider | Rare
+5️⃣ | Motocross, Hot Rod, Rock Bouncer | Superbike, **ATV/Stocker**, Raider | Rare
 6️⃣ | Superbike, Chopper, Motocross | Moonlander, Racing Truck, Superbike | Rare
 7️⃣ | Monster Truck, **ATV**, Jeep | Lowrider, Snowmobile, Jeep | Epic
 8️⃣ | Superbike, Raider, Rally Car | Moonlander, Scooter, Tank | Epic
