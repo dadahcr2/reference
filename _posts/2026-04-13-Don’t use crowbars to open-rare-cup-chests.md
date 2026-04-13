@@ -3,6 +3,8 @@ tag: Chests
 header:
   teaser: https://i.ibb.co/gZXbjwFG/IMG-3095.jpg
 ---
+![](https://i.ibb.co/gZXbjwFG/IMG-3095.jpg). 
+
 Cup Chest | Hours | Crowbars | Hours Saved / Crowbar 
 -- | -- | -- | --  
 Common | 3 | 1 | 3.00  
