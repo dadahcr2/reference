@@ -13,3 +13,4 @@ Rare | 8 | 3 | 2.67
 Epic | 12 | 4 | 3.00  
 Champion | 24 | 8 | 3.00  
 
+**When using Chest "Keys", more time is saved opening cup chests other than the 8-hour rare chests** 
