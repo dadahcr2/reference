@@ -667,7 +667,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 ### Gas Brake Go
 
-▸ &nbsp;[Team Philosophy](https://reference.hcr2info.com/Team-gas-break-go/)  
+▸ &nbsp;[Team Philosophy](https://reference.hcr2info.com/GBG/)  
 	
 
 [Back to Top](#top)    
