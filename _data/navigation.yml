@@ -1,9 +1,9 @@
 main:
-  - title: "ℹ️"
+  - title: "Info"
     url: /info/
-  - title: "🔑"
+  - title: "Keys"
     url: /Key-locations-and-chests/
-  - title: "🎓"
+  - title: "Mastery"
     url: /tags/mastery/
   - title: "Tips"
     url: /tips/
