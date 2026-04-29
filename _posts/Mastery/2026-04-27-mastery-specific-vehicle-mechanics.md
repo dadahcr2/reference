@@ -1,11 +1,12 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-atv.png
+  teaser: /assets/images/icon-vehicle-offroad.png
 ---
 
 Vehicle | Specific Vehicle  
 -- | --  
+![OR2] | Drive on water and activate C.A.M.  
 ![ATV2] | Launch the hook
 ![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
@@ -156,5 +157,8 @@ Vehicle | Specific Vehicle
 {: height="40px" width="64px"}
 
 [ATV2]: /assets/images/icon-vehicle-atv.png
+{: height="40px" width="64px"}
+
+[OR2]: /assets/images/icon-vehicle-offroad.png
 {: height="40px" width="64px"}
 
