@@ -7,7 +7,7 @@ header:
 ![](https://i.ibb.co/v6pQW531/Image.png)  
 
 
-**Wheel of Power**
+**Wheel of Power**  
 0️⃣1️⃣ 🌳 ![RT] ![Ma] ![WB] ![Fuel] ![CB] **3301.96** CIS  
 0️⃣3️⃣ 🌲 ![RT] ![Wi] ![WB] ![Fume] ![CB] **1359.21** CIS  
 1️⃣1️⃣ 🦒 ![RT] ![Wi] ![WB] ![Fume] ![CB] **1007.54** Juju  
