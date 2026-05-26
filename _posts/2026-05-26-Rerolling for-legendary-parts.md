@@ -17,16 +17,16 @@ Legendary | 50 | 100% | 50
 
 **1. Using rerolls in the hope of getting legendary parts**
 
-Legendary parts are the difficult to obtain. Therefore the questiom is how best to use rerolls to onbtain legendary parts from chests that do not initially have legendaries on opening.
+Legendary parts are the most difficult to obtain. Therefore the questiom is how best to use rerolls to onbtain legendary parts from chests that do not initially have legendaries on opening.
 
-A few observations assuming that the chancd of ontaining legendaries is the same as for opening a chest:  
-- The cost of rerolling Common Chests is very high. 9x or more of that from other chests!  
+A few observations assuming that the chance of ontaining legendaries is the same as for opening a chest:  
+- The cost of obtainjg legendaries by rerolling Common Chests is very high. 9x or more of that from other chests!  
 - Champion chests are the best (average cost of 42), followed by rare chests (80), epic chests (100), and uncommon chests (111)  
 
 **2. Using rerolls to switch legendaries you dont need for those thst you do**  
 
-Generally when receiving legendaries on opening a chesf, it is possible to switch these for other legendies by rerolling. It may make sense to do this in the hope of receiving "better" legendaries e.g. replacing legendaries that have alreayd been maxxed out with those that have not beem.
+Generally when receiving legendaries on opening a chest, it is possible to switch these for other legendies by rerolling. It may make sense to do this in the hope of receiving "better" legendaries e.g. replacing legendaries that have already been maxxed with those that have not.
 
-This costs least for lower lever chests e.g. the cost of swiitching out legendaries from a common chest is 1/50th of that of a legendary chest (see table above)  
+This costs less for lower level chests e.g. the cost of swiitching out legendaries from a common chest is 1/50th of that of a legendary chest (see table above)  
 
 
