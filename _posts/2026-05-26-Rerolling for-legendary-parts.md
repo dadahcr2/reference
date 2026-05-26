@@ -19,7 +19,7 @@ Legendary | 50 | 100% | 50
 
 Legendary parts are the most difficult to obtain. Therefore the question is how best to use rerolls to obtain legendary parts from chests that do not initially have legendaries on opening.
 
-A few observations assuming that the chance of ontaining legendaries is the same as that for opening a new chest:  
+A few observations assuming that the chance of obtaining legendaries is the same as that for opening a new chest:  
 - The cost of obtaining legendaries by rerolling Common Chests is very high:  9x or more of that from other chests!  
 - Champion chests are the best (average cost of 42), followed by rare chests (80), epic chests (100), and uncommon chests (111)  
 
