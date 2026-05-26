@@ -25,7 +25,7 @@ A few observations assuming that the chance of obtaining legendaries is the same
 
 **2. Using rerolls to switch legendary parts**
 
-Generally when receiving legendaries on opening a chest, it is possible to switch these for other legendies by rerolling. It may make sense to do this in the hope of receiving "better" legendaries e.g. replacing legendaries that have already been maxxed with those that have not.
+Generally when receiving legendaries on opening a chest, it is possible to switch these for other legendies by rerolling. It may make sense to do this in the hope of receiving "better" legendaries e.g. replacing legendaries that have already been maxed out with those that have not.
 
 This costs less for lower level chests e.g. the cost of switching out legendaries from a common chest is 1 compared to 50 for a legendary chest (see table above)  
 
