@@ -17,7 +17,7 @@ Legendary | 50 | 100% | 50
 
 **1. Using rerolls to obtain legendary parts**
 
-Legendary parts are the most difficult to obtain. Therefore the question is how best to use rerolls to obtain legendary parts from chests that do not initially have legendaries on opening.
+Legendary parts are the most difficult to obtain. Therefore the question is how best to use rerolls to obtain legendary parts from chests that do not have legendaries on first opening.
 
 A few observations assuming that the chance of obtaining legendaries is the same as that for opening a new chest:  
 - The cost of obtaining legendaries by rerolling Common Chests is very high:  9x or more of that from other chests!  
