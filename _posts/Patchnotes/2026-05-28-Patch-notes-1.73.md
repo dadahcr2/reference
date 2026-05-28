@@ -8,12 +8,11 @@ Lots of flash, plenty of fury! The newest Hill Climb Racing 2 update is rolling 
   
 RELEASE NOTES:  
   
-🔥 Mythic Tuning Parts: Discover the insanely powerful new Amplifier & Echo parts  
-Discover the new Amplifier and Echo parts:  
+🔥 Mythic Tuning Parts: Discover the insanely powerful new Amplifier & Echo parts    
 - Amplifier: Boosts the power of your other equipped tuning parts  
 - Echo: Repeats the effect of the tuning part in your first slot with a short delay  
   
-🎨 Vehicle Styles: Customize your ride with flashy effects, gauges, auras, trails, and more  
+🎨 Vehicle Styles: Customize your ride with flashy effects, gauges, auras, trails, and more. 
 Unlock and mix unique cosmetic effects including:  
 - Tire tracks  
 - Vehicle trails  
