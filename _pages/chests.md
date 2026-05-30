@@ -33,6 +33,8 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 
 These numbers may be updated as more data is collected.  The underlying data is available [here](/chestdata/)
 
+![](https://i.ibb.co/MyZLDQjk/Image.jpg)  
+
 #### Order of cup chests
 
 **Cup chests** have a specific sequence:
