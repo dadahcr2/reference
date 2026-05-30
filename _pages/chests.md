@@ -13,6 +13,7 @@ comments: true
 
 ***
 -->
+![](https://i.ibb.co/vCyvsbP3/Image.jpg)  
 
 #### Rewards earned from the various chests
 
@@ -32,8 +33,6 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 > \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
 These numbers may be updated as more data is collected.  The underlying data is available [here](/chestdata/)
-
-![](https://i.ibb.co/MyZLDQjk/Image.jpg)  
 
 #### Order of cup chests
 
