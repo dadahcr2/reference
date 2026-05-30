@@ -1,7 +1,7 @@
 ---
 tag: Cups
 header: 
-  teaser: https://steemitimages.com/0x0//https://img.esteem.ws/84f3zmcafk.jpg
+  teaser: https://images.cartoonstock.com/lowres_800/retail-hand_lotion-sweating_palms-sweaty_palms-hand_creams-clammy_hands-mban3714_low.jpg
 ---
 **Updated to add Sweaty Palms Cup**  
 {: .notice}  
