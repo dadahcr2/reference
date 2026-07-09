@@ -10,7 +10,7 @@ header:
 - Common, Uncommon and Rare chests are not known to provide Mythic Parts
 
 Chest | Cost of Reroll | Prob(Mythic) | Cost/Mythic  
--- | -- | -- | --  
+:--: | :--: | :--: | :--:  
 Epic | 10 | 3% | 333.33  
 Champion | 25 | 15% | 166.67  
 Legendary | 50 | 20% | 250.00  
