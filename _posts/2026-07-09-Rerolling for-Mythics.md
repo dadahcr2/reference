@@ -7,7 +7,7 @@ header:
 
 - Legendary Chest have a higher probability of rerolling Mythics (20% vs 15%), however their much higher cost of rerolling (50 vs 25) makes it less optimal
 - Epic Chests cost less to reroll (10 vs 25), but the lower cost does not justify the much lower probability of Mythic Parts (3% vs 15%)
-- Common, Uncommon and Rare chests are not known to provide Mythic Parts
+- Common(1), Uncommon(2) and Rare(4) chests are not known to provide Mythic Parts
 
 Chest | Cost of Reroll | Prob(Mythic) | Cost/Mythic  
 :--: | :--: | :--: | :--:  
