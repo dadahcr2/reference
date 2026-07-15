@@ -1,7 +1,7 @@
 ---
 tag: Calendar
 header:
-  teaser:
+  teaser: https://thumbs.dreamstime.com/b/word-july-depicted-bold-yellow-letters-dark-blue-outline-above-behind-text-stylized-sun-rises-rays-extending-376472205.jpg
 ---
 July | Event | Days  
 -- | -- | --  
