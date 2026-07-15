@@ -1,8 +1,8 @@
---
+-- 
 tag: Calendar
 header:
   teaser: https://www.jewishcleveland.org/news/blog/Whats_happening_in_august.png
---
+--  
 August | Event | Days  
 -- | -- | --  
 1 | Single Winstreak | 2  
