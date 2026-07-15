@@ -1,7 +1,7 @@
 ---
 tag: Calendar
 header:
-  teaser: https://www.jewishcleveland.org/news/blog/Whats_happening_in_July.png
+  teaser: https://www.jewishcleveland.org/news/blog/Whats_happening_in_July.jpg
 
 ---
 July | Event | Days  
