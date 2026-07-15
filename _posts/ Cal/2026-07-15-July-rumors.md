@@ -1,7 +1,7 @@
 ---
 tag: Calendar
 header:
-  teaser: https://santaclaritamagazine.com/wp-content/uploads/2015/09/COM-Calendar-july-events.jpg
+  teaser: https://www.jewishcleveland.org/news/blog/Whats_happening_in_July.png
 
 ---
 July | Event | Days  
