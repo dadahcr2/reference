@@ -1,7 +1,8 @@
 ---
 tag: Calendar
 header:
-  teaser: https://thumbs.dreamstime.com/b/word-july-depicted-bold-yellow-letters-dark-blue-outline-above-behind-text-stylized-sun-rises-rays-extending-376472205.jpg
+  teaser: https://santaclaritamagazine.com/wp-content/uploads/2015/09/COM-Calendar-july-events.jpg
+
 ---
 July | Event | Days  
 -- | -- | --  
