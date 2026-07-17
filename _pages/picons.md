@@ -22,6 +22,8 @@ gallery:
  - image_path: assets/images/tunepart_NOS.png
  - image_path: assets/images/thruster_icon.png
  - image_path: assets/images/tunepart_nitro.png
+ - image_path: assets/images/amp.png
+ - image_path: assets/images/echo.png
 ---
 
 
