@@ -12,3 +12,5 @@ header:
 ## 100 Mythic Chests opened by Vittorio  
 
 ["Click here"](https://i.ibb.co/pvgN2M3w/Image.jpg)
+
+![](https://i.ibb.co/tPbSQJHh/Image.jpg)
