@@ -11,7 +11,7 @@ header:
 
 ## 100 Mythic Chests opened by Vittorio  
 
-["Click here for 10 x 10"]https://i.ibb.co/pvgN2M3w/Image.jpg)  
+["Click here for 10 x 10"](https://i.ibb.co/pvgN2M3w/Image.jpg)  
 
 2 x 50 Should display below (may need to be patient)  
 ![](https://i.ibb.co/tPbSQJHh/Image.jpg)
