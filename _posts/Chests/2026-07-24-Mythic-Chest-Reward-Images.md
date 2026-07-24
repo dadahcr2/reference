@@ -11,4 +11,4 @@ Note: If there are less than 18 Epic Parts, it means the snapshot was taken befo
 
 ## 100 Mythic Chests opened by Vittorio  
 
-![["Image"](https://i.ibb.co/pvgN2M3w/Image.jpg)](https://i.ibb.co/pvgN2M3w/Image.jpg)
+["Click here"](https://i.ibb.co/pvgN2M3w/Image.jpg)
