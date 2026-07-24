@@ -7,7 +7,7 @@ header:
 
 ![["Image"](https://i.ibb.co/fGTmNgL4/Image.jpg)](https://i.ibb.co/fGTmNgL4/Image.jpg)  
 
-**Note:** If there are less than 18 Epic Parts, it means the snapshot was taken before the full size was displayed!  ¯\\_(ツ)_/¯  
+**Note:** If there are less than 18 Epic Parts, it means the snapshot was taken before the full size was displayed!  ¯\\\_(ツ)\_/¯  
 
 ## 100 Mythic Chests opened by Vittorio  
 
