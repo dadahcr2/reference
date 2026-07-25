@@ -5,7 +5,7 @@ header:
 ---
 ## 22 Mythic Chests that I opened  
 
-Actually the 3rd chest with the Style Points is probably an Epic Chest  
+Actually the 3rd chest with the Style Points is probably an Epic Chest, but I'm pretty sure the other 21 are Mythic Chests  
 
 ![["Image"](https://i.ibb.co/fGTmNgL4/Image.jpg)](https://i.ibb.co/fGTmNgL4/Image.jpg)  
 
