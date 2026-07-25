@@ -9,6 +9,9 @@ Actually the 3rd chest with the Style Points is probably an Epic Chest, but I'm 
 
 ![["Image"](https://i.ibb.co/fGTmNgL4/Image.jpg)](https://i.ibb.co/fGTmNgL4/Image.jpg)  
 
+Here is the replacement 22nd Mythic Chest  
+![](https://i.ibb.co/SDKqBf2j/IMG-3484.png)  
+
 **Note:** If there are less than 18 Epic Parts, it means the snapshot was taken before the full size was displayed!  ¯\\\_(ツ)\_/¯  
 
 ## 100 Mythic Chests opened by Vittorio  
