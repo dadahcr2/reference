@@ -13,7 +13,7 @@ comments: true
 
 ***
 -->
-![](https://i.ibb.co/vCyvsbP3/Image.jpg)  
+![](https://i.ibb.co/xSHtXVBn/Image.jpg)  
 
 #### Rewards earned from the various chests
 
