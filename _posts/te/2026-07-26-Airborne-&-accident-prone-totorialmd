@@ -2,6 +2,8 @@
 link: https://youtu.be/TaDf0CFANbw?si=qWyH9C_OKdudA8JY&t=192
 tag: TE
 header: 
-  teaser: 
+  teaser: https://i.ibb.co/4g8vrbZC/Image.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TaDf0CFANbw?si=qWyH9C_OKdudA8JY&amp;start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![](https://i.ibb.co/4g8vrbZC/Image.jpg)
