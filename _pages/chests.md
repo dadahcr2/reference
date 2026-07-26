@@ -19,16 +19,16 @@ comments: true
 
 The numbers shown in the game are often minimums and may understate actual rewards.  Based on collected data, estimates of the **average rewards (and range)** of coins, parts, and gems from the various chests are as follows:
 
-Chest Type | Coins\* | Common | Rare | Epic | Legendary | Gems
-:--: | :--: | :--: | :--: | :--: | :--: | :--:
-Common (3h) | 2730 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0~3) | 0.003 (0~3) | 
-Uncommon (6h) | 5490 (4500-9000) |  33.8 (29-38) | 4.17 (2-10) | 0.6 (0-6) | 0.05 (0~3) | 
-Rare (8h) | 10920 (9000-15000) |  50.7 (45-56) | 9.2 (6-12) | 1.5 (0-6) | 0.15 (0~3) | 
-Epic (12h) | 22260 (18000-27000) |  80.6 (68-90) | 13.7 (9-18) | 7.5 (6-9) | 0.3 (0~3) | 
-Champion (24h) | 54150 (46000-64000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) | 1.8 (0~3) | 
-Legendary | 27500 (22500-34000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) | 3 (3) | 
-Free/Video | 1432.5 (1125-4500) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 1.66 (1-3)
-VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 60 (60)
+Chest Type | Coins\* | Common | Rare | Epic | Legendary | Mythic | Gems  
+:--: | :--: | :--: | :--: | :--: | :--:  | :--: | :--:   
+Common (3h) | 2730 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3)  |   |   
+Uncommon (6h) | 5490 (4500-9000) |  33.8 (29-38) | 4.17 (2-10) | 0.6 (0-6) |  |  0.05 (0-3) |    |    
+Rare (8h) | 10920 (9000-15000) |  50.7 (45-56) | 9.2 (6-12) | 1.5 (0-6) | 0.15 (0-3) |  |   
+Epic (12h) | 22260 (18000-27000) |  80.6 (68-90) | 13.7 (9-18) | 7.5 (6-9) | 0.3 (0-3) |  0.06 (2)   |    
+Champion (24h) | 54150 (46000-64000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) | 1.8 (0-3) | 0.3 (2)  |  
+Legendary | 27500 (22500-34000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) | 3 (3) | 0.4 (2)  |  
+Free/Video | 1432.5 (1125-4500) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) |  |  1.66 (1-3)
+VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) |  |  60 (60)  
 
 > \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
