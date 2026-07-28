@@ -4,6 +4,121 @@ title: "Chest Data"
 classes: wide
 ---
 
+## Mythic Chest Data
+
+Chest | Shards | Coins | Rare | Epic | Legendary | Mythic   
+-- | -- | -- | -- | -- | -- | --  
+Mythic | 3 Aura | 33 | 6 | 18 | 6 | 2  
+Mythic | 18 Gauge | 33 | 7 | 18 | 5 | 2  
+Mythic | 16 Gauge | 35 | 8 | 18 | 5 | 2  
+Mythic | 4 Tracks | 32 | 7 | 18 | 5 | 2  
+Mythic | 16 Gauge | 28 | 8 | 18 | 5 | 2  
+Mythic | 4 Name | 32 | 8 | 18 | 3 | 2  
+Mythic | 5 Tracks | 33 | 6 | 18 | 5 | 2  
+Mythic | 18 Gauge | 35 | 7 | 18 | 3 | 2  
+Mythic | 3 Aura | 33 | 8 | 18 | 4 | 2  
+Mythic | 11 Gauge | 37 | 6 | 18 | 3 | 2  
+Mythic | 5 Name | 36 | 7 | 18 | 4 | 2  
+Mythic | 18 Gauge | 36 | 8 | 18 | 4 | 2  
+Mythic | 14 Gauge | 33 | 7 | 18 | 5 | 2  
+Mythic | 4 Name | 36 | 6 | 18 | 5 | 2  
+Mythic | 19 Gauge | 35 | 8 | 18 | 5 | 2  
+Mythic | 2 Aura | 34 | 6 | 18 | 5 | 2  
+Mythic | 11 Gauge | 31 | 6 | 18 | 5 | 2  
+Mythic | 3 Aura | 33 | 6 | 18 | 6 | 2  
+Mythic | 5 Tracks | 34 | 7 | 18 | 6 | 2  
+Mythic | 12 Gauge | 30 | 6 | 18 | 4 | 2  
+Mythic | 1 Trail | 31 | 8 | 18 | 4 | 2  
+Mythic | 3 Aura | 29 | 6 | 18 | 4 | 2  
+Mythic | 15 Gauge | 34 | 6 | 18 | 3 | 2  
+Mythic | 3 Aura | 33 | 6 | 18 | 4 | 2  
+Mythic | 1 Trail | 36 | 6 | 18 | 3 | 2  
+Mythic | 15 Gauge | 31 | 8 | 18 | 6 | 2  
+Mythic | 4 Tracks | 36 | 6 | 18 | 5 | 2  
+Mythic | 4 Name | 31 | 7 | 18 | 4 | 2  
+Mythic | 1 Trail | 38 | 6 | 18 | 5 | 2  
+Mythic | 13 Gauge | 34 | 7 | 18 | 5 | 2  
+Mythic | 2 Aura | 34 | 6 | 18 | 3 | 2  
+Mythic | 1 Trail | 35 | 6 | 18 | 4 | 2  
+Mythic | 14 Gauge | 31 | 6 | 18 | 6 | 2  
+Mythic | 4 Tracks | 31 | 6 | 18 | 6 | 2  
+Mythic | 2 Aura | 35 | 6 | 18 | 4 | 2  
+Mythic | 2 Aura | 33 | 8 | 18 | 5 | 2  
+Mythic | 15 Gauge | 40 | 7 | 18 | 3 | 2  
+Mythic | 5 Name | 31 | 6 | 18 | 3 | 2  
+Mythic | 3 Aura | 32 | 6 | 18 | 6 | 2  
+Mythic | 4 Tracks | 29 | 6 | 18 | 5 | 2  
+Mythic | 1 Trail | 35 | 7 | 18 | 5 | 2  
+Mythic | 5 Name | 29 | 7 | 18 | 5 | 2  
+Mythic | 2 Aura | 31 | 6 | 18 | 5 | 2  
+Mythic | 1 Trail | 36 | 6 | 18 | 3 | 2  
+Mythic | 5 Name | 34 | 7 | 18 | 4 | 2  
+Mythic | 12 Gauge | 34 | 6 | 18 | 3 | 2  
+Mythic | 14 Gauge | 33 | 7 | 18 | 4 | 2  
+Mythic | 1 Trail | 31 | 6 | 18 | 6 | 2  
+Mythic | 5 Name | 34 | 6 | 18 | 4 | 2  
+Mythic | 5 Tracks | 36 | 6 | 18 | 4 | 2  
+Mythic | 1 Trail | 31 | 6 | 18 | 5 | 2  
+Mythic | 1 Trail | 37 | 8 | 18 | 3 | 2  
+Mythic | 4 Name | 39 | 6 | 18 | 6 | 2  
+Mythic | 2 Aura | 36 | 6 | 18 | 3 | 2  
+Mythic | 4 Tracks | 33 | 6 | 18 | 6 | 2  
+Mythic | 2 Aura | 31 | 8 | 18 | 4 | 2  
+Mythic | 13 Gauge | 37 | 6 | 18 | 6 | 2  
+Mythic | 13 Gauge | 32 | 7 | 18 | 6 | 2  
+Mythic | 5 Tracks | 35 | 6 | 18 | 5 | 2  
+Mythic | 20 Guage | 35 | 6 | 18 | 5 | 2  
+Mythic | 1 Trail | 34 | 7 | 18 | 4 | 2  
+Mythic | 3 Aura | 38 | 6 | 18 | 6 | 2  
+Mythic | 20 Gauge | 36 | 6 | 18 | 3 | 2  
+Mythic | 19 Gauge | 37 | 8 | 18 | 5 | 2  
+Mythic | 1 Trail | 34 | 6 | 18 | 3 | 2  
+Mythic | 4 Name | 31 | 6 | 18 | 5 | 2  
+Mythic | 5 Name | 32 | 6 | 18 | 5 | 2  
+Mythic | 13 Gauge | 34 | 8 | 18 | 5 | 2  
+Mythic | 1 Trail | 36 | 7 | 18 | 4 | 2  
+Mythic | 2 Aura | 28 | 7 | 18 | 3 | 2  
+Mythic | 18 Gauge | 31 | 7 | 18 | 6 | 2  
+Mythic | 15 Gauge | 30 | 6 | 18 | 6 | 2  
+Mythic | 3 Aura | 31 | 7 | 18 | 5 | 2  
+Mythic | 18 Gauge | 35 | 8 | 18 | 3 | 2  
+Mythic | 16 Gauge | 31 | 7 | 18 | 6 | 2  
+Mythic | 1 Trail | 32 | 7 | 18 | 6 | 2  
+Mythic | 2 Aura | 33 | 6 | 18 | 6 | 2  
+Mythic | 19 Gauge | 37 | 6 | 18 | 6 | 2  
+Mythic | 18 Gauge | 29 | 8 | 18 | 4 | 2  
+Mythic | 4 Name | 31 | 6 | 18 | 3 | 2  
+Mythic | 18 Gauge | 32 | 7 | 18 | 6 | 2  
+Mythic | 1 Trail | 36 | 7 | 18 | 4 | 2  
+Mythic | 4 Name | 29 | 8 | 18 | 3 | 2  
+Mythic | 1 Trail | 31 | 6 | 18 | 5 | 2  
+Mythic | 10 Gauge | 39 | 8 | 18 | 5 | 2  
+Mythic | 1 Trail | 36 | 7 | 18 | 4 | 2  
+Mythic | 5 Tracks | 34 | 7 | 18 | 3 | 2  
+Mythic | 1 Trail | 35 | 8 | 18 | 5 | 2  
+Mythic | 10 Gauge | 33 | 8 | 18 | 6 | 2  
+Mythic | 14 Gauge | 33 | 8 | 18 | 6 | 2  
+Mythic | 14 Gauge | 32 | 8 | 18 | 6 | 2  
+Mythic | 5 Name | 33 | 7 | 18 | 3 | 2  
+Mythic | 5 Tracks | 35 | 6 | 18 | 5 | 2  
+Mythic | 4 Tracks | 32 | 8 | 18 | 6 | 2  
+Mythic | 15 Gauge | 32 | 8 | 18 | 6 | 2  
+Mythic | 4 Name | 29 | 7 | 18 | 5 | 2  
+Mythic | 4 Name | 37 | 7 | 18 | 4 | 2  
+Mythic | 5 Tracks | 34 | 7 | 18 | 5 | 2  
+Mythic | 2 Aura | 33 | 6 | 18 | 6 | 2  
+Mythic | 4 Tracks | 33 | 7 | 18 | 5 | 2  
+Mythic | 4 Tracks | 35 | 8 | 18 | 5 | 2  
+Mythic | 19 Gauge | 31 | 7 | 18 | 5 | 2  
+Mythic | 18 Gauge | 39 | 6 | 18 | 6 | 2  
+Mythic | 20 Gauge | 33 | 6 | 18 | 4 | 2  
+Mythic | 1 Trail | 33 | 7 | 18 | 6 | 2  
+Mythic | 16 Gauge | 31 | 8 | 18 | 6 | 2  
+Mythic | 3 Aura | 34 | 7 | 18 | 3 | 2  
+Mythic | 11 Gauge | 40 | 7 | 18 | 5 | 2  
+
+## Othern chests (older data)
+
 \# | level | chest | com. | rare | epic | leg. | coin | ad | gems  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 1 |  | rare | 50 | 12 |  |  | 10000 | 5000 |   
