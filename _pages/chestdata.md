@@ -117,7 +117,7 @@ Mythic | 16 Gauge | 31 | 8 | 18 | 6 | 2
 Mythic | 3 Aura | 34 | 7 | 18 | 3 | 2  
 Mythic | 11 Gauge | 40 | 7 | 18 | 5 | 2  
 
-## Othern chests (older data)
+## Other chests (older data)
 
 \# | level | chest | com. | rare | epic | leg. | coin | ad | gems  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
