@@ -6,8 +6,8 @@ classes: wide
 
 ## Mythic Chest Data
 
-Chest | Shards | Coins | Rare | Epic | Legendary | Mythic   
--- | -- | -- | -- | -- | -- | --  
+Chest | Shards | Coins | Rare | Epic | Leg. | Mythic   
+:--: | :--: | :--: | :--: | :--: | :--: | :--:   
 Mythic | 3 Aura | 33 | 6 | 18 | 6 | 2  
 Mythic | 18 Gauge | 33 | 7 | 18 | 5 | 2  
 Mythic | 16 Gauge | 35 | 8 | 18 | 5 | 2  
