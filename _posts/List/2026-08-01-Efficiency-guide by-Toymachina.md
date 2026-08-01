@@ -4,7 +4,6 @@ header:
   teaser: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/3/33/End.png
 --- 
 (As posted on Reddit)  
-
 I noticed that in my team people do inefficient stuff and are progressing slowly. Actually that is probably the right way to play and truly enjoy the game, but if you want to min-max your time and get the most value out of it, here are some tips:
 
 1) VIP subscription (cheaper one for 5$, not the x2 mastery one) is by very far the most valuable purchase if you are making any, if you plan to spend money, spend it on that, not other stuff. If you are really short on money, consider at least premium pass one for 2-3$, will improve experience by removing forced ads considerably and value is still really good, albeit worse than VIP (which also includes pass). Don't waste money on anything else.
