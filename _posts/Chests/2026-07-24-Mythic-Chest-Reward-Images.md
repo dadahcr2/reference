@@ -1,7 +1,7 @@
 ---
 tag: Chests
 header:
-  teaser: https://i.ibb.co/fGTmNgL4/Image.jpg
+  teaser: https://i.ibb.co/SDKqBf2j/IMG-3484.png
 ---
 ## 22 Mythic Chests that I opened  
 
