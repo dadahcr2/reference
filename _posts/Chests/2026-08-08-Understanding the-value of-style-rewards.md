@@ -38,7 +38,7 @@ The same prize will not be received consecutively (with the possible infrequent 
 
 Shards can be purchased in the Adventure Shop (PE Shop maybe too) and may also be available from special events, but the main sources of Style Shards and Points are from various chests.
 
-Some types are shards are more rare than others. They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).  
+Some types of shards are more rare than others. They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).  
 
 The more extreme the rarity, the fewer shards are received at a time.  For example, 10-20 Gauge Shards compared to only 1 Trail Shard for a normal chest (Style Chests are more generous).  Also the number of style rewards vary by shard rarity. Each rare(gauge) shard provides one style reward, but two per Epic(Tracks/Name), four per Legendary(Aura) and ten per Mythic(Trail).  More details below:
 
