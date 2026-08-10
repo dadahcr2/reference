@@ -22,12 +22,13 @@ In addition, when all five components of a style are unlocked via receiving the 
 The five types of Prizes are received with equal likelihood. As similar items are available from the PR shop, we can assess their value in terms of PE Points. 
 
 Style Reward | Pe Points Cost  
-:—: | :—:  
+:--: | :--:  
 20000 Coins | 100  
 2000 XPx2 | 40  
 Rare Chest | 40  
 5 Elite Parts | 50  
 1 Legendary | 100  
+:--: | :--:  
 Average | 66  
 Average/25 | 2.64  
 
