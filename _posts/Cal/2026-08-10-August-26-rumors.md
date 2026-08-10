@@ -9,4 +9,4 @@ August | Event | Days
 3 | Half Chest Time | 2  
 5 | Team Points | 3  
 7 | Double XP | 3  
-7 | Friends Tasks | 4  
+11 | Single Points | 4
