@@ -8,7 +8,7 @@ Styles are initially only available for Rally and Muscle Cars.
 
 ![](https://i.ibb.co/N6tHH1xX/IMG-5464.jpg) 
 
-But the rewards are not only cosmeetic! 
+But the rewards are not only cosmetic! 
 
 Shards provides style rewards. Every 25 earns one of five different rewards.  
 - 20000 Coins
