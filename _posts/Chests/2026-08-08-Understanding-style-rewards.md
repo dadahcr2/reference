@@ -10,7 +10,7 @@ Styles are initially only available for Rally and Muscle Cars.
 
 But the rewards are not only cosmetic! 
 
-Shards provides style rewards. Every 25 earns one of five different rewards.  
+Shards provides style rewards. Every 25 earns one of five different prizes.  
 - 20000 Coins
 - 2000 XPx2
 - Rare Chest
