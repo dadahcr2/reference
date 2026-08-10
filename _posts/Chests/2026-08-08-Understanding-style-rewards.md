@@ -8,7 +8,7 @@ Styles are initially only available for Rally and Muscle Cars.
 
 ![](https://i.ibb.co/N6tHH1xX/IMG-5464.jpg) 
 
-But the rewards are not only cosmetic! 
+But the benefits are not only cosmetic! 
 
 Shards provides style rewards. Every 25 earns one of five different prizes.  
 - 20000 Coins
@@ -18,8 +18,6 @@ Shards provides style rewards. Every 25 earns one of five different prizes.
 - 1 Legendary Part
 
 In addition, when all five components of a style are unlocked via receiving the necessary shards and spending the required Style Points, a **Mythic Chest** is opened. 
-
-The Shards are vehicle and style specific, but Style Points can be used for any vehicle and style.
 
 The five types of Style Rewards are received with equal likelihood. As similar rewards are available from the PR shop,we can access their value in PE Points. 
 
@@ -34,14 +32,14 @@ Rare Chest | 40
 Average | 66  
 Average/25 | 2.64  
 
-However, unlike the PE Shop, the reward is not chosen so the value is less; say each reward is worth 50 PE Points on average (i.e. 1 Shard Reward = 2 PE Points), which is consistent with the 40 PE Point cost of 20 Gauge Shards.
+However, unlike the PE Shop, the prizes are automatic rather than chose, which reduces their value. Let’s say each reward is worth 50 PE Points on average (i.e. 1 Shard Reward = 2 PE Points), which is consistent with the 40 PE Point cost of 20 Gauge Shards.
 
-The same reward will not be received consecutively (with the possible exception of the Legendary Part)
+The same reward will not be received consecutively (*with the possible rare exception of the Legendary Part*)
 
 Shards may also be available from various special events, but the main sources or Style Shards and Points are from various chests.
 
-Some types are shards are more rare than others, They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).
-The more rare, the fewer shards are received at a time.  For example, 10-20 Guage Shards vs only 1 Trail Shard.  Also the number of style rewards vary by shard rarity, Each gauge shard provides one style reward, but 2 per Epic(Tracks/Name), 4 per Legendary(Aura)  and 10 per Mythic(Trail).  More details below:
+Some types are shards are more rare than others, They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).  
+The more rare, the fewer shards are received at a time.  For example, 10-20 Guage Shards vs only 1 Trail Shard.  Also the number of style rewards vary by shard rarity, Each gauge shard provides one style reward, but two per Epic(Tracks/Name), four per Legendary(Aura) and ten per Mythic(Trail).  More details below:
 
 Shard Type | Rarity | Range | Average | E[Style Reward] | # to Unlock | Points Req.  
 :—: | :—: | :—: | :—: | :—: | :—: | :—:  
