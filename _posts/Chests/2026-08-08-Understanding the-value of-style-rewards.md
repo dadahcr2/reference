@@ -43,20 +43,20 @@ Some types are shards are more rare than others, They are split into four catego
 The more extreme the rarity, the fewer shards are received at a time.  For example, 10-20 Guage Shards vs only 1 Trail Shard.  Also the number of style rewards vary by shard rarity, Each gauge shard provides one style reward, but two per Epic(Tracks/Name), four per Legendary(Aura) and ten per Mythic(Trail).  More details below:
 
 Shard Type | Rarity | Range | Average | E[Style Reward] | # to Unlock | Points Req.  
-:—: | :—: | :—: | :—: | :—: | :—: | :—:  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
 Gauge | Rare | 10-20 | 15 | 15 | 280 | 120  
 Name | Epic | 4-5(95%), 8(5%) | 4.5 | 9 | 180 | 200  
 Tracks | Epic | 4-5(95%), 8(5%) | 4.5 | 9 | 180 | 200  
 Aura | Legendary | 2-3(95%), 4(5%) | 2.5 | 10 | 120 | 400  
 Trail | Mythic | 1 | 1 | 10 | 30 | 750  
-:—: | :—: | :—: | :—: | :—: | :—: | :—:  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
 Points |  | 6-20 | 15 |  | Total: | 1670  
 
 
 Probabilities of receiving Style Points and Shards from the various chests are disclosed:
 
 Chest Type | Points | Shards: | Rare | Epic | Legendary | Mythic  
-:—: | :—: | :—: | :—: | :—: | :—: | :—:  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
 Common | 0% | 10% | 7% | 2.50% | 0.40% | 0.10%  
 Uncommon | 5% | 30% | 21% | 7.50% | 1.20% | 0.30%  
 Rare | 10% | 40% | 20% | 18% | 1.60% | 0.40%  
@@ -70,7 +70,7 @@ Style | 100% | 200% | 50% | 50% | 50% | 50%
 From this we can estimate the expected(E) number of shards, rewards and points from each of the chests:   
 
 Chest Type | E[Style Points] | E[Style Reward] | E[Rare] | E[Epic] | E[Legendary] | E[Mythic]  
-:—: | :—: | :—: | :—: | :—: | :—: | :—:  
+:--: | :--: | :--: | :--: | :--: | :--: | :--:  
 Common | 0 | 1.3 | 1.05 | 0.1125 | 0.01 | 0.001  
 Uncommon | 0.75 | 4.0 | 3.15 | 0.3375 | 0.03 | 0.003  
 Rare | 1.5 | 4.8 | 3 | 0.81 | 0.04 | 0.004  
@@ -79,4 +79,3 @@ Champion | 15 | 11.9 | 6.75 | 1.8 | 0.25 | 0.05
 Legendary | 15 | 11.7 | 6 | 1.575 | 0.375 | 0.1  
 Mythic | 0 | 11.2 | 4.5 | 1.575 | 0.5 | 0.15  
 Style | 15 | 22.0 | 7.5 | 2.25 | 1.25 | 0.5  
-
