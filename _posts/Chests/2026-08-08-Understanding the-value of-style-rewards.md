@@ -34,7 +34,7 @@ Average/25 | 2.64
 
 However, unlike the PE Shop, the prizes are automatic rather than chosen, which reduces their value. Let’s say each reward is worth 50 PE Points on average (i.e. 1 Shard Reward = 2 PE Points); this is consistent with the 40 PE Point cost of 20 Gauge Shards.
 
-The same reward will not be received consecutively (*with the possible rare exception of the Legendary Part*)
+The same reward will not be received consecutively (with the possible rare exception of the Legendary Part)
 
 Shards may also be available from various special events, but the main sources of Style Shards and Points are from various chests.
 
