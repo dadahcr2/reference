@@ -80,4 +80,4 @@ Legendary | 15 | 11.7 | 6 | 1.575 | 0.375 | 0.1
 Mythic | 0 | 11.2 | 4.5 | 1.575 | 0.5 | 0.15  
 Style | 73.5 | 68.5 | 13.5 | 9 | 5.5 | 1.5  
 
-By far, Style chests are the best for Style Rewards.  However, it is interesting to note that although more Mythic(Trail) shards are earned per Mythic Chest than Legendary or Champion Chests, the order is is reversed for Style Rewards. This is as a result of 10-20 Gauge Shards providing 15 Style Rewards on average, whereas 1 Trail Shard only gives 10 Style Rewards.
+Of all the chests, Style chests are the best for Style Rewards by far.  However, it is interesting to note that although more Mythic(Trail) shards are earned per Mythic Chest than Legendary or Champion Chests, the order is is reversed for Style Rewards. This is as a result of 10-20 Gauge Shards providing 15 Style Rewards on average, whereas 1 Trail Shard only gives 10 Style Rewards.
