@@ -36,7 +36,7 @@ However, unlike the PE Shop, the prizes are automatic rather than chosen, which 
 
 The same reward will not be received consecutively (*with the possible rare exception of the Legendary Part*)
 
-Shards may also be available from various special events, but the main sources or Style Shards and Points are from various chests.
+Shards may also be available from various special events, but the main sources of Style Shards and Points are from various chests.
 
 Some types are shards are more rare than others. They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).  
 
