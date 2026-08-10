@@ -10,18 +10,18 @@ Styles are initially only available for Rally and Muscle Cars.
 
 But the rewards are not only cosmeetic! 
 
-Shards provides style rewards. Every 25 earns one of five different reward.  
+Shards provides style rewards. Every 25 earns one of five different rewards.  
 - 20000 Coins
 - 2000 XPx2
 - Rare Chest
 - 5 Elite Parts
 - 1 Legendary Part
 
-In addition, when all five components of a style  are unlocked via receiving the necessary shards and spending sufficients Style Points, a **Mythic Chest** is opened. 
+In addition, when all five components of a style are unlocked via receiving the necessary shards and spending the required Style Points, a **Mythic Chest** is opened. 
 
-The Shards are vehicle and style specific, but not the Points. 
+The Shards are vehicle and style specific, but Style Points can be used for any vehicle and style.
 
-The five types of Style Rewards are received with equal likelihood. Similar rewards ate available from the PR shop so we can access thejr value vs PR Ppknts. 
+The five types of Style Rewards are received with equal likelihood. As similar rewards are available from the PR shop,we can access their value in PE Points. 
 
 Style Reward | Pe Points Cost  
 :—: | :—:  
@@ -34,14 +34,14 @@ Rare Chest | 40
 Average | 66  
 Average/25 | 2.64  
 
-However, unlike the PE Shop, the reward is not chosen so the value is less, say each reward is worth 50 PE Points on average (i.e. 1 Shard Reward = 2 PE Points).  This is consistent with the 40 PE Point cost of 20 Gauge Shards.
+However, unlike the PE Shop, the reward is not chosen so the value is less; say each reward is worth 50 PE Points on average (i.e. 1 Shard Reward = 2 PE Points), which is consistent with the 40 PE Point cost of 20 Gauge Shards.
 
-The same reward will not be given twice in a row from the same vehicle (with the possible exception of the Legendary Part)
+The same reward will not be received consecutively (with the possible exception of the Legendary Part)
 
-Shards may also be available from various special events, but the main sources or Style Shards and Points are various chests.
+Shards may also be available from various special events, but the main sources or Style Shards and Points are from various chests.
 
-Some types are shards are more difficult to get, and they are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).
-The more rare, the fewer shards are received at a time.  For example, 10-20 Guage Shards vs only 1 Trail Shard.  Also the number of style rewards vary by shart type, e.g. each gauge shard provides one style reward, but a trail shard is provides 10.  More details below:
+Some types are shards are more rare than others, They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).
+The more rare, the fewer shards are received at a time.  For example, 10-20 Guage Shards vs only 1 Trail Shard.  Also the number of style rewards vary by shard rarity, Each gauge shard provides one style reward, but 2 per Epic(Tracks/Name), 4 per Legendary(Aura)  and 10 per Mythic(Trail).  More details below:
 
 Shard Type | Rarity | Range | Average | E[Style Reward] | # to Unlock | Points Req.  
 :—: | :—: | :—: | :—: | :—: | :—: | :—:  
@@ -54,7 +54,7 @@ Trail | Mythic | 1 | 1 | 10 | 30 | 750
 Points |  | 6-20 | 15 |  | Total: | 1670  
 
 
-Probabilities of receiving Style Points and Shards from he various chests are given by the game:
+Probabilities of receiving Style Points and Shards from the various chests are disclosed:
 
 Chest Type | Points | Shards: | Rare | Epic | Legendary | Mythic  
 :—: | :—: | :—: | :—: | :—: | :—: | :—:  
@@ -68,7 +68,7 @@ Mythic | 0% | 100% | 30% | 35% | 20% | 15%
 Style | 100% | 200% | 50% | 50% | 50% | 50%  
 
 
-From this we can estimate the number of shards,rewards and points from the various chests:   
+From this we can estimate the expected(E) number of shards, rewards and points from each of the various chests:   
 
 Chest Type | E[Style Points] | E[Style Reward] | E[Rare] | E[Epic] | E[Legendary] | E[Mythic]  
 :—: | :—: | :—: | :—: | :—: | :—: | :—:  
