@@ -68,7 +68,7 @@ Mythic | 0% | 100% | 30% | 35% | 20% | 15%
 Style | 100% | 200% | 50% | 50% | 50% | 50%  
 
 
-From this we can estimate the expected(E) number of shards, rewards and points from each of the various chests:   
+From this we can estimate the expected(E) number of shards, rewards and points from each of the chests:   
 
 Chest Type | E[Style Points] | E[Style Reward] | E[Rare] | E[Epic] | E[Legendary] | E[Mythic]  
 :—: | :—: | :—: | :—: | :—: | :—: | :—:  
