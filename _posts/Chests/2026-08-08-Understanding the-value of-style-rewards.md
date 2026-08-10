@@ -40,7 +40,7 @@ Shards may also be available from special events, but the main sources of Style 
 
 Some types are shards are more rare than others. They are split into four categories: Rare(Gauge), Epic(Tracks/Name), Legendary(Aura) and Mythic(Trail).  
 
-The more extreme the rarity, the fewer shards are received at a time.  For example, 10-20 Gauge Shards compared to  only 1 Trail Shard.  Also the number of style rewards vary by shard rarity, Each gauge shard provides one style reward, but two per Epic(Tracks/Name), four per Legendary(Aura) and ten per Mythic(Trail).  More details below:
+The more extreme the rarity, the fewer shards are received at a time.  For example, 10-20 Gauge Shards compared to only 1 Trail Shard.  Also the number of style rewards vary by shard rarity. Each gauge shard provides one style reward, but two per Epic(Tracks/Name), four per Legendary(Aura) and ten per Mythic(Trail).  More details below:
 
 Shard Type | Rarity | Range | Average | E[Style Reward] | # to Unlock | Points Req.  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
