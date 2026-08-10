@@ -28,7 +28,6 @@ Style Reward | Pe Points Cost
 Rare Chest | 40  
 5 Elite Parts | 50  
 1 Legendary | 100  
-:—: | :—:  
 Average | 66  
 Average/25 | 2.64  
 
