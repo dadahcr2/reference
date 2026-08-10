@@ -19,7 +19,7 @@ Shards provides style rewards. Every 25 earns one of five different prizes:
 
 In addition, when all five components of a style are unlocked via receiving the necessary shards and spending the required Style Points, a **Mythic Chest** is opened. 
 
-The five types of Prizes are received with equal likelihood. As similar items are available from the PE shop, we can assess their value in terms of PE Points. 
+The five types of prizes are received with equal likelihood. As similar items are available from the PE shop, we can assess their value in terms of PE Points. 
 
 Style Reward | Pe Points Cost  
 :--: | :--:  
