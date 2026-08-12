@@ -12,4 +12,4 @@ August | Event | Days
 5 | Team Points | 3  
 7 | Double XP | 3  
 11 | Single Points | 4
-14 | Single Spend Gems | 2  
+14 | Single Spend 💎 | 2  
