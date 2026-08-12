@@ -6,7 +6,7 @@ header:
 Update: Friday Spend Gems Event
 
 August | Social | Event | Days  
--- | -- | --  | --  
+:--: | :--: |  :--:  | :--:  
 1 | Single |  Winstreak | 2  
 3 |  - | Half Chest Time | 2  
 5 | Team | Points | 3  
