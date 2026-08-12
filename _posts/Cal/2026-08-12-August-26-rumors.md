@@ -5,11 +5,11 @@ header:
 ---  
 Update: Friday Spend Gems Event
 
-August | Event | Days  
+August | Social | Event | Days  
 -- | -- | --  
-1 | Single Winstreak | 2  
-3 | Half Chest Time | 2  
-5 | Team Points | 3  
-7 | Double XP | 3  
-11 | Single Points | 4
-14 | Single Spend 💎 | 2  
+1 | Single |  Winstreak | 2  
+3 |  | Half Chest Time | 2  
+5 | Team | Points | 3  
+7 |  | Double XP | 3  
+11 | Single | Points | 4
+14 | Single | Spend 💎 | 2  
