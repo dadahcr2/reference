@@ -1,6 +1,6 @@
 ---
 tag: TE
 header: 
-  teaser: https://i.ibb.co/j9jBYmVL/Image.jpg
+  teaser: https://i.ibb.co/LyPcw1K/Image.jpg
 ---
-![](https://i.ibb.co/j9jBYmVL/Image.jpg)
+![](https://i.ibb.co/LyPcw1K/Image.jpg)
