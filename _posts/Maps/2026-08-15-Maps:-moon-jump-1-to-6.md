@@ -1,5 +1,5 @@
 ---
-tag: maps
+tag: Maps
 header:
   teaser: https://i.ibb.co/hxZVZKtV/Image.jpg
 ---
