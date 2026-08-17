@@ -13,4 +13,5 @@ August | Social | Event | Days
 7 | -  | Double XP | 3  
 11 | Single | Points | 4  
 14 | Single | Spend 💎 | 2  
+17 |  - | ½ Chest Time | 2  
 21 | - | Double XP | 4  
