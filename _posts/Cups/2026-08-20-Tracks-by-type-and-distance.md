@@ -3,7 +3,7 @@ tag: Cups
 header: 
   teaser: https://images.cartoonstock.com/lowres_800/retail-hand_lotion-sweating_palms-sweaty_palms-hand_creams-clammy_hands-mban3714_low.jpg
 ---
-**Updated to add [Alphabetical List of Tracks](#alohabetical-list-of-tracks)**  
+**Updated to add [Alphabetical List of Tracks](#alphabetical-list-of-tracks)**  
 {: .notice}  
 
 Map Type | Tracks  
@@ -31,7 +31,7 @@ Map Type | Tracks
 Note: Distances are within 1m or so. Negative rows counted from the bottom. L=Left, M=Middle, R=Right. 
 {: .notice}
 
-## Alohabetical List of Tracks
+## Alphabetical List of Tracks
 
 **A Bridge Too Far** (Capital Cup 10R) 485m  
 **A Flat Miner** (Mine Shaft Cup 11M) 320m  
