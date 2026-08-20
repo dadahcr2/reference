@@ -3,7 +3,7 @@ tag: Cups
 header: 
   teaser: https://images.cartoonstock.com/lowres_800/retail-hand_lotion-sweating_palms-sweaty_palms-hand_creams-clammy_hands-mban3714_low.jpg
 ---
-**Updated to add Alphabetical List of Tracks**  
+**Updated to add [Alphabetical List of Tracks](#alohabetical-list-of-tracks)**  
 {: .notice}  
 
 Map Type | Tracks  
