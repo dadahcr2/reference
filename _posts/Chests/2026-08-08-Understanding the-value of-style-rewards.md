@@ -48,9 +48,9 @@ Gauge | Rare | 10-20 | 15 | 15 | 280 | 120
 Name | Epic | 4-5(95%), 8(5%) | 4.5 | 9 | 180 | 200  
 Tracks | Epic | 4-5(95%), 8(5%) | 4.5 | 9 | 180 | 200  
 Aura | Legendary | 2-3(95%), 4(5%) | 2.5 | 10 | 120 | 400  
-Trail | Mythic | 1 | 1 | 10 | 30 | 750  
+Trail | Mythic | 1(95%), 2(5%) | 1.05 | 10 | 30 | 750  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-Points |  | 6-20 | 15 |  | Total: | 1670  
+Points |  | 5-20 | 15 |  | Total: | 1670  
 
 
 Probabilities of receiving Style Points and Shards from the various chests are disclosed:
