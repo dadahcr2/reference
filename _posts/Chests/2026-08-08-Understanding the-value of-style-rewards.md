@@ -71,13 +71,13 @@ From this we can estimate the expected(E) number of shards, rewards and points f
 
 Chest Type | E[Style Points] | E[Style Reward] | E[Rare] | E[Epic] | E[Legendary] | E[Mythic]  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:  
-Common | 0 | 1.3 | 1.05 | 0.1125 | 0.01 | 0.001  
-Uncommon | 0.75 | 4.0 | 3.15 | 0.3375 | 0.03 | 0.003  
-Rare | 1.5 | 4.8 | 3 | 0.81 | 0.04 | 0.004  
-Epic | 3 | 8.1 | 4.2 | 1.26 | 0.2625 | 0.035  
-Champion | 15 | 11.9 | 6.75 | 1.8 | 0.25 | 0.05  
-Legendary | 15 | 11.7 | 6 | 1.575 | 0.375 | 0.1  
-Mythic | 0 | 11.2 | 4.5 | 1.575 | 0.5 | 0.15  
+Common | 0 | 1.3 | 1.05 | 0.1125 | 0.01 | 0.00105  
+Uncommon | 0.75 | 4.0 | 3.15 | 0.3375 | 0.03 | 0.00315  
+Rare | 1.5 | 4.8 | 3 | 0.81 | 0.04 | 0.0042  
+Epic | 3 | 8.1 | 4.2 | 1.26 | 0.2625 | 0.03675  
+Champion | 15 | 11.9 | 6.75 | 1.8 | 0.25 | 0.0525  
+Legendary | 15 | 11.7 | 6 | 1.575 | 0.375 | 0.105  
+Mythic | 0 | 11.2 | 4.5 | 1.575 | 0.5 | 0.1575  
 Style | 73.5 | 68.5 | 13.5 | 9 | 5.5 | 1.5  
 
 Of all the chests, Style chests are the best for Style Rewards by far.  However, it is interesting to note that although more Mythic(Trail) shards are earned per Mythic Chest than Legendary or Champion Chests, the order is reversed for Style Rewards. This is as a result of 10-20 Gauge Shards providing 15 Style Rewards on average, whereas 1 Trail Shard only gives 10 Style Rewards.
