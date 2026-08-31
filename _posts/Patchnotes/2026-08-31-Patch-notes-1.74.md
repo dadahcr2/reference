@@ -8,7 +8,7 @@ Rules end where Havoc begins… Our new Hill Climb Racing 2 update is rolling ou
 
 RELEASE NOTES:
 
-🔥 New Vehicle: HAVOC – A kart powered by an Experimental Rocket Booster. 
+🔥 New Vehicle: HAVOC – A kart powered by an Experimental Rocket Booster  
 🏆 Upcoming Mastery: Stocker  
 🔔 Notifications: Customize and control your notifications from settings  
 🛠️ Various bug fixes and improvements  
