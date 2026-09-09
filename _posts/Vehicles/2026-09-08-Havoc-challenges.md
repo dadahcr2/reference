@@ -25,3 +25,5 @@ I got 24.096s in Carppuccino. Check out how fast you can go: <https://playhcr.co
 I got 25.632s in Smooth Blend. Check out how fast you can go: <https://playhcr.com/challenge?id=8DN8BmZ>  
 
 I got 25.706s in Twisted Trees. Check out how fast you can go: <https://playhcr.com/challenge?id=V9pvnyp>  
+
+I got 19.788s in Snappy Swamps. Check out how fast you can go: <https://playhcr.com/challenge?id=dbl6b0Z>  
