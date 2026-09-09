@@ -4,7 +4,7 @@ header:
   teaser: https://github.com/dadahcr2/reference/blob/master/assets/images/icon-vehicle-rocketkart.png?raw=true
 ---
 
-I got 23.136s in Bill's Landing. Check out how fast you can go: https://playhcr.com/challenge?id=JbOVdZj  
+I got 23.136s in Bill's Landing. Check out how fast you can go: <https://playhcr.com/challenge?id=JbOVdZj>  
 I got 27.778s in Spartan Racing. Check out how fast you can go: https://playhcr.com/challenge?id=ym9aO6M  
 I got 27.778s in Spartan Racing. Check out how fast you can go: https://playhcr.com/challenge?id=ym9aO6M  
 I got 13.048s in Logging In. Check out how fast you can go: https://playhcr.com/challenge?id=4QJ4vnD  
