@@ -19,4 +19,21 @@ Chest | Legacy Order | New Order | Type
 **Note:** Assumes all vehicles owned except Havoc
 {: .notice}
 
+*With Havoc**
+
+Chest | Legacy Order | New Order | Type
+-- | -- | -- | --
+1️⃣ | Snowmobile, Tank, Chopper | Monster Truck, Formula, Racing Truck | Common
+2️⃣ | Tank, Bus, Hoverbike | Formula, Sports Car, **Bolt** | Uncommon
+3️⃣ | **Bolt**, Glider, Supercar | Motocross, Scooter, Rock Bouncer | Uncommon
+4️⃣ | Rally Car, Dune Buggy, Hoverbike | Tank, Supercar, **Bolt** | Rare
+5️⃣ | Hoverbike, **Offroader**, Tractor | Bolt, Snowmobile, Super Diesel | Rare
+6️⃣ | Bus, Mk2, Formula | Sports Car, Dune Buggy, CC-EV | Rare
+7️⃣ | Moonlander, **Bolt**, Dune Buggy | Hoverbike, Motocross, Supercar | Epic
+8️⃣ | Rock Bouncer, Dune Buggy, Super Diesel | Raider, Supercar, Hot Rod | Epic
+9️⃣ | Scooter, Jeep, Bus | Mk2, Jeep, Sports Car | Champion
+
+**Note:** Assumes all vehicles owned including Havoc
+{: .notice}
+
 ![{{page.header.teaser}} ]({{ page.header.teaser }})  
