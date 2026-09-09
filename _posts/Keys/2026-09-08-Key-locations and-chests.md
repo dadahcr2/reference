@@ -19,7 +19,7 @@ Chest | Legacy Order | New Order | Type
 **Note:** Assumes all vehicles owned except Havoc
 {: .notice}
 
-*With Havoc**
+**With Havoc**
 
 Chest | Legacy Order | New Order | Type
 -- | -- | -- | --
