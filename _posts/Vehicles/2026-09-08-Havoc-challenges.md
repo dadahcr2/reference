@@ -26,4 +26,4 @@ I got 17.153s in Get Soaked. Check out how fast you can go: <https://playhcr.com
 
 I got 17.400s in Downtown Madness. Check out how fast you can go: <https://playhcr.com/challenge?id=qvj32ay>  
 
-I reached 6 751m in Desert Valley. Check out how far you can go: https://playhcr.com/challenge?id=2q0VQqM  
+I reached 6 751m in Desert Valley. Check out how far you can go: <https://playhcr.com/challenge?id=2q0VQqM>  
