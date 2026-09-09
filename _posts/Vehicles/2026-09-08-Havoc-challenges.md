@@ -3,7 +3,7 @@ tag: Vehicles
 header:
   teaser: https://github.com/dadahcr2/reference/blob/master/assets/images/icon-vehicle-rocketkart.png?raw=true
 ---
-**Keep the button down for the Rocket Boost**
+**Keep the button down for the Rocket Boost**  
 
 
 I got 23.136s in Bill's Landing. Check out how fast you can go: <https://playhcr.com/challenge?id=JbOVdZj>  
