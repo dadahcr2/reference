@@ -233,6 +233,10 @@ Level | Min 💰 | Min 💎 | Chest Parts
 3 | 6750 | 6 | **Rare** (at least 45 common and 6 rare parts)
 
 
+#### More Info  
+
+<https://reference.hcr2info.com/tags/#chests>  
+
  
 #### Data
 
