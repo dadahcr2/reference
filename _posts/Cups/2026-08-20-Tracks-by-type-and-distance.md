@@ -1,6 +1,6 @@
 ---
 toc: true
-toc_sticky: true
+toc_sticky: false
 tag: Cups
 header: 
   teaser: https://images.cartoonstock.com/lowres_800/retail-hand_lotion-sweating_palms-sweaty_palms-hand_creams-clammy_hands-mban3714_low.jpg
