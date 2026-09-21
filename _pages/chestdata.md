@@ -1,6 +1,7 @@
 ---
 permalink: /chestdata/
 title: "Chest Data"
+tag: Chests
 classes: wide
 ---
 
