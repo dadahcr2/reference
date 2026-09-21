@@ -1,6 +1,7 @@
 ---
 permalink: /picons/  
 title: "Parts Icons"  
+tag: Icon  
 classes: wide  
 gallery:  
  - image_path: assets/images/aircontrol.png
