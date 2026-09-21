@@ -8,6 +8,9 @@ header:
 **Updated to add [Alphabetical List of Tracks](#alphabetical-list-of-tracks)**  
 {: .notice}  
 
+
+## By Type and Distance
+
 Map Type | Tracks  
 :--: | :--  
 **Beach** | **`320m`:** **Seaside** (Beach Cup 4R) , **`335m`:** **Tide Waves** (Finger Travels -6M) , **`340m`:** **The Big Dunes** (Sand in Swimsuit 12L) , **`350m`:** **The Dunes** (Beach Cup 4R) ,  **Sandbox** (Finger Travels -6M) ,  **Canyon Getaway** (Sweaty Palms Cup 8M) , **`360m`:** **Sand in Swimsuit** (12L) , **`370m`:** **Kids' pool** (Finger Travels -6M) ,  **Tunnel Dive** (Sand in Swimsuit 12L) , **`380m`:** **Beach Boys** (Beach Cup 4R) , **`390m`:** **Jet Boost Holidays** (Sweaty Palms Cup 8M) , **`410m`:** **Coconut Cove** (Travel Cup -7L) , **`425m`:** **Racepalm** (Sweaty Palms Cup 8M) , **`1000m`:** **Paradise Bay** (-5M) 
@@ -33,7 +36,7 @@ Map Type | Tracks
 Note: Distances are within 1m or so. Negative rows counted from the bottom. L=Left, M=Middle, R=Right. 
 {: .notice}
 
-## Alphabetical List of Tracks
+## Alphabetical List
 
 Letter | Tracks  
 --  | --
