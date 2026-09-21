@@ -9,7 +9,7 @@ header:
 {: .notice}  
 
 
-## By Type and Distance
+## Type and Distance
 
 Map Type | Tracks  
 :--: | :--  
