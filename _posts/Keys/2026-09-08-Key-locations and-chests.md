@@ -21,17 +21,27 @@ Chest | Legacy Order | New Order | Type
 
 **With Havoc**
 
-Chest | Legacy Order | New Order | Type
--- | -- | -- | --
-1️⃣ | Snowmobile, Tank, Chopper | Monster Truck, Formula, Racing Truck | Common
-2️⃣ | Tank, Bus, Hoverbike | Formula, Sports Car, **Bolt** | Uncommon
-3️⃣ | **Bolt**, Glider, Supercar | Motocross, Scooter, Rock Bouncer | Uncommon
-4️⃣ | Rally Car, Dune Buggy, Hoverbike | Tank, Supercar, **Bolt** | Rare
-5️⃣ | Hoverbike, **Offroader**, Tractor | Bolt, Snowmobile, Super Diesel | Rare
-6️⃣ | Bus, Mk2, Formula | Sports Car, Dune Buggy, CC-EV | Rare
-7️⃣ | Moonlander, **Bolt**, Dune Buggy | Hoverbike, Motocross, Supercar | Epic
-8️⃣ | Rock Bouncer, Dune Buggy, Super Diesel | Raider, Supercar, Hot Rod | Epic
-9️⃣ | Scooter, Jeep, Bus | Mk2, Jeep, Sports Car | Champion
+According to Pilot: 
+“Just earned havoc.
+What I'm seeing for sep troves
+Old
+Lv2: monster, hover, bolt
+Lv3: tractor, supercar, monster
+Lv4: monster, lowrider, ccev
+Lv5: chopper, lowrider, offroader
+Lv6: SD, rockbouncer, hover 
+Lv7: bolt, supercar, formula
+Lv8: ccev, monster, lowrider
+Lv9: chopper, offroader, scooter
+New
+Lv2: lowrider, bolt, mx
+Lv3: SD, rockbouncer, lowrider
+Lv4: lowrider, muscle, bus
+Lv5: truck, muscle, snow
+Lv6: HR, raider, bolt
+Lv7: MX, rock, ccev 
+Lv8: bus, lowrider, muscle
+Lv9: truck, snow, mk2”
 
 **Note:** Assumes all vehicles owned including Havoc
 {: .notice}
