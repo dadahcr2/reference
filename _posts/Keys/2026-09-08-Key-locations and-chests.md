@@ -23,25 +23,25 @@ Chest | Legacy Order | New Order | Type
 
 According to Pilot: 
 “Just earned havoc.
-What I'm seeing for sep troves
-Old
-Lv2: monster, hover, bolt
-Lv3: tractor, supercar, monster
-Lv4: monster, lowrider, ccev
-Lv5: chopper, lowrider, offroader
-Lv6: SD, rockbouncer, hover 
-Lv7: bolt, supercar, formula
-Lv8: ccev, monster, lowrider
-Lv9: chopper, offroader, scooter
+What I'm seeing for sep troves  
+Old  
+Lv2: monster, hover, bolt  
+Lv3: tractor, supercar, monster  
+Lv4: monster, lowrider, ccev  
+Lv5: chopper, lowrider, offroader  
+Lv6: SD, rockbouncer, hover   
+Lv7: bolt, supercar, formula  
+Lv8: ccev, monster, lowrider  
+Lv9: chopper, offroader, scooter  
 New
-Lv2: lowrider, bolt, mx
-Lv3: SD, rockbouncer, lowrider
-Lv4: lowrider, muscle, bus
-Lv5: truck, muscle, snow
-Lv6: HR, raider, bolt
-Lv7: MX, rock, ccev 
-Lv8: bus, lowrider, muscle
-Lv9: truck, snow, mk2”
+Lv2: lowrider, bolt, mx  
+Lv3: SD, rockbouncer, lowrider  
+Lv4: lowrider, muscle, bus  
+Lv5: truck, muscle, snow  
+Lv6: HR, raider, bolt  
+Lv7: MX, rock, ccev  
+Lv8: bus, lowrider, muscle  
+Lv9: truck, snow, mk2”  
 
 **Note:** Assumes all vehicles owned including Havoc
 {: .notice}
