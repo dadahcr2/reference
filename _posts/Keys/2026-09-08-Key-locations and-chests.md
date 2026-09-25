@@ -24,6 +24,7 @@ Chest | Legacy Order | New Order | Type
 According to Pilot: 
 “Just earned havoc.
 What I'm seeing for sep troves  
+  
 Old  
 Lv2: monster, hover, bolt  
 Lv3: tractor, supercar, monster  
@@ -33,7 +34,8 @@ Lv6: SD, rockbouncer, hover
 Lv7: bolt, supercar, formula  
 Lv8: ccev, monster, lowrider  
 Lv9: chopper, offroader, scooter  
-New
+  
+New  
 Lv2: lowrider, bolt, mx  
 Lv3: SD, rockbouncer, lowrider  
 Lv4: lowrider, muscle, bus  
