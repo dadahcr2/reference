@@ -1,0 +1,15 @@
+---
+tag: Top10
+header:
+  teaser: https://i.ibb.co/21xY8pVS/IMG-6121.jpg
+---
+# Season 65 Ranks - Some Historical Observations
+- EMPIRE remains in command with NORTH clearly next
+
+I thought I would point out a few season statistics:
+- Most Season wins: **Discord** (12)
+- Most Season Podiums: **NORTH** (42)
+- Most Season Top 10 placings: **Project GER** (62)
+
+
+![](https://i.ibb.co/21xY8pVS/IMG-6121.jpg)
