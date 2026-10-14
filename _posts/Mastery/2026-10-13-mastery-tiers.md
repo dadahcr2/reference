@@ -5,7 +5,8 @@ header:
 ---
 **Stocker → "C"**    
  
-![](https://i.ibb.co/RpznWSK6/IMG-6127.jpg}  
+![](https://i.ibb.co/RpznWSK6/IMG-6127.jpg)  
+
 *Source: Titanium Gaming HCR2* 
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
