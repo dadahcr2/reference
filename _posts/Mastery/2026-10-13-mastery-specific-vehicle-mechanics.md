@@ -1,7 +1,7 @@
 ---
 tag: Mastery
 header:
-  teaser: /assets/images/icon-vehicle-offroad.png
+  teaser: /assets/images/icon-vehicle-stocker.png
 ---
 
 Vehicle | Specific Vehicle  
@@ -160,8 +160,8 @@ Vehicle | Specific Vehicle
 [ATV2]: /assets/images/icon-vehicle-atv.png
 {: height="40px" width="64px"}
 
-[OR2]: /assets/images/icon-vehicle-stocker.png
+[OR2]: /assets/images/icon-vehicle-offroad.png
 {: height="40px" width="64px"}
 
-[Stocker2]: /assets/images/icon-vehicle-offroad.png
+[Stocker2]: /assets/images/icon-vehicle-stocker.png
 {: height="40px" width="64px"}
