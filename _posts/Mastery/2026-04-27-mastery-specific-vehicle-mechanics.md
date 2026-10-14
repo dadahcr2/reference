@@ -6,7 +6,8 @@ header:
 
 Vehicle | Specific Vehicle  
 -- | --  
-![OR2] | Drive on water and activate C.A.M.  
+[Stocker2]  |  Activate Boost
+![OR2] | Drive on water and activate C.A.M.  o
 ![ATV2] | Launch the hook
 ![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
@@ -159,6 +160,8 @@ Vehicle | Specific Vehicle
 [ATV2]: /assets/images/icon-vehicle-atv.png
 {: height="40px" width="64px"}
 
-[OR2]: /assets/images/icon-vehicle-offroad.png
+[OR2]: /assets/images/icon-vehicle-stocker.png
 {: height="40px" width="64px"}
 
+[Stocker2]: /assets/images/icon-vehicle-offroad.png
+{: height="40px" width="64px"}
