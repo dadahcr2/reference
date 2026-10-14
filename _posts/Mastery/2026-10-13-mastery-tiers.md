@@ -1,11 +1,11 @@
 ---
 tag: Mastery
 header:
-  teaser: https://i.ibb.co/vvXt46mM/IMG-3795.jpg
+  teaser: https://i.ibb.co/RpznWSK6/IMG-6127.jpg
 ---
-**Offroader → "A"** (Bolt too)  
+**Stocker → "C"**    
  
-![](https://i.ibb.co/vvXt46mM/IMG-3795.jpg)  
+![](https://i.ibb.co/RpznWSK6/IMG-6127.jpg}  
 *Source: Titanium Gaming HCR2* 
 
 [Jeep2]: /assets/images/icon-vehicle-jeep.png
