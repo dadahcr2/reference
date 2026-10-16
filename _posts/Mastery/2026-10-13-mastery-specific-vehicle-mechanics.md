@@ -7,7 +7,7 @@ header:
 Vehicle | Specific Vehicle  
 -- | --  
 ![Stocker2]  |  Activate Boost
-![OR2] | Drive on water and activate C.A.M.  o
+![OR2] | Drive on water and activate C.A.M.  
 ![ATV2] | Launch the hook
 ![Bolt2] | Activate Boost  
 ![Glider2] | Use the propeller!  
