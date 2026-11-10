@@ -30,7 +30,8 @@ Champion (24h) | 54150 (46000-64000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) 
 Legendary | 27500 (22500-34000) |  124 (113-135) | 5 (0-29) | 13.5 (12-15) | 3 (3) | 0.4 (2)  |  
 Mythic | 33500 (27000-40000) |  | 7 (6-8) | 18 (18) | 4.5 (3-6) | 2 (2)  |  
 Free/Video | 1432.5 (1125-4500) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) |  |  1.66 (1-3)
-VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) |  |  60 (60)  
+VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) |  |  60 (60) 
+10Y Bonus | 14000 | 10 | 10 | 10 | 1 | | 10 
 
 > \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
