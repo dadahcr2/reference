@@ -6,7 +6,7 @@ header:
   teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80lugZGjndTKNCHpPWPWCgbHdhSDWPy0HR2ufXfs-d-8CreJwra53WD4&s=10
 
 ---
-[Alphabetical List of Tracks](#alphabetical-list-of-tracks)**  
+Added: **The Deep Caverns Cup**
 {: .notice}  
 
 
